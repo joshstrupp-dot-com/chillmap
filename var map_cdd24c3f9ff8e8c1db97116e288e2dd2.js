@@ -154,7 +154,7 @@ geo_json_45e02096069c8e9b54e520f8292ed4bf_add({
 
 geo_json_45e02096069c8e9b54e520f8292ed4bf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 0<br>311 Complaints 40<br>Benches: 0<br>Gardens: 0<br>Trees: 928<br>Greenstreets: 0<br>Chill Score: 8.879999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 0<br>311 Complaints: 40<br>Benches: 0<br>Gardens: 0<br>Trees: 928<br>Greenstreets: 0<br>Chill Score: 8.879999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -245,7 +245,7 @@ geo_json_e03cb5dd84dd0135b5350ba804f4d15a_add({
 
 geo_json_e03cb5dd84dd0135b5350ba804f4d15a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1<br>311 Complaints 92<br>Benches: 0<br>Gardens: 0<br>Trees: 1468<br>Greenstreets: 0<br>Chill Score: 13.76<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1<br>311 Complaints: 92<br>Benches: 0<br>Gardens: 0<br>Trees: 1468<br>Greenstreets: 0<br>Chill Score: 13.76<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -336,7 +336,7 @@ geo_json_67a13b67c5dde653e3089a46c696e723_add({
 
 geo_json_67a13b67c5dde653e3089a46c696e723.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2<br>311 Complaints 5<br>Benches: 0<br>Gardens: 0<br>Trees: 130<br>Greenstreets: 0<br>Chill Score: 1.25<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2<br>311 Complaints: 5<br>Benches: 0<br>Gardens: 0<br>Trees: 130<br>Greenstreets: 0<br>Chill Score: 1.25<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -427,7 +427,7 @@ geo_json_a4d2b1c8d6f3d23c05516d2c6b6bb321_add({
 
 geo_json_a4d2b1c8d6f3d23c05516d2c6b6bb321.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 3<br>Greenstreets: 0<br>Chill Score: 0.03<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 3<br>Greenstreets: 0<br>Chill Score: 0.03<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -518,7 +518,7 @@ geo_json_58859edb7c12521f60c9cf19b2b3e9ed_add({
 
 geo_json_58859edb7c12521f60c9cf19b2b3e9ed.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 59<br>311 Complaints 83<br>Benches: 0<br>Gardens: 0<br>Trees: 970<br>Greenstreets: 1<br>Chill Score: 9.370000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 59<br>311 Complaints: 83<br>Benches: 0<br>Gardens: 0<br>Trees: 970<br>Greenstreets: 1<br>Chill Score: 9.370000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -609,7 +609,7 @@ geo_json_d2f68a8ffc1cee87a1ab2d3cd428359d_add({
 
 geo_json_d2f68a8ffc1cee87a1ab2d3cd428359d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 60<br>311 Complaints 60<br>Benches: 1<br>Gardens: 0<br>Trees: 728<br>Greenstreets: 0<br>Chill Score: 6.69<br></div>
+                     <div style="font-family: monospace;">Grid ID: 60<br>311 Complaints: 60<br>Benches: 1<br>Gardens: 0<br>Trees: 728<br>Greenstreets: 0<br>Chill Score: 6.69<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -700,7 +700,7 @@ geo_json_abae580d6897f3393aa9afaf197bde99_add({
 
 geo_json_abae580d6897f3393aa9afaf197bde99.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 61<br>311 Complaints 55<br>Benches: 0<br>Gardens: 0<br>Trees: 514<br>Greenstreets: 0<br>Chill Score: 4.59<br></div>
+                     <div style="font-family: monospace;">Grid ID: 61<br>311 Complaints: 55<br>Benches: 0<br>Gardens: 0<br>Trees: 514<br>Greenstreets: 0<br>Chill Score: 4.59<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -791,7 +791,7 @@ geo_json_4be0d0e11e6a06a368b46f3e540c6dd1_add({
 
 geo_json_4be0d0e11e6a06a368b46f3e540c6dd1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 62<br>311 Complaints 12<br>Benches: 0<br>Gardens: 0<br>Trees: 97<br>Greenstreets: 0<br>Chill Score: 0.85<br></div>
+                     <div style="font-family: monospace;">Grid ID: 62<br>311 Complaints: 12<br>Benches: 0<br>Gardens: 0<br>Trees: 97<br>Greenstreets: 0<br>Chill Score: 0.85<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -882,7 +882,7 @@ geo_json_5bec8b678c2c4fef1d7780db720cad23_add({
 
 geo_json_5bec8b678c2c4fef1d7780db720cad23.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 63<br>311 Complaints 4<br>Benches: 0<br>Gardens: 0<br>Trees: 29<br>Greenstreets: 0<br>Chill Score: 0.24999999999999997<br></div>
+                     <div style="font-family: monospace;">Grid ID: 63<br>311 Complaints: 4<br>Benches: 0<br>Gardens: 0<br>Trees: 29<br>Greenstreets: 0<br>Chill Score: 0.24999999999999997<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -973,7 +973,7 @@ geo_json_e067a1723b4b047d7054d3cf10c53c84_add({
 
 geo_json_e067a1723b4b047d7054d3cf10c53c84.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 64<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 64<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -1064,7 +1064,7 @@ geo_json_b76cc993c5be3a3aab2c37dc7a375eb0_add({
 
 geo_json_b76cc993c5be3a3aab2c37dc7a375eb0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 118<br>311 Complaints 18<br>Benches: 0<br>Gardens: 0<br>Trees: 52<br>Greenstreets: 0<br>Chill Score: 0.34<br></div>
+                     <div style="font-family: monospace;">Grid ID: 118<br>311 Complaints: 18<br>Benches: 0<br>Gardens: 0<br>Trees: 52<br>Greenstreets: 0<br>Chill Score: 0.34<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -1155,7 +1155,7 @@ geo_json_311291d1fff4a5d327b7d563166594ea_add({
 
 geo_json_311291d1fff4a5d327b7d563166594ea.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 119<br>311 Complaints 67<br>Benches: 0<br>Gardens: 0<br>Trees: 716<br>Greenstreets: 0<br>Chill Score: 6.49<br></div>
+                     <div style="font-family: monospace;">Grid ID: 119<br>311 Complaints: 67<br>Benches: 0<br>Gardens: 0<br>Trees: 716<br>Greenstreets: 0<br>Chill Score: 6.49<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -1246,7 +1246,7 @@ geo_json_7e6b2a1c6231ee1ebeef75ea6b58c3bf_add({
 
 geo_json_7e6b2a1c6231ee1ebeef75ea6b58c3bf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 120<br>311 Complaints 28<br>Benches: 0<br>Gardens: 0<br>Trees: 87<br>Greenstreets: 2<br>Chill Score: 1.5899999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 120<br>311 Complaints: 28<br>Benches: 0<br>Gardens: 0<br>Trees: 87<br>Greenstreets: 2<br>Chill Score: 1.5899999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -1337,7 +1337,7 @@ geo_json_1ed9e3bd249acc3a555341f595420561_add({
 
 geo_json_1ed9e3bd249acc3a555341f595420561.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 121<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 3<br>Greenstreets: 0<br>Chill Score: 0.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 121<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 3<br>Greenstreets: 0<br>Chill Score: 0.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -1428,7 +1428,7 @@ geo_json_9b7157f9e9b8a2fd0c72d11122fb014e_add({
 
 geo_json_9b7157f9e9b8a2fd0c72d11122fb014e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 122<br>311 Complaints 25<br>Benches: 0<br>Gardens: 0<br>Trees: 392<br>Greenstreets: 0<br>Chill Score: 3.67<br></div>
+                     <div style="font-family: monospace;">Grid ID: 122<br>311 Complaints: 25<br>Benches: 0<br>Gardens: 0<br>Trees: 392<br>Greenstreets: 0<br>Chill Score: 3.67<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -1519,7 +1519,7 @@ geo_json_f1a5a1004cec948aff2864e660505c4a_add({
 
 geo_json_f1a5a1004cec948aff2864e660505c4a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 123<br>311 Complaints 38<br>Benches: 0<br>Gardens: 0<br>Trees: 604<br>Greenstreets: 0<br>Chill Score: 5.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 123<br>311 Complaints: 38<br>Benches: 0<br>Gardens: 0<br>Trees: 604<br>Greenstreets: 0<br>Chill Score: 5.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -1610,7 +1610,7 @@ geo_json_8825b82acb81e754ad1c94060b327f91_add({
 
 geo_json_8825b82acb81e754ad1c94060b327f91.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 124<br>311 Complaints 31<br>Benches: 0<br>Gardens: 0<br>Trees: 521<br>Greenstreets: 0<br>Chill Score: 4.9<br></div>
+                     <div style="font-family: monospace;">Grid ID: 124<br>311 Complaints: 31<br>Benches: 0<br>Gardens: 0<br>Trees: 521<br>Greenstreets: 0<br>Chill Score: 4.9<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -1701,7 +1701,7 @@ geo_json_3ce1569d4c71c57cdd334f79f3f7043a_add({
 
 geo_json_3ce1569d4c71c57cdd334f79f3f7043a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 125<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 7<br>Greenstreets: 0<br>Chill Score: 0.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 125<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 7<br>Greenstreets: 0<br>Chill Score: 0.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -1792,7 +1792,7 @@ geo_json_c93489a35abd764b53e0652d1ffd4da7_add({
 
 geo_json_c93489a35abd764b53e0652d1ffd4da7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 178<br>311 Complaints 18<br>Benches: 0<br>Gardens: 0<br>Trees: 98<br>Greenstreets: 0<br>Chill Score: 0.8<br></div>
+                     <div style="font-family: monospace;">Grid ID: 178<br>311 Complaints: 18<br>Benches: 0<br>Gardens: 0<br>Trees: 98<br>Greenstreets: 0<br>Chill Score: 0.8<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -1883,7 +1883,7 @@ geo_json_5ef83869d1b4d77dd108bb202da4be36_add({
 
 geo_json_5ef83869d1b4d77dd108bb202da4be36.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 179<br>311 Complaints 21<br>Benches: 0<br>Gardens: 0<br>Trees: 339<br>Greenstreets: 7<br>Chill Score: 6.68<br></div>
+                     <div style="font-family: monospace;">Grid ID: 179<br>311 Complaints: 21<br>Benches: 0<br>Gardens: 0<br>Trees: 339<br>Greenstreets: 7<br>Chill Score: 6.68<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -1974,7 +1974,7 @@ geo_json_c6348f478621b22fef358d8eb8732ec0_add({
 
 geo_json_c6348f478621b22fef358d8eb8732ec0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 180<br>311 Complaints 17<br>Benches: 0<br>Gardens: 0<br>Trees: 391<br>Greenstreets: 0<br>Chill Score: 3.74<br></div>
+                     <div style="font-family: monospace;">Grid ID: 180<br>311 Complaints: 17<br>Benches: 0<br>Gardens: 0<br>Trees: 391<br>Greenstreets: 0<br>Chill Score: 3.74<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -2065,7 +2065,7 @@ geo_json_33c7a10f0075c2e3a9415e37412f8f8b_add({
 
 geo_json_33c7a10f0075c2e3a9415e37412f8f8b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 181<br>311 Complaints 40<br>Benches: 0<br>Gardens: 0<br>Trees: 548<br>Greenstreets: 0<br>Chill Score: 5.08<br></div>
+                     <div style="font-family: monospace;">Grid ID: 181<br>311 Complaints: 40<br>Benches: 0<br>Gardens: 0<br>Trees: 548<br>Greenstreets: 0<br>Chill Score: 5.08<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -2156,7 +2156,7 @@ geo_json_97763f624ae436ec5d94d6a7245b948d_add({
 
 geo_json_97763f624ae436ec5d94d6a7245b948d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 182<br>311 Complaints 27<br>Benches: 0<br>Gardens: 0<br>Trees: 438<br>Greenstreets: 0<br>Chill Score: 4.109999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 182<br>311 Complaints: 27<br>Benches: 0<br>Gardens: 0<br>Trees: 438<br>Greenstreets: 0<br>Chill Score: 4.109999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -2247,7 +2247,7 @@ geo_json_cf9c07e9c40e4ec3969323dbae2b1ceb_add({
 
 geo_json_cf9c07e9c40e4ec3969323dbae2b1ceb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 183<br>311 Complaints 12<br>Benches: 0<br>Gardens: 0<br>Trees: 96<br>Greenstreets: 0<br>Chill Score: 0.84<br></div>
+                     <div style="font-family: monospace;">Grid ID: 183<br>311 Complaints: 12<br>Benches: 0<br>Gardens: 0<br>Trees: 96<br>Greenstreets: 0<br>Chill Score: 0.84<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -2338,7 +2338,7 @@ geo_json_8b0f6174a545551b26d4728dc5fc612e_add({
 
 geo_json_8b0f6174a545551b26d4728dc5fc612e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 184<br>311 Complaints 44<br>Benches: 0<br>Gardens: 0<br>Trees: 279<br>Greenstreets: 0<br>Chill Score: 2.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 184<br>311 Complaints: 44<br>Benches: 0<br>Gardens: 0<br>Trees: 279<br>Greenstreets: 0<br>Chill Score: 2.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -2429,7 +2429,7 @@ geo_json_890c1058ba0f19e0f53ffff2a774865a_add({
 
 geo_json_890c1058ba0f19e0f53ffff2a774865a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 185<br>311 Complaints 34<br>Benches: 0<br>Gardens: 0<br>Trees: 218<br>Greenstreets: 0<br>Chill Score: 1.84<br></div>
+                     <div style="font-family: monospace;">Grid ID: 185<br>311 Complaints: 34<br>Benches: 0<br>Gardens: 0<br>Trees: 218<br>Greenstreets: 0<br>Chill Score: 1.84<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -2520,7 +2520,7 @@ geo_json_8433e4d9d7b803ca03d28ae54076336d_add({
 
 geo_json_8433e4d9d7b803ca03d28ae54076336d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 186<br>311 Complaints 6<br>Benches: 0<br>Gardens: 0<br>Trees: 122<br>Greenstreets: 0<br>Chill Score: 1.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 186<br>311 Complaints: 6<br>Benches: 0<br>Gardens: 0<br>Trees: 122<br>Greenstreets: 0<br>Chill Score: 1.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -2611,7 +2611,7 @@ geo_json_4bb7a33e1c936fafe56c872d5fd36b0d_add({
 
 geo_json_4bb7a33e1c936fafe56c872d5fd36b0d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 237<br>311 Complaints 13<br>Benches: 0<br>Gardens: 0<br>Trees: 144<br>Greenstreets: 0<br>Chill Score: 1.31<br></div>
+                     <div style="font-family: monospace;">Grid ID: 237<br>311 Complaints: 13<br>Benches: 0<br>Gardens: 0<br>Trees: 144<br>Greenstreets: 0<br>Chill Score: 1.31<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -2702,7 +2702,7 @@ geo_json_4b5692b41d3d3a7540a0696fd7978714_add({
 
 geo_json_4b5692b41d3d3a7540a0696fd7978714.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 238<br>311 Complaints 4<br>Benches: 0<br>Gardens: 0<br>Trees: 291<br>Greenstreets: 2<br>Chill Score: 3.87<br></div>
+                     <div style="font-family: monospace;">Grid ID: 238<br>311 Complaints: 4<br>Benches: 0<br>Gardens: 0<br>Trees: 291<br>Greenstreets: 2<br>Chill Score: 3.87<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -2793,7 +2793,7 @@ geo_json_e6f351095eb9697e9312effdc352b5e8_add({
 
 geo_json_e6f351095eb9697e9312effdc352b5e8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 239<br>311 Complaints 45<br>Benches: 0<br>Gardens: 0<br>Trees: 496<br>Greenstreets: 2<br>Chill Score: 5.51<br></div>
+                     <div style="font-family: monospace;">Grid ID: 239<br>311 Complaints: 45<br>Benches: 0<br>Gardens: 0<br>Trees: 496<br>Greenstreets: 2<br>Chill Score: 5.51<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -2884,7 +2884,7 @@ geo_json_67a1e78e0f221d2bab3222b07152be68_add({
 
 geo_json_67a1e78e0f221d2bab3222b07152be68.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 240<br>311 Complaints 24<br>Benches: 0<br>Gardens: 0<br>Trees: 385<br>Greenstreets: 0<br>Chill Score: 3.6100000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 240<br>311 Complaints: 24<br>Benches: 0<br>Gardens: 0<br>Trees: 385<br>Greenstreets: 0<br>Chill Score: 3.6100000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -2975,7 +2975,7 @@ geo_json_acf50efd5fe5d18427d3e88188525b04_add({
 
 geo_json_acf50efd5fe5d18427d3e88188525b04.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 241<br>311 Complaints 56<br>Benches: 0<br>Gardens: 0<br>Trees: 1164<br>Greenstreets: 1<br>Chill Score: 11.58<br></div>
+                     <div style="font-family: monospace;">Grid ID: 241<br>311 Complaints: 56<br>Benches: 0<br>Gardens: 0<br>Trees: 1164<br>Greenstreets: 1<br>Chill Score: 11.58<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -3066,7 +3066,7 @@ geo_json_db111e9b2591e177edc6d67f91c33cfa_add({
 
 geo_json_db111e9b2591e177edc6d67f91c33cfa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 242<br>311 Complaints 51<br>Benches: 2<br>Gardens: 0<br>Trees: 781<br>Greenstreets: 2<br>Chill Score: 8.32<br></div>
+                     <div style="font-family: monospace;">Grid ID: 242<br>311 Complaints: 51<br>Benches: 2<br>Gardens: 0<br>Trees: 781<br>Greenstreets: 2<br>Chill Score: 8.32<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -3157,7 +3157,7 @@ geo_json_9fd8b0c545c8b43a317cd9503b4adf2f_add({
 
 geo_json_9fd8b0c545c8b43a317cd9503b4adf2f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 243<br>311 Complaints 25<br>Benches: 0<br>Gardens: 0<br>Trees: 306<br>Greenstreets: 0<br>Chill Score: 2.81<br></div>
+                     <div style="font-family: monospace;">Grid ID: 243<br>311 Complaints: 25<br>Benches: 0<br>Gardens: 0<br>Trees: 306<br>Greenstreets: 0<br>Chill Score: 2.81<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -3248,7 +3248,7 @@ geo_json_9688748dbd87e34796429fff60df89b3_add({
 
 geo_json_9688748dbd87e34796429fff60df89b3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 244<br>311 Complaints 19<br>Benches: 0<br>Gardens: 0<br>Trees: 398<br>Greenstreets: 0<br>Chill Score: 3.79<br></div>
+                     <div style="font-family: monospace;">Grid ID: 244<br>311 Complaints: 19<br>Benches: 0<br>Gardens: 0<br>Trees: 398<br>Greenstreets: 0<br>Chill Score: 3.79<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -3339,7 +3339,7 @@ geo_json_409a5276e6596608775db72a6d0df06b_add({
 
 geo_json_409a5276e6596608775db72a6d0df06b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 245<br>311 Complaints 79<br>Benches: 0<br>Gardens: 0<br>Trees: 1540<br>Greenstreets: 0<br>Chill Score: 14.61<br></div>
+                     <div style="font-family: monospace;">Grid ID: 245<br>311 Complaints: 79<br>Benches: 0<br>Gardens: 0<br>Trees: 1540<br>Greenstreets: 0<br>Chill Score: 14.61<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -3430,7 +3430,7 @@ geo_json_bc42d87b3695b4425dfdc5b5558112a3_add({
 
 geo_json_bc42d87b3695b4425dfdc5b5558112a3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 246<br>311 Complaints 34<br>Benches: 0<br>Gardens: 0<br>Trees: 525<br>Greenstreets: 0<br>Chill Score: 4.91<br></div>
+                     <div style="font-family: monospace;">Grid ID: 246<br>311 Complaints: 34<br>Benches: 0<br>Gardens: 0<br>Trees: 525<br>Greenstreets: 0<br>Chill Score: 4.91<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -3521,7 +3521,7 @@ geo_json_8a167c7f3a2fdc0261f0ebed1fb47b38_add({
 
 geo_json_8a167c7f3a2fdc0261f0ebed1fb47b38.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 296<br>311 Complaints 7<br>Benches: 0<br>Gardens: 0<br>Trees: 57<br>Greenstreets: 0<br>Chill Score: 0.5<br></div>
+                     <div style="font-family: monospace;">Grid ID: 296<br>311 Complaints: 7<br>Benches: 0<br>Gardens: 0<br>Trees: 57<br>Greenstreets: 0<br>Chill Score: 0.5<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -3612,7 +3612,7 @@ geo_json_29f98925d6897f039fb61aaafb166f0e_add({
 
 geo_json_29f98925d6897f039fb61aaafb166f0e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 297<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 49<br>Greenstreets: 0<br>Chill Score: 0.45999999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 297<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 49<br>Greenstreets: 0<br>Chill Score: 0.45999999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -3703,7 +3703,7 @@ geo_json_47e5b35ff6b66a4c11e233f5a709737b_add({
 
 geo_json_47e5b35ff6b66a4c11e233f5a709737b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 298<br>311 Complaints 59<br>Benches: 0<br>Gardens: 0<br>Trees: 538<br>Greenstreets: 0<br>Chill Score: 4.79<br></div>
+                     <div style="font-family: monospace;">Grid ID: 298<br>311 Complaints: 59<br>Benches: 0<br>Gardens: 0<br>Trees: 538<br>Greenstreets: 0<br>Chill Score: 4.79<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -3794,7 +3794,7 @@ geo_json_bc95f4d8d5728b292e7bb80a09712bc3_add({
 
 geo_json_bc95f4d8d5728b292e7bb80a09712bc3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 299<br>311 Complaints 72<br>Benches: 0<br>Gardens: 0<br>Trees: 1110<br>Greenstreets: 2<br>Chill Score: 11.379999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 299<br>311 Complaints: 72<br>Benches: 0<br>Gardens: 0<br>Trees: 1110<br>Greenstreets: 2<br>Chill Score: 11.379999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -3885,7 +3885,7 @@ geo_json_8f56cc211b3d6b0a7504a9ffd13240be_add({
 
 geo_json_8f56cc211b3d6b0a7504a9ffd13240be.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 300<br>311 Complaints 76<br>Benches: 0<br>Gardens: 0<br>Trees: 1668<br>Greenstreets: 0<br>Chill Score: 15.92<br></div>
+                     <div style="font-family: monospace;">Grid ID: 300<br>311 Complaints: 76<br>Benches: 0<br>Gardens: 0<br>Trees: 1668<br>Greenstreets: 0<br>Chill Score: 15.92<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -3976,7 +3976,7 @@ geo_json_606ffd62eea9bd596c465e6a4060bad9_add({
 
 geo_json_606ffd62eea9bd596c465e6a4060bad9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 301<br>311 Complaints 60<br>Benches: 0<br>Gardens: 0<br>Trees: 1107<br>Greenstreets: 3<br>Chill Score: 11.97<br></div>
+                     <div style="font-family: monospace;">Grid ID: 301<br>311 Complaints: 60<br>Benches: 0<br>Gardens: 0<br>Trees: 1107<br>Greenstreets: 3<br>Chill Score: 11.97<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -4067,7 +4067,7 @@ geo_json_693844ab42faafb2fbe5432a9c552338_add({
 
 geo_json_693844ab42faafb2fbe5432a9c552338.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 302<br>311 Complaints 70<br>Benches: 0<br>Gardens: 0<br>Trees: 1210<br>Greenstreets: 3<br>Chill Score: 12.9<br></div>
+                     <div style="font-family: monospace;">Grid ID: 302<br>311 Complaints: 70<br>Benches: 0<br>Gardens: 0<br>Trees: 1210<br>Greenstreets: 3<br>Chill Score: 12.9<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -4158,7 +4158,7 @@ geo_json_dec0681190d8ff2af8b2371077ed0394_add({
 
 geo_json_dec0681190d8ff2af8b2371077ed0394.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 303<br>311 Complaints 68<br>Benches: 1<br>Gardens: 0<br>Trees: 964<br>Greenstreets: 1<br>Chill Score: 9.47<br></div>
+                     <div style="font-family: monospace;">Grid ID: 303<br>311 Complaints: 68<br>Benches: 1<br>Gardens: 0<br>Trees: 964<br>Greenstreets: 1<br>Chill Score: 9.47<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -4249,7 +4249,7 @@ geo_json_354766cf5e80df46f10b46b27aa07f52_add({
 
 geo_json_354766cf5e80df46f10b46b27aa07f52.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 304<br>311 Complaints 99<br>Benches: 0<br>Gardens: 0<br>Trees: 1400<br>Greenstreets: 0<br>Chill Score: 13.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 304<br>311 Complaints: 99<br>Benches: 0<br>Gardens: 0<br>Trees: 1400<br>Greenstreets: 0<br>Chill Score: 13.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -4340,7 +4340,7 @@ geo_json_b8e18a8e9bea5017a6ca812d04ab3fd7_add({
 
 geo_json_b8e18a8e9bea5017a6ca812d04ab3fd7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 305<br>311 Complaints 114<br>Benches: 0<br>Gardens: 0<br>Trees: 1122<br>Greenstreets: 1<br>Chill Score: 10.58<br></div>
+                     <div style="font-family: monospace;">Grid ID: 305<br>311 Complaints: 114<br>Benches: 0<br>Gardens: 0<br>Trees: 1122<br>Greenstreets: 1<br>Chill Score: 10.58<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -4431,7 +4431,7 @@ geo_json_7c69f68aced6b96dbbf2de21a5790a73_add({
 
 geo_json_7c69f68aced6b96dbbf2de21a5790a73.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 306<br>311 Complaints 121<br>Benches: 0<br>Gardens: 0<br>Trees: 467<br>Greenstreets: 0<br>Chill Score: 3.46<br></div>
+                     <div style="font-family: monospace;">Grid ID: 306<br>311 Complaints: 121<br>Benches: 0<br>Gardens: 0<br>Trees: 467<br>Greenstreets: 0<br>Chill Score: 3.46<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -4522,7 +4522,7 @@ geo_json_5aea78af48f92f47472883b586d7f50e_add({
 
 geo_json_5aea78af48f92f47472883b586d7f50e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 356<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 18<br>Greenstreets: 0<br>Chill Score: 0.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 356<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 18<br>Greenstreets: 0<br>Chill Score: 0.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -4613,7 +4613,7 @@ geo_json_71611b02c43f53e206a6fb8b7d7955d6_add({
 
 geo_json_71611b02c43f53e206a6fb8b7d7955d6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 357<br>311 Complaints 55<br>Benches: 0<br>Gardens: 0<br>Trees: 811<br>Greenstreets: 0<br>Chill Score: 7.56<br></div>
+                     <div style="font-family: monospace;">Grid ID: 357<br>311 Complaints: 55<br>Benches: 0<br>Gardens: 0<br>Trees: 811<br>Greenstreets: 0<br>Chill Score: 7.56<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -4704,7 +4704,7 @@ geo_json_8e50597d321f9cb5bd7d536d57ac6e2f_add({
 
 geo_json_8e50597d321f9cb5bd7d536d57ac6e2f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 358<br>311 Complaints 89<br>Benches: 0<br>Gardens: 0<br>Trees: 1340<br>Greenstreets: 0<br>Chill Score: 12.51<br></div>
+                     <div style="font-family: monospace;">Grid ID: 358<br>311 Complaints: 89<br>Benches: 0<br>Gardens: 0<br>Trees: 1340<br>Greenstreets: 0<br>Chill Score: 12.51<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -4795,7 +4795,7 @@ geo_json_0fb36d526ac28416dc2055a87863b13e_add({
 
 geo_json_0fb36d526ac28416dc2055a87863b13e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 359<br>311 Complaints 74<br>Benches: 1<br>Gardens: 0<br>Trees: 998<br>Greenstreets: 2<br>Chill Score: 10.25<br></div>
+                     <div style="font-family: monospace;">Grid ID: 359<br>311 Complaints: 74<br>Benches: 1<br>Gardens: 0<br>Trees: 998<br>Greenstreets: 2<br>Chill Score: 10.25<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -4886,7 +4886,7 @@ geo_json_8c75d0dddbb35bd9deb90f080ece2165_add({
 
 geo_json_8c75d0dddbb35bd9deb90f080ece2165.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 360<br>311 Complaints 73<br>Benches: 0<br>Gardens: 0<br>Trees: 1416<br>Greenstreets: 1<br>Chill Score: 13.93<br></div>
+                     <div style="font-family: monospace;">Grid ID: 360<br>311 Complaints: 73<br>Benches: 0<br>Gardens: 0<br>Trees: 1416<br>Greenstreets: 1<br>Chill Score: 13.93<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -4977,7 +4977,7 @@ geo_json_23a75989bfaf4213de7171b355ba11a1_add({
 
 geo_json_23a75989bfaf4213de7171b355ba11a1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 361<br>311 Complaints 56<br>Benches: 0<br>Gardens: 0<br>Trees: 795<br>Greenstreets: 1<br>Chill Score: 7.890000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 361<br>311 Complaints: 56<br>Benches: 0<br>Gardens: 0<br>Trees: 795<br>Greenstreets: 1<br>Chill Score: 7.890000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -5068,7 +5068,7 @@ geo_json_df70c351796d05723f9991365aaed9da_add({
 
 geo_json_df70c351796d05723f9991365aaed9da.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 362<br>311 Complaints 110<br>Benches: 0<br>Gardens: 0<br>Trees: 1237<br>Greenstreets: 1<br>Chill Score: 11.770000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 362<br>311 Complaints: 110<br>Benches: 0<br>Gardens: 0<br>Trees: 1237<br>Greenstreets: 1<br>Chill Score: 11.770000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -5159,7 +5159,7 @@ geo_json_a5af35cd73505777e25babfabc9e5e3c_add({
 
 geo_json_a5af35cd73505777e25babfabc9e5e3c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 363<br>311 Complaints 103<br>Benches: 0<br>Gardens: 0<br>Trees: 1021<br>Greenstreets: 0<br>Chill Score: 9.180000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 363<br>311 Complaints: 103<br>Benches: 0<br>Gardens: 0<br>Trees: 1021<br>Greenstreets: 0<br>Chill Score: 9.180000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -5250,7 +5250,7 @@ geo_json_6e4f77001747c056e29e00d13bfd5b0c_add({
 
 geo_json_6e4f77001747c056e29e00d13bfd5b0c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 364<br>311 Complaints 153<br>Benches: 0<br>Gardens: 0<br>Trees: 689<br>Greenstreets: 0<br>Chill Score: 5.36<br></div>
+                     <div style="font-family: monospace;">Grid ID: 364<br>311 Complaints: 153<br>Benches: 0<br>Gardens: 0<br>Trees: 689<br>Greenstreets: 0<br>Chill Score: 5.36<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -5341,7 +5341,7 @@ geo_json_8f5016ddf3647e087e856fb0f4057685_add({
 
 geo_json_8f5016ddf3647e087e856fb0f4057685.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 365<br>311 Complaints 104<br>Benches: 0<br>Gardens: 0<br>Trees: 690<br>Greenstreets: 0<br>Chill Score: 5.86<br></div>
+                     <div style="font-family: monospace;">Grid ID: 365<br>311 Complaints: 104<br>Benches: 0<br>Gardens: 0<br>Trees: 690<br>Greenstreets: 0<br>Chill Score: 5.86<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -5432,7 +5432,7 @@ geo_json_c845be0c5090fcfce2e56e35d1b42d6f_add({
 
 geo_json_c845be0c5090fcfce2e56e35d1b42d6f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 366<br>311 Complaints 21<br>Benches: 0<br>Gardens: 0<br>Trees: 98<br>Greenstreets: 1<br>Chill Score: 1.27<br></div>
+                     <div style="font-family: monospace;">Grid ID: 366<br>311 Complaints: 21<br>Benches: 0<br>Gardens: 0<br>Trees: 98<br>Greenstreets: 1<br>Chill Score: 1.27<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -5522,7 +5522,7 @@ geo_json_d7c87f0ce516a0b3221f2ab4b4d9c9cf_add({
 
 geo_json_d7c87f0ce516a0b3221f2ab4b4d9c9cf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 415<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 415<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -5613,7 +5613,7 @@ geo_json_d2901edf731d2129b522ec365f41fc83_add({
 
 geo_json_d2901edf731d2129b522ec365f41fc83.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 416<br>311 Complaints 29<br>Benches: 0<br>Gardens: 0<br>Trees: 151<br>Greenstreets: 0<br>Chill Score: 1.22<br></div>
+                     <div style="font-family: monospace;">Grid ID: 416<br>311 Complaints: 29<br>Benches: 0<br>Gardens: 0<br>Trees: 151<br>Greenstreets: 0<br>Chill Score: 1.22<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -5704,7 +5704,7 @@ geo_json_6be84b6362266f2d00a170ae0df119ec_add({
 
 geo_json_6be84b6362266f2d00a170ae0df119ec.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 417<br>311 Complaints 40<br>Benches: 0<br>Gardens: 0<br>Trees: 678<br>Greenstreets: 0<br>Chill Score: 6.38<br></div>
+                     <div style="font-family: monospace;">Grid ID: 417<br>311 Complaints: 40<br>Benches: 0<br>Gardens: 0<br>Trees: 678<br>Greenstreets: 0<br>Chill Score: 6.38<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -5795,7 +5795,7 @@ geo_json_da83cfaa9f889f668d62c21cc613f138_add({
 
 geo_json_da83cfaa9f889f668d62c21cc613f138.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 418<br>311 Complaints 83<br>Benches: 0<br>Gardens: 0<br>Trees: 711<br>Greenstreets: 2<br>Chill Score: 7.28<br></div>
+                     <div style="font-family: monospace;">Grid ID: 418<br>311 Complaints: 83<br>Benches: 0<br>Gardens: 0<br>Trees: 711<br>Greenstreets: 2<br>Chill Score: 7.28<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -5886,7 +5886,7 @@ geo_json_d809daef9bfa5e60ea1b4ceb05050d1b_add({
 
 geo_json_d809daef9bfa5e60ea1b4ceb05050d1b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 419<br>311 Complaints 82<br>Benches: 0<br>Gardens: 0<br>Trees: 739<br>Greenstreets: 1<br>Chill Score: 7.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 419<br>311 Complaints: 82<br>Benches: 0<br>Gardens: 0<br>Trees: 739<br>Greenstreets: 1<br>Chill Score: 7.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -5977,7 +5977,7 @@ geo_json_59b2a45dee3db6df718ac3122705354b_add({
 
 geo_json_59b2a45dee3db6df718ac3122705354b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 420<br>311 Complaints 124<br>Benches: 0<br>Gardens: 0<br>Trees: 1238<br>Greenstreets: 0<br>Chill Score: 11.14<br></div>
+                     <div style="font-family: monospace;">Grid ID: 420<br>311 Complaints: 124<br>Benches: 0<br>Gardens: 0<br>Trees: 1238<br>Greenstreets: 0<br>Chill Score: 11.14<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -6068,7 +6068,7 @@ geo_json_42af3d2a8138c141c7bb8afa46a45dde_add({
 
 geo_json_42af3d2a8138c141c7bb8afa46a45dde.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 421<br>311 Complaints 128<br>Benches: 1<br>Gardens: 0<br>Trees: 1136<br>Greenstreets: 1<br>Chill Score: 10.59<br></div>
+                     <div style="font-family: monospace;">Grid ID: 421<br>311 Complaints: 128<br>Benches: 1<br>Gardens: 0<br>Trees: 1136<br>Greenstreets: 1<br>Chill Score: 10.59<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -6159,7 +6159,7 @@ geo_json_2b78f737eec9ae10c68a6ff3e824c635_add({
 
 geo_json_2b78f737eec9ae10c68a6ff3e824c635.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 422<br>311 Complaints 120<br>Benches: 0<br>Gardens: 0<br>Trees: 1121<br>Greenstreets: 0<br>Chill Score: 10.010000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 422<br>311 Complaints: 120<br>Benches: 0<br>Gardens: 0<br>Trees: 1121<br>Greenstreets: 0<br>Chill Score: 10.010000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -6250,7 +6250,7 @@ geo_json_262d69d9ffe4a9ee3f15e364aea72b13_add({
 
 geo_json_262d69d9ffe4a9ee3f15e364aea72b13.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 423<br>311 Complaints 136<br>Benches: 0<br>Gardens: 0<br>Trees: 1147<br>Greenstreets: 2<br>Chill Score: 11.110000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 423<br>311 Complaints: 136<br>Benches: 0<br>Gardens: 0<br>Trees: 1147<br>Greenstreets: 2<br>Chill Score: 11.110000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -6341,7 +6341,7 @@ geo_json_bc047464343cc4b60e218a4f5ed1d28d_add({
 
 geo_json_bc047464343cc4b60e218a4f5ed1d28d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 424<br>311 Complaints 83<br>Benches: 0<br>Gardens: 0<br>Trees: 680<br>Greenstreets: 0<br>Chill Score: 5.97<br></div>
+                     <div style="font-family: monospace;">Grid ID: 424<br>311 Complaints: 83<br>Benches: 0<br>Gardens: 0<br>Trees: 680<br>Greenstreets: 0<br>Chill Score: 5.97<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -6432,7 +6432,7 @@ geo_json_8d29287580f04b783141c53b0b9f3f00_add({
 
 geo_json_8d29287580f04b783141c53b0b9f3f00.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 425<br>311 Complaints 100<br>Benches: 0<br>Gardens: 0<br>Trees: 621<br>Greenstreets: 1<br>Chill Score: 5.71<br></div>
+                     <div style="font-family: monospace;">Grid ID: 425<br>311 Complaints: 100<br>Benches: 0<br>Gardens: 0<br>Trees: 621<br>Greenstreets: 1<br>Chill Score: 5.71<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -6523,7 +6523,7 @@ geo_json_ebf4c00d254e4c88686a93c67a56d2b8_add({
 
 geo_json_ebf4c00d254e4c88686a93c67a56d2b8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 426<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 47<br>Greenstreets: 0<br>Chill Score: 0.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 426<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 47<br>Greenstreets: 0<br>Chill Score: 0.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -6614,7 +6614,7 @@ geo_json_406889fec52377c6b4c0aa789bc43367_add({
 
 geo_json_406889fec52377c6b4c0aa789bc43367.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 427<br>311 Complaints 5<br>Benches: 0<br>Gardens: 0<br>Trees: 57<br>Greenstreets: 0<br>Chill Score: 0.52<br></div>
+                     <div style="font-family: monospace;">Grid ID: 427<br>311 Complaints: 5<br>Benches: 0<br>Gardens: 0<br>Trees: 57<br>Greenstreets: 0<br>Chill Score: 0.52<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -6705,7 +6705,7 @@ geo_json_79fdadb788aaa680b1c0758d37f0b0c6_add({
 
 geo_json_79fdadb788aaa680b1c0758d37f0b0c6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 428<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 2<br>Greenstreets: 0<br>Chill Score: 0.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 428<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 2<br>Greenstreets: 0<br>Chill Score: 0.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -6796,7 +6796,7 @@ geo_json_6059db23718c032a3012dd34a278d9a1_add({
 
 geo_json_6059db23718c032a3012dd34a278d9a1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 476<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 49<br>Greenstreets: 1<br>Chill Score: 0.99<br></div>
+                     <div style="font-family: monospace;">Grid ID: 476<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 49<br>Greenstreets: 1<br>Chill Score: 0.99<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -6887,7 +6887,7 @@ geo_json_5547b89866f4b481834eda03234b4d5e_add({
 
 geo_json_5547b89866f4b481834eda03234b4d5e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 477<br>311 Complaints 30<br>Benches: 0<br>Gardens: 0<br>Trees: 115<br>Greenstreets: 1<br>Chill Score: 1.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 477<br>311 Complaints: 30<br>Benches: 0<br>Gardens: 0<br>Trees: 115<br>Greenstreets: 1<br>Chill Score: 1.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -6978,7 +6978,7 @@ geo_json_567b7cf72e427e5d47f56861b827d474_add({
 
 geo_json_567b7cf72e427e5d47f56861b827d474.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 478<br>311 Complaints 18<br>Benches: 0<br>Gardens: 0<br>Trees: 66<br>Greenstreets: 0<br>Chill Score: 0.48000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 478<br>311 Complaints: 18<br>Benches: 0<br>Gardens: 0<br>Trees: 66<br>Greenstreets: 0<br>Chill Score: 0.48000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -7069,7 +7069,7 @@ geo_json_d82e78e7b4987acf3923adcf0df6db01_add({
 
 geo_json_d82e78e7b4987acf3923adcf0df6db01.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 479<br>311 Complaints 81<br>Benches: 0<br>Gardens: 0<br>Trees: 432<br>Greenstreets: 1<br>Chill Score: 4.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 479<br>311 Complaints: 81<br>Benches: 0<br>Gardens: 0<br>Trees: 432<br>Greenstreets: 1<br>Chill Score: 4.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -7160,7 +7160,7 @@ geo_json_7f2f148e987fa84195ee7ba2fc1930bd_add({
 
 geo_json_7f2f148e987fa84195ee7ba2fc1930bd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 480<br>311 Complaints 117<br>Benches: 0<br>Gardens: 0<br>Trees: 895<br>Greenstreets: 1<br>Chill Score: 8.280000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 480<br>311 Complaints: 117<br>Benches: 0<br>Gardens: 0<br>Trees: 895<br>Greenstreets: 1<br>Chill Score: 8.280000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -7251,7 +7251,7 @@ geo_json_7b6bebd482c864247718bfac21d18d8c_add({
 
 geo_json_7b6bebd482c864247718bfac21d18d8c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 481<br>311 Complaints 77<br>Benches: 0<br>Gardens: 0<br>Trees: 770<br>Greenstreets: 0<br>Chill Score: 6.93<br></div>
+                     <div style="font-family: monospace;">Grid ID: 481<br>311 Complaints: 77<br>Benches: 0<br>Gardens: 0<br>Trees: 770<br>Greenstreets: 0<br>Chill Score: 6.93<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -7342,7 +7342,7 @@ geo_json_87ae85e4b78415a2b1b87bc7f0389426_add({
 
 geo_json_87ae85e4b78415a2b1b87bc7f0389426.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 482<br>311 Complaints 104<br>Benches: 0<br>Gardens: 0<br>Trees: 1046<br>Greenstreets: 0<br>Chill Score: 9.420000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 482<br>311 Complaints: 104<br>Benches: 0<br>Gardens: 0<br>Trees: 1046<br>Greenstreets: 0<br>Chill Score: 9.420000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -7433,7 +7433,7 @@ geo_json_6ead0d04f6aee7d73fbb75b4ade0906a_add({
 
 geo_json_6ead0d04f6aee7d73fbb75b4ade0906a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 483<br>311 Complaints 112<br>Benches: 0<br>Gardens: 0<br>Trees: 913<br>Greenstreets: 0<br>Chill Score: 8.010000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 483<br>311 Complaints: 112<br>Benches: 0<br>Gardens: 0<br>Trees: 913<br>Greenstreets: 0<br>Chill Score: 8.010000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -7524,7 +7524,7 @@ geo_json_08d2528e5c574ed25103a18f407d2f8b_add({
 
 geo_json_08d2528e5c574ed25103a18f407d2f8b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 484<br>311 Complaints 61<br>Benches: 0<br>Gardens: 0<br>Trees: 546<br>Greenstreets: 2<br>Chill Score: 5.85<br></div>
+                     <div style="font-family: monospace;">Grid ID: 484<br>311 Complaints: 61<br>Benches: 0<br>Gardens: 0<br>Trees: 546<br>Greenstreets: 2<br>Chill Score: 5.85<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -7615,7 +7615,7 @@ geo_json_fb9356ffcc6ed492a3c9bb1fb05e7915_add({
 
 geo_json_fb9356ffcc6ed492a3c9bb1fb05e7915.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 485<br>311 Complaints 145<br>Benches: 0<br>Gardens: 0<br>Trees: 951<br>Greenstreets: 0<br>Chill Score: 8.06<br></div>
+                     <div style="font-family: monospace;">Grid ID: 485<br>311 Complaints: 145<br>Benches: 0<br>Gardens: 0<br>Trees: 951<br>Greenstreets: 0<br>Chill Score: 8.06<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -7706,7 +7706,7 @@ geo_json_75ede3382683b46f59b1ba1e071c1549_add({
 
 geo_json_75ede3382683b46f59b1ba1e071c1549.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 486<br>311 Complaints 145<br>Benches: 0<br>Gardens: 0<br>Trees: 768<br>Greenstreets: 0<br>Chill Score: 6.2299999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 486<br>311 Complaints: 145<br>Benches: 0<br>Gardens: 0<br>Trees: 768<br>Greenstreets: 0<br>Chill Score: 6.2299999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -7797,7 +7797,7 @@ geo_json_a50d8b63f1615473e2feaf96bee49cc9_add({
 
 geo_json_a50d8b63f1615473e2feaf96bee49cc9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 487<br>311 Complaints 122<br>Benches: 0<br>Gardens: 0<br>Trees: 523<br>Greenstreets: 0<br>Chill Score: 4.010000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 487<br>311 Complaints: 122<br>Benches: 0<br>Gardens: 0<br>Trees: 523<br>Greenstreets: 0<br>Chill Score: 4.010000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -7888,7 +7888,7 @@ geo_json_2a20e448abbf0faefc19498ab931670a_add({
 
 geo_json_2a20e448abbf0faefc19498ab931670a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 488<br>311 Complaints 10<br>Benches: 0<br>Gardens: 0<br>Trees: 43<br>Greenstreets: 0<br>Chill Score: 0.32999999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 488<br>311 Complaints: 10<br>Benches: 0<br>Gardens: 0<br>Trees: 43<br>Greenstreets: 0<br>Chill Score: 0.32999999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -7978,7 +7978,7 @@ geo_json_3e8dd779ec303c11b61e459117ed96bd_add({
 
 geo_json_3e8dd779ec303c11b61e459117ed96bd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 506<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 506<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -8069,7 +8069,7 @@ geo_json_5457f6a2ae8d6a8b60cca9ff0f2ffe61_add({
 
 geo_json_5457f6a2ae8d6a8b60cca9ff0f2ffe61.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 507<br>311 Complaints 26<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.26<br></div>
+                     <div style="font-family: monospace;">Grid ID: 507<br>311 Complaints: 26<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.26<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -8160,7 +8160,7 @@ geo_json_07369c6e3e63bed7981532544e0c1362_add({
 
 geo_json_07369c6e3e63bed7981532544e0c1362.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 508<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 6<br>Chill Score: 2.98<br></div>
+                     <div style="font-family: monospace;">Grid ID: 508<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 6<br>Chill Score: 2.98<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -8251,7 +8251,7 @@ geo_json_8800a82b01a6e24031b500ff915dfae9_add({
 
 geo_json_8800a82b01a6e24031b500ff915dfae9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 538<br>311 Complaints 26<br>Benches: 0<br>Gardens: 0<br>Trees: 291<br>Greenstreets: 2<br>Chill Score: 3.6500000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 538<br>311 Complaints: 26<br>Benches: 0<br>Gardens: 0<br>Trees: 291<br>Greenstreets: 2<br>Chill Score: 3.6500000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -8342,7 +8342,7 @@ geo_json_3118a0fea12f8cbdfbf0b0c23f4959b6_add({
 
 geo_json_3118a0fea12f8cbdfbf0b0c23f4959b6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 539<br>311 Complaints 4<br>Benches: 0<br>Gardens: 0<br>Trees: 29<br>Greenstreets: 3<br>Chill Score: 1.75<br></div>
+                     <div style="font-family: monospace;">Grid ID: 539<br>311 Complaints: 4<br>Benches: 0<br>Gardens: 0<br>Trees: 29<br>Greenstreets: 3<br>Chill Score: 1.75<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -8433,7 +8433,7 @@ geo_json_eda65d15a91ea3ddad09278420cf506c_add({
 
 geo_json_eda65d15a91ea3ddad09278420cf506c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 541<br>311 Complaints 63<br>Benches: 0<br>Gardens: 0<br>Trees: 377<br>Greenstreets: 0<br>Chill Score: 3.14<br></div>
+                     <div style="font-family: monospace;">Grid ID: 541<br>311 Complaints: 63<br>Benches: 0<br>Gardens: 0<br>Trees: 377<br>Greenstreets: 0<br>Chill Score: 3.14<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -8524,7 +8524,7 @@ geo_json_850e83226451a3d5d6dab5d6c599305e_add({
 
 geo_json_850e83226451a3d5d6dab5d6c599305e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 542<br>311 Complaints 30<br>Benches: 0<br>Gardens: 0<br>Trees: 375<br>Greenstreets: 0<br>Chill Score: 3.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 542<br>311 Complaints: 30<br>Benches: 0<br>Gardens: 0<br>Trees: 375<br>Greenstreets: 0<br>Chill Score: 3.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -8615,7 +8615,7 @@ geo_json_111aaf367b50477d01b502caa31ff0a6_add({
 
 geo_json_111aaf367b50477d01b502caa31ff0a6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 543<br>311 Complaints 121<br>Benches: 0<br>Gardens: 0<br>Trees: 891<br>Greenstreets: 0<br>Chill Score: 7.7<br></div>
+                     <div style="font-family: monospace;">Grid ID: 543<br>311 Complaints: 121<br>Benches: 0<br>Gardens: 0<br>Trees: 891<br>Greenstreets: 0<br>Chill Score: 7.7<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -8706,7 +8706,7 @@ geo_json_3ea033e323ebabfc763bf685321ffca3_add({
 
 geo_json_3ea033e323ebabfc763bf685321ffca3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 544<br>311 Complaints 99<br>Benches: 0<br>Gardens: 0<br>Trees: 776<br>Greenstreets: 3<br>Chill Score: 8.27<br></div>
+                     <div style="font-family: monospace;">Grid ID: 544<br>311 Complaints: 99<br>Benches: 0<br>Gardens: 0<br>Trees: 776<br>Greenstreets: 3<br>Chill Score: 8.27<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -8797,7 +8797,7 @@ geo_json_f91744b9fa24801c65bb724a253d8e7c_add({
 
 geo_json_f91744b9fa24801c65bb724a253d8e7c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 545<br>311 Complaints 93<br>Benches: 0<br>Gardens: 0<br>Trees: 961<br>Greenstreets: 0<br>Chill Score: 8.68<br></div>
+                     <div style="font-family: monospace;">Grid ID: 545<br>311 Complaints: 93<br>Benches: 0<br>Gardens: 0<br>Trees: 961<br>Greenstreets: 0<br>Chill Score: 8.68<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -8888,7 +8888,7 @@ geo_json_3905a49dc85db08584d8424e48fbf663_add({
 
 geo_json_3905a49dc85db08584d8424e48fbf663.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 546<br>311 Complaints 90<br>Benches: 0<br>Gardens: 0<br>Trees: 641<br>Greenstreets: 0<br>Chill Score: 5.51<br></div>
+                     <div style="font-family: monospace;">Grid ID: 546<br>311 Complaints: 90<br>Benches: 0<br>Gardens: 0<br>Trees: 641<br>Greenstreets: 0<br>Chill Score: 5.51<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -8979,7 +8979,7 @@ geo_json_314290c6f51bf1ea7b6b7d4992886b6b_add({
 
 geo_json_314290c6f51bf1ea7b6b7d4992886b6b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 547<br>311 Complaints 37<br>Benches: 0<br>Gardens: 0<br>Trees: 148<br>Greenstreets: 0<br>Chill Score: 1.1099999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 547<br>311 Complaints: 37<br>Benches: 0<br>Gardens: 0<br>Trees: 148<br>Greenstreets: 0<br>Chill Score: 1.1099999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -9070,7 +9070,7 @@ geo_json_a5019ff0ec598433711f1a083b1fc82c_add({
 
 geo_json_a5019ff0ec598433711f1a083b1fc82c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 548<br>311 Complaints 7<br>Benches: 0<br>Gardens: 0<br>Trees: 28<br>Greenstreets: 2<br>Chill Score: 1.21<br></div>
+                     <div style="font-family: monospace;">Grid ID: 548<br>311 Complaints: 7<br>Benches: 0<br>Gardens: 0<br>Trees: 28<br>Greenstreets: 2<br>Chill Score: 1.21<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -9161,7 +9161,7 @@ geo_json_0b9b27a07498f99753977b11f3231ae2_add({
 
 geo_json_0b9b27a07498f99753977b11f3231ae2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 566<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.03<br></div>
+                     <div style="font-family: monospace;">Grid ID: 566<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.03<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -9252,7 +9252,7 @@ geo_json_bf15d251e0dc3e193f9439c07007e3d5_add({
 
 geo_json_bf15d251e0dc3e193f9439c07007e3d5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 567<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 30<br>Greenstreets: 0<br>Chill Score: 0.3<br></div>
+                     <div style="font-family: monospace;">Grid ID: 567<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 30<br>Greenstreets: 0<br>Chill Score: 0.3<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -9343,7 +9343,7 @@ geo_json_2bf385c2b8f26bad96aec6b5a0131e52_add({
 
 geo_json_2bf385c2b8f26bad96aec6b5a0131e52.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 568<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.03<br></div>
+                     <div style="font-family: monospace;">Grid ID: 568<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.03<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -9434,7 +9434,7 @@ geo_json_cbbe34ff38ea85414d737d6fab366cb6_add({
 
 geo_json_cbbe34ff38ea85414d737d6fab366cb6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 569<br>311 Complaints 9<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 569<br>311 Complaints: 9<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -9524,7 +9524,7 @@ geo_json_02b68028971705950c0b507dd0997e83_add({
 
 geo_json_02b68028971705950c0b507dd0997e83.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 570<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 570<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -9614,7 +9614,7 @@ geo_json_9b3d1a4f52348cc967c44eb562bdc724_add({
 
 geo_json_9b3d1a4f52348cc967c44eb562bdc724.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 572<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 572<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -9705,7 +9705,7 @@ geo_json_676d919a2be174c788811f39a22c682e_add({
 
 geo_json_676d919a2be174c788811f39a22c682e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 598<br>311 Complaints 6<br>Benches: 0<br>Gardens: 0<br>Trees: 150<br>Greenstreets: 13<br>Chill Score: 7.9399999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 598<br>311 Complaints: 6<br>Benches: 0<br>Gardens: 0<br>Trees: 150<br>Greenstreets: 13<br>Chill Score: 7.9399999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -9796,7 +9796,7 @@ geo_json_710b9c2130617b4e93873ae4f6d54ce0_add({
 
 geo_json_710b9c2130617b4e93873ae4f6d54ce0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 599<br>311 Complaints 26<br>Benches: 0<br>Gardens: 0<br>Trees: 172<br>Greenstreets: 2<br>Chill Score: 2.46<br></div>
+                     <div style="font-family: monospace;">Grid ID: 599<br>311 Complaints: 26<br>Benches: 0<br>Gardens: 0<br>Trees: 172<br>Greenstreets: 2<br>Chill Score: 2.46<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -9887,7 +9887,7 @@ geo_json_095358394d356652ad542c7ca1449966_add({
 
 geo_json_095358394d356652ad542c7ca1449966.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 600<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 9<br>Greenstreets: 0<br>Chill Score: 0.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 600<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 9<br>Greenstreets: 0<br>Chill Score: 0.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -9978,7 +9978,7 @@ geo_json_107e4c57f7b467f614b38ec80c7f2f92_add({
 
 geo_json_107e4c57f7b467f614b38ec80c7f2f92.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 601<br>311 Complaints 30<br>Benches: 0<br>Gardens: 0<br>Trees: 175<br>Greenstreets: 0<br>Chill Score: 1.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 601<br>311 Complaints: 30<br>Benches: 0<br>Gardens: 0<br>Trees: 175<br>Greenstreets: 0<br>Chill Score: 1.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -10069,7 +10069,7 @@ geo_json_34fef0e5a948968dcaf4cb6aa3d77d23_add({
 
 geo_json_34fef0e5a948968dcaf4cb6aa3d77d23.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 602<br>311 Complaints 56<br>Benches: 1<br>Gardens: 0<br>Trees: 592<br>Greenstreets: 0<br>Chill Score: 5.37<br></div>
+                     <div style="font-family: monospace;">Grid ID: 602<br>311 Complaints: 56<br>Benches: 1<br>Gardens: 0<br>Trees: 592<br>Greenstreets: 0<br>Chill Score: 5.37<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -10160,7 +10160,7 @@ geo_json_a300c3d771c93e12da6cec52545c7c4d_add({
 
 geo_json_a300c3d771c93e12da6cec52545c7c4d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 603<br>311 Complaints 90<br>Benches: 0<br>Gardens: 0<br>Trees: 714<br>Greenstreets: 4<br>Chill Score: 8.24<br></div>
+                     <div style="font-family: monospace;">Grid ID: 603<br>311 Complaints: 90<br>Benches: 0<br>Gardens: 0<br>Trees: 714<br>Greenstreets: 4<br>Chill Score: 8.24<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -10251,7 +10251,7 @@ geo_json_c020d13c7831191634c72ec21dc64b65_add({
 
 geo_json_c020d13c7831191634c72ec21dc64b65.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 604<br>311 Complaints 146<br>Benches: 4<br>Gardens: 0<br>Trees: 1071<br>Greenstreets: 3<br>Chill Score: 10.790000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 604<br>311 Complaints: 146<br>Benches: 4<br>Gardens: 0<br>Trees: 1071<br>Greenstreets: 3<br>Chill Score: 10.790000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -10342,7 +10342,7 @@ geo_json_f9796ba297d837d4350f8784282cd3b8_add({
 
 geo_json_f9796ba297d837d4350f8784282cd3b8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 605<br>311 Complaints 100<br>Benches: 2<br>Gardens: 0<br>Trees: 805<br>Greenstreets: 0<br>Chill Score: 7.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 605<br>311 Complaints: 100<br>Benches: 2<br>Gardens: 0<br>Trees: 805<br>Greenstreets: 0<br>Chill Score: 7.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -10433,7 +10433,7 @@ geo_json_7b25d48d1e06915a61e1a52f544199db_add({
 
 geo_json_7b25d48d1e06915a61e1a52f544199db.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 606<br>311 Complaints 111<br>Benches: 1<br>Gardens: 0<br>Trees: 624<br>Greenstreets: 2<br>Chill Score: 6.140000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 606<br>311 Complaints: 111<br>Benches: 1<br>Gardens: 0<br>Trees: 624<br>Greenstreets: 2<br>Chill Score: 6.140000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -10524,7 +10524,7 @@ geo_json_5885f91d4388b337abb79dae1e10492d_add({
 
 geo_json_5885f91d4388b337abb79dae1e10492d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 607<br>311 Complaints 70<br>Benches: 0<br>Gardens: 0<br>Trees: 297<br>Greenstreets: 9<br>Chill Score: 6.77<br></div>
+                     <div style="font-family: monospace;">Grid ID: 607<br>311 Complaints: 70<br>Benches: 0<br>Gardens: 0<br>Trees: 297<br>Greenstreets: 9<br>Chill Score: 6.77<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -10615,7 +10615,7 @@ geo_json_c01f92db0d77e08a56297822f304bf75_add({
 
 geo_json_c01f92db0d77e08a56297822f304bf75.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 608<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 20<br>Greenstreets: 2<br>Chill Score: 1.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 608<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 20<br>Greenstreets: 2<br>Chill Score: 1.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -10706,7 +10706,7 @@ geo_json_575a427103c5a95bce0b407317213f2c_add({
 
 geo_json_575a427103c5a95bce0b407317213f2c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 615<br>311 Complaints 15<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.15<br></div>
+                     <div style="font-family: monospace;">Grid ID: 615<br>311 Complaints: 15<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.15<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -10797,7 +10797,7 @@ geo_json_38d6f7b835e2619ce70de2b5833895f8_add({
 
 geo_json_38d6f7b835e2619ce70de2b5833895f8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 616<br>311 Complaints 179<br>Benches: 3<br>Gardens: 0<br>Trees: 191<br>Greenstreets: 1<br>Chill Score: 0.6500000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 616<br>311 Complaints: 179<br>Benches: 3<br>Gardens: 0<br>Trees: 191<br>Greenstreets: 1<br>Chill Score: 0.6500000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -10888,7 +10888,7 @@ geo_json_c93d4d8083cb0500799bdda64b6b6dae_add({
 
 geo_json_c93d4d8083cb0500799bdda64b6b6dae.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 617<br>311 Complaints 197<br>Benches: 4<br>Gardens: 2<br>Trees: 382<br>Greenstreets: 1<br>Chill Score: 3.3900000000000006<br></div>
+                     <div style="font-family: monospace;">Grid ID: 617<br>311 Complaints: 197<br>Benches: 4<br>Gardens: 2<br>Trees: 382<br>Greenstreets: 1<br>Chill Score: 3.3900000000000006<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -10979,7 +10979,7 @@ geo_json_f242544b145633c7f5359c5b4b92d9a7_add({
 
 geo_json_f242544b145633c7f5359c5b4b92d9a7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 618<br>311 Complaints 43<br>Benches: 4<br>Gardens: 0<br>Trees: 127<br>Greenstreets: 1<br>Chill Score: 1.38<br></div>
+                     <div style="font-family: monospace;">Grid ID: 618<br>311 Complaints: 43<br>Benches: 4<br>Gardens: 0<br>Trees: 127<br>Greenstreets: 1<br>Chill Score: 1.38<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -11070,7 +11070,7 @@ geo_json_90b88df8b2417f4827d27d7efabbea69_add({
 
 geo_json_90b88df8b2417f4827d27d7efabbea69.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 619<br>311 Complaints 47<br>Benches: 1<br>Gardens: 0<br>Trees: 139<br>Greenstreets: 2<br>Chill Score: 1.9300000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 619<br>311 Complaints: 47<br>Benches: 1<br>Gardens: 0<br>Trees: 139<br>Greenstreets: 2<br>Chill Score: 1.9300000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -11161,7 +11161,7 @@ geo_json_bb02078d9ed9a9a46f58cd60f43c0d81_add({
 
 geo_json_bb02078d9ed9a9a46f58cd60f43c0d81.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 620<br>311 Complaints 103<br>Benches: 0<br>Gardens: 0<br>Trees: 92<br>Greenstreets: 2<br>Chill Score: 0.89<br></div>
+                     <div style="font-family: monospace;">Grid ID: 620<br>311 Complaints: 103<br>Benches: 0<br>Gardens: 0<br>Trees: 92<br>Greenstreets: 2<br>Chill Score: 0.89<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -11252,7 +11252,7 @@ geo_json_42bf1304e366792ac48319c5f38c5a39_add({
 
 geo_json_42bf1304e366792ac48319c5f38c5a39.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 621<br>311 Complaints 35<br>Benches: 0<br>Gardens: 0<br>Trees: 36<br>Greenstreets: 0<br>Chill Score: 0.009999999999999953<br></div>
+                     <div style="font-family: monospace;">Grid ID: 621<br>311 Complaints: 35<br>Benches: 0<br>Gardens: 0<br>Trees: 36<br>Greenstreets: 0<br>Chill Score: 0.009999999999999953<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -11343,7 +11343,7 @@ geo_json_ae5521042a223fed0b9000b8b7d63574_add({
 
 geo_json_ae5521042a223fed0b9000b8b7d63574.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 622<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 31<br>Greenstreets: 0<br>Chill Score: 0.28<br></div>
+                     <div style="font-family: monospace;">Grid ID: 622<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 31<br>Greenstreets: 0<br>Chill Score: 0.28<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -11434,7 +11434,7 @@ geo_json_6027fd6506de44b062d0eb96b53ceb1e_add({
 
 geo_json_6027fd6506de44b062d0eb96b53ceb1e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 630<br>311 Complaints 16<br>Benches: 0<br>Gardens: 0<br>Trees: 73<br>Greenstreets: 0<br>Chill Score: 0.57<br></div>
+                     <div style="font-family: monospace;">Grid ID: 630<br>311 Complaints: 16<br>Benches: 0<br>Gardens: 0<br>Trees: 73<br>Greenstreets: 0<br>Chill Score: 0.57<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -11525,7 +11525,7 @@ geo_json_e2bc8a70fcacfdcb753d19351460942d_add({
 
 geo_json_e2bc8a70fcacfdcb753d19351460942d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 631<br>311 Complaints 111<br>Benches: 0<br>Gardens: 0<br>Trees: 1147<br>Greenstreets: 12<br>Chill Score: 16.36<br></div>
+                     <div style="font-family: monospace;">Grid ID: 631<br>311 Complaints: 111<br>Benches: 0<br>Gardens: 0<br>Trees: 1147<br>Greenstreets: 12<br>Chill Score: 16.36<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -11616,7 +11616,7 @@ geo_json_f941f9b38c9332b9014c9ed412e96e22_add({
 
 geo_json_f941f9b38c9332b9014c9ed412e96e22.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 632<br>311 Complaints 30<br>Benches: 0<br>Gardens: 0<br>Trees: 246<br>Greenstreets: 8<br>Chill Score: 6.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 632<br>311 Complaints: 30<br>Benches: 0<br>Gardens: 0<br>Trees: 246<br>Greenstreets: 8<br>Chill Score: 6.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -11707,7 +11707,7 @@ geo_json_c310bd803cd787abdc5d3925ce994681_add({
 
 geo_json_c310bd803cd787abdc5d3925ce994681.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 657<br>311 Complaints 8<br>Benches: 0<br>Gardens: 0<br>Trees: 97<br>Greenstreets: 16<br>Chill Score: 8.89<br></div>
+                     <div style="font-family: monospace;">Grid ID: 657<br>311 Complaints: 8<br>Benches: 0<br>Gardens: 0<br>Trees: 97<br>Greenstreets: 16<br>Chill Score: 8.89<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -11798,7 +11798,7 @@ geo_json_fa04a45a949eb129a38458dd42a9dfee_add({
 
 geo_json_fa04a45a949eb129a38458dd42a9dfee.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 658<br>311 Complaints 35<br>Benches: 0<br>Gardens: 0<br>Trees: 109<br>Greenstreets: 0<br>Chill Score: 0.74<br></div>
+                     <div style="font-family: monospace;">Grid ID: 658<br>311 Complaints: 35<br>Benches: 0<br>Gardens: 0<br>Trees: 109<br>Greenstreets: 0<br>Chill Score: 0.74<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -11889,7 +11889,7 @@ geo_json_b79a2ebf6283bab73023d482fb7895f1_add({
 
 geo_json_b79a2ebf6283bab73023d482fb7895f1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 659<br>311 Complaints 82<br>Benches: 0<br>Gardens: 0<br>Trees: 448<br>Greenstreets: 0<br>Chill Score: 3.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 659<br>311 Complaints: 82<br>Benches: 0<br>Gardens: 0<br>Trees: 448<br>Greenstreets: 0<br>Chill Score: 3.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -11980,7 +11980,7 @@ geo_json_1176a8ca0db968b58c2a534889b89e5a_add({
 
 geo_json_1176a8ca0db968b58c2a534889b89e5a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 660<br>311 Complaints 6<br>Benches: 0<br>Gardens: 0<br>Trees: 13<br>Greenstreets: 0<br>Chill Score: 0.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 660<br>311 Complaints: 6<br>Benches: 0<br>Gardens: 0<br>Trees: 13<br>Greenstreets: 0<br>Chill Score: 0.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -12071,7 +12071,7 @@ geo_json_92561814df459b9fe540de16f603d710_add({
 
 geo_json_92561814df459b9fe540de16f603d710.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 661<br>311 Complaints 15<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.15<br></div>
+                     <div style="font-family: monospace;">Grid ID: 661<br>311 Complaints: 15<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.15<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -12162,7 +12162,7 @@ geo_json_ce69cee4d0c2157e83c3788d681232f9_add({
 
 geo_json_ce69cee4d0c2157e83c3788d681232f9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 662<br>311 Complaints 108<br>Benches: 0<br>Gardens: 0<br>Trees: 79<br>Greenstreets: 0<br>Chill Score: -0.29000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 662<br>311 Complaints: 108<br>Benches: 0<br>Gardens: 0<br>Trees: 79<br>Greenstreets: 0<br>Chill Score: -0.29000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -12253,7 +12253,7 @@ geo_json_5070699d324dffd9172aa2bfbaa9af9a_add({
 
 geo_json_5070699d324dffd9172aa2bfbaa9af9a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 663<br>311 Complaints 51<br>Benches: 0<br>Gardens: 0<br>Trees: 356<br>Greenstreets: 2<br>Chill Score: 4.05<br></div>
+                     <div style="font-family: monospace;">Grid ID: 663<br>311 Complaints: 51<br>Benches: 0<br>Gardens: 0<br>Trees: 356<br>Greenstreets: 2<br>Chill Score: 4.05<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -12344,7 +12344,7 @@ geo_json_4abc7e10ba984741d274518d676dd7e4_add({
 
 geo_json_4abc7e10ba984741d274518d676dd7e4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 664<br>311 Complaints 131<br>Benches: 1<br>Gardens: 0<br>Trees: 676<br>Greenstreets: 1<br>Chill Score: 5.96<br></div>
+                     <div style="font-family: monospace;">Grid ID: 664<br>311 Complaints: 131<br>Benches: 1<br>Gardens: 0<br>Trees: 676<br>Greenstreets: 1<br>Chill Score: 5.96<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -12435,7 +12435,7 @@ geo_json_300aa92ab379af522b554b8a85f9b2c2_add({
 
 geo_json_300aa92ab379af522b554b8a85f9b2c2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 665<br>311 Complaints 113<br>Benches: 2<br>Gardens: 0<br>Trees: 635<br>Greenstreets: 0<br>Chill Score: 5.24<br></div>
+                     <div style="font-family: monospace;">Grid ID: 665<br>311 Complaints: 113<br>Benches: 2<br>Gardens: 0<br>Trees: 635<br>Greenstreets: 0<br>Chill Score: 5.24<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -12526,7 +12526,7 @@ geo_json_d2dece679120149bcf5510eb0c9b501f_add({
 
 geo_json_d2dece679120149bcf5510eb0c9b501f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 666<br>311 Complaints 54<br>Benches: 0<br>Gardens: 0<br>Trees: 572<br>Greenstreets: 6<br>Chill Score: 8.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 666<br>311 Complaints: 54<br>Benches: 0<br>Gardens: 0<br>Trees: 572<br>Greenstreets: 6<br>Chill Score: 8.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -12617,7 +12617,7 @@ geo_json_f783244d8aae0e9b427e7a4b7a2c619f_add({
 
 geo_json_f783244d8aae0e9b427e7a4b7a2c619f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 667<br>311 Complaints 22<br>Benches: 0<br>Gardens: 0<br>Trees: 142<br>Greenstreets: 15<br>Chill Score: 8.7<br></div>
+                     <div style="font-family: monospace;">Grid ID: 667<br>311 Complaints: 22<br>Benches: 0<br>Gardens: 0<br>Trees: 142<br>Greenstreets: 15<br>Chill Score: 8.7<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -12708,7 +12708,7 @@ geo_json_d2f6760f567f1e4791ffcd3f2296b169_add({
 
 geo_json_d2f6760f567f1e4791ffcd3f2296b169.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 668<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 6<br>Greenstreets: 0<br>Chill Score: 0.06<br></div>
+                     <div style="font-family: monospace;">Grid ID: 668<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 6<br>Greenstreets: 0<br>Chill Score: 0.06<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -12799,7 +12799,7 @@ geo_json_c51fa036d702304d42fdf18b7d967593_add({
 
 geo_json_c51fa036d702304d42fdf18b7d967593.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 674<br>311 Complaints 15<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.15<br></div>
+                     <div style="font-family: monospace;">Grid ID: 674<br>311 Complaints: 15<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.15<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -12890,7 +12890,7 @@ geo_json_870138dee208fa8b9ad985a4aec8e7fc_add({
 
 geo_json_870138dee208fa8b9ad985a4aec8e7fc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 675<br>311 Complaints 64<br>Benches: 0<br>Gardens: 0<br>Trees: 174<br>Greenstreets: 13<br>Chill Score: 7.6<br></div>
+                     <div style="font-family: monospace;">Grid ID: 675<br>311 Complaints: 64<br>Benches: 0<br>Gardens: 0<br>Trees: 174<br>Greenstreets: 13<br>Chill Score: 7.6<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -12981,7 +12981,7 @@ geo_json_4235a98f75b35195e268c1df49a8cd77_add({
 
 geo_json_4235a98f75b35195e268c1df49a8cd77.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 676<br>311 Complaints 47<br>Benches: 1<br>Gardens: 1<br>Trees: 224<br>Greenstreets: 6<br>Chill Score: 5.28<br></div>
+                     <div style="font-family: monospace;">Grid ID: 676<br>311 Complaints: 47<br>Benches: 1<br>Gardens: 1<br>Trees: 224<br>Greenstreets: 6<br>Chill Score: 5.28<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -13072,7 +13072,7 @@ geo_json_c2ca5d7323a9e75ec9b67b0a05f3da6f_add({
 
 geo_json_c2ca5d7323a9e75ec9b67b0a05f3da6f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 677<br>311 Complaints 152<br>Benches: 2<br>Gardens: 0<br>Trees: 264<br>Greenstreets: 2<br>Chill Score: 2.14<br></div>
+                     <div style="font-family: monospace;">Grid ID: 677<br>311 Complaints: 152<br>Benches: 2<br>Gardens: 0<br>Trees: 264<br>Greenstreets: 2<br>Chill Score: 2.14<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -13163,7 +13163,7 @@ geo_json_a502c7ac6a255daedcfea95a1efef7e2_add({
 
 geo_json_a502c7ac6a255daedcfea95a1efef7e2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 678<br>311 Complaints 51<br>Benches: 1<br>Gardens: 0<br>Trees: 299<br>Greenstreets: 3<br>Chill Score: 3.99<br></div>
+                     <div style="font-family: monospace;">Grid ID: 678<br>311 Complaints: 51<br>Benches: 1<br>Gardens: 0<br>Trees: 299<br>Greenstreets: 3<br>Chill Score: 3.99<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -13254,7 +13254,7 @@ geo_json_8055cdf199d70a3a5a6498644a38a002_add({
 
 geo_json_8055cdf199d70a3a5a6498644a38a002.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 679<br>311 Complaints 380<br>Benches: 2<br>Gardens: 0<br>Trees: 607<br>Greenstreets: 2<br>Chill Score: 3.29<br></div>
+                     <div style="font-family: monospace;">Grid ID: 679<br>311 Complaints: 380<br>Benches: 2<br>Gardens: 0<br>Trees: 607<br>Greenstreets: 2<br>Chill Score: 3.29<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -13345,7 +13345,7 @@ geo_json_db4a8d42badcdcb27b065f79c4b710b0_add({
 
 geo_json_db4a8d42badcdcb27b065f79c4b710b0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 680<br>311 Complaints 258<br>Benches: 3<br>Gardens: 0<br>Trees: 591<br>Greenstreets: 11<br>Chill Score: 8.86<br></div>
+                     <div style="font-family: monospace;">Grid ID: 680<br>311 Complaints: 258<br>Benches: 3<br>Gardens: 0<br>Trees: 591<br>Greenstreets: 11<br>Chill Score: 8.86<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -13436,7 +13436,7 @@ geo_json_541f724bae47afb56e19b008a99e1811_add({
 
 geo_json_541f724bae47afb56e19b008a99e1811.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 681<br>311 Complaints 144<br>Benches: 0<br>Gardens: 0<br>Trees: 687<br>Greenstreets: 1<br>Chill Score: 5.93<br></div>
+                     <div style="font-family: monospace;">Grid ID: 681<br>311 Complaints: 144<br>Benches: 0<br>Gardens: 0<br>Trees: 687<br>Greenstreets: 1<br>Chill Score: 5.93<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -13527,7 +13527,7 @@ geo_json_2d5559b4f06788f0fbb0a7f331607e28_add({
 
 geo_json_2d5559b4f06788f0fbb0a7f331607e28.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 682<br>311 Complaints 74<br>Benches: 0<br>Gardens: 0<br>Trees: 208<br>Greenstreets: 0<br>Chill Score: 1.34<br></div>
+                     <div style="font-family: monospace;">Grid ID: 682<br>311 Complaints: 74<br>Benches: 0<br>Gardens: 0<br>Trees: 208<br>Greenstreets: 0<br>Chill Score: 1.34<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -13618,7 +13618,7 @@ geo_json_54d95d2142f6b5b7a14797deb5a4d9a0_add({
 
 geo_json_54d95d2142f6b5b7a14797deb5a4d9a0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 687<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 7<br>Greenstreets: 0<br>Chill Score: 0.05<br></div>
+                     <div style="font-family: monospace;">Grid ID: 687<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 7<br>Greenstreets: 0<br>Chill Score: 0.05<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -13709,7 +13709,7 @@ geo_json_817a8de02cd139ea8dc91fae4c611713_add({
 
 geo_json_817a8de02cd139ea8dc91fae4c611713.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 690<br>311 Complaints 40<br>Benches: 0<br>Gardens: 0<br>Trees: 338<br>Greenstreets: 0<br>Chill Score: 2.98<br></div>
+                     <div style="font-family: monospace;">Grid ID: 690<br>311 Complaints: 40<br>Benches: 0<br>Gardens: 0<br>Trees: 338<br>Greenstreets: 0<br>Chill Score: 2.98<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -13800,7 +13800,7 @@ geo_json_c69fe0092fc213b095060ecbfdead504_add({
 
 geo_json_c69fe0092fc213b095060ecbfdead504.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 691<br>311 Complaints 129<br>Benches: 0<br>Gardens: 0<br>Trees: 922<br>Greenstreets: 6<br>Chill Score: 10.93<br></div>
+                     <div style="font-family: monospace;">Grid ID: 691<br>311 Complaints: 129<br>Benches: 0<br>Gardens: 0<br>Trees: 922<br>Greenstreets: 6<br>Chill Score: 10.93<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -13891,7 +13891,7 @@ geo_json_0381f91665cef961afe2216a4d15d8fa_add({
 
 geo_json_0381f91665cef961afe2216a4d15d8fa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 692<br>311 Complaints 168<br>Benches: 6<br>Gardens: 0<br>Trees: 415<br>Greenstreets: 7<br>Chill Score: 6.03<br></div>
+                     <div style="font-family: monospace;">Grid ID: 692<br>311 Complaints: 168<br>Benches: 6<br>Gardens: 0<br>Trees: 415<br>Greenstreets: 7<br>Chill Score: 6.03<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -13982,7 +13982,7 @@ geo_json_c3cdaf1f883b53eb7fe406d220672669_add({
 
 geo_json_c3cdaf1f883b53eb7fe406d220672669.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 693<br>311 Complaints 139<br>Benches: 0<br>Gardens: 0<br>Trees: 135<br>Greenstreets: 5<br>Chill Score: 2.46<br></div>
+                     <div style="font-family: monospace;">Grid ID: 693<br>311 Complaints: 139<br>Benches: 0<br>Gardens: 0<br>Trees: 135<br>Greenstreets: 5<br>Chill Score: 2.46<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -14073,7 +14073,7 @@ geo_json_599cfac3ae1454cae62a18b26650b6eb_add({
 
 geo_json_599cfac3ae1454cae62a18b26650b6eb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 694<br>311 Complaints 21<br>Benches: 0<br>Gardens: 0<br>Trees: 27<br>Greenstreets: 4<br>Chill Score: 2.06<br></div>
+                     <div style="font-family: monospace;">Grid ID: 694<br>311 Complaints: 21<br>Benches: 0<br>Gardens: 0<br>Trees: 27<br>Greenstreets: 4<br>Chill Score: 2.06<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -14164,7 +14164,7 @@ geo_json_0b81d745648a97898514685f142f3b7a_add({
 
 geo_json_0b81d745648a97898514685f142f3b7a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 713<br>311 Complaints 8<br>Benches: 0<br>Gardens: 0<br>Trees: 10<br>Greenstreets: 0<br>Chill Score: 0.020000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 713<br>311 Complaints: 8<br>Benches: 0<br>Gardens: 0<br>Trees: 10<br>Greenstreets: 0<br>Chill Score: 0.020000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -14255,7 +14255,7 @@ geo_json_5010b978abfd34f5ce083671edada223_add({
 
 geo_json_5010b978abfd34f5ce083671edada223.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 714<br>311 Complaints 47<br>Benches: 0<br>Gardens: 0<br>Trees: 257<br>Greenstreets: 1<br>Chill Score: 2.5999999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 714<br>311 Complaints: 47<br>Benches: 0<br>Gardens: 0<br>Trees: 257<br>Greenstreets: 1<br>Chill Score: 2.5999999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -14346,7 +14346,7 @@ geo_json_a5c4a57541aac11f164fdb4c9c24b2b3_add({
 
 geo_json_a5c4a57541aac11f164fdb4c9c24b2b3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 715<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 41<br>Greenstreets: 0<br>Chill Score: 0.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 715<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 41<br>Greenstreets: 0<br>Chill Score: 0.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -14437,7 +14437,7 @@ geo_json_b597ebf71d0a338feb9a725f2ac6cc49_add({
 
 geo_json_b597ebf71d0a338feb9a725f2ac6cc49.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 716<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 17<br>Greenstreets: 2<br>Chill Score: 1.17<br></div>
+                     <div style="font-family: monospace;">Grid ID: 716<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 17<br>Greenstreets: 2<br>Chill Score: 1.17<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -14528,7 +14528,7 @@ geo_json_21818336257bc5ae96451e9d0f928292_add({
 
 geo_json_21818336257bc5ae96451e9d0f928292.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 717<br>311 Complaints 93<br>Benches: 0<br>Gardens: 0<br>Trees: 574<br>Greenstreets: 14<br>Chill Score: 11.81<br></div>
+                     <div style="font-family: monospace;">Grid ID: 717<br>311 Complaints: 93<br>Benches: 0<br>Gardens: 0<br>Trees: 574<br>Greenstreets: 14<br>Chill Score: 11.81<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -14619,7 +14619,7 @@ geo_json_e6672cef0c6e553d31ae6cb24460622f_add({
 
 geo_json_e6672cef0c6e553d31ae6cb24460622f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 718<br>311 Complaints 154<br>Benches: 0<br>Gardens: 0<br>Trees: 1116<br>Greenstreets: 0<br>Chill Score: 9.620000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 718<br>311 Complaints: 154<br>Benches: 0<br>Gardens: 0<br>Trees: 1116<br>Greenstreets: 0<br>Chill Score: 9.620000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -14710,7 +14710,7 @@ geo_json_163f2ad4ea621e37c83992f3c866945f_add({
 
 geo_json_163f2ad4ea621e37c83992f3c866945f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 719<br>311 Complaints 56<br>Benches: 0<br>Gardens: 0<br>Trees: 299<br>Greenstreets: 0<br>Chill Score: 2.43<br></div>
+                     <div style="font-family: monospace;">Grid ID: 719<br>311 Complaints: 56<br>Benches: 0<br>Gardens: 0<br>Trees: 299<br>Greenstreets: 0<br>Chill Score: 2.43<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -14800,7 +14800,7 @@ geo_json_f454f146e13598c7051f31346806ce95_add({
 
 geo_json_f454f146e13598c7051f31346806ce95.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 720<br>311 Complaints 4<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.04<br></div>
+                     <div style="font-family: monospace;">Grid ID: 720<br>311 Complaints: 4<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.04<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -14891,7 +14891,7 @@ geo_json_0ec523d63177825f1804d6e6c890c590_add({
 
 geo_json_0ec523d63177825f1804d6e6c890c590.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 723<br>311 Complaints 53<br>Benches: 0<br>Gardens: 0<br>Trees: 188<br>Greenstreets: 0<br>Chill Score: 1.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 723<br>311 Complaints: 53<br>Benches: 0<br>Gardens: 0<br>Trees: 188<br>Greenstreets: 0<br>Chill Score: 1.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -14982,7 +14982,7 @@ geo_json_e8aa32c904ac8ff12b1b9447c5118294_add({
 
 geo_json_e8aa32c904ac8ff12b1b9447c5118294.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 724<br>311 Complaints 110<br>Benches: 1<br>Gardens: 0<br>Trees: 736<br>Greenstreets: 1<br>Chill Score: 6.7700000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 724<br>311 Complaints: 110<br>Benches: 1<br>Gardens: 0<br>Trees: 736<br>Greenstreets: 1<br>Chill Score: 6.7700000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -15073,7 +15073,7 @@ geo_json_5bee481c7573b8d93ef9becc44ae6275_add({
 
 geo_json_5bee481c7573b8d93ef9becc44ae6275.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 725<br>311 Complaints 78<br>Benches: 0<br>Gardens: 0<br>Trees: 623<br>Greenstreets: 10<br>Chill Score: 10.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 725<br>311 Complaints: 78<br>Benches: 0<br>Gardens: 0<br>Trees: 623<br>Greenstreets: 10<br>Chill Score: 10.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -15164,7 +15164,7 @@ geo_json_80133ea136f2b4a99b3937dea7e53f54_add({
 
 geo_json_80133ea136f2b4a99b3937dea7e53f54.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 726<br>311 Complaints 34<br>Benches: 0<br>Gardens: 0<br>Trees: 235<br>Greenstreets: 0<br>Chill Score: 2.0100000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 726<br>311 Complaints: 34<br>Benches: 0<br>Gardens: 0<br>Trees: 235<br>Greenstreets: 0<br>Chill Score: 2.0100000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -15255,7 +15255,7 @@ geo_json_2b4a3885c32c497cc74ebe331886eb14_add({
 
 geo_json_2b4a3885c32c497cc74ebe331886eb14.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 727<br>311 Complaints 48<br>Benches: 1<br>Gardens: 0<br>Trees: 140<br>Greenstreets: 9<br>Chill Score: 5.43<br></div>
+                     <div style="font-family: monospace;">Grid ID: 727<br>311 Complaints: 48<br>Benches: 1<br>Gardens: 0<br>Trees: 140<br>Greenstreets: 9<br>Chill Score: 5.43<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -15346,7 +15346,7 @@ geo_json_847bd92720a29e9d389f7b94fadce697_add({
 
 geo_json_847bd92720a29e9d389f7b94fadce697.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 735<br>311 Complaints 99<br>Benches: 0<br>Gardens: 0<br>Trees: 219<br>Greenstreets: 3<br>Chill Score: 2.7<br></div>
+                     <div style="font-family: monospace;">Grid ID: 735<br>311 Complaints: 99<br>Benches: 0<br>Gardens: 0<br>Trees: 219<br>Greenstreets: 3<br>Chill Score: 2.7<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -15437,7 +15437,7 @@ geo_json_ec8d6f5e1555f701a14b0627c8a2d532_add({
 
 geo_json_ec8d6f5e1555f701a14b0627c8a2d532.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 736<br>311 Complaints 108<br>Benches: 0<br>Gardens: 0<br>Trees: 251<br>Greenstreets: 1<br>Chill Score: 1.9300000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 736<br>311 Complaints: 108<br>Benches: 0<br>Gardens: 0<br>Trees: 251<br>Greenstreets: 1<br>Chill Score: 1.9300000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -15528,7 +15528,7 @@ geo_json_e64ab67e4416fedefbcfe1ef8812580f_add({
 
 geo_json_e64ab67e4416fedefbcfe1ef8812580f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 737<br>311 Complaints 69<br>Benches: 2<br>Gardens: 0<br>Trees: 260<br>Greenstreets: 1<br>Chill Score: 2.43<br></div>
+                     <div style="font-family: monospace;">Grid ID: 737<br>311 Complaints: 69<br>Benches: 2<br>Gardens: 0<br>Trees: 260<br>Greenstreets: 1<br>Chill Score: 2.43<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -15619,7 +15619,7 @@ geo_json_030b27255f7ed4b8eb2ffad7d5abf5d9_add({
 
 geo_json_030b27255f7ed4b8eb2ffad7d5abf5d9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 738<br>311 Complaints 202<br>Benches: 1<br>Gardens: 0<br>Trees: 678<br>Greenstreets: 2<br>Chill Score: 5.77<br></div>
+                     <div style="font-family: monospace;">Grid ID: 738<br>311 Complaints: 202<br>Benches: 1<br>Gardens: 0<br>Trees: 678<br>Greenstreets: 2<br>Chill Score: 5.77<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -15710,7 +15710,7 @@ geo_json_733ecaabe05ac7a5e3012e290c77b5f1_add({
 
 geo_json_733ecaabe05ac7a5e3012e290c77b5f1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 739<br>311 Complaints 187<br>Benches: 1<br>Gardens: 0<br>Trees: 512<br>Greenstreets: 5<br>Chill Score: 5.76<br></div>
+                     <div style="font-family: monospace;">Grid ID: 739<br>311 Complaints: 187<br>Benches: 1<br>Gardens: 0<br>Trees: 512<br>Greenstreets: 5<br>Chill Score: 5.76<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -15801,7 +15801,7 @@ geo_json_9bcb184f7f0c64691655dbf466716356_add({
 
 geo_json_9bcb184f7f0c64691655dbf466716356.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 740<br>311 Complaints 257<br>Benches: 2<br>Gardens: 0<br>Trees: 684<br>Greenstreets: 1<br>Chill Score: 4.79<br></div>
+                     <div style="font-family: monospace;">Grid ID: 740<br>311 Complaints: 257<br>Benches: 2<br>Gardens: 0<br>Trees: 684<br>Greenstreets: 1<br>Chill Score: 4.79<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -15892,7 +15892,7 @@ geo_json_c4d0b68f6e483c1d6dde70974b02f0cf_add({
 
 geo_json_c4d0b68f6e483c1d6dde70974b02f0cf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 741<br>311 Complaints 200<br>Benches: 2<br>Gardens: 0<br>Trees: 534<br>Greenstreets: 3<br>Chill Score: 4.859999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 741<br>311 Complaints: 200<br>Benches: 2<br>Gardens: 0<br>Trees: 534<br>Greenstreets: 3<br>Chill Score: 4.859999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -15983,7 +15983,7 @@ geo_json_f079b59d5f9345b42b6c7a6e5103dabc_add({
 
 geo_json_f079b59d5f9345b42b6c7a6e5103dabc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 742<br>311 Complaints 79<br>Benches: 0<br>Gardens: 0<br>Trees: 73<br>Greenstreets: 0<br>Chill Score: -0.06000000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 742<br>311 Complaints: 79<br>Benches: 0<br>Gardens: 0<br>Trees: 73<br>Greenstreets: 0<br>Chill Score: -0.06000000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -16074,7 +16074,7 @@ geo_json_dbdb7e078df625abeb9425df68d7f6f1_add({
 
 geo_json_dbdb7e078df625abeb9425df68d7f6f1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 743<br>311 Complaints 27<br>Benches: 0<br>Gardens: 0<br>Trees: 22<br>Greenstreets: 1<br>Chill Score: 0.44999999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 743<br>311 Complaints: 27<br>Benches: 0<br>Gardens: 0<br>Trees: 22<br>Greenstreets: 1<br>Chill Score: 0.44999999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -16165,7 +16165,7 @@ geo_json_8fe49dc4112f758cf53c794715644888_add({
 
 geo_json_8fe49dc4112f758cf53c794715644888.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 745<br>311 Complaints 15<br>Benches: 0<br>Gardens: 0<br>Trees: 50<br>Greenstreets: 0<br>Chill Score: 0.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 745<br>311 Complaints: 15<br>Benches: 0<br>Gardens: 0<br>Trees: 50<br>Greenstreets: 0<br>Chill Score: 0.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -16256,7 +16256,7 @@ geo_json_38aa75570e196bce6bc0c114d04871d0_add({
 
 geo_json_38aa75570e196bce6bc0c114d04871d0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 746<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 4<br>Greenstreets: 0<br>Chill Score: 0.04<br></div>
+                     <div style="font-family: monospace;">Grid ID: 746<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 4<br>Greenstreets: 0<br>Chill Score: 0.04<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -16347,7 +16347,7 @@ geo_json_3a0313536a1b07a76ed93781f14a238c_add({
 
 geo_json_3a0313536a1b07a76ed93781f14a238c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 751<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 8<br>Greenstreets: 0<br>Chill Score: 0.06<br></div>
+                     <div style="font-family: monospace;">Grid ID: 751<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 8<br>Greenstreets: 0<br>Chill Score: 0.06<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -16438,7 +16438,7 @@ geo_json_dbcb3a1a53dca9287cbb9a750c04ce47_add({
 
 geo_json_dbcb3a1a53dca9287cbb9a750c04ce47.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 752<br>311 Complaints 20<br>Benches: 1<br>Gardens: 0<br>Trees: 78<br>Greenstreets: 2<br>Chill Score: 1.59<br></div>
+                     <div style="font-family: monospace;">Grid ID: 752<br>311 Complaints: 20<br>Benches: 1<br>Gardens: 0<br>Trees: 78<br>Greenstreets: 2<br>Chill Score: 1.59<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -16529,7 +16529,7 @@ geo_json_569e40e9c87b337a7446b92f7102d156_add({
 
 geo_json_569e40e9c87b337a7446b92f7102d156.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 753<br>311 Complaints 134<br>Benches: 2<br>Gardens: 0<br>Trees: 247<br>Greenstreets: 5<br>Chill Score: 3.6500000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 753<br>311 Complaints: 134<br>Benches: 2<br>Gardens: 0<br>Trees: 247<br>Greenstreets: 5<br>Chill Score: 3.6500000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -16620,7 +16620,7 @@ geo_json_3f212d0e7cc8bb07274e1ace8e6ada28_add({
 
 geo_json_3f212d0e7cc8bb07274e1ace8e6ada28.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 754<br>311 Complaints 116<br>Benches: 1<br>Gardens: 1<br>Trees: 222<br>Greenstreets: 11<br>Chill Score: 7.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 754<br>311 Complaints: 116<br>Benches: 1<br>Gardens: 1<br>Trees: 222<br>Greenstreets: 11<br>Chill Score: 7.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -16711,7 +16711,7 @@ geo_json_2663e0ecf0e4e9ba9c5cd5e6a938c64a_add({
 
 geo_json_2663e0ecf0e4e9ba9c5cd5e6a938c64a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 755<br>311 Complaints 69<br>Benches: 0<br>Gardens: 0<br>Trees: 395<br>Greenstreets: 3<br>Chill Score: 4.76<br></div>
+                     <div style="font-family: monospace;">Grid ID: 755<br>311 Complaints: 69<br>Benches: 0<br>Gardens: 0<br>Trees: 395<br>Greenstreets: 3<br>Chill Score: 4.76<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -16802,7 +16802,7 @@ geo_json_a935c89b2cbe60dc7065a291ce30064f_add({
 
 geo_json_a935c89b2cbe60dc7065a291ce30064f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 756<br>311 Complaints 7<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 756<br>311 Complaints: 7<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -16893,7 +16893,7 @@ geo_json_679590a213eac79e68548f822673860c_add({
 
 geo_json_679590a213eac79e68548f822673860c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 773<br>311 Complaints 22<br>Benches: 0<br>Gardens: 0<br>Trees: 64<br>Greenstreets: 0<br>Chill Score: 0.42000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 773<br>311 Complaints: 22<br>Benches: 0<br>Gardens: 0<br>Trees: 64<br>Greenstreets: 0<br>Chill Score: 0.42000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -16984,7 +16984,7 @@ geo_json_cac785bb7fee51cdea35b35cc845405e_add({
 
 geo_json_cac785bb7fee51cdea35b35cc845405e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 774<br>311 Complaints 33<br>Benches: 0<br>Gardens: 0<br>Trees: 61<br>Greenstreets: 0<br>Chill Score: 0.27999999999999997<br></div>
+                     <div style="font-family: monospace;">Grid ID: 774<br>311 Complaints: 33<br>Benches: 0<br>Gardens: 0<br>Trees: 61<br>Greenstreets: 0<br>Chill Score: 0.27999999999999997<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -17075,7 +17075,7 @@ geo_json_5ad6f7eb19d2418b600e37a5d4d5488b_add({
 
 geo_json_5ad6f7eb19d2418b600e37a5d4d5488b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 776<br>311 Complaints 101<br>Benches: 0<br>Gardens: 0<br>Trees: 611<br>Greenstreets: 16<br>Chill Score: 13.100000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 776<br>311 Complaints: 101<br>Benches: 0<br>Gardens: 0<br>Trees: 611<br>Greenstreets: 16<br>Chill Score: 13.100000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -17166,7 +17166,7 @@ geo_json_7498017169c9fe458d299779bbc4c367_add({
 
 geo_json_7498017169c9fe458d299779bbc4c367.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 777<br>311 Complaints 27<br>Benches: 0<br>Gardens: 0<br>Trees: 374<br>Greenstreets: 0<br>Chill Score: 3.47<br></div>
+                     <div style="font-family: monospace;">Grid ID: 777<br>311 Complaints: 27<br>Benches: 0<br>Gardens: 0<br>Trees: 374<br>Greenstreets: 0<br>Chill Score: 3.47<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -17257,7 +17257,7 @@ geo_json_c7d9f6dde592d7a957526f65beaac469_add({
 
 geo_json_c7d9f6dde592d7a957526f65beaac469.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 778<br>311 Complaints 14<br>Benches: 0<br>Gardens: 0<br>Trees: 104<br>Greenstreets: 0<br>Chill Score: 0.9<br></div>
+                     <div style="font-family: monospace;">Grid ID: 778<br>311 Complaints: 14<br>Benches: 0<br>Gardens: 0<br>Trees: 104<br>Greenstreets: 0<br>Chill Score: 0.9<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -17348,7 +17348,7 @@ geo_json_70935afa82c8368572b69ff870efa98e_add({
 
 geo_json_70935afa82c8368572b69ff870efa98e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 779<br>311 Complaints 41<br>Benches: 0<br>Gardens: 0<br>Trees: 290<br>Greenstreets: 2<br>Chill Score: 3.4899999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 779<br>311 Complaints: 41<br>Benches: 0<br>Gardens: 0<br>Trees: 290<br>Greenstreets: 2<br>Chill Score: 3.4899999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -17439,7 +17439,7 @@ geo_json_79659c1cabc48da52fa89d6238c267a9_add({
 
 geo_json_79659c1cabc48da52fa89d6238c267a9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 780<br>311 Complaints 12<br>Benches: 0<br>Gardens: 0<br>Trees: 148<br>Greenstreets: 0<br>Chill Score: 1.3599999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 780<br>311 Complaints: 12<br>Benches: 0<br>Gardens: 0<br>Trees: 148<br>Greenstreets: 0<br>Chill Score: 1.3599999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -17530,7 +17530,7 @@ geo_json_4a995073df384461402871342da13559_add({
 
 geo_json_4a995073df384461402871342da13559.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 781<br>311 Complaints 5<br>Benches: 0<br>Gardens: 0<br>Trees: 5<br>Greenstreets: 0<br>Chill Score: 0.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 781<br>311 Complaints: 5<br>Benches: 0<br>Gardens: 0<br>Trees: 5<br>Greenstreets: 0<br>Chill Score: 0.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -17621,7 +17621,7 @@ geo_json_318aadc876c16b1d432d657cb0cbd280_add({
 
 geo_json_318aadc876c16b1d432d657cb0cbd280.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 782<br>311 Complaints 59<br>Benches: 0<br>Gardens: 0<br>Trees: 171<br>Greenstreets: 0<br>Chill Score: 1.12<br></div>
+                     <div style="font-family: monospace;">Grid ID: 782<br>311 Complaints: 59<br>Benches: 0<br>Gardens: 0<br>Trees: 171<br>Greenstreets: 0<br>Chill Score: 1.12<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -17712,7 +17712,7 @@ geo_json_c91571a29c984b46695db4814ca8ca78_add({
 
 geo_json_c91571a29c984b46695db4814ca8ca78.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 783<br>311 Complaints 90<br>Benches: 0<br>Gardens: 0<br>Trees: 679<br>Greenstreets: 0<br>Chill Score: 5.89<br></div>
+                     <div style="font-family: monospace;">Grid ID: 783<br>311 Complaints: 90<br>Benches: 0<br>Gardens: 0<br>Trees: 679<br>Greenstreets: 0<br>Chill Score: 5.89<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -17803,7 +17803,7 @@ geo_json_1ddd32811ad20ab9f9769cdc522fe059_add({
 
 geo_json_1ddd32811ad20ab9f9769cdc522fe059.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 784<br>311 Complaints 92<br>Benches: 0<br>Gardens: 0<br>Trees: 769<br>Greenstreets: 4<br>Chill Score: 8.77<br></div>
+                     <div style="font-family: monospace;">Grid ID: 784<br>311 Complaints: 92<br>Benches: 0<br>Gardens: 0<br>Trees: 769<br>Greenstreets: 4<br>Chill Score: 8.77<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -17894,7 +17894,7 @@ geo_json_cf4970c51bf2b6203363b845e0c329a3_add({
 
 geo_json_cf4970c51bf2b6203363b845e0c329a3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 785<br>311 Complaints 153<br>Benches: 1<br>Gardens: 1<br>Trees: 641<br>Greenstreets: 8<br>Chill Score: 9.39<br></div>
+                     <div style="font-family: monospace;">Grid ID: 785<br>311 Complaints: 153<br>Benches: 1<br>Gardens: 1<br>Trees: 641<br>Greenstreets: 8<br>Chill Score: 9.39<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -17985,7 +17985,7 @@ geo_json_11dc327d7336f9754f0b15e72659f114_add({
 
 geo_json_11dc327d7336f9754f0b15e72659f114.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 786<br>311 Complaints 176<br>Benches: 1<br>Gardens: 0<br>Trees: 680<br>Greenstreets: 1<br>Chill Score: 5.55<br></div>
+                     <div style="font-family: monospace;">Grid ID: 786<br>311 Complaints: 176<br>Benches: 1<br>Gardens: 0<br>Trees: 680<br>Greenstreets: 1<br>Chill Score: 5.55<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -18076,7 +18076,7 @@ geo_json_07af7b998af2d597df6fc1f5fc229377_add({
 
 geo_json_07af7b998af2d597df6fc1f5fc229377.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 787<br>311 Complaints 16<br>Benches: 1<br>Gardens: 0<br>Trees: 68<br>Greenstreets: 7<br>Chill Score: 4.03<br></div>
+                     <div style="font-family: monospace;">Grid ID: 787<br>311 Complaints: 16<br>Benches: 1<br>Gardens: 0<br>Trees: 68<br>Greenstreets: 7<br>Chill Score: 4.03<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -18167,7 +18167,7 @@ geo_json_602663ee1f9eaa5dad42eeaf04c0ec03_add({
 
 geo_json_602663ee1f9eaa5dad42eeaf04c0ec03.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 793<br>311 Complaints 48<br>Benches: 0<br>Gardens: 0<br>Trees: 115<br>Greenstreets: 0<br>Chill Score: 0.6700000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 793<br>311 Complaints: 48<br>Benches: 0<br>Gardens: 0<br>Trees: 115<br>Greenstreets: 0<br>Chill Score: 0.6700000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -18258,7 +18258,7 @@ geo_json_1dc252594a86cd4f5faaf9da40bb4b99_add({
 
 geo_json_1dc252594a86cd4f5faaf9da40bb4b99.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 794<br>311 Complaints 175<br>Benches: 3<br>Gardens: 0<br>Trees: 462<br>Greenstreets: 2<br>Chill Score: 3.9000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 794<br>311 Complaints: 175<br>Benches: 3<br>Gardens: 0<br>Trees: 462<br>Greenstreets: 2<br>Chill Score: 3.9000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -18349,7 +18349,7 @@ geo_json_97d06d553a5ded79f21ed18dd91cc0ed_add({
 
 geo_json_97d06d553a5ded79f21ed18dd91cc0ed.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 795<br>311 Complaints 190<br>Benches: 4<br>Gardens: 0<br>Trees: 421<br>Greenstreets: 1<br>Chill Score: 2.8499999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 795<br>311 Complaints: 190<br>Benches: 4<br>Gardens: 0<br>Trees: 421<br>Greenstreets: 1<br>Chill Score: 2.8499999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -18440,7 +18440,7 @@ geo_json_065e53b9d6e9045a4f009ab915ad7e94_add({
 
 geo_json_065e53b9d6e9045a4f009ab915ad7e94.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 796<br>311 Complaints 228<br>Benches: 4<br>Gardens: 0<br>Trees: 525<br>Greenstreets: 4<br>Chill Score: 5.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 796<br>311 Complaints: 228<br>Benches: 4<br>Gardens: 0<br>Trees: 525<br>Greenstreets: 4<br>Chill Score: 5.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -18531,7 +18531,7 @@ geo_json_de56d5ffbc56b4b115a42561edf7d081_add({
 
 geo_json_de56d5ffbc56b4b115a42561edf7d081.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 797<br>311 Complaints 222<br>Benches: 2<br>Gardens: 0<br>Trees: 907<br>Greenstreets: 0<br>Chill Score: 6.87<br></div>
+                     <div style="font-family: monospace;">Grid ID: 797<br>311 Complaints: 222<br>Benches: 2<br>Gardens: 0<br>Trees: 907<br>Greenstreets: 0<br>Chill Score: 6.87<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -18622,7 +18622,7 @@ geo_json_90577f2ddb5de1a4836c5a0e6406c422_add({
 
 geo_json_90577f2ddb5de1a4836c5a0e6406c422.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 798<br>311 Complaints 252<br>df_air_quality_2: 1<brBenches: 3<br>Gardens: 0<br>Trees: 687<br>Greenstreets: 0<br>mean_mcg_m3: 5.4<br>Chill Score: 4.38<br></div>
+                     <div style="font-family: monospace;">Grid ID: 798<br>311 Complaints: 252<br>df_air_quality_2: 1<brBenches: 3<br>Gardens: 0<br>Trees: 687<br>Greenstreets: 0<br>mean_mcg_m3: 5.4<br>Chill Score: 4.38<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -18713,7 +18713,7 @@ geo_json_a2e472caa2d19196dde7c136225ec6c4_add({
 
 geo_json_a2e472caa2d19196dde7c136225ec6c4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 799<br>311 Complaints 233<br>Benches: 0<br>Gardens: 0<br>Trees: 813<br>Greenstreets: 2<br>Chill Score: 6.800000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 799<br>311 Complaints: 233<br>Benches: 0<br>Gardens: 0<br>Trees: 813<br>Greenstreets: 2<br>Chill Score: 6.800000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -18804,7 +18804,7 @@ geo_json_2860afd75230278216c458c7e84010c2_add({
 
 geo_json_2860afd75230278216c458c7e84010c2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 800<br>311 Complaints 211<br>Benches: 1<br>Gardens: 0<br>Trees: 431<br>Greenstreets: 0<br>Chill Score: 2.2100000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 800<br>311 Complaints: 211<br>Benches: 1<br>Gardens: 0<br>Trees: 431<br>Greenstreets: 0<br>Chill Score: 2.2100000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -18895,7 +18895,7 @@ geo_json_c78b8d564ba3ffcabe0fe4f2647927b6_add({
 
 geo_json_c78b8d564ba3ffcabe0fe4f2647927b6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 801<br>311 Complaints 59<br>Benches: 1<br>Gardens: 0<br>Trees: 51<br>Greenstreets: 0<br>Chill Score: -0.06999999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 801<br>311 Complaints: 59<br>Benches: 1<br>Gardens: 0<br>Trees: 51<br>Greenstreets: 0<br>Chill Score: -0.06999999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -18986,7 +18986,7 @@ geo_json_f0f0db49d2ba1f75f3712524995dad5d_add({
 
 geo_json_f0f0db49d2ba1f75f3712524995dad5d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 803<br>311 Complaints 32<br>Benches: 0<br>Gardens: 0<br>Trees: 36<br>Greenstreets: 0<br>Chill Score: 0.03999999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 803<br>311 Complaints: 32<br>Benches: 0<br>Gardens: 0<br>Trees: 36<br>Greenstreets: 0<br>Chill Score: 0.03999999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -19077,7 +19077,7 @@ geo_json_d12481ecf2ac0832fbed2e0ad6eaa74f_add({
 
 geo_json_d12481ecf2ac0832fbed2e0ad6eaa74f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 804<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 9<br>Greenstreets: 0<br>Chill Score: 0.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 804<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 9<br>Greenstreets: 0<br>Chill Score: 0.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -19167,7 +19167,7 @@ geo_json_27f7440a3eaf101a275a0e416a6d3d72_add({
 
 geo_json_27f7440a3eaf101a275a0e416a6d3d72.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 812<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 812<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -19258,7 +19258,7 @@ geo_json_68e16614e7362dd95830dce42ba0e34d_add({
 
 geo_json_68e16614e7362dd95830dce42ba0e34d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 813<br>311 Complaints 45<br>Benches: 0<br>Gardens: 1<br>Trees: 64<br>Greenstreets: 0<br>Chill Score: 0.69<br></div>
+                     <div style="font-family: monospace;">Grid ID: 813<br>311 Complaints: 45<br>Benches: 0<br>Gardens: 1<br>Trees: 64<br>Greenstreets: 0<br>Chill Score: 0.69<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -19349,7 +19349,7 @@ geo_json_747601da1219758c8f2fae4e02dfc85a_add({
 
 geo_json_747601da1219758c8f2fae4e02dfc85a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 814<br>311 Complaints 89<br>Benches: 0<br>Gardens: 0<br>Trees: 556<br>Greenstreets: 1<br>Chill Score: 5.170000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 814<br>311 Complaints: 89<br>Benches: 0<br>Gardens: 0<br>Trees: 556<br>Greenstreets: 1<br>Chill Score: 5.170000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -19440,7 +19440,7 @@ geo_json_cc1480c728577f1e31f384b8dc2b4ebc_add({
 
 geo_json_cc1480c728577f1e31f384b8dc2b4ebc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 815<br>311 Complaints 159<br>Benches: 2<br>Gardens: 0<br>Trees: 641<br>Greenstreets: 0<br>Chill Score: 4.84<br></div>
+                     <div style="font-family: monospace;">Grid ID: 815<br>311 Complaints: 159<br>Benches: 2<br>Gardens: 0<br>Trees: 641<br>Greenstreets: 0<br>Chill Score: 4.84<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -19531,7 +19531,7 @@ geo_json_54930a484cf0b627fca6bd4c7b23b200_add({
 
 geo_json_54930a484cf0b627fca6bd4c7b23b200.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 816<br>311 Complaints 53<br>Benches: 1<br>Gardens: 0<br>Trees: 265<br>Greenstreets: 0<br>Chill Score: 2.13<br></div>
+                     <div style="font-family: monospace;">Grid ID: 816<br>311 Complaints: 53<br>Benches: 1<br>Gardens: 0<br>Trees: 265<br>Greenstreets: 0<br>Chill Score: 2.13<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -19622,7 +19622,7 @@ geo_json_9ac81c551166ff4772a09b67f7ebf866_add({
 
 geo_json_9ac81c551166ff4772a09b67f7ebf866.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 817<br>311 Complaints 105<br>Benches: 0<br>Gardens: 2<br>Trees: 294<br>Greenstreets: 0<br>Chill Score: 2.8899999999999997<br></div>
+                     <div style="font-family: monospace;">Grid ID: 817<br>311 Complaints: 105<br>Benches: 0<br>Gardens: 2<br>Trees: 294<br>Greenstreets: 0<br>Chill Score: 2.8899999999999997<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -19713,7 +19713,7 @@ geo_json_0040cd58fd9c45f59131fb7313fa96b6_add({
 
 geo_json_0040cd58fd9c45f59131fb7313fa96b6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 818<br>311 Complaints 53<br>Benches: 1<br>Gardens: 2<br>Trees: 93<br>Greenstreets: 0<br>Chill Score: 1.4100000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 818<br>311 Complaints: 53<br>Benches: 1<br>Gardens: 2<br>Trees: 93<br>Greenstreets: 0<br>Chill Score: 1.4100000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -19804,7 +19804,7 @@ geo_json_f6826793fe55cdc952f386dee8593f04_add({
 
 geo_json_f6826793fe55cdc952f386dee8593f04.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 819<br>311 Complaints 73<br>Benches: 0<br>Gardens: 0<br>Trees: 183<br>Greenstreets: 8<br>Chill Score: 5.1<br></div>
+                     <div style="font-family: monospace;">Grid ID: 819<br>311 Complaints: 73<br>Benches: 0<br>Gardens: 0<br>Trees: 183<br>Greenstreets: 8<br>Chill Score: 5.1<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -19895,7 +19895,7 @@ geo_json_1a6400ce6a7a9a45a4c175b2388ef6e9_add({
 
 geo_json_1a6400ce6a7a9a45a4c175b2388ef6e9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 820<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 70<br>Greenstreets: 1<br>Chill Score: 1.17<br></div>
+                     <div style="font-family: monospace;">Grid ID: 820<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 70<br>Greenstreets: 1<br>Chill Score: 1.17<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -19986,7 +19986,7 @@ geo_json_a290d27db31d1bd7713347431a906130_add({
 
 geo_json_a290d27db31d1bd7713347431a906130.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 821<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 14<br>Greenstreets: 1<br>Chill Score: 0.63<br></div>
+                     <div style="font-family: monospace;">Grid ID: 821<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 14<br>Greenstreets: 1<br>Chill Score: 0.63<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -20077,7 +20077,7 @@ geo_json_62c52f644694315ec57268078cdfe78a_add({
 
 geo_json_62c52f644694315ec57268078cdfe78a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 832<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 1<br>Chill Score: 0.49<br></div>
+                     <div style="font-family: monospace;">Grid ID: 832<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 1<br>Chill Score: 0.49<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -20168,7 +20168,7 @@ geo_json_814c1c1f75c4292222c474e4310e5c89_add({
 
 geo_json_814c1c1f75c4292222c474e4310e5c89.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 833<br>311 Complaints 37<br>Benches: 0<br>Gardens: 0<br>Trees: 145<br>Greenstreets: 4<br>Chill Score: 3.08<br></div>
+                     <div style="font-family: monospace;">Grid ID: 833<br>311 Complaints: 37<br>Benches: 0<br>Gardens: 0<br>Trees: 145<br>Greenstreets: 4<br>Chill Score: 3.08<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -20259,7 +20259,7 @@ geo_json_52931e48e7a989737c52579a681a6b23_add({
 
 geo_json_52931e48e7a989737c52579a681a6b23.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 834<br>311 Complaints 20<br>Benches: 0<br>Gardens: 0<br>Trees: 129<br>Greenstreets: 0<br>Chill Score: 1.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 834<br>311 Complaints: 20<br>Benches: 0<br>Gardens: 0<br>Trees: 129<br>Greenstreets: 0<br>Chill Score: 1.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -20350,7 +20350,7 @@ geo_json_d4b6b5dd7a1083ae4c4c8cc3c7feb038_add({
 
 geo_json_d4b6b5dd7a1083ae4c4c8cc3c7feb038.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 835<br>311 Complaints 69<br>Benches: 0<br>Gardens: 0<br>Trees: 713<br>Greenstreets: 10<br>Chill Score: 11.44<br></div>
+                     <div style="font-family: monospace;">Grid ID: 835<br>311 Complaints: 69<br>Benches: 0<br>Gardens: 0<br>Trees: 713<br>Greenstreets: 10<br>Chill Score: 11.44<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -20441,7 +20441,7 @@ geo_json_2efbdc7444203ea060173ace501c8385_add({
 
 geo_json_2efbdc7444203ea060173ace501c8385.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 837<br>311 Complaints 33<br>Benches: 0<br>Gardens: 0<br>Trees: 230<br>Greenstreets: 0<br>Chill Score: 1.9700000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 837<br>311 Complaints: 33<br>Benches: 0<br>Gardens: 0<br>Trees: 230<br>Greenstreets: 0<br>Chill Score: 1.9700000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -20532,7 +20532,7 @@ geo_json_d8f21318fde986be5195a8f4995626f4_add({
 
 geo_json_d8f21318fde986be5195a8f4995626f4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 838<br>311 Complaints 155<br>Benches: 1<br>Gardens: 0<br>Trees: 963<br>Greenstreets: 0<br>Chill Score: 8.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 838<br>311 Complaints: 155<br>Benches: 1<br>Gardens: 0<br>Trees: 963<br>Greenstreets: 0<br>Chill Score: 8.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -20623,7 +20623,7 @@ geo_json_8276c1ca98d0178eada63475f2ab8fa5_add({
 
 geo_json_8276c1ca98d0178eada63475f2ab8fa5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 839<br>311 Complaints 99<br>Benches: 0<br>Gardens: 0<br>Trees: 1065<br>Greenstreets: 1<br>Chill Score: 10.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 839<br>311 Complaints: 99<br>Benches: 0<br>Gardens: 0<br>Trees: 1065<br>Greenstreets: 1<br>Chill Score: 10.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -20714,7 +20714,7 @@ geo_json_b0dfc5fc94b3cfd072bb74dd77520cc7_add({
 
 geo_json_b0dfc5fc94b3cfd072bb74dd77520cc7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 840<br>311 Complaints 67<br>Benches: 0<br>Gardens: 0<br>Trees: 409<br>Greenstreets: 0<br>Chill Score: 3.42<br></div>
+                     <div style="font-family: monospace;">Grid ID: 840<br>311 Complaints: 67<br>Benches: 0<br>Gardens: 0<br>Trees: 409<br>Greenstreets: 0<br>Chill Score: 3.42<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -20805,7 +20805,7 @@ geo_json_cf27602ce033c455b4cc90694b8a8aa5_add({
 
 geo_json_cf27602ce033c455b4cc90694b8a8aa5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 841<br>311 Complaints 23<br>Benches: 0<br>Gardens: 0<br>Trees: 16<br>Greenstreets: 0<br>Chill Score: -0.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 841<br>311 Complaints: 23<br>Benches: 0<br>Gardens: 0<br>Trees: 16<br>Greenstreets: 0<br>Chill Score: -0.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -20896,7 +20896,7 @@ geo_json_3b8f0f7c64b0535a0c945dfd2e4630a8_add({
 
 geo_json_3b8f0f7c64b0535a0c945dfd2e4630a8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 842<br>311 Complaints 64<br>Benches: 0<br>Gardens: 0<br>Trees: 491<br>Greenstreets: 1<br>Chill Score: 4.7700000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 842<br>311 Complaints: 64<br>Benches: 0<br>Gardens: 0<br>Trees: 491<br>Greenstreets: 1<br>Chill Score: 4.7700000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -20987,7 +20987,7 @@ geo_json_8a1345c156121ccd06700ca700b29a25_add({
 
 geo_json_8a1345c156121ccd06700ca700b29a25.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 843<br>311 Complaints 142<br>Benches: 2<br>Gardens: 0<br>Trees: 523<br>Greenstreets: 2<br>Chill Score: 4.83<br></div>
+                     <div style="font-family: monospace;">Grid ID: 843<br>311 Complaints: 142<br>Benches: 2<br>Gardens: 0<br>Trees: 523<br>Greenstreets: 2<br>Chill Score: 4.83<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -21078,7 +21078,7 @@ geo_json_c080507f435dfacdacd719493d0753ae_add({
 
 geo_json_c080507f435dfacdacd719493d0753ae.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 844<br>311 Complaints 77<br>Benches: 0<br>Gardens: 0<br>Trees: 476<br>Greenstreets: 7<br>Chill Score: 7.49<br></div>
+                     <div style="font-family: monospace;">Grid ID: 844<br>311 Complaints: 77<br>Benches: 0<br>Gardens: 0<br>Trees: 476<br>Greenstreets: 7<br>Chill Score: 7.49<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -21169,7 +21169,7 @@ geo_json_dfba06b11f38781248322f7cf3d00041_add({
 
 geo_json_dfba06b11f38781248322f7cf3d00041.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 845<br>311 Complaints 75<br>Benches: 0<br>Gardens: 0<br>Trees: 284<br>Greenstreets: 6<br>Chill Score: 5.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 845<br>311 Complaints: 75<br>Benches: 0<br>Gardens: 0<br>Trees: 284<br>Greenstreets: 6<br>Chill Score: 5.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -21260,7 +21260,7 @@ geo_json_2f4de735cb227b2e888d6f1ad1c4df3e_add({
 
 geo_json_2f4de735cb227b2e888d6f1ad1c4df3e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 846<br>311 Complaints 11<br>Benches: 0<br>Gardens: 0<br>Trees: 46<br>Greenstreets: 0<br>Chill Score: 0.35000000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 846<br>311 Complaints: 11<br>Benches: 0<br>Gardens: 0<br>Trees: 46<br>Greenstreets: 0<br>Chill Score: 0.35000000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -21351,7 +21351,7 @@ geo_json_d3d289a4fe8eaed640bac8a9b5ce1eba_add({
 
 geo_json_d3d289a4fe8eaed640bac8a9b5ce1eba.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 850<br>311 Complaints 16<br>Benches: 0<br>Gardens: 0<br>Trees: 58<br>Greenstreets: 2<br>Chill Score: 1.42<br></div>
+                     <div style="font-family: monospace;">Grid ID: 850<br>311 Complaints: 16<br>Benches: 0<br>Gardens: 0<br>Trees: 58<br>Greenstreets: 2<br>Chill Score: 1.42<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -21442,7 +21442,7 @@ geo_json_00f5df26993b6166833fb8512d804821_add({
 
 geo_json_00f5df26993b6166833fb8512d804821.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 851<br>311 Complaints 131<br>Benches: 1<br>Gardens: 0<br>Trees: 454<br>Greenstreets: 0<br>Chill Score: 3.24<br></div>
+                     <div style="font-family: monospace;">Grid ID: 851<br>311 Complaints: 131<br>Benches: 1<br>Gardens: 0<br>Trees: 454<br>Greenstreets: 0<br>Chill Score: 3.24<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -21533,7 +21533,7 @@ geo_json_72ef86c0e8c3efe0eea07202f577b390_add({
 
 geo_json_72ef86c0e8c3efe0eea07202f577b390.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 852<br>311 Complaints 265<br>Benches: 4<br>Gardens: 0<br>Trees: 560<br>Greenstreets: 0<br>Chill Score: 2.9900000000000007<br></div>
+                     <div style="font-family: monospace;">Grid ID: 852<br>311 Complaints: 265<br>Benches: 4<br>Gardens: 0<br>Trees: 560<br>Greenstreets: 0<br>Chill Score: 2.9900000000000007<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -21624,7 +21624,7 @@ geo_json_63f1d6a201401e4dfbe1e34ef501c646_add({
 
 geo_json_63f1d6a201401e4dfbe1e34ef501c646.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 853<br>311 Complaints 356<br>Benches: 4<br>Gardens: 0<br>Trees: 571<br>Greenstreets: 0<br>Chill Score: 2.19<br></div>
+                     <div style="font-family: monospace;">Grid ID: 853<br>311 Complaints: 356<br>Benches: 4<br>Gardens: 0<br>Trees: 571<br>Greenstreets: 0<br>Chill Score: 2.19<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -21715,7 +21715,7 @@ geo_json_c5f961d839fd75a250e1850e79a6537c_add({
 
 geo_json_c5f961d839fd75a250e1850e79a6537c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 854<br>311 Complaints 216<br>Benches: 2<br>Gardens: 0<br>Trees: 767<br>Greenstreets: 0<br>Chill Score: 5.529999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 854<br>311 Complaints: 216<br>Benches: 2<br>Gardens: 0<br>Trees: 767<br>Greenstreets: 0<br>Chill Score: 5.529999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -21806,7 +21806,7 @@ geo_json_1d038c3b22501b80fca62d20e13c2ec0_add({
 
 geo_json_1d038c3b22501b80fca62d20e13c2ec0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 855<br>311 Complaints 256<br>Benches: 3<br>Gardens: 0<br>Trees: 949<br>Greenstreets: 0<br>Chill Score: 6.96<br></div>
+                     <div style="font-family: monospace;">Grid ID: 855<br>311 Complaints: 256<br>Benches: 3<br>Gardens: 0<br>Trees: 949<br>Greenstreets: 0<br>Chill Score: 6.96<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -21897,7 +21897,7 @@ geo_json_f93b8f0a367f44f54bc3eb97634534bb_add({
 
 geo_json_f93b8f0a367f44f54bc3eb97634534bb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 856<br>311 Complaints 228<br>Benches: 3<br>Gardens: 0<br>Trees: 1215<br>Greenstreets: 1<br>Chill Score: 10.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 856<br>311 Complaints: 228<br>Benches: 3<br>Gardens: 0<br>Trees: 1215<br>Greenstreets: 1<br>Chill Score: 10.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -21988,7 +21988,7 @@ geo_json_71d245570d48b4ef805c97473cf9230a_add({
 
 geo_json_71d245570d48b4ef805c97473cf9230a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 857<br>311 Complaints 278<br>Benches: 1<br>Gardens: 0<br>Trees: 817<br>Greenstreets: 0<br>Chill Score: 5.3999999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 857<br>311 Complaints: 278<br>Benches: 1<br>Gardens: 0<br>Trees: 817<br>Greenstreets: 0<br>Chill Score: 5.3999999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -22079,7 +22079,7 @@ geo_json_eeb8821bf1312999bfb4ba7dc990f9d6_add({
 
 geo_json_eeb8821bf1312999bfb4ba7dc990f9d6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 858<br>311 Complaints 283<br>Benches: 6<br>Gardens: 0<br>Trees: 838<br>Greenstreets: 0<br>Chill Score: 5.610000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 858<br>311 Complaints: 283<br>Benches: 6<br>Gardens: 0<br>Trees: 838<br>Greenstreets: 0<br>Chill Score: 5.610000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -22170,7 +22170,7 @@ geo_json_f5b17688c59e8f58b3738d46febf42de_add({
 
 geo_json_f5b17688c59e8f58b3738d46febf42de.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 859<br>311 Complaints 153<br>Benches: 1<br>Gardens: 0<br>Trees: 662<br>Greenstreets: 0<br>Chill Score: 5.1<br></div>
+                     <div style="font-family: monospace;">Grid ID: 859<br>311 Complaints: 153<br>Benches: 1<br>Gardens: 0<br>Trees: 662<br>Greenstreets: 0<br>Chill Score: 5.1<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -22261,7 +22261,7 @@ geo_json_a2a770964c71c49cdb469c4173bc3914_add({
 
 geo_json_a2a770964c71c49cdb469c4173bc3914.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 860<br>311 Complaints 11<br>Benches: 0<br>Gardens: 0<br>Trees: 41<br>Greenstreets: 0<br>Chill Score: 0.30000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 860<br>311 Complaints: 11<br>Benches: 0<br>Gardens: 0<br>Trees: 41<br>Greenstreets: 0<br>Chill Score: 0.30000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -22352,7 +22352,7 @@ geo_json_8599c311bbd16b6cbc35b389b47aa53d_add({
 
 geo_json_8599c311bbd16b6cbc35b389b47aa53d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 861<br>311 Complaints 4<br>Benches: 0<br>Gardens: 0<br>Trees: 63<br>Greenstreets: 0<br>Chill Score: 0.59<br></div>
+                     <div style="font-family: monospace;">Grid ID: 861<br>311 Complaints: 4<br>Benches: 0<br>Gardens: 0<br>Trees: 63<br>Greenstreets: 0<br>Chill Score: 0.59<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -22443,7 +22443,7 @@ geo_json_c009915f0c0e117540778053a7456632_add({
 
 geo_json_c009915f0c0e117540778053a7456632.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 862<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 53<br>Greenstreets: 0<br>Chill Score: 0.5<br></div>
+                     <div style="font-family: monospace;">Grid ID: 862<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 53<br>Greenstreets: 0<br>Chill Score: 0.5<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -22534,7 +22534,7 @@ geo_json_a7ec8d11ddf7a307a08ed47e13bd8411_add({
 
 geo_json_a7ec8d11ddf7a307a08ed47e13bd8411.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 871<br>311 Complaints 29<br>Benches: 0<br>Gardens: 0<br>Trees: 116<br>Greenstreets: 0<br>Chill Score: 0.8699999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 871<br>311 Complaints: 29<br>Benches: 0<br>Gardens: 0<br>Trees: 116<br>Greenstreets: 0<br>Chill Score: 0.8699999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -22625,7 +22625,7 @@ geo_json_34e0002728f3a269a9ef1b474bd97a05_add({
 
 geo_json_34e0002728f3a269a9ef1b474bd97a05.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 873<br>311 Complaints 33<br>Benches: 0<br>Gardens: 0<br>Trees: 119<br>Greenstreets: 0<br>Chill Score: 0.8599999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 873<br>311 Complaints: 33<br>Benches: 0<br>Gardens: 0<br>Trees: 119<br>Greenstreets: 0<br>Chill Score: 0.8599999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -22716,7 +22716,7 @@ geo_json_0f9e61eae8a4b88ddd86948a8eb9f9ba_add({
 
 geo_json_0f9e61eae8a4b88ddd86948a8eb9f9ba.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 874<br>311 Complaints 36<br>Benches: 0<br>Gardens: 0<br>Trees: 330<br>Greenstreets: 0<br>Chill Score: 2.9400000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 874<br>311 Complaints: 36<br>Benches: 0<br>Gardens: 0<br>Trees: 330<br>Greenstreets: 0<br>Chill Score: 2.9400000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -22807,7 +22807,7 @@ geo_json_31fa22c65342c3b5197cec2710624c70_add({
 
 geo_json_31fa22c65342c3b5197cec2710624c70.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 875<br>311 Complaints 13<br>Benches: 0<br>Gardens: 0<br>Trees: 69<br>Greenstreets: 0<br>Chill Score: 0.56<br></div>
+                     <div style="font-family: monospace;">Grid ID: 875<br>311 Complaints: 13<br>Benches: 0<br>Gardens: 0<br>Trees: 69<br>Greenstreets: 0<br>Chill Score: 0.56<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -22898,7 +22898,7 @@ geo_json_f039c79b7bf2ea99933fcf12a1eb259e_add({
 
 geo_json_f039c79b7bf2ea99933fcf12a1eb259e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 876<br>311 Complaints 87<br>Benches: 0<br>Gardens: 1<br>Trees: 97<br>Greenstreets: 0<br>Chill Score: 0.6<br></div>
+                     <div style="font-family: monospace;">Grid ID: 876<br>311 Complaints: 87<br>Benches: 0<br>Gardens: 1<br>Trees: 97<br>Greenstreets: 0<br>Chill Score: 0.6<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -22989,7 +22989,7 @@ geo_json_f3f01e0ccd49c91216ff3209f4af9a8b_add({
 
 geo_json_f3f01e0ccd49c91216ff3209f4af9a8b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 877<br>311 Complaints 122<br>Benches: 0<br>Gardens: 1<br>Trees: 567<br>Greenstreets: 7<br>Chill Score: 8.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 877<br>311 Complaints: 122<br>Benches: 0<br>Gardens: 1<br>Trees: 567<br>Greenstreets: 7<br>Chill Score: 8.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -23080,7 +23080,7 @@ geo_json_966d89645cd2566b997af6864ec9dced_add({
 
 geo_json_966d89645cd2566b997af6864ec9dced.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 878<br>311 Complaints 142<br>Benches: 1<br>Gardens: 0<br>Trees: 475<br>Greenstreets: 2<br>Chill Score: 4.34<br></div>
+                     <div style="font-family: monospace;">Grid ID: 878<br>311 Complaints: 142<br>Benches: 1<br>Gardens: 0<br>Trees: 475<br>Greenstreets: 2<br>Chill Score: 4.34<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -23171,7 +23171,7 @@ geo_json_73f90eb7ef75aa670ed68b1b9848a50c_add({
 
 geo_json_73f90eb7ef75aa670ed68b1b9848a50c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 879<br>311 Complaints 182<br>Benches: 0<br>Gardens: 0<br>Trees: 1032<br>Greenstreets: 6<br>Chill Score: 11.5<br></div>
+                     <div style="font-family: monospace;">Grid ID: 879<br>311 Complaints: 182<br>Benches: 0<br>Gardens: 0<br>Trees: 1032<br>Greenstreets: 6<br>Chill Score: 11.5<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -23262,7 +23262,7 @@ geo_json_921720044757baba7db8267dd2e13aae_add({
 
 geo_json_921720044757baba7db8267dd2e13aae.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 880<br>311 Complaints 33<br>Benches: 0<br>Gardens: 0<br>Trees: 252<br>Greenstreets: 0<br>Chill Score: 2.19<br></div>
+                     <div style="font-family: monospace;">Grid ID: 880<br>311 Complaints: 33<br>Benches: 0<br>Gardens: 0<br>Trees: 252<br>Greenstreets: 0<br>Chill Score: 2.19<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -23353,7 +23353,7 @@ geo_json_4dfb120782b7a112d5b09fbf0f709c3e_add({
 
 geo_json_4dfb120782b7a112d5b09fbf0f709c3e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 891<br>311 Complaints 4<br>Benches: 0<br>Gardens: 0<br>Trees: 12<br>Greenstreets: 0<br>Chill Score: 0.07999999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 891<br>311 Complaints: 4<br>Benches: 0<br>Gardens: 0<br>Trees: 12<br>Greenstreets: 0<br>Chill Score: 0.07999999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -23444,7 +23444,7 @@ geo_json_22151f908a6acdd556cb158d86ed2f90_add({
 
 geo_json_22151f908a6acdd556cb158d86ed2f90.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 892<br>311 Complaints 8<br>Benches: 0<br>Gardens: 0<br>Trees: 178<br>Greenstreets: 4<br>Chill Score: 3.7<br></div>
+                     <div style="font-family: monospace;">Grid ID: 892<br>311 Complaints: 8<br>Benches: 0<br>Gardens: 0<br>Trees: 178<br>Greenstreets: 4<br>Chill Score: 3.7<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -23535,7 +23535,7 @@ geo_json_591a28b4df1d9cb5d1650da64a8c9e57_add({
 
 geo_json_591a28b4df1d9cb5d1650da64a8c9e57.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 893<br>311 Complaints 27<br>Benches: 0<br>Gardens: 0<br>Trees: 260<br>Greenstreets: 3<br>Chill Score: 3.83<br></div>
+                     <div style="font-family: monospace;">Grid ID: 893<br>311 Complaints: 27<br>Benches: 0<br>Gardens: 0<br>Trees: 260<br>Greenstreets: 3<br>Chill Score: 3.83<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -23626,7 +23626,7 @@ geo_json_9985faf10b7ec4c0819d0f49dcdc09b0_add({
 
 geo_json_9985faf10b7ec4c0819d0f49dcdc09b0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 894<br>311 Complaints 120<br>Benches: 1<br>Gardens: 0<br>Trees: 788<br>Greenstreets: 1<br>Chill Score: 7.1899999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 894<br>311 Complaints: 120<br>Benches: 1<br>Gardens: 0<br>Trees: 788<br>Greenstreets: 1<br>Chill Score: 7.1899999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -23717,7 +23717,7 @@ geo_json_e24cc671be4f2c38fc44837a66c7bbfe_add({
 
 geo_json_e24cc671be4f2c38fc44837a66c7bbfe.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 895<br>311 Complaints 47<br>Benches: 0<br>Gardens: 0<br>Trees: 297<br>Greenstreets: 2<br>Chill Score: 3.5<br></div>
+                     <div style="font-family: monospace;">Grid ID: 895<br>311 Complaints: 47<br>Benches: 0<br>Gardens: 0<br>Trees: 297<br>Greenstreets: 2<br>Chill Score: 3.5<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -23808,7 +23808,7 @@ geo_json_2155ac569b58893cf7c588a9ed5dc3fc_add({
 
 geo_json_2155ac569b58893cf7c588a9ed5dc3fc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 896<br>311 Complaints 116<br>Benches: 0<br>Gardens: 0<br>Trees: 808<br>Greenstreets: 1<br>Chill Score: 7.42<br></div>
+                     <div style="font-family: monospace;">Grid ID: 896<br>311 Complaints: 116<br>Benches: 0<br>Gardens: 0<br>Trees: 808<br>Greenstreets: 1<br>Chill Score: 7.42<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -23899,7 +23899,7 @@ geo_json_784d0821d8c1371c0a50e7e5d67ff6a8_add({
 
 geo_json_784d0821d8c1371c0a50e7e5d67ff6a8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 897<br>311 Complaints 124<br>Benches: 0<br>Gardens: 0<br>Trees: 631<br>Greenstreets: 0<br>Chill Score: 5.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 897<br>311 Complaints: 124<br>Benches: 0<br>Gardens: 0<br>Trees: 631<br>Greenstreets: 0<br>Chill Score: 5.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -23990,7 +23990,7 @@ geo_json_e71d400c5b9d5700fdca767d82bcb4f2_add({
 
 geo_json_e71d400c5b9d5700fdca767d82bcb4f2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 898<br>311 Complaints 150<br>Benches: 1<br>Gardens: 0<br>Trees: 514<br>Greenstreets: 0<br>Chill Score: 3.6499999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 898<br>311 Complaints: 150<br>Benches: 1<br>Gardens: 0<br>Trees: 514<br>Greenstreets: 0<br>Chill Score: 3.6499999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -24081,7 +24081,7 @@ geo_json_ac4d1cb32b48a74db0985016653b71b4_add({
 
 geo_json_ac4d1cb32b48a74db0985016653b71b4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 899<br>311 Complaints 77<br>Benches: 0<br>Gardens: 0<br>Trees: 397<br>Greenstreets: 1<br>Chill Score: 3.7<br></div>
+                     <div style="font-family: monospace;">Grid ID: 899<br>311 Complaints: 77<br>Benches: 0<br>Gardens: 0<br>Trees: 397<br>Greenstreets: 1<br>Chill Score: 3.7<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -24172,7 +24172,7 @@ geo_json_11253fb8c15bb5169db01ecf3ed1040c_add({
 
 geo_json_11253fb8c15bb5169db01ecf3ed1040c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 900<br>311 Complaints 57<br>Benches: 0<br>Gardens: 0<br>Trees: 222<br>Greenstreets: 1<br>Chill Score: 2.1500000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 900<br>311 Complaints: 57<br>Benches: 0<br>Gardens: 0<br>Trees: 222<br>Greenstreets: 1<br>Chill Score: 2.1500000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -24263,7 +24263,7 @@ geo_json_a4d9f671c8b65a404d64451a137866e0_add({
 
 geo_json_a4d9f671c8b65a404d64451a137866e0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 901<br>311 Complaints 66<br>Benches: 0<br>Gardens: 0<br>Trees: 187<br>Greenstreets: 1<br>Chill Score: 1.71<br></div>
+                     <div style="font-family: monospace;">Grid ID: 901<br>311 Complaints: 66<br>Benches: 0<br>Gardens: 0<br>Trees: 187<br>Greenstreets: 1<br>Chill Score: 1.71<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -24354,7 +24354,7 @@ geo_json_0621a1e772def0b394ac5f6cfe6b2414_add({
 
 geo_json_0621a1e772def0b394ac5f6cfe6b2414.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 902<br>311 Complaints 162<br>Benches: 0<br>Gardens: 0<br>Trees: 620<br>Greenstreets: 2<br>Chill Score: 5.58<br></div>
+                     <div style="font-family: monospace;">Grid ID: 902<br>311 Complaints: 162<br>Benches: 0<br>Gardens: 0<br>Trees: 620<br>Greenstreets: 2<br>Chill Score: 5.58<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -24445,7 +24445,7 @@ geo_json_2514dbca4a4dc62d33eee1e18c744cf7_add({
 
 geo_json_2514dbca4a4dc62d33eee1e18c744cf7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 903<br>311 Complaints 107<br>Benches: 0<br>Gardens: 0<br>Trees: 534<br>Greenstreets: 8<br>Chill Score: 8.27<br></div>
+                     <div style="font-family: monospace;">Grid ID: 903<br>311 Complaints: 107<br>Benches: 0<br>Gardens: 0<br>Trees: 534<br>Greenstreets: 8<br>Chill Score: 8.27<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -24536,7 +24536,7 @@ geo_json_da4b0d5633c8b89f673e893f35ee201f_add({
 
 geo_json_da4b0d5633c8b89f673e893f35ee201f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 904<br>311 Complaints 116<br>Benches: 0<br>Gardens: 0<br>Trees: 805<br>Greenstreets: 1<br>Chill Score: 7.390000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 904<br>311 Complaints: 116<br>Benches: 0<br>Gardens: 0<br>Trees: 805<br>Greenstreets: 1<br>Chill Score: 7.390000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -24627,7 +24627,7 @@ geo_json_5937d6e86b12f755f91c7d34fd032b76_add({
 
 geo_json_5937d6e86b12f755f91c7d34fd032b76.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 905<br>311 Complaints 34<br>Benches: 0<br>Gardens: 0<br>Trees: 157<br>Greenstreets: 1<br>Chill Score: 1.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 905<br>311 Complaints: 34<br>Benches: 0<br>Gardens: 0<br>Trees: 157<br>Greenstreets: 1<br>Chill Score: 1.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -24718,7 +24718,7 @@ geo_json_da127e84e0b174226f454cbf3ca0c0bd_add({
 
 geo_json_da127e84e0b174226f454cbf3ca0c0bd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 907<br>311 Complaints 13<br>Benches: 0<br>Gardens: 0<br>Trees: 40<br>Greenstreets: 0<br>Chill Score: 0.27<br></div>
+                     <div style="font-family: monospace;">Grid ID: 907<br>311 Complaints: 13<br>Benches: 0<br>Gardens: 0<br>Trees: 40<br>Greenstreets: 0<br>Chill Score: 0.27<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -24809,7 +24809,7 @@ geo_json_d680a6f303499e8f5cc1737687299a6f_add({
 
 geo_json_d680a6f303499e8f5cc1737687299a6f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 908<br>311 Complaints 20<br>Benches: 0<br>Gardens: 0<br>Trees: 77<br>Greenstreets: 0<br>Chill Score: 0.5700000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 908<br>311 Complaints: 20<br>Benches: 0<br>Gardens: 0<br>Trees: 77<br>Greenstreets: 0<br>Chill Score: 0.5700000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -24900,7 +24900,7 @@ geo_json_862fe7a4c830b8001aa7e53b0fb1c24b_add({
 
 geo_json_862fe7a4c830b8001aa7e53b0fb1c24b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 909<br>311 Complaints 15<br>Benches: 0<br>Gardens: 0<br>Trees: 107<br>Greenstreets: 1<br>Chill Score: 1.42<br></div>
+                     <div style="font-family: monospace;">Grid ID: 909<br>311 Complaints: 15<br>Benches: 0<br>Gardens: 0<br>Trees: 107<br>Greenstreets: 1<br>Chill Score: 1.42<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -24991,7 +24991,7 @@ geo_json_b20cf395e15b9e25cbaf3316b5d14779_add({
 
 geo_json_b20cf395e15b9e25cbaf3316b5d14779.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 910<br>311 Complaints 239<br>Benches: 3<br>Gardens: 0<br>Trees: 532<br>Greenstreets: 0<br>Chill Score: 2.96<br></div>
+                     <div style="font-family: monospace;">Grid ID: 910<br>311 Complaints: 239<br>Benches: 3<br>Gardens: 0<br>Trees: 532<br>Greenstreets: 0<br>Chill Score: 2.96<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -25082,7 +25082,7 @@ geo_json_b8bf219f19fac42dd209a7bb7156075e_add({
 
 geo_json_b8bf219f19fac42dd209a7bb7156075e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 911<br>311 Complaints 265<br>Benches: 3<br>Gardens: 0<br>Trees: 567<br>Greenstreets: 2<br>Chill Score: 4.05<br></div>
+                     <div style="font-family: monospace;">Grid ID: 911<br>311 Complaints: 265<br>Benches: 3<br>Gardens: 0<br>Trees: 567<br>Greenstreets: 2<br>Chill Score: 4.05<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -25173,7 +25173,7 @@ geo_json_165313e1b33caa0dc85c81900290e885_add({
 
 geo_json_165313e1b33caa0dc85c81900290e885.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 912<br>311 Complaints 236<br>Benches: 6<br>Gardens: 0<br>Trees: 848<br>Greenstreets: 2<br>Chill Score: 7.180000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 912<br>311 Complaints: 236<br>Benches: 6<br>Gardens: 0<br>Trees: 848<br>Greenstreets: 2<br>Chill Score: 7.180000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -25264,7 +25264,7 @@ geo_json_de9f85abcd976732fb592e65f2011efd_add({
 
 geo_json_de9f85abcd976732fb592e65f2011efd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 913<br>311 Complaints 290<br>Benches: 7<br>Gardens: 0<br>Trees: 689<br>Greenstreets: 2<br>Chill Score: 5.0600000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 913<br>311 Complaints: 290<br>Benches: 7<br>Gardens: 0<br>Trees: 689<br>Greenstreets: 2<br>Chill Score: 5.0600000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -25355,7 +25355,7 @@ geo_json_fedbc68df424ebc2899807851b49f118_add({
 
 geo_json_fedbc68df424ebc2899807851b49f118.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 914<br>311 Complaints 244<br>Benches: 2<br>Gardens: 0<br>Trees: 862<br>Greenstreets: 1<br>Chill Score: 6.700000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 914<br>311 Complaints: 244<br>Benches: 2<br>Gardens: 0<br>Trees: 862<br>Greenstreets: 1<br>Chill Score: 6.700000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -25446,7 +25446,7 @@ geo_json_86e7cb51dd4fceac7805181be2f25f0d_add({
 
 geo_json_86e7cb51dd4fceac7805181be2f25f0d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 915<br>311 Complaints 276<br>Benches: 3<br>Gardens: 0<br>Trees: 1141<br>Greenstreets: 0<br>Chill Score: 8.68<br></div>
+                     <div style="font-family: monospace;">Grid ID: 915<br>311 Complaints: 276<br>Benches: 3<br>Gardens: 0<br>Trees: 1141<br>Greenstreets: 0<br>Chill Score: 8.68<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -25537,7 +25537,7 @@ geo_json_0fd091219018069024afc0c207d1fe7f_add({
 
 geo_json_0fd091219018069024afc0c207d1fe7f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 916<br>311 Complaints 378<br>Benches: 1<br>Gardens: 0<br>Trees: 875<br>Greenstreets: 4<br>Chill Score: 6.9799999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 916<br>311 Complaints: 378<br>Benches: 1<br>Gardens: 0<br>Trees: 875<br>Greenstreets: 4<br>Chill Score: 6.9799999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -25628,7 +25628,7 @@ geo_json_0642c7254b5dccce7b79710cd99a2d3b_add({
 
 geo_json_0642c7254b5dccce7b79710cd99a2d3b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 917<br>311 Complaints 168<br>Benches: 3<br>Gardens: 0<br>Trees: 1042<br>Greenstreets: 1<br>Chill Score: 9.27<br></div>
+                     <div style="font-family: monospace;">Grid ID: 917<br>311 Complaints: 168<br>Benches: 3<br>Gardens: 0<br>Trees: 1042<br>Greenstreets: 1<br>Chill Score: 9.27<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -25719,7 +25719,7 @@ geo_json_4716d4b393eb3c5a9d51f4d7ad5bce1c_add({
 
 geo_json_4716d4b393eb3c5a9d51f4d7ad5bce1c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 918<br>311 Complaints 178<br>Benches: 0<br>Gardens: 0<br>Trees: 746<br>Greenstreets: 0<br>Chill Score: 5.68<br></div>
+                     <div style="font-family: monospace;">Grid ID: 918<br>311 Complaints: 178<br>Benches: 0<br>Gardens: 0<br>Trees: 746<br>Greenstreets: 0<br>Chill Score: 5.68<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -25810,7 +25810,7 @@ geo_json_5471a145d2edc9bf8e1d6317f5836b6c_add({
 
 geo_json_5471a145d2edc9bf8e1d6317f5836b6c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 919<br>311 Complaints 140<br>Benches: 2<br>Gardens: 0<br>Trees: 704<br>Greenstreets: 4<br>Chill Score: 7.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 919<br>311 Complaints: 140<br>Benches: 2<br>Gardens: 0<br>Trees: 704<br>Greenstreets: 4<br>Chill Score: 7.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -25901,7 +25901,7 @@ geo_json_fe35b8b6605f0dd2e3624f35cb49bf06_add({
 
 geo_json_fe35b8b6605f0dd2e3624f35cb49bf06.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 920<br>311 Complaints 104<br>Benches: 0<br>Gardens: 0<br>Trees: 503<br>Greenstreets: 6<br>Chill Score: 6.99<br></div>
+                     <div style="font-family: monospace;">Grid ID: 920<br>311 Complaints: 104<br>Benches: 0<br>Gardens: 0<br>Trees: 503<br>Greenstreets: 6<br>Chill Score: 6.99<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -25992,7 +25992,7 @@ geo_json_b58123cb32d785daaac3def9aca2b4bc_add({
 
 geo_json_b58123cb32d785daaac3def9aca2b4bc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 921<br>311 Complaints 104<br>Benches: 0<br>Gardens: 0<br>Trees: 790<br>Greenstreets: 0<br>Chill Score: 6.86<br></div>
+                     <div style="font-family: monospace;">Grid ID: 921<br>311 Complaints: 104<br>Benches: 0<br>Gardens: 0<br>Trees: 790<br>Greenstreets: 0<br>Chill Score: 6.86<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -26083,7 +26083,7 @@ geo_json_a38719286bd61db70c6c94bfab8b238c_add({
 
 geo_json_a38719286bd61db70c6c94bfab8b238c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 930<br>311 Complaints 35<br>Benches: 0<br>Gardens: 0<br>Trees: 133<br>Greenstreets: 0<br>Chill Score: 0.98<br></div>
+                     <div style="font-family: monospace;">Grid ID: 930<br>311 Complaints: 35<br>Benches: 0<br>Gardens: 0<br>Trees: 133<br>Greenstreets: 0<br>Chill Score: 0.98<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -26174,7 +26174,7 @@ geo_json_793962368dbde6f81c4130837b1dc87d_add({
 
 geo_json_793962368dbde6f81c4130837b1dc87d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 931<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 5<br>Greenstreets: 0<br>Chill Score: 0.04<br></div>
+                     <div style="font-family: monospace;">Grid ID: 931<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 5<br>Greenstreets: 0<br>Chill Score: 0.04<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -26265,7 +26265,7 @@ geo_json_cff7989f827cc18adbcfe7b42163363c_add({
 
 geo_json_cff7989f827cc18adbcfe7b42163363c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 935<br>311 Complaints 13<br>Benches: 0<br>Gardens: 0<br>Trees: 56<br>Greenstreets: 0<br>Chill Score: 0.43000000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 935<br>311 Complaints: 13<br>Benches: 0<br>Gardens: 0<br>Trees: 56<br>Greenstreets: 0<br>Chill Score: 0.43000000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -26356,7 +26356,7 @@ geo_json_6203758682bcf64d0fb28efca371d91f_add({
 
 geo_json_6203758682bcf64d0fb28efca371d91f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 936<br>311 Complaints 69<br>Benches: 0<br>Gardens: 0<br>Trees: 842<br>Greenstreets: 2<br>Chill Score: 8.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 936<br>311 Complaints: 69<br>Benches: 0<br>Gardens: 0<br>Trees: 842<br>Greenstreets: 2<br>Chill Score: 8.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -26447,7 +26447,7 @@ geo_json_e8fae3fb4a1f04dd4fbb7e9ee9606e1d_add({
 
 geo_json_e8fae3fb4a1f04dd4fbb7e9ee9606e1d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 937<br>311 Complaints 167<br>Benches: 13<br>Gardens: 0<br>Trees: 476<br>Greenstreets: 1<br>Chill Score: 3.7199999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 937<br>311 Complaints: 167<br>Benches: 13<br>Gardens: 0<br>Trees: 476<br>Greenstreets: 1<br>Chill Score: 3.7199999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -26538,7 +26538,7 @@ geo_json_aca9d01dab421a92080a50fc6faf8b05_add({
 
 geo_json_aca9d01dab421a92080a50fc6faf8b05.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 938<br>311 Complaints 95<br>Benches: 0<br>Gardens: 0<br>Trees: 713<br>Greenstreets: 5<br>Chill Score: 8.68<br></div>
+                     <div style="font-family: monospace;">Grid ID: 938<br>311 Complaints: 95<br>Benches: 0<br>Gardens: 0<br>Trees: 713<br>Greenstreets: 5<br>Chill Score: 8.68<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -26629,7 +26629,7 @@ geo_json_da96bd7934b165eb1a2927374bee3a92_add({
 
 geo_json_da96bd7934b165eb1a2927374bee3a92.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 939<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 32<br>Greenstreets: 0<br>Chill Score: 0.3<br></div>
+                     <div style="font-family: monospace;">Grid ID: 939<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 32<br>Greenstreets: 0<br>Chill Score: 0.3<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -26720,7 +26720,7 @@ geo_json_2c55c0abd31d010ca3b9400240e47f05_add({
 
 geo_json_2c55c0abd31d010ca3b9400240e47f05.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 952<br>311 Complaints 7<br>Benches: 0<br>Gardens: 0<br>Trees: 219<br>Greenstreets: 3<br>Chill Score: 3.62<br></div>
+                     <div style="font-family: monospace;">Grid ID: 952<br>311 Complaints: 7<br>Benches: 0<br>Gardens: 0<br>Trees: 219<br>Greenstreets: 3<br>Chill Score: 3.62<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -26811,7 +26811,7 @@ geo_json_550ac0ba17e2d4a35e0e2fc8b8ad956d_add({
 
 geo_json_550ac0ba17e2d4a35e0e2fc8b8ad956d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 953<br>311 Complaints 122<br>Benches: 0<br>Gardens: 0<br>Trees: 657<br>Greenstreets: 1<br>Chill Score: 5.8500000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 953<br>311 Complaints: 122<br>Benches: 0<br>Gardens: 0<br>Trees: 657<br>Greenstreets: 1<br>Chill Score: 5.8500000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -26902,7 +26902,7 @@ geo_json_4ca8e26421dbc484e94eb5787ce80b23_add({
 
 geo_json_4ca8e26421dbc484e94eb5787ce80b23.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 954<br>311 Complaints 133<br>Benches: 0<br>Gardens: 0<br>Trees: 502<br>Greenstreets: 0<br>Chill Score: 3.6900000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 954<br>311 Complaints: 133<br>Benches: 0<br>Gardens: 0<br>Trees: 502<br>Greenstreets: 0<br>Chill Score: 3.6900000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -26993,7 +26993,7 @@ geo_json_0ff19e5fd350a274a812070971b61afc_add({
 
 geo_json_0ff19e5fd350a274a812070971b61afc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 955<br>311 Complaints 99<br>Benches: 0<br>Gardens: 0<br>Trees: 944<br>Greenstreets: 0<br>Chill Score: 8.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 955<br>311 Complaints: 99<br>Benches: 0<br>Gardens: 0<br>Trees: 944<br>Greenstreets: 0<br>Chill Score: 8.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -27084,7 +27084,7 @@ geo_json_3517341bc34095b03c61ad84f63e4cb1_add({
 
 geo_json_3517341bc34095b03c61ad84f63e4cb1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 956<br>311 Complaints 111<br>Benches: 0<br>Gardens: 0<br>Trees: 802<br>Greenstreets: 0<br>Chill Score: 6.909999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 956<br>311 Complaints: 111<br>Benches: 0<br>Gardens: 0<br>Trees: 802<br>Greenstreets: 0<br>Chill Score: 6.909999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -27175,7 +27175,7 @@ geo_json_ff6fa752a1638fcb61047ab910176b5f_add({
 
 geo_json_ff6fa752a1638fcb61047ab910176b5f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 957<br>311 Complaints 96<br>Benches: 0<br>Gardens: 0<br>Trees: 649<br>Greenstreets: 0<br>Chill Score: 5.53<br></div>
+                     <div style="font-family: monospace;">Grid ID: 957<br>311 Complaints: 96<br>Benches: 0<br>Gardens: 0<br>Trees: 649<br>Greenstreets: 0<br>Chill Score: 5.53<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -27266,7 +27266,7 @@ geo_json_eee852f573e8622624f6fa0ad69a7fb2_add({
 
 geo_json_eee852f573e8622624f6fa0ad69a7fb2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 958<br>311 Complaints 50<br>Benches: 0<br>Gardens: 1<br>Trees: 347<br>Greenstreets: 0<br>Chill Score: 3.47<br></div>
+                     <div style="font-family: monospace;">Grid ID: 958<br>311 Complaints: 50<br>Benches: 0<br>Gardens: 1<br>Trees: 347<br>Greenstreets: 0<br>Chill Score: 3.47<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -27357,7 +27357,7 @@ geo_json_e576bf9a4b403b3a72eab87bab0f384b_add({
 
 geo_json_e576bf9a4b403b3a72eab87bab0f384b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 959<br>311 Complaints 81<br>Benches: 0<br>Gardens: 0<br>Trees: 294<br>Greenstreets: 0<br>Chill Score: 2.13<br></div>
+                     <div style="font-family: monospace;">Grid ID: 959<br>311 Complaints: 81<br>Benches: 0<br>Gardens: 0<br>Trees: 294<br>Greenstreets: 0<br>Chill Score: 2.13<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -27448,7 +27448,7 @@ geo_json_b2610fa40ca1219b5ff889d7d04b8134_add({
 
 geo_json_b2610fa40ca1219b5ff889d7d04b8134.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 960<br>311 Complaints 80<br>Benches: 0<br>Gardens: 0<br>Trees: 429<br>Greenstreets: 0<br>Chill Score: 3.49<br></div>
+                     <div style="font-family: monospace;">Grid ID: 960<br>311 Complaints: 80<br>Benches: 0<br>Gardens: 0<br>Trees: 429<br>Greenstreets: 0<br>Chill Score: 3.49<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -27539,7 +27539,7 @@ geo_json_d8a6808eb86ed0e458e6fc4a77ccc36e_add({
 
 geo_json_d8a6808eb86ed0e458e6fc4a77ccc36e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 961<br>311 Complaints 139<br>Benches: 1<br>Gardens: 1<br>Trees: 522<br>Greenstreets: 1<br>Chill Score: 4.84<br></div>
+                     <div style="font-family: monospace;">Grid ID: 961<br>311 Complaints: 139<br>Benches: 1<br>Gardens: 1<br>Trees: 522<br>Greenstreets: 1<br>Chill Score: 4.84<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -27630,7 +27630,7 @@ geo_json_5a998e9c5e07ae1cdb2a29f528fdcb51_add({
 
 geo_json_5a998e9c5e07ae1cdb2a29f528fdcb51.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 962<br>311 Complaints 361<br>Benches: 1<br>Gardens: 0<br>Trees: 739<br>Greenstreets: 0<br>Chill Score: 3.7900000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 962<br>311 Complaints: 361<br>Benches: 1<br>Gardens: 0<br>Trees: 739<br>Greenstreets: 0<br>Chill Score: 3.7900000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -27721,7 +27721,7 @@ geo_json_2546d99e859b3a5878154bc1c43405f4_add({
 
 geo_json_2546d99e859b3a5878154bc1c43405f4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 963<br>311 Complaints 79<br>Benches: 1<br>Gardens: 0<br>Trees: 405<br>Greenstreets: 0<br>Chill Score: 3.2699999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 963<br>311 Complaints: 79<br>Benches: 1<br>Gardens: 0<br>Trees: 405<br>Greenstreets: 0<br>Chill Score: 3.2699999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -27812,7 +27812,7 @@ geo_json_4e8e6e051b1d668293d0b698ca71d170_add({
 
 geo_json_4e8e6e051b1d668293d0b698ca71d170.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 964<br>311 Complaints 5<br>Benches: 0<br>Gardens: 0<br>Trees: 15<br>Greenstreets: 0<br>Chill Score: 0.09999999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 964<br>311 Complaints: 5<br>Benches: 0<br>Gardens: 0<br>Trees: 15<br>Greenstreets: 0<br>Chill Score: 0.09999999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -27903,7 +27903,7 @@ geo_json_e4063f57ee1f938e0802c18f20a64517_add({
 
 geo_json_e4063f57ee1f938e0802c18f20a64517.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 966<br>311 Complaints 149<br>Benches: 0<br>Gardens: 0<br>Trees: 418<br>Greenstreets: 0<br>Chill Score: 2.6899999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 966<br>311 Complaints: 149<br>Benches: 0<br>Gardens: 0<br>Trees: 418<br>Greenstreets: 0<br>Chill Score: 2.6899999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -27994,7 +27994,7 @@ geo_json_880d7358bdd5f216d2ee8cfc483e1066_add({
 
 geo_json_880d7358bdd5f216d2ee8cfc483e1066.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 967<br>311 Complaints 230<br>Benches: 5<br>Gardens: 0<br>Trees: 606<br>Greenstreets: 0<br>Chill Score: 3.81<br></div>
+                     <div style="font-family: monospace;">Grid ID: 967<br>311 Complaints: 230<br>Benches: 5<br>Gardens: 0<br>Trees: 606<br>Greenstreets: 0<br>Chill Score: 3.81<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -28085,7 +28085,7 @@ geo_json_717172c40d4e1166113c06f798ca8670_add({
 
 geo_json_717172c40d4e1166113c06f798ca8670.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 968<br>311 Complaints 132<br>Benches: 0<br>Gardens: 0<br>Trees: 493<br>Greenstreets: 1<br>Chill Score: 4.109999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 968<br>311 Complaints: 132<br>Benches: 0<br>Gardens: 0<br>Trees: 493<br>Greenstreets: 1<br>Chill Score: 4.109999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -28176,7 +28176,7 @@ geo_json_04ede490f414a1cba3bf83523cf36f12_add({
 
 geo_json_04ede490f414a1cba3bf83523cf36f12.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 969<br>311 Complaints 234<br>Benches: 2<br>Gardens: 0<br>Trees: 731<br>Greenstreets: 0<br>Chill Score: 4.99<br></div>
+                     <div style="font-family: monospace;">Grid ID: 969<br>311 Complaints: 234<br>Benches: 2<br>Gardens: 0<br>Trees: 731<br>Greenstreets: 0<br>Chill Score: 4.99<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -28267,7 +28267,7 @@ geo_json_a82f2270d05689cf715f911d622ac376_add({
 
 geo_json_a82f2270d05689cf715f911d622ac376.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 970<br>311 Complaints 231<br>Benches: 3<br>Gardens: 0<br>Trees: 739<br>Greenstreets: 1<br>Chill Score: 5.61<br></div>
+                     <div style="font-family: monospace;">Grid ID: 970<br>311 Complaints: 231<br>Benches: 3<br>Gardens: 0<br>Trees: 739<br>Greenstreets: 1<br>Chill Score: 5.61<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -28358,7 +28358,7 @@ geo_json_6d2be3a35c290bde414d0ae85cdbba8d_add({
 
 geo_json_6d2be3a35c290bde414d0ae85cdbba8d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 971<br>311 Complaints 286<br>Benches: 5<br>Gardens: 0<br>Trees: 739<br>Greenstreets: 0<br>Chill Score: 4.58<br></div>
+                     <div style="font-family: monospace;">Grid ID: 971<br>311 Complaints: 286<br>Benches: 5<br>Gardens: 0<br>Trees: 739<br>Greenstreets: 0<br>Chill Score: 4.58<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -28449,7 +28449,7 @@ geo_json_7261c1a85fadf04e2a098cd500f4d343_add({
 
 geo_json_7261c1a85fadf04e2a098cd500f4d343.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 972<br>311 Complaints 253<br>Benches: 10<br>Gardens: 0<br>Trees: 662<br>Greenstreets: 0<br>Chill Score: 4.1899999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 972<br>311 Complaints: 253<br>Benches: 10<br>Gardens: 0<br>Trees: 662<br>Greenstreets: 0<br>Chill Score: 4.1899999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -28540,7 +28540,7 @@ geo_json_fee19953df08bd1324064ba041f35783_add({
 
 geo_json_fee19953df08bd1324064ba041f35783.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 973<br>311 Complaints 170<br>Benches: 2<br>Gardens: 0<br>Trees: 898<br>Greenstreets: 3<br>Chill Score: 8.8<br></div>
+                     <div style="font-family: monospace;">Grid ID: 973<br>311 Complaints: 170<br>Benches: 2<br>Gardens: 0<br>Trees: 898<br>Greenstreets: 3<br>Chill Score: 8.8<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -28631,7 +28631,7 @@ geo_json_c59839bc22c832d5cdafde113dd0c4b9_add({
 
 geo_json_c59839bc22c832d5cdafde113dd0c4b9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 974<br>311 Complaints 219<br>Benches: 2<br>Gardens: 0<br>Trees: 886<br>Greenstreets: 1<br>Chill Score: 7.1899999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 974<br>311 Complaints: 219<br>Benches: 2<br>Gardens: 0<br>Trees: 886<br>Greenstreets: 1<br>Chill Score: 7.1899999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -28722,7 +28722,7 @@ geo_json_c4c420d79e884e2a05abfc62eb9f28c6_add({
 
 geo_json_c4c420d79e884e2a05abfc62eb9f28c6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 975<br>311 Complaints 243<br>Benches: 0<br>Gardens: 0<br>Trees: 1153<br>Greenstreets: 0<br>Chill Score: 9.1<br></div>
+                     <div style="font-family: monospace;">Grid ID: 975<br>311 Complaints: 243<br>Benches: 0<br>Gardens: 0<br>Trees: 1153<br>Greenstreets: 0<br>Chill Score: 9.1<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -28813,7 +28813,7 @@ geo_json_61ce4f3e322fabb2337038f634664783_add({
 
 geo_json_61ce4f3e322fabb2337038f634664783.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 976<br>311 Complaints 264<br>Benches: 3<br>Gardens: 0<br>Trees: 1085<br>Greenstreets: 3<br>Chill Score: 9.739999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 976<br>311 Complaints: 264<br>Benches: 3<br>Gardens: 0<br>Trees: 1085<br>Greenstreets: 3<br>Chill Score: 9.739999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -28904,7 +28904,7 @@ geo_json_a169a85156890f161dce4de74bcd31ef_add({
 
 geo_json_a169a85156890f161dce4de74bcd31ef.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 977<br>311 Complaints 238<br>Benches: 1<br>Gardens: 0<br>Trees: 866<br>Greenstreets: 0<br>Chill Score: 6.29<br></div>
+                     <div style="font-family: monospace;">Grid ID: 977<br>311 Complaints: 238<br>Benches: 1<br>Gardens: 0<br>Trees: 866<br>Greenstreets: 0<br>Chill Score: 6.29<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -28995,7 +28995,7 @@ geo_json_ef5849f638e46142113b61186adcf64c_add({
 
 geo_json_ef5849f638e46142113b61186adcf64c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 978<br>311 Complaints 307<br>Benches: 5<br>Gardens: 0<br>Trees: 807<br>Greenstreets: 1<br>Chill Score: 5.55<br></div>
+                     <div style="font-family: monospace;">Grid ID: 978<br>311 Complaints: 307<br>Benches: 5<br>Gardens: 0<br>Trees: 807<br>Greenstreets: 1<br>Chill Score: 5.55<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -29086,7 +29086,7 @@ geo_json_85a02e28a61ff5ee6f284fe27bf9aeaa_add({
 
 geo_json_85a02e28a61ff5ee6f284fe27bf9aeaa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 979<br>311 Complaints 152<br>Benches: 1<br>Gardens: 0<br>Trees: 599<br>Greenstreets: 4<br>Chill Score: 6.48<br></div>
+                     <div style="font-family: monospace;">Grid ID: 979<br>311 Complaints: 152<br>Benches: 1<br>Gardens: 0<br>Trees: 599<br>Greenstreets: 4<br>Chill Score: 6.48<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -29177,7 +29177,7 @@ geo_json_eca1e655758374a26c5861fd37fd8899_add({
 
 geo_json_eca1e655758374a26c5861fd37fd8899.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 980<br>311 Complaints 190<br>Benches: 0<br>Gardens: 0<br>Trees: 672<br>Greenstreets: 0<br>Chill Score: 4.819999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 980<br>311 Complaints: 190<br>Benches: 0<br>Gardens: 0<br>Trees: 672<br>Greenstreets: 0<br>Chill Score: 4.819999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -29268,7 +29268,7 @@ geo_json_92a08348e8f7fedab1fb657571c69d9d_add({
 
 geo_json_92a08348e8f7fedab1fb657571c69d9d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 981<br>311 Complaints 42<br>Benches: 0<br>Gardens: 0<br>Trees: 301<br>Greenstreets: 7<br>Chill Score: 6.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 981<br>311 Complaints: 42<br>Benches: 0<br>Gardens: 0<br>Trees: 301<br>Greenstreets: 7<br>Chill Score: 6.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -29359,7 +29359,7 @@ geo_json_ab310950dfec3763d0c8fc6b191baaf8_add({
 
 geo_json_ab310950dfec3763d0c8fc6b191baaf8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 989<br>311 Complaints 9<br>Benches: 0<br>Gardens: 0<br>Trees: 91<br>Greenstreets: 1<br>Chill Score: 1.32<br></div>
+                     <div style="font-family: monospace;">Grid ID: 989<br>311 Complaints: 9<br>Benches: 0<br>Gardens: 0<br>Trees: 91<br>Greenstreets: 1<br>Chill Score: 1.32<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -29450,7 +29450,7 @@ geo_json_76b25f753ddf42f31131f8ed487ebf15_add({
 
 geo_json_76b25f753ddf42f31131f8ed487ebf15.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 994<br>311 Complaints 19<br>Benches: 0<br>Gardens: 0<br>Trees: 115<br>Greenstreets: 0<br>Chill Score: 0.9600000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 994<br>311 Complaints: 19<br>Benches: 0<br>Gardens: 0<br>Trees: 115<br>Greenstreets: 0<br>Chill Score: 0.9600000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -29541,7 +29541,7 @@ geo_json_10fe7f8b341c6118c3286f2f431eb3bc_add({
 
 geo_json_10fe7f8b341c6118c3286f2f431eb3bc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 995<br>311 Complaints 19<br>Benches: 0<br>Gardens: 0<br>Trees: 122<br>Greenstreets: 0<br>Chill Score: 1.03<br></div>
+                     <div style="font-family: monospace;">Grid ID: 995<br>311 Complaints: 19<br>Benches: 0<br>Gardens: 0<br>Trees: 122<br>Greenstreets: 0<br>Chill Score: 1.03<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -29632,7 +29632,7 @@ geo_json_209039962239710284386913d76e896c_add({
 
 geo_json_209039962239710284386913d76e896c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 996<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 7<br>Greenstreets: 0<br>Chill Score: 0.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 996<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 7<br>Greenstreets: 0<br>Chill Score: 0.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -29723,7 +29723,7 @@ geo_json_ebc88f52ec099dcbf60828e6238d5a44_add({
 
 geo_json_ebc88f52ec099dcbf60828e6238d5a44.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 997<br>311 Complaints 8<br>Benches: 0<br>Gardens: 0<br>Trees: 89<br>Greenstreets: 0<br>Chill Score: 0.81<br></div>
+                     <div style="font-family: monospace;">Grid ID: 997<br>311 Complaints: 8<br>Benches: 0<br>Gardens: 0<br>Trees: 89<br>Greenstreets: 0<br>Chill Score: 0.81<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -29814,7 +29814,7 @@ geo_json_99a60170eeb4d41256c3499962fc8780_add({
 
 geo_json_99a60170eeb4d41256c3499962fc8780.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1010<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 5<br>Greenstreets: 0<br>Chill Score: 0.020000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1010<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 5<br>Greenstreets: 0<br>Chill Score: 0.020000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -29905,7 +29905,7 @@ geo_json_e787a8c47f2f96ade02e17e4a05ba015_add({
 
 geo_json_e787a8c47f2f96ade02e17e4a05ba015.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1011<br>311 Complaints 11<br>Benches: 0<br>Gardens: 0<br>Trees: 48<br>Greenstreets: 0<br>Chill Score: 0.37<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1011<br>311 Complaints: 11<br>Benches: 0<br>Gardens: 0<br>Trees: 48<br>Greenstreets: 0<br>Chill Score: 0.37<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -29996,7 +29996,7 @@ geo_json_25397ccb60a8516c7531a0d90a127045_add({
 
 geo_json_25397ccb60a8516c7531a0d90a127045.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1012<br>311 Complaints 128<br>Benches: 3<br>Gardens: 0<br>Trees: 579<br>Greenstreets: 1<br>Chill Score: 5.04<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1012<br>311 Complaints: 128<br>Benches: 3<br>Gardens: 0<br>Trees: 579<br>Greenstreets: 1<br>Chill Score: 5.04<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -30087,7 +30087,7 @@ geo_json_0eef73d96923c784d6324bdb7dba7ebb_add({
 
 geo_json_0eef73d96923c784d6324bdb7dba7ebb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1013<br>311 Complaints 88<br>Benches: 3<br>Gardens: 0<br>Trees: 597<br>Greenstreets: 0<br>Chill Score: 5.12<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1013<br>311 Complaints: 88<br>Benches: 3<br>Gardens: 0<br>Trees: 597<br>Greenstreets: 0<br>Chill Score: 5.12<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -30178,7 +30178,7 @@ geo_json_935b13b5c84887e797029106ce5edbd2_add({
 
 geo_json_935b13b5c84887e797029106ce5edbd2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1014<br>311 Complaints 149<br>Benches: 1<br>Gardens: 0<br>Trees: 646<br>Greenstreets: 3<br>Chill Score: 6.48<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1014<br>311 Complaints: 149<br>Benches: 1<br>Gardens: 0<br>Trees: 646<br>Greenstreets: 3<br>Chill Score: 6.48<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -30269,7 +30269,7 @@ geo_json_6bb0d59e18e035a1d5253fb4f85b777c_add({
 
 geo_json_6bb0d59e18e035a1d5253fb4f85b777c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1015<br>311 Complaints 125<br>Benches: 2<br>Gardens: 0<br>Trees: 539<br>Greenstreets: 1<br>Chill Score: 4.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1015<br>311 Complaints: 125<br>Benches: 2<br>Gardens: 0<br>Trees: 539<br>Greenstreets: 1<br>Chill Score: 4.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -30360,7 +30360,7 @@ geo_json_ef95cba0f834e4e42ef299fcf83b49c6_add({
 
 geo_json_ef95cba0f834e4e42ef299fcf83b49c6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1016<br>311 Complaints 87<br>Benches: 0<br>Gardens: 0<br>Trees: 596<br>Greenstreets: 0<br>Chill Score: 5.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1016<br>311 Complaints: 87<br>Benches: 0<br>Gardens: 0<br>Trees: 596<br>Greenstreets: 0<br>Chill Score: 5.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -30451,7 +30451,7 @@ geo_json_739804e55692e3b211584ab0be5c945e_add({
 
 geo_json_739804e55692e3b211584ab0be5c945e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1017<br>311 Complaints 74<br>Benches: 0<br>Gardens: 0<br>Trees: 433<br>Greenstreets: 9<br>Chill Score: 8.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1017<br>311 Complaints: 74<br>Benches: 0<br>Gardens: 0<br>Trees: 433<br>Greenstreets: 9<br>Chill Score: 8.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -30542,7 +30542,7 @@ geo_json_35162e774748a954c57c6324b2bf604b_add({
 
 geo_json_35162e774748a954c57c6324b2bf604b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1018<br>311 Complaints 91<br>Benches: 0<br>Gardens: 0<br>Trees: 648<br>Greenstreets: 3<br>Chill Score: 7.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1018<br>311 Complaints: 91<br>Benches: 0<br>Gardens: 0<br>Trees: 648<br>Greenstreets: 3<br>Chill Score: 7.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -30633,7 +30633,7 @@ geo_json_0774b167cf56901e121d660ab619a763_add({
 
 geo_json_0774b167cf56901e121d660ab619a763.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1019<br>311 Complaints 22<br>Benches: 0<br>Gardens: 0<br>Trees: 165<br>Greenstreets: 3<br>Chill Score: 2.93<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1019<br>311 Complaints: 22<br>Benches: 0<br>Gardens: 0<br>Trees: 165<br>Greenstreets: 3<br>Chill Score: 2.93<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -30724,7 +30724,7 @@ geo_json_a572cbe0a4a466c93ff2062d5324a136_add({
 
 geo_json_a572cbe0a4a466c93ff2062d5324a136.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1020<br>311 Complaints 121<br>Benches: 0<br>Gardens: 0<br>Trees: 378<br>Greenstreets: 2<br>Chill Score: 3.5700000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1020<br>311 Complaints: 121<br>Benches: 0<br>Gardens: 0<br>Trees: 378<br>Greenstreets: 2<br>Chill Score: 3.5700000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -30815,7 +30815,7 @@ geo_json_5c3579df2ebcfb0240a563fa6df80e19_add({
 
 geo_json_5c3579df2ebcfb0240a563fa6df80e19.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1021<br>311 Complaints 154<br>Benches: 1<br>Gardens: 1<br>Trees: 580<br>Greenstreets: 8<br>Chill Score: 8.77<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1021<br>311 Complaints: 154<br>Benches: 1<br>Gardens: 1<br>Trees: 580<br>Greenstreets: 8<br>Chill Score: 8.77<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -30906,7 +30906,7 @@ geo_json_fda32dd5e9432ad34d69177577b8278b_add({
 
 geo_json_fda32dd5e9432ad34d69177577b8278b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1022<br>311 Complaints 11<br>Benches: 0<br>Gardens: 0<br>Trees: 34<br>Greenstreets: 0<br>Chill Score: 0.23000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1022<br>311 Complaints: 11<br>Benches: 0<br>Gardens: 0<br>Trees: 34<br>Greenstreets: 0<br>Chill Score: 0.23000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -30997,7 +30997,7 @@ geo_json_5634ae0ed67670f2afef675ebfedba03_add({
 
 geo_json_5634ae0ed67670f2afef675ebfedba03.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1025<br>311 Complaints 123<br>Benches: 0<br>Gardens: 0<br>Trees: 745<br>Greenstreets: 0<br>Chill Score: 6.220000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1025<br>311 Complaints: 123<br>Benches: 0<br>Gardens: 0<br>Trees: 745<br>Greenstreets: 0<br>Chill Score: 6.220000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -31088,7 +31088,7 @@ geo_json_81268589a929b7b45a73e031a8d4806a_add({
 
 geo_json_81268589a929b7b45a73e031a8d4806a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1026<br>311 Complaints 307<br>Benches: 4<br>Gardens: 0<br>Trees: 862<br>Greenstreets: 0<br>Chill Score: 5.590000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1026<br>311 Complaints: 307<br>Benches: 4<br>Gardens: 0<br>Trees: 862<br>Greenstreets: 0<br>Chill Score: 5.590000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -31179,7 +31179,7 @@ geo_json_3a0ce9e2d266a796cb752809aa0efe37_add({
 
 geo_json_3a0ce9e2d266a796cb752809aa0efe37.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1027<br>311 Complaints 198<br>Benches: 3<br>Gardens: 0<br>Trees: 837<br>Greenstreets: 3<br>Chill Score: 7.920000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1027<br>311 Complaints: 198<br>Benches: 3<br>Gardens: 0<br>Trees: 837<br>Greenstreets: 3<br>Chill Score: 7.920000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -31270,7 +31270,7 @@ geo_json_f85cf5e0bfd8bd1ce3ba01d5e0fe5d83_add({
 
 geo_json_f85cf5e0bfd8bd1ce3ba01d5e0fe5d83.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1028<br>311 Complaints 223<br>Benches: 1<br>Gardens: 0<br>Trees: 766<br>Greenstreets: 0<br>Chill Score: 5.4399999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1028<br>311 Complaints: 223<br>Benches: 1<br>Gardens: 0<br>Trees: 766<br>Greenstreets: 0<br>Chill Score: 5.4399999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -31361,7 +31361,7 @@ geo_json_ed3eb12d292260c0e763b9079c055458_add({
 
 geo_json_ed3eb12d292260c0e763b9079c055458.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1029<br>311 Complaints 327<br>Benches: 3<br>Gardens: 0<br>Trees: 595<br>Greenstreets: 0<br>Chill Score: 2.71<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1029<br>311 Complaints: 327<br>Benches: 3<br>Gardens: 0<br>Trees: 595<br>Greenstreets: 0<br>Chill Score: 2.71<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -31452,7 +31452,7 @@ geo_json_a8c458165bbe160696a311229fa06dee_add({
 
 geo_json_a8c458165bbe160696a311229fa06dee.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1030<br>311 Complaints 194<br>Benches: 3<br>Gardens: 0<br>Trees: 615<br>Greenstreets: 0<br>Chill Score: 4.24<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1030<br>311 Complaints: 194<br>Benches: 3<br>Gardens: 0<br>Trees: 615<br>Greenstreets: 0<br>Chill Score: 4.24<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -31543,7 +31543,7 @@ geo_json_3e8bff58d292721bc5b9d30c3be48340_add({
 
 geo_json_3e8bff58d292721bc5b9d30c3be48340.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1031<br>311 Complaints 187<br>Benches: 1<br>Gardens: 0<br>Trees: 677<br>Greenstreets: 0<br>Chill Score: 4.91<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1031<br>311 Complaints: 187<br>Benches: 1<br>Gardens: 0<br>Trees: 677<br>Greenstreets: 0<br>Chill Score: 4.91<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -31634,7 +31634,7 @@ geo_json_0358f139f7c1f3bc7f8a4fcf49941f27_add({
 
 geo_json_0358f139f7c1f3bc7f8a4fcf49941f27.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1032<br>311 Complaints 209<br>Benches: 0<br>Gardens: 0<br>Trees: 924<br>Greenstreets: 1<br>Chill Score: 7.65<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1032<br>311 Complaints: 209<br>Benches: 0<br>Gardens: 0<br>Trees: 924<br>Greenstreets: 1<br>Chill Score: 7.65<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -31725,7 +31725,7 @@ geo_json_c2b165b7334248743981a6de64c8eaaf_add({
 
 geo_json_c2b165b7334248743981a6de64c8eaaf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1033<br>311 Complaints 229<br>Benches: 4<br>Gardens: 0<br>Trees: 845<br>Greenstreets: 0<br>Chill Score: 6.199999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1033<br>311 Complaints: 229<br>Benches: 4<br>Gardens: 0<br>Trees: 845<br>Greenstreets: 0<br>Chill Score: 6.199999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -31816,7 +31816,7 @@ geo_json_13f125faab82ba013af00f78531baa02_add({
 
 geo_json_13f125faab82ba013af00f78531baa02.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1034<br>311 Complaints 215<br>Benches: 2<br>Gardens: 0<br>Trees: 920<br>Greenstreets: 0<br>Chill Score: 7.070000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1034<br>311 Complaints: 215<br>Benches: 2<br>Gardens: 0<br>Trees: 920<br>Greenstreets: 0<br>Chill Score: 7.070000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -31907,7 +31907,7 @@ geo_json_301cb37653fd72f7915f9fabacee7818_add({
 
 geo_json_301cb37653fd72f7915f9fabacee7818.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1035<br>311 Complaints 284<br>Benches: 4<br>Gardens: 0<br>Trees: 946<br>Greenstreets: 1<br>Chill Score: 7.160000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1035<br>311 Complaints: 284<br>Benches: 4<br>Gardens: 0<br>Trees: 946<br>Greenstreets: 1<br>Chill Score: 7.160000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -31998,7 +31998,7 @@ geo_json_2ccb16ec0f5292c03333bd655eba1d38_add({
 
 geo_json_2ccb16ec0f5292c03333bd655eba1d38.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1036<br>311 Complaints 304<br>Benches: 3<br>Gardens: 1<br>Trees: 724<br>Greenstreets: 5<br>Chill Score: 7.23<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1036<br>311 Complaints: 304<br>Benches: 3<br>Gardens: 1<br>Trees: 724<br>Greenstreets: 5<br>Chill Score: 7.23<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -32089,7 +32089,7 @@ geo_json_7d37c51fc2997b2187a9bb9e046c1ee2_add({
 
 geo_json_7d37c51fc2997b2187a9bb9e046c1ee2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1037<br>311 Complaints 277<br>Benches: 5<br>Gardens: 0<br>Trees: 664<br>Greenstreets: 1<br>Chill Score: 4.42<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1037<br>311 Complaints: 277<br>Benches: 5<br>Gardens: 0<br>Trees: 664<br>Greenstreets: 1<br>Chill Score: 4.42<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -32180,7 +32180,7 @@ geo_json_11c99089a2979a445a77bcbf098e734d_add({
 
 geo_json_11c99089a2979a445a77bcbf098e734d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1038<br>311 Complaints 242<br>df_air_quality_2: 1<brBenches: 0<br>Gardens: 0<br>Trees: 823<br>Greenstreets: 3<br>mean_mcg_m3: 5.3<br>Chill Score: 7.3100000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1038<br>311 Complaints: 242<br>df_air_quality_2: 1<brBenches: 0<br>Gardens: 0<br>Trees: 823<br>Greenstreets: 3<br>mean_mcg_m3: 5.3<br>Chill Score: 7.3100000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -32271,7 +32271,7 @@ geo_json_04495eea7c8977da00b07945716cbbb4_add({
 
 geo_json_04495eea7c8977da00b07945716cbbb4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1039<br>311 Complaints 158<br>Benches: 0<br>Gardens: 0<br>Trees: 638<br>Greenstreets: 9<br>Chill Score: 9.3<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1039<br>311 Complaints: 158<br>Benches: 0<br>Gardens: 0<br>Trees: 638<br>Greenstreets: 9<br>Chill Score: 9.3<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -32362,7 +32362,7 @@ geo_json_43fac8214cdf7a247028f1d7c93e1e51_add({
 
 geo_json_43fac8214cdf7a247028f1d7c93e1e51.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1040<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 45<br>Greenstreets: 3<br>Chill Score: 1.92<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1040<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 45<br>Greenstreets: 3<br>Chill Score: 1.92<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -32453,7 +32453,7 @@ geo_json_c64aa898b854df1f73979ee6df44dffe_add({
 
 geo_json_c64aa898b854df1f73979ee6df44dffe.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1047<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 78<br>Greenstreets: 0<br>Chill Score: 0.78<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1047<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 78<br>Greenstreets: 0<br>Chill Score: 0.78<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -32544,7 +32544,7 @@ geo_json_5a489083e3a8fb353be66c74a2050e3f_add({
 
 geo_json_5a489083e3a8fb353be66c74a2050e3f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1048<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 40<br>Greenstreets: 0<br>Chill Score: 0.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1048<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 40<br>Greenstreets: 0<br>Chill Score: 0.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -32635,7 +32635,7 @@ geo_json_7dc167239d0e6715475e5b7aa1e440b5_add({
 
 geo_json_7dc167239d0e6715475e5b7aa1e440b5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1069<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 2<br>Greenstreets: 0<br>Chill Score: 0.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1069<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 2<br>Greenstreets: 0<br>Chill Score: 0.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -32726,7 +32726,7 @@ geo_json_8d94de1788a0878dc1ddf9ee541027f8_add({
 
 geo_json_8d94de1788a0878dc1ddf9ee541027f8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1070<br>311 Complaints 8<br>Benches: 0<br>Gardens: 0<br>Trees: 12<br>Greenstreets: 0<br>Chill Score: 0.039999999999999994<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1070<br>311 Complaints: 8<br>Benches: 0<br>Gardens: 0<br>Trees: 12<br>Greenstreets: 0<br>Chill Score: 0.039999999999999994<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -32817,7 +32817,7 @@ geo_json_9d1426bdbcb3753c6ff6696be0e1413d_add({
 
 geo_json_9d1426bdbcb3753c6ff6696be0e1413d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1071<br>311 Complaints 138<br>Benches: 0<br>Gardens: 0<br>Trees: 480<br>Greenstreets: 0<br>Chill Score: 3.42<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1071<br>311 Complaints: 138<br>Benches: 0<br>Gardens: 0<br>Trees: 480<br>Greenstreets: 0<br>Chill Score: 3.42<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -32908,7 +32908,7 @@ geo_json_fc7c20e9886f602ceb60b9965e3bc012_add({
 
 geo_json_fc7c20e9886f602ceb60b9965e3bc012.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1072<br>311 Complaints 210<br>Benches: 0<br>Gardens: 0<br>Trees: 581<br>Greenstreets: 5<br>Chill Score: 6.210000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1072<br>311 Complaints: 210<br>Benches: 0<br>Gardens: 0<br>Trees: 581<br>Greenstreets: 5<br>Chill Score: 6.210000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -32999,7 +32999,7 @@ geo_json_2d6521031bd80043d92df5d1389eae96_add({
 
 geo_json_2d6521031bd80043d92df5d1389eae96.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1073<br>311 Complaints 103<br>Benches: 1<br>Gardens: 0<br>Trees: 392<br>Greenstreets: 5<br>Chill Score: 5.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1073<br>311 Complaints: 103<br>Benches: 1<br>Gardens: 0<br>Trees: 392<br>Greenstreets: 5<br>Chill Score: 5.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -33090,7 +33090,7 @@ geo_json_5ccddde4256f4cc432442e8d13c8a089_add({
 
 geo_json_5ccddde4256f4cc432442e8d13c8a089.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1074<br>311 Complaints 198<br>Benches: 0<br>Gardens: 0<br>Trees: 665<br>Greenstreets: 0<br>Chill Score: 4.67<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1074<br>311 Complaints: 198<br>Benches: 0<br>Gardens: 0<br>Trees: 665<br>Greenstreets: 0<br>Chill Score: 4.67<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -33181,7 +33181,7 @@ geo_json_4d82d8259b142aa433f2d6980b0c9b89_add({
 
 geo_json_4d82d8259b142aa433f2d6980b0c9b89.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1075<br>311 Complaints 156<br>Benches: 0<br>Gardens: 1<br>Trees: 380<br>Greenstreets: 1<br>Chill Score: 3.24<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1075<br>311 Complaints: 156<br>Benches: 0<br>Gardens: 1<br>Trees: 380<br>Greenstreets: 1<br>Chill Score: 3.24<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -33272,7 +33272,7 @@ geo_json_1496e86d27140e5b27337b9872a98016_add({
 
 geo_json_1496e86d27140e5b27337b9872a98016.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1076<br>311 Complaints 237<br>Benches: 2<br>Gardens: 1<br>Trees: 619<br>Greenstreets: 0<br>Chill Score: 4.34<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1076<br>311 Complaints: 237<br>Benches: 2<br>Gardens: 1<br>Trees: 619<br>Greenstreets: 0<br>Chill Score: 4.34<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -33363,7 +33363,7 @@ geo_json_584e1d1c6e991353ca019534a22392e6_add({
 
 geo_json_584e1d1c6e991353ca019534a22392e6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1077<br>311 Complaints 109<br>Benches: 1<br>Gardens: 0<br>Trees: 730<br>Greenstreets: 1<br>Chill Score: 6.72<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1077<br>311 Complaints: 109<br>Benches: 1<br>Gardens: 0<br>Trees: 730<br>Greenstreets: 1<br>Chill Score: 6.72<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -33454,7 +33454,7 @@ geo_json_c98705d232d4b905b112486ccbf2f66d_add({
 
 geo_json_c98705d232d4b905b112486ccbf2f66d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1078<br>311 Complaints 83<br>Benches: 0<br>Gardens: 0<br>Trees: 519<br>Greenstreets: 5<br>Chill Score: 6.86<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1078<br>311 Complaints: 83<br>Benches: 0<br>Gardens: 0<br>Trees: 519<br>Greenstreets: 5<br>Chill Score: 6.86<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -33545,7 +33545,7 @@ geo_json_ba59457e0e027b32bd0b94061a5aab40_add({
 
 geo_json_ba59457e0e027b32bd0b94061a5aab40.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1079<br>311 Complaints 82<br>Benches: 0<br>Gardens: 0<br>Trees: 440<br>Greenstreets: 1<br>Chill Score: 4.08<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1079<br>311 Complaints: 82<br>Benches: 0<br>Gardens: 0<br>Trees: 440<br>Greenstreets: 1<br>Chill Score: 4.08<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -33636,7 +33636,7 @@ geo_json_5ef5e239fd05a6b4c02765016f7ad997_add({
 
 geo_json_5ef5e239fd05a6b4c02765016f7ad997.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1080<br>311 Complaints 141<br>Benches: 0<br>Gardens: 0<br>Trees: 469<br>Greenstreets: 3<br>Chill Score: 4.78<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1080<br>311 Complaints: 141<br>Benches: 0<br>Gardens: 0<br>Trees: 469<br>Greenstreets: 3<br>Chill Score: 4.78<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -33727,7 +33727,7 @@ geo_json_9017f3b1b52f44ab2077dba3fc6a53fe_add({
 
 geo_json_9017f3b1b52f44ab2077dba3fc6a53fe.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1084<br>311 Complaints 92<br>Benches: 0<br>Gardens: 0<br>Trees: 695<br>Greenstreets: 0<br>Chill Score: 6.03<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1084<br>311 Complaints: 92<br>Benches: 0<br>Gardens: 0<br>Trees: 695<br>Greenstreets: 0<br>Chill Score: 6.03<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -33818,7 +33818,7 @@ geo_json_377eddc77ed5beacce12a016cea91edf_add({
 
 geo_json_377eddc77ed5beacce12a016cea91edf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1085<br>311 Complaints 382<br>Benches: 3<br>Gardens: 0<br>Trees: 1094<br>Greenstreets: 1<br>Chill Score: 7.649999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1085<br>311 Complaints: 382<br>Benches: 3<br>Gardens: 0<br>Trees: 1094<br>Greenstreets: 1<br>Chill Score: 7.649999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -33909,7 +33909,7 @@ geo_json_42f4bc458535d36d4958006c52cd7988_add({
 
 geo_json_42f4bc458535d36d4958006c52cd7988.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1086<br>311 Complaints 267<br>Benches: 2<br>Gardens: 0<br>Trees: 879<br>Greenstreets: 1<br>Chill Score: 6.640000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1086<br>311 Complaints: 267<br>Benches: 2<br>Gardens: 0<br>Trees: 879<br>Greenstreets: 1<br>Chill Score: 6.640000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -34000,7 +34000,7 @@ geo_json_f37f0d844477b65e315a5a6f842e6440_add({
 
 geo_json_f37f0d844477b65e315a5a6f842e6440.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1087<br>311 Complaints 233<br>Benches: 4<br>Gardens: 0<br>Trees: 746<br>Greenstreets: 1<br>Chill Score: 5.67<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1087<br>311 Complaints: 233<br>Benches: 4<br>Gardens: 0<br>Trees: 746<br>Greenstreets: 1<br>Chill Score: 5.67<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -34091,7 +34091,7 @@ geo_json_ed819677fe7c33868e5f4ffb0452ee59_add({
 
 geo_json_ed819677fe7c33868e5f4ffb0452ee59.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1088<br>311 Complaints 338<br>Benches: 3<br>Gardens: 0<br>Trees: 647<br>Greenstreets: 2<br>Chill Score: 4.119999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1088<br>311 Complaints: 338<br>Benches: 3<br>Gardens: 0<br>Trees: 647<br>Greenstreets: 2<br>Chill Score: 4.119999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -34182,7 +34182,7 @@ geo_json_d5f521cea033a27995f3fc93474bd72a_add({
 
 geo_json_d5f521cea033a27995f3fc93474bd72a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1089<br>311 Complaints 224<br>Benches: 2<br>Gardens: 0<br>Trees: 933<br>Greenstreets: 0<br>Chill Score: 7.109999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1089<br>311 Complaints: 224<br>Benches: 2<br>Gardens: 0<br>Trees: 933<br>Greenstreets: 0<br>Chill Score: 7.109999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -34273,7 +34273,7 @@ geo_json_73d7a11fbe3b29c85c2a18a36a96494d_add({
 
 geo_json_73d7a11fbe3b29c85c2a18a36a96494d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1090<br>311 Complaints 328<br>Benches: 2<br>Gardens: 0<br>Trees: 1014<br>Greenstreets: 0<br>Chill Score: 6.880000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1090<br>311 Complaints: 328<br>Benches: 2<br>Gardens: 0<br>Trees: 1014<br>Greenstreets: 0<br>Chill Score: 6.880000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -34364,7 +34364,7 @@ geo_json_58a2e0037380df92ed3719ea70974498_add({
 
 geo_json_58a2e0037380df92ed3719ea70974498.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1091<br>311 Complaints 287<br>Benches: 2<br>Gardens: 0<br>Trees: 1066<br>Greenstreets: 1<br>Chill Score: 8.31<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1091<br>311 Complaints: 287<br>Benches: 2<br>Gardens: 0<br>Trees: 1066<br>Greenstreets: 1<br>Chill Score: 8.31<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -34455,7 +34455,7 @@ geo_json_ff140d7471a63a8693a817ac7c43d098_add({
 
 geo_json_ff140d7471a63a8693a817ac7c43d098.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1092<br>311 Complaints 262<br>df_air_quality_2: 2<brBenches: 4<br>Gardens: 0<br>Trees: 1209<br>Greenstreets: 8<br>mean_mcg_m3: 5.3<br>Chill Score: 13.51<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1092<br>311 Complaints: 262<br>df_air_quality_2: 2<brBenches: 4<br>Gardens: 0<br>Trees: 1209<br>Greenstreets: 8<br>mean_mcg_m3: 5.3<br>Chill Score: 13.51<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -34546,7 +34546,7 @@ geo_json_03fad6a42843124a06662b37d7830077_add({
 
 geo_json_03fad6a42843124a06662b37d7830077.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1093<br>311 Complaints 245<br>Benches: 1<br>Gardens: 1<br>Trees: 700<br>Greenstreets: 3<br>Chill Score: 6.56<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1093<br>311 Complaints: 245<br>Benches: 1<br>Gardens: 1<br>Trees: 700<br>Greenstreets: 3<br>Chill Score: 6.56<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -34637,7 +34637,7 @@ geo_json_dfab53948c628df21b6d495e4281e78a_add({
 
 geo_json_dfab53948c628df21b6d495e4281e78a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1094<br>311 Complaints 304<br>Benches: 1<br>Gardens: 0<br>Trees: 634<br>Greenstreets: 2<br>Chill Score: 4.31<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1094<br>311 Complaints: 304<br>Benches: 1<br>Gardens: 0<br>Trees: 634<br>Greenstreets: 2<br>Chill Score: 4.31<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -34728,7 +34728,7 @@ geo_json_14604c6c8c7c963961a0cf49d31d4a1b_add({
 
 geo_json_14604c6c8c7c963961a0cf49d31d4a1b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1095<br>311 Complaints 274<br>Benches: 0<br>Gardens: 1<br>Trees: 692<br>Greenstreets: 0<br>Chill Score: 4.68<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1095<br>311 Complaints: 274<br>Benches: 0<br>Gardens: 1<br>Trees: 692<br>Greenstreets: 0<br>Chill Score: 4.68<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -34819,7 +34819,7 @@ geo_json_5c5ffe412f43623eb4391a8d6a3305c5_add({
 
 geo_json_5c5ffe412f43623eb4391a8d6a3305c5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1096<br>311 Complaints 253<br>Benches: 2<br>Gardens: 0<br>Trees: 815<br>Greenstreets: 1<br>Chill Score: 6.140000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1096<br>311 Complaints: 253<br>Benches: 2<br>Gardens: 0<br>Trees: 815<br>Greenstreets: 1<br>Chill Score: 6.140000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -34910,7 +34910,7 @@ geo_json_9db5ad45b3870af3a480abf237788624_add({
 
 geo_json_9db5ad45b3870af3a480abf237788624.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1097<br>311 Complaints 132<br>Benches: 0<br>Gardens: 0<br>Trees: 595<br>Greenstreets: 11<br>Chill Score: 10.129999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1097<br>311 Complaints: 132<br>Benches: 0<br>Gardens: 0<br>Trees: 595<br>Greenstreets: 11<br>Chill Score: 10.129999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -35001,7 +35001,7 @@ geo_json_b989798f9a02b9486c0bef43d8b40361_add({
 
 geo_json_b989798f9a02b9486c0bef43d8b40361.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1098<br>311 Complaints 231<br>Benches: 0<br>Gardens: 0<br>Trees: 559<br>Greenstreets: 3<br>Chill Score: 4.779999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1098<br>311 Complaints: 231<br>Benches: 0<br>Gardens: 0<br>Trees: 559<br>Greenstreets: 3<br>Chill Score: 4.779999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -35092,7 +35092,7 @@ geo_json_28b7f1fbc3968adaf741230a1794a088_add({
 
 geo_json_28b7f1fbc3968adaf741230a1794a088.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1099<br>311 Complaints 176<br>Benches: 0<br>Gardens: 0<br>Trees: 568<br>Greenstreets: 3<br>Chill Score: 5.42<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1099<br>311 Complaints: 176<br>Benches: 0<br>Gardens: 0<br>Trees: 568<br>Greenstreets: 3<br>Chill Score: 5.42<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -35183,7 +35183,7 @@ geo_json_a44653fcb4f85f2078267d2f590d952f_add({
 
 geo_json_a44653fcb4f85f2078267d2f590d952f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1100<br>311 Complaints 74<br>Benches: 0<br>Gardens: 1<br>Trees: 259<br>Greenstreets: 4<br>Chill Score: 4.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1100<br>311 Complaints: 74<br>Benches: 0<br>Gardens: 1<br>Trees: 259<br>Greenstreets: 4<br>Chill Score: 4.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -35274,7 +35274,7 @@ geo_json_82a1c60f1977e0b61bcd494680f4330d_add({
 
 geo_json_82a1c60f1977e0b61bcd494680f4330d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1106<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 122<br>Greenstreets: 0<br>Chill Score: 1.22<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1106<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 122<br>Greenstreets: 0<br>Chill Score: 1.22<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -35365,7 +35365,7 @@ geo_json_c1f22a8366571c8341ce512e6d9fe0b9_add({
 
 geo_json_c1f22a8366571c8341ce512e6d9fe0b9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1128<br>311 Complaints 5<br>Benches: 0<br>Gardens: 0<br>Trees: 6<br>Greenstreets: 0<br>Chill Score: 0.009999999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1128<br>311 Complaints: 5<br>Benches: 0<br>Gardens: 0<br>Trees: 6<br>Greenstreets: 0<br>Chill Score: 0.009999999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -35456,7 +35456,7 @@ geo_json_e4b95d50edb8a2f62b0a060ff160a9f1_add({
 
 geo_json_e4b95d50edb8a2f62b0a060ff160a9f1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1129<br>311 Complaints 71<br>Benches: 0<br>Gardens: 0<br>Trees: 147<br>Greenstreets: 0<br>Chill Score: 0.76<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1129<br>311 Complaints: 71<br>Benches: 0<br>Gardens: 0<br>Trees: 147<br>Greenstreets: 0<br>Chill Score: 0.76<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -35547,7 +35547,7 @@ geo_json_87bd2a5f000a7bc21f94da47f5b2bc8a_add({
 
 geo_json_87bd2a5f000a7bc21f94da47f5b2bc8a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1130<br>311 Complaints 103<br>Benches: 0<br>Gardens: 0<br>Trees: 364<br>Greenstreets: 0<br>Chill Score: 2.6100000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1130<br>311 Complaints: 103<br>Benches: 0<br>Gardens: 0<br>Trees: 364<br>Greenstreets: 0<br>Chill Score: 2.6100000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -35638,7 +35638,7 @@ geo_json_879c7ab570457a3754f1ee432c9a0110_add({
 
 geo_json_879c7ab570457a3754f1ee432c9a0110.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1131<br>311 Complaints 56<br>Benches: 0<br>Gardens: 0<br>Trees: 104<br>Greenstreets: 0<br>Chill Score: 0.48<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1131<br>311 Complaints: 56<br>Benches: 0<br>Gardens: 0<br>Trees: 104<br>Greenstreets: 0<br>Chill Score: 0.48<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -35729,7 +35729,7 @@ geo_json_2d949631ec010f2aee2ad89a7c16c571_add({
 
 geo_json_2d949631ec010f2aee2ad89a7c16c571.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1132<br>311 Complaints 41<br>Benches: 0<br>Gardens: 0<br>Trees: 133<br>Greenstreets: 0<br>Chill Score: 0.92<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1132<br>311 Complaints: 41<br>Benches: 0<br>Gardens: 0<br>Trees: 133<br>Greenstreets: 0<br>Chill Score: 0.92<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -35820,7 +35820,7 @@ geo_json_da60a33d7a46e4bb4b9754bc8c4bb651_add({
 
 geo_json_da60a33d7a46e4bb4b9754bc8c4bb651.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1133<br>311 Complaints 146<br>Benches: 2<br>Gardens: 0<br>Trees: 380<br>Greenstreets: 0<br>Chill Score: 2.3600000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1133<br>311 Complaints: 146<br>Benches: 2<br>Gardens: 0<br>Trees: 380<br>Greenstreets: 0<br>Chill Score: 2.3600000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -35911,7 +35911,7 @@ geo_json_b43f7249e4e36a573944e25519fe003c_add({
 
 geo_json_b43f7249e4e36a573944e25519fe003c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1134<br>311 Complaints 63<br>Benches: 0<br>Gardens: 0<br>Trees: 141<br>Greenstreets: 0<br>Chill Score: 0.7799999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1134<br>311 Complaints: 63<br>Benches: 0<br>Gardens: 0<br>Trees: 141<br>Greenstreets: 0<br>Chill Score: 0.7799999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -36002,7 +36002,7 @@ geo_json_d536b49135ffe3d7ab02a2c64e708d95_add({
 
 geo_json_d536b49135ffe3d7ab02a2c64e708d95.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1135<br>311 Complaints 162<br>Benches: 2<br>Gardens: 1<br>Trees: 527<br>Greenstreets: 0<br>Chill Score: 4.17<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1135<br>311 Complaints: 162<br>Benches: 2<br>Gardens: 1<br>Trees: 527<br>Greenstreets: 0<br>Chill Score: 4.17<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -36093,7 +36093,7 @@ geo_json_a9ff8200b69cf321d79087abd5cb0d08_add({
 
 geo_json_a9ff8200b69cf321d79087abd5cb0d08.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1136<br>311 Complaints 62<br>Benches: 0<br>Gardens: 0<br>Trees: 485<br>Greenstreets: 4<br>Chill Score: 6.23<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1136<br>311 Complaints: 62<br>Benches: 0<br>Gardens: 0<br>Trees: 485<br>Greenstreets: 4<br>Chill Score: 6.23<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -36184,7 +36184,7 @@ geo_json_f2b17f547da2c6e53750e7dd0bae5e65_add({
 
 geo_json_f2b17f547da2c6e53750e7dd0bae5e65.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1137<br>311 Complaints 59<br>Benches: 3<br>Gardens: 0<br>Trees: 440<br>Greenstreets: 1<br>Chill Score: 4.34<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1137<br>311 Complaints: 59<br>Benches: 3<br>Gardens: 0<br>Trees: 440<br>Greenstreets: 1<br>Chill Score: 4.34<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -36275,7 +36275,7 @@ geo_json_49839efdddb9b243c308a28003e77d54_add({
 
 geo_json_49839efdddb9b243c308a28003e77d54.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1138<br>311 Complaints 219<br>Benches: 0<br>Gardens: 1<br>Trees: 572<br>Greenstreets: 0<br>Chill Score: 4.029999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1138<br>311 Complaints: 219<br>Benches: 0<br>Gardens: 1<br>Trees: 572<br>Greenstreets: 0<br>Chill Score: 4.029999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -36366,7 +36366,7 @@ geo_json_9c457f2fd3f11aba68f6985a2403a9e1_add({
 
 geo_json_9c457f2fd3f11aba68f6985a2403a9e1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1139<br>311 Complaints 211<br>Benches: 4<br>Gardens: 0<br>Trees: 768<br>Greenstreets: 12<br>Chill Score: 11.61<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1139<br>311 Complaints: 211<br>Benches: 4<br>Gardens: 0<br>Trees: 768<br>Greenstreets: 12<br>Chill Score: 11.61<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -36457,7 +36457,7 @@ geo_json_c179402be93002357c69ef76991dd226_add({
 
 geo_json_c179402be93002357c69ef76991dd226.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1143<br>311 Complaints 38<br>Benches: 0<br>Gardens: 0<br>Trees: 204<br>Greenstreets: 2<br>Chill Score: 2.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1143<br>311 Complaints: 38<br>Benches: 0<br>Gardens: 0<br>Trees: 204<br>Greenstreets: 2<br>Chill Score: 2.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -36548,7 +36548,7 @@ geo_json_942692c295c374abcba8e4aa022f7915_add({
 
 geo_json_942692c295c374abcba8e4aa022f7915.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1144<br>311 Complaints 223<br>Benches: 2<br>Gardens: 0<br>Trees: 547<br>Greenstreets: 1<br>Chill Score: 3.76<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1144<br>311 Complaints: 223<br>Benches: 2<br>Gardens: 0<br>Trees: 547<br>Greenstreets: 1<br>Chill Score: 3.76<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -36639,7 +36639,7 @@ geo_json_b477faf5e719106cde5e55312ac9d6c8_add({
 
 geo_json_b477faf5e719106cde5e55312ac9d6c8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1145<br>311 Complaints 245<br>Benches: 4<br>Gardens: 1<br>Trees: 630<br>Greenstreets: 2<br>Chill Score: 5.39<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1145<br>311 Complaints: 245<br>Benches: 4<br>Gardens: 1<br>Trees: 630<br>Greenstreets: 2<br>Chill Score: 5.39<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -36730,7 +36730,7 @@ geo_json_becc4f0d98d0e872132309d90152cdc2_add({
 
 geo_json_becc4f0d98d0e872132309d90152cdc2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1146<br>311 Complaints 295<br>Benches: 5<br>Gardens: 0<br>Trees: 747<br>Greenstreets: 0<br>Chill Score: 4.569999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1146<br>311 Complaints: 295<br>Benches: 5<br>Gardens: 0<br>Trees: 747<br>Greenstreets: 0<br>Chill Score: 4.569999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -36821,7 +36821,7 @@ geo_json_776258ffbf0eca1814e899455f982866_add({
 
 geo_json_776258ffbf0eca1814e899455f982866.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1147<br>311 Complaints 233<br>Benches: 3<br>Gardens: 0<br>Trees: 859<br>Greenstreets: 0<br>Chill Score: 6.289999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1147<br>311 Complaints: 233<br>Benches: 3<br>Gardens: 0<br>Trees: 859<br>Greenstreets: 0<br>Chill Score: 6.289999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -36912,7 +36912,7 @@ geo_json_76a13b18b3d127f006be5462c8843a9f_add({
 
 geo_json_76a13b18b3d127f006be5462c8843a9f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1148<br>311 Complaints 350<br>Benches: 6<br>Gardens: 0<br>Trees: 676<br>Greenstreets: 1<br>Chill Score: 3.82<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1148<br>311 Complaints: 350<br>Benches: 6<br>Gardens: 0<br>Trees: 676<br>Greenstreets: 1<br>Chill Score: 3.82<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -37003,7 +37003,7 @@ geo_json_ba8d46fd40291553646ac7c438651ae8_add({
 
 geo_json_ba8d46fd40291553646ac7c438651ae8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1149<br>311 Complaints 243<br>Benches: 2<br>Gardens: 0<br>Trees: 713<br>Greenstreets: 3<br>Chill Score: 6.22<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1149<br>311 Complaints: 243<br>Benches: 2<br>Gardens: 0<br>Trees: 713<br>Greenstreets: 3<br>Chill Score: 6.22<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -37094,7 +37094,7 @@ geo_json_2468ad996d534f1c422e465ba54e20cf_add({
 
 geo_json_2468ad996d534f1c422e465ba54e20cf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1150<br>311 Complaints 325<br>Benches: 0<br>Gardens: 0<br>Trees: 1072<br>Greenstreets: 0<br>Chill Score: 7.470000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1150<br>311 Complaints: 325<br>Benches: 0<br>Gardens: 0<br>Trees: 1072<br>Greenstreets: 0<br>Chill Score: 7.470000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -37185,7 +37185,7 @@ geo_json_dc6c114eb4b39936cba96f3359984ca1_add({
 
 geo_json_dc6c114eb4b39936cba96f3359984ca1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1151<br>311 Complaints 281<br>Benches: 2<br>Gardens: 0<br>Trees: 1207<br>Greenstreets: 0<br>Chill Score: 9.280000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1151<br>311 Complaints: 281<br>Benches: 2<br>Gardens: 0<br>Trees: 1207<br>Greenstreets: 0<br>Chill Score: 9.280000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -37276,7 +37276,7 @@ geo_json_4f824544fbb64f4f52070412472bb9c4_add({
 
 geo_json_4f824544fbb64f4f52070412472bb9c4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1152<br>311 Complaints 530<br>Benches: 0<br>Gardens: 0<br>Trees: 909<br>Greenstreets: 7<br>Chill Score: 7.29<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1152<br>311 Complaints: 530<br>Benches: 0<br>Gardens: 0<br>Trees: 909<br>Greenstreets: 7<br>Chill Score: 7.29<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -37367,7 +37367,7 @@ geo_json_e123e7d033193aca5998d520462addd8_add({
 
 geo_json_e123e7d033193aca5998d520462addd8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1153<br>311 Complaints 463<br>Benches: 9<br>Gardens: 0<br>Trees: 636<br>Greenstreets: 0<br>Chill Score: 1.8200000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1153<br>311 Complaints: 463<br>Benches: 9<br>Gardens: 0<br>Trees: 636<br>Greenstreets: 0<br>Chill Score: 1.8200000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -37458,7 +37458,7 @@ geo_json_7c6259578261b2d9d850ab0fddda2647_add({
 
 geo_json_7c6259578261b2d9d850ab0fddda2647.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1154<br>311 Complaints 256<br>Benches: 0<br>Gardens: 0<br>Trees: 432<br>Greenstreets: 0<br>Chill Score: 1.7600000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1154<br>311 Complaints: 256<br>Benches: 0<br>Gardens: 0<br>Trees: 432<br>Greenstreets: 0<br>Chill Score: 1.7600000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -37549,7 +37549,7 @@ geo_json_417d56c305bc22795e26faa28e6ec534_add({
 
 geo_json_417d56c305bc22795e26faa28e6ec534.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1155<br>311 Complaints 161<br>Benches: 1<br>Gardens: 0<br>Trees: 486<br>Greenstreets: 5<br>Chill Score: 5.76<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1155<br>311 Complaints: 161<br>Benches: 1<br>Gardens: 0<br>Trees: 486<br>Greenstreets: 5<br>Chill Score: 5.76<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -37640,7 +37640,7 @@ geo_json_14485ec226ef22a3a3f633b4345c0c72_add({
 
 geo_json_14485ec226ef22a3a3f633b4345c0c72.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1156<br>311 Complaints 273<br>Benches: 3<br>Gardens: 0<br>Trees: 825<br>Greenstreets: 1<br>Chill Score: 6.05<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1156<br>311 Complaints: 273<br>Benches: 3<br>Gardens: 0<br>Trees: 825<br>Greenstreets: 1<br>Chill Score: 6.05<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -37731,7 +37731,7 @@ geo_json_064c427e387254ef707506f5bf5d815e_add({
 
 geo_json_064c427e387254ef707506f5bf5d815e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1157<br>311 Complaints 232<br>Benches: 4<br>Gardens: 0<br>Trees: 500<br>Greenstreets: 0<br>Chill Score: 2.72<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1157<br>311 Complaints: 232<br>Benches: 4<br>Gardens: 0<br>Trees: 500<br>Greenstreets: 0<br>Chill Score: 2.72<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -37822,7 +37822,7 @@ geo_json_9d71ca2b48933c3f33d677828e2021fe_add({
 
 geo_json_9d71ca2b48933c3f33d677828e2021fe.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1158<br>311 Complaints 226<br>Benches: 0<br>Gardens: 0<br>Trees: 600<br>Greenstreets: 0<br>Chill Score: 3.7399999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1158<br>311 Complaints: 226<br>Benches: 0<br>Gardens: 0<br>Trees: 600<br>Greenstreets: 0<br>Chill Score: 3.7399999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -37913,7 +37913,7 @@ geo_json_c96ed0eaf750250a6b5efce7a1bcfd4d_add({
 
 geo_json_c96ed0eaf750250a6b5efce7a1bcfd4d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1159<br>311 Complaints 224<br>Benches: 1<br>Gardens: 0<br>Trees: 679<br>Greenstreets: 9<br>Chill Score: 9.059999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1159<br>311 Complaints: 224<br>Benches: 1<br>Gardens: 0<br>Trees: 679<br>Greenstreets: 9<br>Chill Score: 9.059999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -38004,7 +38004,7 @@ geo_json_579803ff451d251d30f174a7d7c4d10b_add({
 
 geo_json_579803ff451d251d30f174a7d7c4d10b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1160<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 18<br>Greenstreets: 1<br>Chill Score: 0.65<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1160<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 18<br>Greenstreets: 1<br>Chill Score: 0.65<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -38095,7 +38095,7 @@ geo_json_10d1ebc61de73e191d95c60de2d7cdd4_add({
 
 geo_json_10d1ebc61de73e191d95c60de2d7cdd4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1165<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 70<br>Greenstreets: 0<br>Chill Score: 0.7000000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1165<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 70<br>Greenstreets: 0<br>Chill Score: 0.7000000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -38186,7 +38186,7 @@ geo_json_a1e68935d39e7a078128f7f822dcd747_add({
 
 geo_json_a1e68935d39e7a078128f7f822dcd747.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1174<br>311 Complaints 14<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.14<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1174<br>311 Complaints: 14<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.14<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -38277,7 +38277,7 @@ geo_json_a805215c38876e0f661cd8fe1b47ba0e_add({
 
 geo_json_a805215c38876e0f661cd8fe1b47ba0e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1194<br>311 Complaints 22<br>Benches: 0<br>Gardens: 0<br>Trees: 8<br>Greenstreets: 0<br>Chill Score: -0.14<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1194<br>311 Complaints: 22<br>Benches: 0<br>Gardens: 0<br>Trees: 8<br>Greenstreets: 0<br>Chill Score: -0.14<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -38368,7 +38368,7 @@ geo_json_3a62f9b8c591a2eeca151046cc5519b5_add({
 
 geo_json_3a62f9b8c591a2eeca151046cc5519b5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1195<br>311 Complaints 15<br>Benches: 0<br>Gardens: 0<br>Trees: 57<br>Greenstreets: 0<br>Chill Score: 0.42000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1195<br>311 Complaints: 15<br>Benches: 0<br>Gardens: 0<br>Trees: 57<br>Greenstreets: 0<br>Chill Score: 0.42000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -38459,7 +38459,7 @@ geo_json_314092b6f1e12b4ba20d51abe69b5a49_add({
 
 geo_json_314092b6f1e12b4ba20d51abe69b5a49.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1196<br>311 Complaints 78<br>Benches: 0<br>Gardens: 0<br>Trees: 231<br>Greenstreets: 0<br>Chill Score: 1.53<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1196<br>311 Complaints: 78<br>Benches: 0<br>Gardens: 0<br>Trees: 231<br>Greenstreets: 0<br>Chill Score: 1.53<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -38550,7 +38550,7 @@ geo_json_d2306faaa770fd16047691ad7f2681dd_add({
 
 geo_json_d2306faaa770fd16047691ad7f2681dd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1197<br>311 Complaints 139<br>Benches: 1<br>Gardens: 1<br>Trees: 406<br>Greenstreets: 2<br>Chill Score: 4.180000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1197<br>311 Complaints: 139<br>Benches: 1<br>Gardens: 1<br>Trees: 406<br>Greenstreets: 2<br>Chill Score: 4.180000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -38641,7 +38641,7 @@ geo_json_9a0fdbc9f6f849a0c932061d20daff14_add({
 
 geo_json_9a0fdbc9f6f849a0c932061d20daff14.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1198<br>311 Complaints 100<br>Benches: 0<br>Gardens: 0<br>Trees: 350<br>Greenstreets: 9<br>Chill Score: 7.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1198<br>311 Complaints: 100<br>Benches: 0<br>Gardens: 0<br>Trees: 350<br>Greenstreets: 9<br>Chill Score: 7.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -38731,7 +38731,7 @@ geo_json_c81da76930f460553f17b6d3e13c1d0c_add({
 
 geo_json_c81da76930f460553f17b6d3e13c1d0c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1199<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1199<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -38822,7 +38822,7 @@ geo_json_8c496a895387e61121f63b2e25d1a139_add({
 
 geo_json_8c496a895387e61121f63b2e25d1a139.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1204<br>311 Complaints 237<br>Benches: 2<br>Gardens: 0<br>Trees: 580<br>Greenstreets: 0<br>Chill Score: 3.4499999999999997<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1204<br>311 Complaints: 237<br>Benches: 2<br>Gardens: 0<br>Trees: 580<br>Greenstreets: 0<br>Chill Score: 3.4499999999999997<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -38913,7 +38913,7 @@ geo_json_fde262bbd294029fca54abef9af363f7_add({
 
 geo_json_fde262bbd294029fca54abef9af363f7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1205<br>311 Complaints 433<br>Benches: 5<br>Gardens: 0<br>Trees: 1120<br>Greenstreets: 0<br>Chill Score: 6.920000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1205<br>311 Complaints: 433<br>Benches: 5<br>Gardens: 0<br>Trees: 1120<br>Greenstreets: 0<br>Chill Score: 6.920000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -39004,7 +39004,7 @@ geo_json_c63cbb7d83ab51a8497bb9b580aa16c5_add({
 
 geo_json_c63cbb7d83ab51a8497bb9b580aa16c5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1206<br>311 Complaints 487<br>Benches: 3<br>Gardens: 0<br>Trees: 997<br>Greenstreets: 0<br>Chill Score: 5.130000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1206<br>311 Complaints: 487<br>Benches: 3<br>Gardens: 0<br>Trees: 997<br>Greenstreets: 0<br>Chill Score: 5.130000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -39095,7 +39095,7 @@ geo_json_74c3a8be0d90cec2a56af119f6eba9ab_add({
 
 geo_json_74c3a8be0d90cec2a56af119f6eba9ab.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1207<br>311 Complaints 308<br>Benches: 1<br>Gardens: 0<br>Trees: 430<br>Greenstreets: 2<br>Chill Score: 2.2299999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1207<br>311 Complaints: 308<br>Benches: 1<br>Gardens: 0<br>Trees: 430<br>Greenstreets: 2<br>Chill Score: 2.2299999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -39186,7 +39186,7 @@ geo_json_c0b2ef6c5cfc596ba83d35bdbbf0fa80_add({
 
 geo_json_c0b2ef6c5cfc596ba83d35bdbbf0fa80.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1208<br>311 Complaints 268<br>Benches: 6<br>Gardens: 0<br>Trees: 624<br>Greenstreets: 2<br>Chill Score: 4.62<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1208<br>311 Complaints: 268<br>Benches: 6<br>Gardens: 0<br>Trees: 624<br>Greenstreets: 2<br>Chill Score: 4.62<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -39277,7 +39277,7 @@ geo_json_039683c0d35f53712785802a3ed621ec_add({
 
 geo_json_039683c0d35f53712785802a3ed621ec.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1209<br>311 Complaints 324<br>Benches: 1<br>Gardens: 1<br>Trees: 1040<br>Greenstreets: 2<br>Chill Score: 8.67<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1209<br>311 Complaints: 324<br>Benches: 1<br>Gardens: 1<br>Trees: 1040<br>Greenstreets: 2<br>Chill Score: 8.67<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -39368,7 +39368,7 @@ geo_json_0cbeeb292feef7cb631bbc987c0fe7ae_add({
 
 geo_json_0cbeeb292feef7cb631bbc987c0fe7ae.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1210<br>311 Complaints 483<br>Benches: 0<br>Gardens: 0<br>Trees: 651<br>Greenstreets: 4<br>Chill Score: 3.6799999999999997<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1210<br>311 Complaints: 483<br>Benches: 0<br>Gardens: 0<br>Trees: 651<br>Greenstreets: 4<br>Chill Score: 3.6799999999999997<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -39459,7 +39459,7 @@ geo_json_32cd65c52dde3cfdcb08addd0d39bd2b_add({
 
 geo_json_32cd65c52dde3cfdcb08addd0d39bd2b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1211<br>311 Complaints 661<br>Benches: 3<br>Gardens: 1<br>Trees: 663<br>Greenstreets: 0<br>Chill Score: 0.5499999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1211<br>311 Complaints: 661<br>Benches: 3<br>Gardens: 1<br>Trees: 663<br>Greenstreets: 0<br>Chill Score: 0.5499999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -39550,7 +39550,7 @@ geo_json_d6bc85b144edeff812313509313383aa_add({
 
 geo_json_d6bc85b144edeff812313509313383aa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1212<br>311 Complaints 262<br>Benches: 0<br>Gardens: 0<br>Trees: 550<br>Greenstreets: 0<br>Chill Score: 2.88<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1212<br>311 Complaints: 262<br>Benches: 0<br>Gardens: 0<br>Trees: 550<br>Greenstreets: 0<br>Chill Score: 2.88<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -39641,7 +39641,7 @@ geo_json_84bc2a63b11240b3ad6b9bff5d78a1e0_add({
 
 geo_json_84bc2a63b11240b3ad6b9bff5d78a1e0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1213<br>311 Complaints 170<br>df_air_quality_2: 1<brBenches: 0<br>Gardens: 0<br>Trees: 551<br>Greenstreets: 0<br>mean_mcg_m3: 5.7<br>Chill Score: 3.8099999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1213<br>311 Complaints: 170<br>df_air_quality_2: 1<brBenches: 0<br>Gardens: 0<br>Trees: 551<br>Greenstreets: 0<br>mean_mcg_m3: 5.7<br>Chill Score: 3.8099999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -39732,7 +39732,7 @@ geo_json_feb19d706d562b6b0b6f362800f9c1bf_add({
 
 geo_json_feb19d706d562b6b0b6f362800f9c1bf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1214<br>311 Complaints 212<br>Benches: 4<br>Gardens: 0<br>Trees: 644<br>Greenstreets: 6<br>Chill Score: 7.36<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1214<br>311 Complaints: 212<br>Benches: 4<br>Gardens: 0<br>Trees: 644<br>Greenstreets: 6<br>Chill Score: 7.36<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -39823,7 +39823,7 @@ geo_json_77daacf70b783b08aca5b2719c9ee349_add({
 
 geo_json_77daacf70b783b08aca5b2719c9ee349.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1215<br>311 Complaints 168<br>Benches: 0<br>Gardens: 0<br>Trees: 402<br>Greenstreets: 3<br>Chill Score: 3.8400000000000007<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1215<br>311 Complaints: 168<br>Benches: 0<br>Gardens: 0<br>Trees: 402<br>Greenstreets: 3<br>Chill Score: 3.8400000000000007<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -39914,7 +39914,7 @@ geo_json_c07e39cc057fb27a10481666263c1bd9_add({
 
 geo_json_c07e39cc057fb27a10481666263c1bd9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1216<br>311 Complaints 306<br>Benches: 0<br>Gardens: 0<br>Trees: 542<br>Greenstreets: 0<br>Chill Score: 2.36<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1216<br>311 Complaints: 306<br>Benches: 0<br>Gardens: 0<br>Trees: 542<br>Greenstreets: 0<br>Chill Score: 2.36<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -40005,7 +40005,7 @@ geo_json_24e53a0990b5b676fdb5736296fd0308_add({
 
 geo_json_24e53a0990b5b676fdb5736296fd0308.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1217<br>311 Complaints 224<br>Benches: 6<br>Gardens: 0<br>Trees: 588<br>Greenstreets: 0<br>Chill Score: 3.6999999999999997<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1217<br>311 Complaints: 224<br>Benches: 6<br>Gardens: 0<br>Trees: 588<br>Greenstreets: 0<br>Chill Score: 3.6999999999999997<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -40096,7 +40096,7 @@ geo_json_f60b58b43948df246831e66c7c72a1f3_add({
 
 geo_json_f60b58b43948df246831e66c7c72a1f3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1218<br>311 Complaints 168<br>Benches: 0<br>Gardens: 0<br>Trees: 508<br>Greenstreets: 0<br>Chill Score: 3.4000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1218<br>311 Complaints: 168<br>Benches: 0<br>Gardens: 0<br>Trees: 508<br>Greenstreets: 0<br>Chill Score: 3.4000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -40187,7 +40187,7 @@ geo_json_b85bc1c5b5931dbd821b913b53b52c5b_add({
 
 geo_json_b85bc1c5b5931dbd821b913b53b52c5b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1219<br>311 Complaints 27<br>Benches: 0<br>Gardens: 1<br>Trees: 250<br>Greenstreets: 0<br>Chill Score: 2.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1219<br>311 Complaints: 27<br>Benches: 0<br>Gardens: 1<br>Trees: 250<br>Greenstreets: 0<br>Chill Score: 2.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -40277,7 +40277,7 @@ geo_json_ee78334375bc447b02bd343682878974_add({
 
 geo_json_ee78334375bc447b02bd343682878974.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1223<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1223<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -40368,7 +40368,7 @@ geo_json_164d320959d729f873536e9fcd3b1799_add({
 
 geo_json_164d320959d729f873536e9fcd3b1799.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1233<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 28<br>Greenstreets: 0<br>Chill Score: 0.27<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1233<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 28<br>Greenstreets: 0<br>Chill Score: 0.27<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -40459,7 +40459,7 @@ geo_json_89ad50ce3d832d629951263c5199cc5d_add({
 
 geo_json_89ad50ce3d832d629951263c5199cc5d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1263<br>311 Complaints 35<br>Benches: 0<br>Gardens: 0<br>Trees: 72<br>Greenstreets: 0<br>Chill Score: 0.36999999999999994<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1263<br>311 Complaints: 35<br>Benches: 0<br>Gardens: 0<br>Trees: 72<br>Greenstreets: 0<br>Chill Score: 0.36999999999999994<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -40550,7 +40550,7 @@ geo_json_05132f4d463aef594785f216f9a48e2a_add({
 
 geo_json_05132f4d463aef594785f216f9a48e2a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1264<br>311 Complaints 312<br>Benches: 5<br>Gardens: 0<br>Trees: 501<br>Greenstreets: 1<br>Chill Score: 2.4399999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1264<br>311 Complaints: 312<br>Benches: 5<br>Gardens: 0<br>Trees: 501<br>Greenstreets: 1<br>Chill Score: 2.4399999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -40641,7 +40641,7 @@ geo_json_5392884f4d6dc9b8c1db54b4621dd718_add({
 
 geo_json_5392884f4d6dc9b8c1db54b4621dd718.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1265<br>311 Complaints 102<br>Benches: 4<br>Gardens: 0<br>Trees: 450<br>Greenstreets: 0<br>Chill Score: 3.52<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1265<br>311 Complaints: 102<br>Benches: 4<br>Gardens: 0<br>Trees: 450<br>Greenstreets: 0<br>Chill Score: 3.52<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -40732,7 +40732,7 @@ geo_json_bd8ab0c5f39d49ec12fc85c5c4817a9e_add({
 
 geo_json_bd8ab0c5f39d49ec12fc85c5c4817a9e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1267<br>311 Complaints 85<br>Benches: 0<br>Gardens: 0<br>Trees: 445<br>Greenstreets: 0<br>Chill Score: 3.6<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1267<br>311 Complaints: 85<br>Benches: 0<br>Gardens: 0<br>Trees: 445<br>Greenstreets: 0<br>Chill Score: 3.6<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -40823,7 +40823,7 @@ geo_json_b3c853f9814643ef1a1fdcf2e287feac_add({
 
 geo_json_b3c853f9814643ef1a1fdcf2e287feac.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1268<br>311 Complaints 171<br>Benches: 3<br>Gardens: 1<br>Trees: 622<br>Greenstreets: 13<br>Chill Score: 11.54<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1268<br>311 Complaints: 171<br>Benches: 3<br>Gardens: 1<br>Trees: 622<br>Greenstreets: 13<br>Chill Score: 11.54<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -40914,7 +40914,7 @@ geo_json_8166aef13f6b13cb29b4617b4a49ed54_add({
 
 geo_json_8166aef13f6b13cb29b4617b4a49ed54.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1269<br>311 Complaints 608<br>Benches: 4<br>Gardens: 2<br>Trees: 631<br>Greenstreets: 0<br>Chill Score: 1.2700000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1269<br>311 Complaints: 608<br>Benches: 4<br>Gardens: 2<br>Trees: 631<br>Greenstreets: 0<br>Chill Score: 1.2700000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -41005,7 +41005,7 @@ geo_json_1e5d088c38e73172b1ec4987c7b1244f_add({
 
 geo_json_1e5d088c38e73172b1ec4987c7b1244f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1270<br>311 Complaints 703<br>Benches: 14<br>Gardens: 0<br>Trees: 561<br>Greenstreets: 2<br>Chill Score: -0.28000000000000025<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1270<br>311 Complaints: 703<br>Benches: 14<br>Gardens: 0<br>Trees: 561<br>Greenstreets: 2<br>Chill Score: -0.28000000000000025<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -41096,7 +41096,7 @@ geo_json_a2c3a1c69762e3585ec08af6993a6c6f_add({
 
 geo_json_a2c3a1c69762e3585ec08af6993a6c6f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1271<br>311 Complaints 302<br>Benches: 8<br>Gardens: 0<br>Trees: 561<br>Greenstreets: 0<br>Chill Score: 2.6700000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1271<br>311 Complaints: 302<br>Benches: 8<br>Gardens: 0<br>Trees: 561<br>Greenstreets: 0<br>Chill Score: 2.6700000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -41187,7 +41187,7 @@ geo_json_3cdaf9a27c04d8b6eaf9670d2f96783e_add({
 
 geo_json_3cdaf9a27c04d8b6eaf9670d2f96783e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1272<br>311 Complaints 258<br>Benches: 8<br>Gardens: 0<br>Trees: 614<br>Greenstreets: 0<br>Chill Score: 3.6400000000000006<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1272<br>311 Complaints: 258<br>Benches: 8<br>Gardens: 0<br>Trees: 614<br>Greenstreets: 0<br>Chill Score: 3.6400000000000006<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -41278,7 +41278,7 @@ geo_json_baf507817faa5c597d4deb94b0c0adbd_add({
 
 geo_json_baf507817faa5c597d4deb94b0c0adbd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1273<br>311 Complaints 298<br>Benches: 5<br>Gardens: 0<br>Trees: 714<br>Greenstreets: 8<br>Chill Score: 8.21<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1273<br>311 Complaints: 298<br>Benches: 5<br>Gardens: 0<br>Trees: 714<br>Greenstreets: 8<br>Chill Score: 8.21<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -41369,7 +41369,7 @@ geo_json_57ad12f1acc1dd8e037bf7d6d2b5f7da_add({
 
 geo_json_57ad12f1acc1dd8e037bf7d6d2b5f7da.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1274<br>311 Complaints 260<br>Benches: 2<br>Gardens: 0<br>Trees: 594<br>Greenstreets: 2<br>Chill Score: 4.36<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1274<br>311 Complaints: 260<br>Benches: 2<br>Gardens: 0<br>Trees: 594<br>Greenstreets: 2<br>Chill Score: 4.36<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -41460,7 +41460,7 @@ geo_json_20c2c8efe2e0a268bda39bd281d62f60_add({
 
 geo_json_20c2c8efe2e0a268bda39bd281d62f60.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1275<br>311 Complaints 107<br>Benches: 0<br>Gardens: 0<br>Trees: 263<br>Greenstreets: 0<br>Chill Score: 1.5599999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1275<br>311 Complaints: 107<br>Benches: 0<br>Gardens: 0<br>Trees: 263<br>Greenstreets: 0<br>Chill Score: 1.5599999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -41551,7 +41551,7 @@ geo_json_1c1671f5e5ecfca74b5fa6873077527b_add({
 
 geo_json_1c1671f5e5ecfca74b5fa6873077527b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1276<br>311 Complaints 101<br>Benches: 2<br>Gardens: 1<br>Trees: 187<br>Greenstreets: 0<br>Chill Score: 1.3800000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1276<br>311 Complaints: 101<br>Benches: 2<br>Gardens: 1<br>Trees: 187<br>Greenstreets: 0<br>Chill Score: 1.3800000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -41642,7 +41642,7 @@ geo_json_1c2c21ec68d2861696fea0321ec538eb_add({
 
 geo_json_1c2c21ec68d2861696fea0321ec538eb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1277<br>311 Complaints 85<br>Benches: 7<br>Gardens: 0<br>Trees: 587<br>Greenstreets: 0<br>Chill Score: 5.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1277<br>311 Complaints: 85<br>Benches: 7<br>Gardens: 0<br>Trees: 587<br>Greenstreets: 0<br>Chill Score: 5.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -41733,7 +41733,7 @@ geo_json_b1f41732cb5881bb236c785ca33adf66_add({
 
 geo_json_b1f41732cb5881bb236c785ca33adf66.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1278<br>311 Complaints 8<br>Benches: 0<br>Gardens: 0<br>Trees: 174<br>Greenstreets: 1<br>Chill Score: 2.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1278<br>311 Complaints: 8<br>Benches: 0<br>Gardens: 0<br>Trees: 174<br>Greenstreets: 1<br>Chill Score: 2.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -41824,7 +41824,7 @@ geo_json_4ba390fbba038c1601cfe2c4dd731f0f_add({
 
 geo_json_4ba390fbba038c1601cfe2c4dd731f0f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1279<br>311 Complaints 9<br>Benches: 0<br>Gardens: 0<br>Trees: 89<br>Greenstreets: 0<br>Chill Score: 0.8<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1279<br>311 Complaints: 9<br>Benches: 0<br>Gardens: 0<br>Trees: 89<br>Greenstreets: 0<br>Chill Score: 0.8<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -41915,7 +41915,7 @@ geo_json_0d4a324d5f77036331dd68ea293b02fd_add({
 
 geo_json_0d4a324d5f77036331dd68ea293b02fd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1281<br>311 Complaints 62<br>Benches: 0<br>Gardens: 0<br>Trees: 360<br>Greenstreets: 0<br>Chill Score: 2.98<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1281<br>311 Complaints: 62<br>Benches: 0<br>Gardens: 0<br>Trees: 360<br>Greenstreets: 0<br>Chill Score: 2.98<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -42006,7 +42006,7 @@ geo_json_e2a034e5665d7cd647f825c17b54e7c4_add({
 
 geo_json_e2a034e5665d7cd647f825c17b54e7c4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1282<br>311 Complaints 83<br>Benches: 2<br>Gardens: 0<br>Trees: 656<br>Greenstreets: 0<br>Chill Score: 5.75<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1282<br>311 Complaints: 83<br>Benches: 2<br>Gardens: 0<br>Trees: 656<br>Greenstreets: 0<br>Chill Score: 5.75<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -42097,7 +42097,7 @@ geo_json_79ba71ec06bf6b3ff51eb529c10cee1a_add({
 
 geo_json_79ba71ec06bf6b3ff51eb529c10cee1a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1283<br>311 Complaints 79<br>Benches: 0<br>Gardens: 0<br>Trees: 150<br>Greenstreets: 0<br>Chill Score: 0.71<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1283<br>311 Complaints: 79<br>Benches: 0<br>Gardens: 0<br>Trees: 150<br>Greenstreets: 0<br>Chill Score: 0.71<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -42187,7 +42187,7 @@ geo_json_06de740da02886e60c5d41da96228d4b_add({
 
 geo_json_06de740da02886e60c5d41da96228d4b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1286<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1286<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -42277,7 +42277,7 @@ geo_json_96fde650a48917144c08c6c6ddcf1955_add({
 
 geo_json_96fde650a48917144c08c6c6ddcf1955.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1287<br>311 Complaints 4<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.04<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1287<br>311 Complaints: 4<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.04<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -42368,7 +42368,7 @@ geo_json_46690b5bbc111ed18fd673c430d6c91c_add({
 
 geo_json_46690b5bbc111ed18fd673c430d6c91c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1292<br>311 Complaints 49<br>Benches: 0<br>Gardens: 0<br>Trees: 184<br>Greenstreets: 0<br>Chill Score: 1.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1292<br>311 Complaints: 49<br>Benches: 0<br>Gardens: 0<br>Trees: 184<br>Greenstreets: 0<br>Chill Score: 1.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -42459,7 +42459,7 @@ geo_json_a784b05a516f7dfb328f2936e3389908_add({
 
 geo_json_a784b05a516f7dfb328f2936e3389908.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1293<br>311 Complaints 82<br>Benches: 0<br>Gardens: 0<br>Trees: 608<br>Greenstreets: 5<br>Chill Score: 7.76<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1293<br>311 Complaints: 82<br>Benches: 0<br>Gardens: 0<br>Trees: 608<br>Greenstreets: 5<br>Chill Score: 7.76<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -42550,7 +42550,7 @@ geo_json_86f4504267aee6e4fe9d86af41299f53_add({
 
 geo_json_86f4504267aee6e4fe9d86af41299f53.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1294<br>311 Complaints 16<br>Benches: 0<br>Gardens: 0<br>Trees: 197<br>Greenstreets: 0<br>Chill Score: 1.81<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1294<br>311 Complaints: 16<br>Benches: 0<br>Gardens: 0<br>Trees: 197<br>Greenstreets: 0<br>Chill Score: 1.81<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -42641,7 +42641,7 @@ geo_json_c2d533b6c2c20eb9f88d04121b8c7eb3_add({
 
 geo_json_c2d533b6c2c20eb9f88d04121b8c7eb3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1323<br>311 Complaints 26<br>Benches: 0<br>Gardens: 0<br>Trees: 21<br>Greenstreets: 0<br>Chill Score: -0.05000000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1323<br>311 Complaints: 26<br>Benches: 0<br>Gardens: 0<br>Trees: 21<br>Greenstreets: 0<br>Chill Score: -0.05000000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -42732,7 +42732,7 @@ geo_json_ddafd7dd9daa98150f14e2e7fa1510c5_add({
 
 geo_json_ddafd7dd9daa98150f14e2e7fa1510c5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1324<br>311 Complaints 242<br>Benches: 2<br>Gardens: 0<br>Trees: 417<br>Greenstreets: 0<br>Chill Score: 1.77<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1324<br>311 Complaints: 242<br>Benches: 2<br>Gardens: 0<br>Trees: 417<br>Greenstreets: 0<br>Chill Score: 1.77<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -42823,7 +42823,7 @@ geo_json_8624b7f5d026eb16eaf5eec8a8d2c33e_add({
 
 geo_json_8624b7f5d026eb16eaf5eec8a8d2c33e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1325<br>311 Complaints 261<br>Benches: 4<br>Gardens: 0<br>Trees: 620<br>Greenstreets: 2<br>Chill Score: 4.630000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1325<br>311 Complaints: 261<br>Benches: 4<br>Gardens: 0<br>Trees: 620<br>Greenstreets: 2<br>Chill Score: 4.630000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -42914,7 +42914,7 @@ geo_json_2352d7e0ce9df1c6c8fc9edcdfd6ee6e_add({
 
 geo_json_2352d7e0ce9df1c6c8fc9edcdfd6ee6e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1326<br>311 Complaints 261<br>Benches: 4<br>Gardens: 0<br>Trees: 1112<br>Greenstreets: 2<br>Chill Score: 9.55<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1326<br>311 Complaints: 261<br>Benches: 4<br>Gardens: 0<br>Trees: 1112<br>Greenstreets: 2<br>Chill Score: 9.55<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -43005,7 +43005,7 @@ geo_json_9c9796f36d72f135893f6d7b029bf03a_add({
 
 geo_json_9c9796f36d72f135893f6d7b029bf03a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1327<br>311 Complaints 65<br>Benches: 0<br>Gardens: 0<br>Trees: 284<br>Greenstreets: 0<br>Chill Score: 2.19<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1327<br>311 Complaints: 65<br>Benches: 0<br>Gardens: 0<br>Trees: 284<br>Greenstreets: 0<br>Chill Score: 2.19<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -43096,7 +43096,7 @@ geo_json_8d74fe719e53692b697999098e36ad4a_add({
 
 geo_json_8d74fe719e53692b697999098e36ad4a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1328<br>311 Complaints 416<br>Benches: 4<br>Gardens: 0<br>Trees: 451<br>Greenstreets: 1<br>Chill Score: 0.8899999999999997<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1328<br>311 Complaints: 416<br>Benches: 4<br>Gardens: 0<br>Trees: 451<br>Greenstreets: 1<br>Chill Score: 0.8899999999999997<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -43187,7 +43187,7 @@ geo_json_13ade3432d5074e768e492a0740f8e9f_add({
 
 geo_json_13ade3432d5074e768e492a0740f8e9f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1329<br>311 Complaints 499<br>Benches: 10<br>Gardens: 2<br>Trees: 883<br>Greenstreets: 0<br>Chill Score: 4.9399999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1329<br>311 Complaints: 499<br>Benches: 10<br>Gardens: 2<br>Trees: 883<br>Greenstreets: 0<br>Chill Score: 4.9399999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -43278,7 +43278,7 @@ geo_json_6498d0a39c1b6498ff5da7126c7eb133_add({
 
 geo_json_6498d0a39c1b6498ff5da7126c7eb133.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1330<br>311 Complaints 257<br>Benches: 1<br>Gardens: 0<br>Trees: 529<br>Greenstreets: 0<br>Chill Score: 2.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1330<br>311 Complaints: 257<br>Benches: 1<br>Gardens: 0<br>Trees: 529<br>Greenstreets: 0<br>Chill Score: 2.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -43369,7 +43369,7 @@ geo_json_9fe243e442586f9ab8453b3e62ee3057_add({
 
 geo_json_9fe243e442586f9ab8453b3e62ee3057.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1331<br>311 Complaints 265<br>Benches: 4<br>Gardens: 0<br>Trees: 547<br>Greenstreets: 0<br>Chill Score: 2.86<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1331<br>311 Complaints: 265<br>Benches: 4<br>Gardens: 0<br>Trees: 547<br>Greenstreets: 0<br>Chill Score: 2.86<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -43460,7 +43460,7 @@ geo_json_7488ad8551a3793ab33b477341f8ea63_add({
 
 geo_json_7488ad8551a3793ab33b477341f8ea63.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1332<br>311 Complaints 456<br>Benches: 2<br>Gardens: 0<br>Trees: 805<br>Greenstreets: 4<br>Chill Score: 5.51<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1332<br>311 Complaints: 456<br>Benches: 2<br>Gardens: 0<br>Trees: 805<br>Greenstreets: 4<br>Chill Score: 5.51<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -43551,7 +43551,7 @@ geo_json_57ff37852402a04b8678a05ce780323a_add({
 
 geo_json_57ff37852402a04b8678a05ce780323a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1333<br>311 Complaints 336<br>Benches: 3<br>Gardens: 1<br>Trees: 754<br>Greenstreets: 2<br>Chill Score: 5.71<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1333<br>311 Complaints: 336<br>Benches: 3<br>Gardens: 1<br>Trees: 754<br>Greenstreets: 2<br>Chill Score: 5.71<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -43642,7 +43642,7 @@ geo_json_389d5a108f90e3e0b5d07cd7b7a5c72b_add({
 
 geo_json_389d5a108f90e3e0b5d07cd7b7a5c72b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1334<br>311 Complaints 263<br>Benches: 5<br>Gardens: 4<br>Trees: 818<br>Greenstreets: 0<br>Chill Score: 7.6<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1334<br>311 Complaints: 263<br>Benches: 5<br>Gardens: 4<br>Trees: 818<br>Greenstreets: 0<br>Chill Score: 7.6<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -43733,7 +43733,7 @@ geo_json_8b9646c9701a189d2e0fcfc675d5f4c2_add({
 
 geo_json_8b9646c9701a189d2e0fcfc675d5f4c2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1335<br>311 Complaints 345<br>Benches: 3<br>Gardens: 6<br>Trees: 798<br>Greenstreets: 6<br>Chill Score: 10.56<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1335<br>311 Complaints: 345<br>Benches: 3<br>Gardens: 6<br>Trees: 798<br>Greenstreets: 6<br>Chill Score: 10.56<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -43824,7 +43824,7 @@ geo_json_4c853a8bfbc3c4955f8c07a2014a7dbf_add({
 
 geo_json_4c853a8bfbc3c4955f8c07a2014a7dbf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1336<br>311 Complaints 186<br>Benches: 2<br>Gardens: 0<br>Trees: 689<br>Greenstreets: 10<br>Chill Score: 10.05<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1336<br>311 Complaints: 186<br>Benches: 2<br>Gardens: 0<br>Trees: 689<br>Greenstreets: 10<br>Chill Score: 10.05<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -43915,7 +43915,7 @@ geo_json_5a956eb84f0ab13c84dfbdd7e2061721_add({
 
 geo_json_5a956eb84f0ab13c84dfbdd7e2061721.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1337<br>311 Complaints 154<br>Benches: 3<br>Gardens: 0<br>Trees: 712<br>Greenstreets: 0<br>Chill Score: 5.61<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1337<br>311 Complaints: 154<br>Benches: 3<br>Gardens: 0<br>Trees: 712<br>Greenstreets: 0<br>Chill Score: 5.61<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -44006,7 +44006,7 @@ geo_json_82cff60d04234f84a0975c432a62f6de_add({
 
 geo_json_82cff60d04234f84a0975c432a62f6de.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1338<br>311 Complaints 46<br>Benches: 0<br>Gardens: 0<br>Trees: 499<br>Greenstreets: 1<br>Chill Score: 5.03<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1338<br>311 Complaints: 46<br>Benches: 0<br>Gardens: 0<br>Trees: 499<br>Greenstreets: 1<br>Chill Score: 5.03<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -44097,7 +44097,7 @@ geo_json_8e313fbeb208b3ebc1e2cfd7adf0aae3_add({
 
 geo_json_8e313fbeb208b3ebc1e2cfd7adf0aae3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1339<br>311 Complaints 30<br>Benches: 0<br>Gardens: 0<br>Trees: 171<br>Greenstreets: 0<br>Chill Score: 1.41<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1339<br>311 Complaints: 30<br>Benches: 0<br>Gardens: 0<br>Trees: 171<br>Greenstreets: 0<br>Chill Score: 1.41<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -44188,7 +44188,7 @@ geo_json_35d96af5a73b3f2da014b75380b244ce_add({
 
 geo_json_35d96af5a73b3f2da014b75380b244ce.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1340<br>311 Complaints 155<br>Benches: 0<br>Gardens: 0<br>Trees: 860<br>Greenstreets: 0<br>Chill Score: 7.05<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1340<br>311 Complaints: 155<br>Benches: 0<br>Gardens: 0<br>Trees: 860<br>Greenstreets: 0<br>Chill Score: 7.05<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -44279,7 +44279,7 @@ geo_json_fa27986fa3c14d8beca85af5ed5eb6dd_add({
 
 geo_json_fa27986fa3c14d8beca85af5ed5eb6dd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1341<br>311 Complaints 196<br>Benches: 0<br>Gardens: 0<br>Trees: 787<br>Greenstreets: 0<br>Chill Score: 5.91<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1341<br>311 Complaints: 196<br>Benches: 0<br>Gardens: 0<br>Trees: 787<br>Greenstreets: 0<br>Chill Score: 5.91<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -44370,7 +44370,7 @@ geo_json_7dd182eb92039735d7c62db845d21ee6_add({
 
 geo_json_7dd182eb92039735d7c62db845d21ee6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1342<br>311 Complaints 52<br>Benches: 1<br>Gardens: 0<br>Trees: 230<br>Greenstreets: 0<br>Chill Score: 1.7900000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1342<br>311 Complaints: 52<br>Benches: 1<br>Gardens: 0<br>Trees: 230<br>Greenstreets: 0<br>Chill Score: 1.7900000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -44461,7 +44461,7 @@ geo_json_aa62312ed9d9a959146eba4f946cef02_add({
 
 geo_json_aa62312ed9d9a959146eba4f946cef02.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1344<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 2<br>Greenstreets: 0<br>Chill Score: 0.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1344<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 2<br>Greenstreets: 0<br>Chill Score: 0.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -44551,7 +44551,7 @@ geo_json_30026b64bd31f7aa9e2211f6b7ec2526_add({
 
 geo_json_30026b64bd31f7aa9e2211f6b7ec2526.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1347<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1347<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -44642,7 +44642,7 @@ geo_json_860a46038e1ddf6d642b62ff6ffe3963_add({
 
 geo_json_860a46038e1ddf6d642b62ff6ffe3963.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1348<br>311 Complaints 25<br>Benches: 0<br>Gardens: 0<br>Trees: 108<br>Greenstreets: 0<br>Chill Score: 0.8300000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1348<br>311 Complaints: 25<br>Benches: 0<br>Gardens: 0<br>Trees: 108<br>Greenstreets: 0<br>Chill Score: 0.8300000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -44733,7 +44733,7 @@ geo_json_a6ee8d5016535490a436f7798fbb2ee4_add({
 
 geo_json_a6ee8d5016535490a436f7798fbb2ee4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1349<br>311 Complaints 55<br>Benches: 0<br>Gardens: 0<br>Trees: 312<br>Greenstreets: 0<br>Chill Score: 2.5700000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1349<br>311 Complaints: 55<br>Benches: 0<br>Gardens: 0<br>Trees: 312<br>Greenstreets: 0<br>Chill Score: 2.5700000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -44824,7 +44824,7 @@ geo_json_8312eba115df85cbe0da2025d94fb396_add({
 
 geo_json_8312eba115df85cbe0da2025d94fb396.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1350<br>311 Complaints 100<br>Benches: 1<br>Gardens: 0<br>Trees: 494<br>Greenstreets: 0<br>Chill Score: 3.95<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1350<br>311 Complaints: 100<br>Benches: 1<br>Gardens: 0<br>Trees: 494<br>Greenstreets: 0<br>Chill Score: 3.95<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -44915,7 +44915,7 @@ geo_json_80cadd2ecd5f788101804e7e9a6f1ba6_add({
 
 geo_json_80cadd2ecd5f788101804e7e9a6f1ba6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1351<br>311 Complaints 146<br>Benches: 1<br>Gardens: 0<br>Trees: 785<br>Greenstreets: 0<br>Chill Score: 6.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1351<br>311 Complaints: 146<br>Benches: 1<br>Gardens: 0<br>Trees: 785<br>Greenstreets: 0<br>Chill Score: 6.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -45006,7 +45006,7 @@ geo_json_a2be3e885d690124f4d9f9d5626ea1df_add({
 
 geo_json_a2be3e885d690124f4d9f9d5626ea1df.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1352<br>311 Complaints 110<br>Benches: 1<br>Gardens: 0<br>Trees: 1404<br>Greenstreets: 0<br>Chill Score: 12.950000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1352<br>311 Complaints: 110<br>Benches: 1<br>Gardens: 0<br>Trees: 1404<br>Greenstreets: 0<br>Chill Score: 12.950000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -45097,7 +45097,7 @@ geo_json_32d77a0c40617f0b2edf1f208133c0fb_add({
 
 geo_json_32d77a0c40617f0b2edf1f208133c0fb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1353<br>311 Complaints 68<br>Benches: 0<br>Gardens: 0<br>Trees: 302<br>Greenstreets: 1<br>Chill Score: 2.84<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1353<br>311 Complaints: 68<br>Benches: 0<br>Gardens: 0<br>Trees: 302<br>Greenstreets: 1<br>Chill Score: 2.84<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -45188,7 +45188,7 @@ geo_json_5e4db58bd1d2bb31f0a331eb757d6edb_add({
 
 geo_json_5e4db58bd1d2bb31f0a331eb757d6edb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1382<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 19<br>Greenstreets: 0<br>Chill Score: 0.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1382<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 19<br>Greenstreets: 0<br>Chill Score: 0.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -45279,7 +45279,7 @@ geo_json_336d35a294901298420d81e505002073_add({
 
 geo_json_336d35a294901298420d81e505002073.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1383<br>311 Complaints 43<br>Benches: 0<br>Gardens: 0<br>Trees: 32<br>Greenstreets: 0<br>Chill Score: -0.10999999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1383<br>311 Complaints: 43<br>Benches: 0<br>Gardens: 0<br>Trees: 32<br>Greenstreets: 0<br>Chill Score: -0.10999999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -45370,7 +45370,7 @@ geo_json_3b7069dce0f1aa69ba7d9604efd7db2b_add({
 
 geo_json_3b7069dce0f1aa69ba7d9604efd7db2b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1384<br>311 Complaints 420<br>Benches: 7<br>Gardens: 1<br>Trees: 715<br>Greenstreets: 1<br>Chill Score: 4.0200000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1384<br>311 Complaints: 420<br>Benches: 7<br>Gardens: 1<br>Trees: 715<br>Greenstreets: 1<br>Chill Score: 4.0200000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -45461,7 +45461,7 @@ geo_json_fe3e11f1401ec26b8502fe734020baee_add({
 
 geo_json_fe3e11f1401ec26b8502fe734020baee.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1385<br>311 Complaints 339<br>Benches: 13<br>Gardens: 0<br>Trees: 1289<br>Greenstreets: 0<br>Chill Score: 9.63<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1385<br>311 Complaints: 339<br>Benches: 13<br>Gardens: 0<br>Trees: 1289<br>Greenstreets: 0<br>Chill Score: 9.63<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -45552,7 +45552,7 @@ geo_json_4f9fef56ffac19f9ef61e7db2ddb3b00_add({
 
 geo_json_4f9fef56ffac19f9ef61e7db2ddb3b00.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1386<br>311 Complaints 68<br>Benches: 0<br>Gardens: 0<br>Trees: 457<br>Greenstreets: 0<br>Chill Score: 3.89<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1386<br>311 Complaints: 68<br>Benches: 0<br>Gardens: 0<br>Trees: 457<br>Greenstreets: 0<br>Chill Score: 3.89<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -45643,7 +45643,7 @@ geo_json_a1cfa421be49eb6544cc533dfcfbc1a1_add({
 
 geo_json_a1cfa421be49eb6544cc533dfcfbc1a1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1387<br>311 Complaints 202<br>Benches: 2<br>Gardens: 0<br>Trees: 372<br>Greenstreets: 2<br>Chill Score: 2.72<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1387<br>311 Complaints: 202<br>Benches: 2<br>Gardens: 0<br>Trees: 372<br>Greenstreets: 2<br>Chill Score: 2.72<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -45734,7 +45734,7 @@ geo_json_323f10e0169d7c04b1d787ffed68945d_add({
 
 geo_json_323f10e0169d7c04b1d787ffed68945d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1388<br>311 Complaints 493<br>Benches: 9<br>Gardens: 0<br>Trees: 1037<br>Greenstreets: 0<br>Chill Score: 5.530000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1388<br>311 Complaints: 493<br>Benches: 9<br>Gardens: 0<br>Trees: 1037<br>Greenstreets: 0<br>Chill Score: 5.530000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -45825,7 +45825,7 @@ geo_json_1693ab7e40c5211c23ce4613eba870be_add({
 
 geo_json_1693ab7e40c5211c23ce4613eba870be.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1389<br>311 Complaints 313<br>Benches: 16<br>Gardens: 0<br>Trees: 1053<br>Greenstreets: 0<br>Chill Score: 7.56<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1389<br>311 Complaints: 313<br>Benches: 16<br>Gardens: 0<br>Trees: 1053<br>Greenstreets: 0<br>Chill Score: 7.56<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -45916,7 +45916,7 @@ geo_json_e4a9dcdd7cb270b8ce3956ecbf3ab507_add({
 
 geo_json_e4a9dcdd7cb270b8ce3956ecbf3ab507.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1390<br>311 Complaints 428<br>Benches: 5<br>Gardens: 0<br>Trees: 991<br>Greenstreets: 3<br>Chill Score: 7.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1390<br>311 Complaints: 428<br>Benches: 5<br>Gardens: 0<br>Trees: 991<br>Greenstreets: 3<br>Chill Score: 7.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -46007,7 +46007,7 @@ geo_json_c8a13679ba1a8aa5eed62e99630b212c_add({
 
 geo_json_c8a13679ba1a8aa5eed62e99630b212c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1391<br>311 Complaints 273<br>Benches: 5<br>Gardens: 3<br>Trees: 762<br>Greenstreets: 7<br>Chill Score: 9.94<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1391<br>311 Complaints: 273<br>Benches: 5<br>Gardens: 3<br>Trees: 762<br>Greenstreets: 7<br>Chill Score: 9.94<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -46098,7 +46098,7 @@ geo_json_a2d764adce5ece00ae44e9775f5d74f5_add({
 
 geo_json_a2d764adce5ece00ae44e9775f5d74f5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1392<br>311 Complaints 224<br>df_air_quality_2: 1<brBenches: 10<br>Gardens: 11<br>Trees: 854<br>Greenstreets: 7<br>mean_mcg_m3: 5.8<br>Chill Score: 15.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1392<br>311 Complaints: 224<br>df_air_quality_2: 1<brBenches: 10<br>Gardens: 11<br>Trees: 854<br>Greenstreets: 7<br>mean_mcg_m3: 5.8<br>Chill Score: 15.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -46189,7 +46189,7 @@ geo_json_8089422003fba08207dba38c2f931e07_add({
 
 geo_json_8089422003fba08207dba38c2f931e07.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1393<br>311 Complaints 173<br>Benches: 8<br>Gardens: 1<br>Trees: 485<br>Greenstreets: 1<br>Chill Score: 4.200000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1393<br>311 Complaints: 173<br>Benches: 8<br>Gardens: 1<br>Trees: 485<br>Greenstreets: 1<br>Chill Score: 4.200000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -46280,7 +46280,7 @@ geo_json_78e3ed40d7d984e6b14235ef81c847b1_add({
 
 geo_json_78e3ed40d7d984e6b14235ef81c847b1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1394<br>311 Complaints 282<br>Benches: 2<br>Gardens: 2<br>Trees: 1090<br>Greenstreets: 0<br>Chill Score: 9.100000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1394<br>311 Complaints: 282<br>Benches: 2<br>Gardens: 2<br>Trees: 1090<br>Greenstreets: 0<br>Chill Score: 9.100000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -46371,7 +46371,7 @@ geo_json_b1bbad8d1d40886e87ae24c84c006865_add({
 
 geo_json_b1bbad8d1d40886e87ae24c84c006865.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1395<br>311 Complaints 350<br>Benches: 2<br>Gardens: 10<br>Trees: 1350<br>Greenstreets: 1<br>Chill Score: 15.52<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1395<br>311 Complaints: 350<br>Benches: 2<br>Gardens: 10<br>Trees: 1350<br>Greenstreets: 1<br>Chill Score: 15.52<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -46462,7 +46462,7 @@ geo_json_8bb7f0fdf12623fe35bf7c10a6e6cdbf_add({
 
 geo_json_8bb7f0fdf12623fe35bf7c10a6e6cdbf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1396<br>311 Complaints 266<br>df_air_quality_2: 4<brBenches: 3<br>Gardens: 4<br>Trees: 1039<br>Greenstreets: 6<br>mean_mcg_m3: 6.7<br>Chill Score: 12.76<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1396<br>311 Complaints: 266<br>df_air_quality_2: 4<brBenches: 3<br>Gardens: 4<br>Trees: 1039<br>Greenstreets: 6<br>mean_mcg_m3: 6.7<br>Chill Score: 12.76<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -46553,7 +46553,7 @@ geo_json_38494b701fb5cd4c98ce8c6339565403_add({
 
 geo_json_38494b701fb5cd4c98ce8c6339565403.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1397<br>311 Complaints 186<br>Benches: 5<br>Gardens: 1<br>Trees: 597<br>Greenstreets: 0<br>Chill Score: 4.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1397<br>311 Complaints: 186<br>Benches: 5<br>Gardens: 1<br>Trees: 597<br>Greenstreets: 0<br>Chill Score: 4.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -46644,7 +46644,7 @@ geo_json_cf6206f1f688bef90545b9e0e8169676_add({
 
 geo_json_cf6206f1f688bef90545b9e0e8169676.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1398<br>311 Complaints 180<br>Benches: 1<br>Gardens: 0<br>Trees: 458<br>Greenstreets: 1<br>Chill Score: 3.29<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1398<br>311 Complaints: 180<br>Benches: 1<br>Gardens: 0<br>Trees: 458<br>Greenstreets: 1<br>Chill Score: 3.29<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -46735,7 +46735,7 @@ geo_json_c1249ae521c77211e40da8bd992720b1_add({
 
 geo_json_c1249ae521c77211e40da8bd992720b1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1399<br>311 Complaints 141<br>Benches: 0<br>Gardens: 0<br>Trees: 653<br>Greenstreets: 2<br>Chill Score: 6.12<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1399<br>311 Complaints: 141<br>Benches: 0<br>Gardens: 0<br>Trees: 653<br>Greenstreets: 2<br>Chill Score: 6.12<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -46826,7 +46826,7 @@ geo_json_3443ad3a3b7ab32003717ec6c593e2bb_add({
 
 geo_json_3443ad3a3b7ab32003717ec6c593e2bb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1400<br>311 Complaints 123<br>Benches: 2<br>Gardens: 0<br>Trees: 478<br>Greenstreets: 3<br>Chill Score: 5.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1400<br>311 Complaints: 123<br>Benches: 2<br>Gardens: 0<br>Trees: 478<br>Greenstreets: 3<br>Chill Score: 5.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -46917,7 +46917,7 @@ geo_json_ad7101af60d3a9ab047d3030be48aff8_add({
 
 geo_json_ad7101af60d3a9ab047d3030be48aff8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1401<br>311 Complaints 53<br>Benches: 0<br>Gardens: 0<br>Trees: 392<br>Greenstreets: 0<br>Chill Score: 3.3899999999999997<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1401<br>311 Complaints: 53<br>Benches: 0<br>Gardens: 0<br>Trees: 392<br>Greenstreets: 0<br>Chill Score: 3.3899999999999997<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -47008,7 +47008,7 @@ geo_json_222712b7ea322022229ad2ffd7b52be6_add({
 
 geo_json_222712b7ea322022229ad2ffd7b52be6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1402<br>311 Complaints 84<br>Benches: 0<br>Gardens: 0<br>Trees: 627<br>Greenstreets: 0<br>Chill Score: 5.430000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1402<br>311 Complaints: 84<br>Benches: 0<br>Gardens: 0<br>Trees: 627<br>Greenstreets: 0<br>Chill Score: 5.430000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -47099,7 +47099,7 @@ geo_json_5aa88f5562f758576717df692a668b10_add({
 
 geo_json_5aa88f5562f758576717df692a668b10.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1403<br>311 Complaints 91<br>Benches: 0<br>Gardens: 0<br>Trees: 357<br>Greenstreets: 2<br>Chill Score: 3.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1403<br>311 Complaints: 91<br>Benches: 0<br>Gardens: 0<br>Trees: 357<br>Greenstreets: 2<br>Chill Score: 3.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -47190,7 +47190,7 @@ geo_json_847a345bdd867d97fadaa931763fe37b_add({
 
 geo_json_847a345bdd867d97fadaa931763fe37b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1404<br>311 Complaints 35<br>Benches: 0<br>Gardens: 0<br>Trees: 166<br>Greenstreets: 0<br>Chill Score: 1.31<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1404<br>311 Complaints: 35<br>Benches: 0<br>Gardens: 0<br>Trees: 166<br>Greenstreets: 0<br>Chill Score: 1.31<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -47281,7 +47281,7 @@ geo_json_0d6f459dd7eed56e44585d9c555c983a_add({
 
 geo_json_0d6f459dd7eed56e44585d9c555c983a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1405<br>311 Complaints 29<br>Benches: 0<br>Gardens: 0<br>Trees: 183<br>Greenstreets: 0<br>Chill Score: 1.54<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1405<br>311 Complaints: 29<br>Benches: 0<br>Gardens: 0<br>Trees: 183<br>Greenstreets: 0<br>Chill Score: 1.54<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -47372,7 +47372,7 @@ geo_json_9c7ae11d40f3deb0315bc651ffa3f4ba_add({
 
 geo_json_9c7ae11d40f3deb0315bc651ffa3f4ba.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1406<br>311 Complaints 86<br>Benches: 0<br>Gardens: 0<br>Trees: 272<br>Greenstreets: 0<br>Chill Score: 1.8600000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1406<br>311 Complaints: 86<br>Benches: 0<br>Gardens: 0<br>Trees: 272<br>Greenstreets: 0<br>Chill Score: 1.8600000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -47463,7 +47463,7 @@ geo_json_9f5f016e5a035656e7fe71afcb400fc6_add({
 
 geo_json_9f5f016e5a035656e7fe71afcb400fc6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1407<br>311 Complaints 121<br>Benches: 0<br>Gardens: 0<br>Trees: 921<br>Greenstreets: 0<br>Chill Score: 8.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1407<br>311 Complaints: 121<br>Benches: 0<br>Gardens: 0<br>Trees: 921<br>Greenstreets: 0<br>Chill Score: 8.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -47554,7 +47554,7 @@ geo_json_da297afe12fb1ec0f44731192d849981_add({
 
 geo_json_da297afe12fb1ec0f44731192d849981.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1408<br>311 Complaints 130<br>Benches: 3<br>Gardens: 1<br>Trees: 1116<br>Greenstreets: 0<br>Chill Score: 10.39<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1408<br>311 Complaints: 130<br>Benches: 3<br>Gardens: 1<br>Trees: 1116<br>Greenstreets: 0<br>Chill Score: 10.39<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -47645,7 +47645,7 @@ geo_json_09871d90ccd8f10fad092e12da4db48d_add({
 
 geo_json_09871d90ccd8f10fad092e12da4db48d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1409<br>311 Complaints 144<br>Benches: 0<br>Gardens: 0<br>Trees: 637<br>Greenstreets: 0<br>Chill Score: 4.93<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1409<br>311 Complaints: 144<br>Benches: 0<br>Gardens: 0<br>Trees: 637<br>Greenstreets: 0<br>Chill Score: 4.93<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -47736,7 +47736,7 @@ geo_json_a544ca443671334117feeab5de7206a4_add({
 
 geo_json_a544ca443671334117feeab5de7206a4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1410<br>311 Complaints 102<br>Benches: 0<br>Gardens: 0<br>Trees: 559<br>Greenstreets: 2<br>Chill Score: 5.57<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1410<br>311 Complaints: 102<br>Benches: 0<br>Gardens: 0<br>Trees: 559<br>Greenstreets: 2<br>Chill Score: 5.57<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -47827,7 +47827,7 @@ geo_json_f425c82faecbfd7b5074cb8d26b620e2_add({
 
 geo_json_f425c82faecbfd7b5074cb8d26b620e2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1411<br>311 Complaints 168<br>Benches: 0<br>Gardens: 0<br>Trees: 984<br>Greenstreets: 1<br>Chill Score: 8.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1411<br>311 Complaints: 168<br>Benches: 0<br>Gardens: 0<br>Trees: 984<br>Greenstreets: 1<br>Chill Score: 8.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -47918,7 +47918,7 @@ geo_json_83a165e0e9dda7dcd5f4e6a470789016_add({
 
 geo_json_83a165e0e9dda7dcd5f4e6a470789016.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1412<br>311 Complaints 16<br>Benches: 0<br>Gardens: 0<br>Trees: 137<br>Greenstreets: 0<br>Chill Score: 1.2100000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1412<br>311 Complaints: 16<br>Benches: 0<br>Gardens: 0<br>Trees: 137<br>Greenstreets: 0<br>Chill Score: 1.2100000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -48009,7 +48009,7 @@ geo_json_d791892314b06d27faf11a1992c944fb_add({
 
 geo_json_d791892314b06d27faf11a1992c944fb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1440<br>311 Complaints 24<br>Benches: 0<br>Gardens: 0<br>Trees: 131<br>Greenstreets: 0<br>Chill Score: 1.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1440<br>311 Complaints: 24<br>Benches: 0<br>Gardens: 0<br>Trees: 131<br>Greenstreets: 0<br>Chill Score: 1.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -48100,7 +48100,7 @@ geo_json_205c51129ca516300ec4ee6a3cea6cf9_add({
 
 geo_json_205c51129ca516300ec4ee6a3cea6cf9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1441<br>311 Complaints 147<br>Benches: 1<br>Gardens: 1<br>Trees: 426<br>Greenstreets: 4<br>Chill Score: 5.3<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1441<br>311 Complaints: 147<br>Benches: 1<br>Gardens: 1<br>Trees: 426<br>Greenstreets: 4<br>Chill Score: 5.3<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -48191,7 +48191,7 @@ geo_json_283e8eb25ababc07d64b99ad53aae86f_add({
 
 geo_json_283e8eb25ababc07d64b99ad53aae86f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1442<br>311 Complaints 157<br>Benches: 4<br>Gardens: 0<br>Trees: 618<br>Greenstreets: 4<br>Chill Score: 6.6499999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1442<br>311 Complaints: 157<br>Benches: 4<br>Gardens: 0<br>Trees: 618<br>Greenstreets: 4<br>Chill Score: 6.6499999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -48282,7 +48282,7 @@ geo_json_2b32f23a847cfce52c54c8d42039a669_add({
 
 geo_json_2b32f23a847cfce52c54c8d42039a669.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1443<br>311 Complaints 195<br>Benches: 2<br>Gardens: 0<br>Trees: 352<br>Greenstreets: 1<br>Chill Score: 2.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1443<br>311 Complaints: 195<br>Benches: 2<br>Gardens: 0<br>Trees: 352<br>Greenstreets: 1<br>Chill Score: 2.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -48373,7 +48373,7 @@ geo_json_ff1d4a226aafd5838ef7ff8f98e5241a_add({
 
 geo_json_ff1d4a226aafd5838ef7ff8f98e5241a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1444<br>311 Complaints 430<br>Benches: 11<br>Gardens: 5<br>Trees: 1326<br>Greenstreets: 0<br>Chill Score: 11.57<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1444<br>311 Complaints: 430<br>Benches: 11<br>Gardens: 5<br>Trees: 1326<br>Greenstreets: 0<br>Chill Score: 11.57<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -48464,7 +48464,7 @@ geo_json_a6eb49596602b5f9294a2af71e3fcd2f_add({
 
 geo_json_a6eb49596602b5f9294a2af71e3fcd2f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1445<br>311 Complaints 356<br>Benches: 8<br>Gardens: 0<br>Trees: 1190<br>Greenstreets: 17<br>Chill Score: 16.92<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1445<br>311 Complaints: 356<br>Benches: 8<br>Gardens: 0<br>Trees: 1190<br>Greenstreets: 17<br>Chill Score: 16.92<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -48555,7 +48555,7 @@ geo_json_6d019dc9ac4183620161065687477b47_add({
 
 geo_json_6d019dc9ac4183620161065687477b47.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1446<br>311 Complaints 611<br>Benches: 5<br>Gardens: 1<br>Trees: 1008<br>Greenstreets: 1<br>Chill Score: 5.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1446<br>311 Complaints: 611<br>Benches: 5<br>Gardens: 1<br>Trees: 1008<br>Greenstreets: 1<br>Chill Score: 5.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -48646,7 +48646,7 @@ geo_json_44861b71d25e0f44106cc02c34d5a99c_add({
 
 geo_json_44861b71d25e0f44106cc02c34d5a99c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1447<br>311 Complaints 723<br>Benches: 10<br>Gardens: 3<br>Trees: 946<br>Greenstreets: 0<br>Chill Score: 3.83<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1447<br>311 Complaints: 723<br>Benches: 10<br>Gardens: 3<br>Trees: 946<br>Greenstreets: 0<br>Chill Score: 3.83<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -48737,7 +48737,7 @@ geo_json_585a8fbca5428aaa8ec308ee5dcee29f_add({
 
 geo_json_585a8fbca5428aaa8ec308ee5dcee29f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1448<br>311 Complaints 576<br>Benches: 2<br>Gardens: 0<br>Trees: 875<br>Greenstreets: 3<br>Chill Score: 4.51<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1448<br>311 Complaints: 576<br>Benches: 2<br>Gardens: 0<br>Trees: 875<br>Greenstreets: 3<br>Chill Score: 4.51<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -48828,7 +48828,7 @@ geo_json_374aa956010b272d48d758c74326e97e_add({
 
 geo_json_374aa956010b272d48d758c74326e97e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1449<br>311 Complaints 370<br>Benches: 1<br>Gardens: 4<br>Trees: 576<br>Greenstreets: 0<br>Chill Score: 4.069999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1449<br>311 Complaints: 370<br>Benches: 1<br>Gardens: 4<br>Trees: 576<br>Greenstreets: 0<br>Chill Score: 4.069999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -48919,7 +48919,7 @@ geo_json_271843ca98b4f152c64972cdfa50ffec_add({
 
 geo_json_271843ca98b4f152c64972cdfa50ffec.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1450<br>311 Complaints 458<br>Benches: 2<br>Gardens: 3<br>Trees: 603<br>Greenstreets: 0<br>Chill Score: 2.9699999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1450<br>311 Complaints: 458<br>Benches: 2<br>Gardens: 3<br>Trees: 603<br>Greenstreets: 0<br>Chill Score: 2.9699999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -49010,7 +49010,7 @@ geo_json_4d6ce91ed4e699109c41b7efe432c034_add({
 
 geo_json_4d6ce91ed4e699109c41b7efe432c034.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1451<br>311 Complaints 358<br>Benches: 2<br>Gardens: 3<br>Trees: 857<br>Greenstreets: 1<br>Chill Score: 7.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1451<br>311 Complaints: 358<br>Benches: 2<br>Gardens: 3<br>Trees: 857<br>Greenstreets: 1<br>Chill Score: 7.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -49101,7 +49101,7 @@ geo_json_6f21a39663a7968bbc80e0bf32d65478_add({
 
 geo_json_6f21a39663a7968bbc80e0bf32d65478.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1452<br>311 Complaints 193<br>Benches: 3<br>Gardens: 1<br>Trees: 468<br>Greenstreets: 3<br>Chill Score: 4.779999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1452<br>311 Complaints: 193<br>Benches: 3<br>Gardens: 1<br>Trees: 468<br>Greenstreets: 3<br>Chill Score: 4.779999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -49192,7 +49192,7 @@ geo_json_0a20a849de4cfb41205c5469596b39c3_add({
 
 geo_json_0a20a849de4cfb41205c5469596b39c3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1453<br>311 Complaints 211<br>Benches: 1<br>Gardens: 3<br>Trees: 937<br>Greenstreets: 2<br>Chill Score: 9.770000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1453<br>311 Complaints: 211<br>Benches: 1<br>Gardens: 3<br>Trees: 937<br>Greenstreets: 2<br>Chill Score: 9.770000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -49283,7 +49283,7 @@ geo_json_062b9ca5b56dd2fd8f1e8f9f477ea1a8_add({
 
 geo_json_062b9ca5b56dd2fd8f1e8f9f477ea1a8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1454<br>311 Complaints 350<br>Benches: 2<br>Gardens: 16<br>Trees: 1015<br>Greenstreets: 0<br>Chill Score: 14.67<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1454<br>311 Complaints: 350<br>Benches: 2<br>Gardens: 16<br>Trees: 1015<br>Greenstreets: 0<br>Chill Score: 14.67<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -49374,7 +49374,7 @@ geo_json_fecde9789cc108fb5227fd3b7bb6ea3a_add({
 
 geo_json_fecde9789cc108fb5227fd3b7bb6ea3a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1455<br>311 Complaints 402<br>Benches: 1<br>Gardens: 7<br>Trees: 1040<br>Greenstreets: 0<br>Chill Score: 9.89<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1455<br>311 Complaints: 402<br>Benches: 1<br>Gardens: 7<br>Trees: 1040<br>Greenstreets: 0<br>Chill Score: 9.89<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -49465,7 +49465,7 @@ geo_json_8ab98bfab101e74546a77253ce4735db_add({
 
 geo_json_8ab98bfab101e74546a77253ce4735db.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1456<br>311 Complaints 242<br>Benches: 2<br>Gardens: 2<br>Trees: 875<br>Greenstreets: 2<br>Chill Score: 8.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1456<br>311 Complaints: 242<br>Benches: 2<br>Gardens: 2<br>Trees: 875<br>Greenstreets: 2<br>Chill Score: 8.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -49556,7 +49556,7 @@ geo_json_879c860dc48a3632c2ab2b59b0c5047f_add({
 
 geo_json_879c860dc48a3632c2ab2b59b0c5047f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1457<br>311 Complaints 237<br>Benches: 0<br>Gardens: 0<br>Trees: 641<br>Greenstreets: 0<br>Chill Score: 4.04<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1457<br>311 Complaints: 237<br>Benches: 0<br>Gardens: 0<br>Trees: 641<br>Greenstreets: 0<br>Chill Score: 4.04<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -49647,7 +49647,7 @@ geo_json_aef99a6c23e81ffd2e77cb91e0179a1e_add({
 
 geo_json_aef99a6c23e81ffd2e77cb91e0179a1e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1458<br>311 Complaints 227<br>Benches: 1<br>Gardens: 0<br>Trees: 897<br>Greenstreets: 5<br>Chill Score: 9.21<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1458<br>311 Complaints: 227<br>Benches: 1<br>Gardens: 0<br>Trees: 897<br>Greenstreets: 5<br>Chill Score: 9.21<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -49738,7 +49738,7 @@ geo_json_64a4bd395aeff0ca20aba0d594794261_add({
 
 geo_json_64a4bd395aeff0ca20aba0d594794261.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1459<br>311 Complaints 247<br>Benches: 2<br>Gardens: 0<br>Trees: 629<br>Greenstreets: 2<br>Chill Score: 4.84<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1459<br>311 Complaints: 247<br>Benches: 2<br>Gardens: 0<br>Trees: 629<br>Greenstreets: 2<br>Chill Score: 4.84<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -49829,7 +49829,7 @@ geo_json_c1d8595f65c1b42a64ea16406f4e3353_add({
 
 geo_json_c1d8595f65c1b42a64ea16406f4e3353.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1460<br>311 Complaints 42<br>Benches: 0<br>Gardens: 0<br>Trees: 312<br>Greenstreets: 0<br>Chill Score: 2.7<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1460<br>311 Complaints: 42<br>Benches: 0<br>Gardens: 0<br>Trees: 312<br>Greenstreets: 0<br>Chill Score: 2.7<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -49920,7 +49920,7 @@ geo_json_404436fe11e2801be8dbd51a12691080_add({
 
 geo_json_404436fe11e2801be8dbd51a12691080.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1461<br>311 Complaints 278<br>Benches: 2<br>Gardens: 0<br>Trees: 974<br>Greenstreets: 1<br>Chill Score: 7.48<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1461<br>311 Complaints: 278<br>Benches: 2<br>Gardens: 0<br>Trees: 974<br>Greenstreets: 1<br>Chill Score: 7.48<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -50011,7 +50011,7 @@ geo_json_d8f8ccacca0c0ba0f26333acd5a8706f_add({
 
 geo_json_d8f8ccacca0c0ba0f26333acd5a8706f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1462<br>311 Complaints 356<br>Benches: 2<br>Gardens: 0<br>Trees: 769<br>Greenstreets: 0<br>Chill Score: 4.15<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1462<br>311 Complaints: 356<br>Benches: 2<br>Gardens: 0<br>Trees: 769<br>Greenstreets: 0<br>Chill Score: 4.15<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -50102,7 +50102,7 @@ geo_json_34cae96dad111feb8b43aa28a71c7e36_add({
 
 geo_json_34cae96dad111feb8b43aa28a71c7e36.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1463<br>311 Complaints 225<br>Benches: 1<br>Gardens: 1<br>Trees: 860<br>Greenstreets: 0<br>Chill Score: 6.859999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1463<br>311 Complaints: 225<br>Benches: 1<br>Gardens: 1<br>Trees: 860<br>Greenstreets: 0<br>Chill Score: 6.859999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -50193,7 +50193,7 @@ geo_json_c6512a538d8044fb6588fe57f48cb011_add({
 
 geo_json_c6512a538d8044fb6588fe57f48cb011.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1464<br>311 Complaints 180<br>Benches: 0<br>Gardens: 0<br>Trees: 701<br>Greenstreets: 0<br>Chill Score: 5.21<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1464<br>311 Complaints: 180<br>Benches: 0<br>Gardens: 0<br>Trees: 701<br>Greenstreets: 0<br>Chill Score: 5.21<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -50284,7 +50284,7 @@ geo_json_50d3ed3d1dce7f4019f5811010acfdad_add({
 
 geo_json_50d3ed3d1dce7f4019f5811010acfdad.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1465<br>311 Complaints 135<br>Benches: 1<br>Gardens: 0<br>Trees: 637<br>Greenstreets: 0<br>Chill Score: 5.03<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1465<br>311 Complaints: 135<br>Benches: 1<br>Gardens: 0<br>Trees: 637<br>Greenstreets: 0<br>Chill Score: 5.03<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -50375,7 +50375,7 @@ geo_json_e286fb006d4884382f7d7d834eb9ef28_add({
 
 geo_json_e286fb006d4884382f7d7d834eb9ef28.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1466<br>311 Complaints 137<br>Benches: 2<br>Gardens: 0<br>Trees: 707<br>Greenstreets: 0<br>Chill Score: 5.720000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1466<br>311 Complaints: 137<br>Benches: 2<br>Gardens: 0<br>Trees: 707<br>Greenstreets: 0<br>Chill Score: 5.720000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -50466,7 +50466,7 @@ geo_json_9c4651f729c01362d0f17e8df4436a27_add({
 
 geo_json_9c4651f729c01362d0f17e8df4436a27.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1467<br>311 Complaints 147<br>Benches: 0<br>Gardens: 0<br>Trees: 1099<br>Greenstreets: 0<br>Chill Score: 9.52<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1467<br>311 Complaints: 147<br>Benches: 0<br>Gardens: 0<br>Trees: 1099<br>Greenstreets: 0<br>Chill Score: 9.52<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -50557,7 +50557,7 @@ geo_json_d0f8afd9fa6ff580fb2be4e8b274848e_add({
 
 geo_json_d0f8afd9fa6ff580fb2be4e8b274848e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1468<br>311 Complaints 133<br>Benches: 0<br>Gardens: 0<br>Trees: 886<br>Greenstreets: 8<br>Chill Score: 11.53<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1468<br>311 Complaints: 133<br>Benches: 0<br>Gardens: 0<br>Trees: 886<br>Greenstreets: 8<br>Chill Score: 11.53<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -50648,7 +50648,7 @@ geo_json_52cd22ab61db2b7e0a7c94063d30a386_add({
 
 geo_json_52cd22ab61db2b7e0a7c94063d30a386.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1469<br>311 Complaints 142<br>Benches: 1<br>Gardens: 0<br>Trees: 1082<br>Greenstreets: 37<br>Chill Score: 27.91<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1469<br>311 Complaints: 142<br>Benches: 1<br>Gardens: 0<br>Trees: 1082<br>Greenstreets: 37<br>Chill Score: 27.91<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -50739,7 +50739,7 @@ geo_json_042548aac755bc914961052fe14ff0c4_add({
 
 geo_json_042548aac755bc914961052fe14ff0c4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1470<br>311 Complaints 127<br>Benches: 1<br>Gardens: 0<br>Trees: 632<br>Greenstreets: 7<br>Chill Score: 8.56<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1470<br>311 Complaints: 127<br>Benches: 1<br>Gardens: 0<br>Trees: 632<br>Greenstreets: 7<br>Chill Score: 8.56<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -50830,7 +50830,7 @@ geo_json_6757a188dbadf2faf92f1b10e9c43c5d_add({
 
 geo_json_6757a188dbadf2faf92f1b10e9c43c5d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1471<br>311 Complaints 36<br>Benches: 0<br>Gardens: 0<br>Trees: 176<br>Greenstreets: 0<br>Chill Score: 1.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1471<br>311 Complaints: 36<br>Benches: 0<br>Gardens: 0<br>Trees: 176<br>Greenstreets: 0<br>Chill Score: 1.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -50921,7 +50921,7 @@ geo_json_f5dea7a23b95c7ceca11bc705d565242_add({
 
 geo_json_f5dea7a23b95c7ceca11bc705d565242.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1499<br>311 Complaints 14<br>Benches: 0<br>Gardens: 0<br>Trees: 35<br>Greenstreets: 0<br>Chill Score: 0.21000000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1499<br>311 Complaints: 14<br>Benches: 0<br>Gardens: 0<br>Trees: 35<br>Greenstreets: 0<br>Chill Score: 0.21000000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -51012,7 +51012,7 @@ geo_json_bac13e83b77aa4351c42f3e903e26abe_add({
 
 geo_json_bac13e83b77aa4351c42f3e903e26abe.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1500<br>311 Complaints 110<br>Benches: 0<br>Gardens: 1<br>Trees: 352<br>Greenstreets: 2<br>Chill Score: 3.92<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1500<br>311 Complaints: 110<br>Benches: 0<br>Gardens: 1<br>Trees: 352<br>Greenstreets: 2<br>Chill Score: 3.92<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -51103,7 +51103,7 @@ geo_json_fee0de07dbaa792c09f74c0bb302e717_add({
 
 geo_json_fee0de07dbaa792c09f74c0bb302e717.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1501<br>311 Complaints 327<br>Benches: 3<br>Gardens: 6<br>Trees: 1136<br>Greenstreets: 4<br>Chill Score: 13.12<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1501<br>311 Complaints: 327<br>Benches: 3<br>Gardens: 6<br>Trees: 1136<br>Greenstreets: 4<br>Chill Score: 13.12<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -51194,7 +51194,7 @@ geo_json_8817ba7055aa5ecf496897e7b4be4524_add({
 
 geo_json_8817ba7055aa5ecf496897e7b4be4524.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1502<br>311 Complaints 326<br>Benches: 1<br>Gardens: 1<br>Trees: 880<br>Greenstreets: 5<br>Chill Score: 8.55<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1502<br>311 Complaints: 326<br>Benches: 1<br>Gardens: 1<br>Trees: 880<br>Greenstreets: 5<br>Chill Score: 8.55<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -51285,7 +51285,7 @@ geo_json_ebf847284b95930923529aa5a8505c23_add({
 
 geo_json_ebf847284b95930923529aa5a8505c23.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1503<br>311 Complaints 399<br>Benches: 6<br>Gardens: 4<br>Trees: 948<br>Greenstreets: 2<br>Chill Score: 8.55<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1503<br>311 Complaints: 399<br>Benches: 6<br>Gardens: 4<br>Trees: 948<br>Greenstreets: 2<br>Chill Score: 8.55<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -51376,7 +51376,7 @@ geo_json_d77c4eed0771b79c11f760662805a875_add({
 
 geo_json_d77c4eed0771b79c11f760662805a875.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1504<br>311 Complaints 535<br>Benches: 10<br>Gardens: 2<br>Trees: 882<br>Greenstreets: 6<br>Chill Score: 7.569999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1504<br>311 Complaints: 535<br>Benches: 10<br>Gardens: 2<br>Trees: 882<br>Greenstreets: 6<br>Chill Score: 7.569999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -51467,7 +51467,7 @@ geo_json_20b947498628ebb70d352c2e55b4c322_add({
 
 geo_json_20b947498628ebb70d352c2e55b4c322.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1505<br>311 Complaints 699<br>Benches: 19<br>Gardens: 2<br>Trees: 885<br>Greenstreets: 2<br>Chill Score: 4.05<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1505<br>311 Complaints: 699<br>Benches: 19<br>Gardens: 2<br>Trees: 885<br>Greenstreets: 2<br>Chill Score: 4.05<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -51558,7 +51558,7 @@ geo_json_aedc8ee10dd1e0b348bb136b949aae28_add({
 
 geo_json_aedc8ee10dd1e0b348bb136b949aae28.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1506<br>311 Complaints 668<br>Benches: 12<br>Gardens: 4<br>Trees: 809<br>Greenstreets: 1<br>Chill Score: 4.03<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1506<br>311 Complaints: 668<br>Benches: 12<br>Gardens: 4<br>Trees: 809<br>Greenstreets: 1<br>Chill Score: 4.03<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -51649,7 +51649,7 @@ geo_json_a75f502c32da46312a362437754df0af_add({
 
 geo_json_a75f502c32da46312a362437754df0af.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1507<br>311 Complaints 645<br>Benches: 1<br>Gardens: 3<br>Trees: 847<br>Greenstreets: 0<br>Chill Score: 3.5300000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1507<br>311 Complaints: 645<br>Benches: 1<br>Gardens: 3<br>Trees: 847<br>Greenstreets: 0<br>Chill Score: 3.5300000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -51740,7 +51740,7 @@ geo_json_72bfcfa4af65777ffac4ea017e9acbfb_add({
 
 geo_json_72bfcfa4af65777ffac4ea017e9acbfb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1508<br>311 Complaints 434<br>Benches: 5<br>Gardens: 1<br>Trees: 932<br>Greenstreets: 2<br>Chill Score: 6.53<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1508<br>311 Complaints: 434<br>Benches: 5<br>Gardens: 1<br>Trees: 932<br>Greenstreets: 2<br>Chill Score: 6.53<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -51831,7 +51831,7 @@ geo_json_ec4f94afdb99053c9acc942a2f58aab7_add({
 
 geo_json_ec4f94afdb99053c9acc942a2f58aab7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1509<br>311 Complaints 421<br>Benches: 6<br>Gardens: 7<br>Trees: 964<br>Greenstreets: 3<br>Chill Score: 10.49<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1509<br>311 Complaints: 421<br>Benches: 6<br>Gardens: 7<br>Trees: 964<br>Greenstreets: 3<br>Chill Score: 10.49<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -51922,7 +51922,7 @@ geo_json_6834c1859589e109da684226e9b8d0e4_add({
 
 geo_json_6834c1859589e109da684226e9b8d0e4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1510<br>311 Complaints 594<br>Benches: 3<br>Gardens: 8<br>Trees: 931<br>Greenstreets: 2<br>Chill Score: 8.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1510<br>311 Complaints: 594<br>Benches: 3<br>Gardens: 8<br>Trees: 931<br>Greenstreets: 2<br>Chill Score: 8.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -52013,7 +52013,7 @@ geo_json_2a3ea4c61c1759cf101885f6da1ecd89_add({
 
 geo_json_2a3ea4c61c1759cf101885f6da1ecd89.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1511<br>311 Complaints 414<br>Benches: 1<br>Gardens: 6<br>Trees: 619<br>Greenstreets: 7<br>Chill Score: 8.56<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1511<br>311 Complaints: 414<br>Benches: 1<br>Gardens: 6<br>Trees: 619<br>Greenstreets: 7<br>Chill Score: 8.56<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -52104,7 +52104,7 @@ geo_json_ce15b29a1c47e423422c196f31ef7e6e_add({
 
 geo_json_ce15b29a1c47e423422c196f31ef7e6e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1512<br>311 Complaints 190<br>Benches: 0<br>Gardens: 0<br>Trees: 514<br>Greenstreets: 10<br>Chill Score: 8.239999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1512<br>311 Complaints: 190<br>Benches: 0<br>Gardens: 0<br>Trees: 514<br>Greenstreets: 10<br>Chill Score: 8.239999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -52195,7 +52195,7 @@ geo_json_5d2c0ae465f78023f951b1d0be5ac16a_add({
 
 geo_json_5d2c0ae465f78023f951b1d0be5ac16a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1513<br>311 Complaints 323<br>Benches: 3<br>Gardens: 2<br>Trees: 919<br>Greenstreets: 1<br>Chill Score: 7.489999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1513<br>311 Complaints: 323<br>Benches: 3<br>Gardens: 2<br>Trees: 919<br>Greenstreets: 1<br>Chill Score: 7.489999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -52286,7 +52286,7 @@ geo_json_dd6a67eac11f9daf14dbe4487a745cd8_add({
 
 geo_json_dd6a67eac11f9daf14dbe4487a745cd8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1514<br>311 Complaints 329<br>Benches: 2<br>Gardens: 2<br>Trees: 765<br>Greenstreets: 1<br>Chill Score: 5.880000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1514<br>311 Complaints: 329<br>Benches: 2<br>Gardens: 2<br>Trees: 765<br>Greenstreets: 1<br>Chill Score: 5.880000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -52377,7 +52377,7 @@ geo_json_5270da71fdf34afd100018bd976c4d23_add({
 
 geo_json_5270da71fdf34afd100018bd976c4d23.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1515<br>311 Complaints 351<br>Benches: 3<br>Gardens: 1<br>Trees: 954<br>Greenstreets: 4<br>Chill Score: 8.56<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1515<br>311 Complaints: 351<br>Benches: 3<br>Gardens: 1<br>Trees: 954<br>Greenstreets: 4<br>Chill Score: 8.56<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -52468,7 +52468,7 @@ geo_json_a84540a97ad0ed9286316902eafb3cca_add({
 
 geo_json_a84540a97ad0ed9286316902eafb3cca.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1516<br>311 Complaints 347<br>Benches: 0<br>Gardens: 0<br>Trees: 640<br>Greenstreets: 2<br>Chill Score: 3.93<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1516<br>311 Complaints: 347<br>Benches: 0<br>Gardens: 0<br>Trees: 640<br>Greenstreets: 2<br>Chill Score: 3.93<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -52559,7 +52559,7 @@ geo_json_1b0707a3c9ed6e90219371b5f8d3a586_add({
 
 geo_json_1b0707a3c9ed6e90219371b5f8d3a586.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1517<br>311 Complaints 393<br>Benches: 2<br>Gardens: 0<br>Trees: 1086<br>Greenstreets: 4<br>Chill Score: 8.95<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1517<br>311 Complaints: 393<br>Benches: 2<br>Gardens: 0<br>Trees: 1086<br>Greenstreets: 4<br>Chill Score: 8.95<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -52650,7 +52650,7 @@ geo_json_b1187760b054069cdf1b2edff18afaa7_add({
 
 geo_json_b1187760b054069cdf1b2edff18afaa7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1518<br>311 Complaints 331<br>Benches: 2<br>Gardens: 0<br>Trees: 576<br>Greenstreets: 1<br>Chill Score: 2.9699999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1518<br>311 Complaints: 331<br>Benches: 2<br>Gardens: 0<br>Trees: 576<br>Greenstreets: 1<br>Chill Score: 2.9699999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -52741,7 +52741,7 @@ geo_json_ced2b62879772bdbe398dfae23f55fa5_add({
 
 geo_json_ced2b62879772bdbe398dfae23f55fa5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1519<br>311 Complaints 328<br>Benches: 1<br>Gardens: 0<br>Trees: 688<br>Greenstreets: 0<br>Chill Score: 3.6099999999999994<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1519<br>311 Complaints: 328<br>Benches: 1<br>Gardens: 0<br>Trees: 688<br>Greenstreets: 0<br>Chill Score: 3.6099999999999994<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -52832,7 +52832,7 @@ geo_json_968e14b062e2104d26f52452d82350c7_add({
 
 geo_json_968e14b062e2104d26f52452d82350c7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1520<br>311 Complaints 349<br>Benches: 0<br>Gardens: 0<br>Trees: 762<br>Greenstreets: 1<br>Chill Score: 4.63<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1520<br>311 Complaints: 349<br>Benches: 0<br>Gardens: 0<br>Trees: 762<br>Greenstreets: 1<br>Chill Score: 4.63<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -52923,7 +52923,7 @@ geo_json_72ffc3ffa00cff8f911c09612d47e1af_add({
 
 geo_json_72ffc3ffa00cff8f911c09612d47e1af.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1521<br>311 Complaints 321<br>Benches: 1<br>Gardens: 0<br>Trees: 597<br>Greenstreets: 1<br>Chill Score: 3.2699999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1521<br>311 Complaints: 321<br>Benches: 1<br>Gardens: 0<br>Trees: 597<br>Greenstreets: 1<br>Chill Score: 3.2699999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -53014,7 +53014,7 @@ geo_json_557094a0cdad1d83b3ac37b6eedd71d3_add({
 
 geo_json_557094a0cdad1d83b3ac37b6eedd71d3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1522<br>311 Complaints 199<br>Benches: 0<br>Gardens: 0<br>Trees: 643<br>Greenstreets: 0<br>Chill Score: 4.4399999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1522<br>311 Complaints: 199<br>Benches: 0<br>Gardens: 0<br>Trees: 643<br>Greenstreets: 0<br>Chill Score: 4.4399999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -53105,7 +53105,7 @@ geo_json_2585e56e6f8a874b5c46dd00f8771799_add({
 
 geo_json_2585e56e6f8a874b5c46dd00f8771799.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1523<br>311 Complaints 216<br>Benches: 1<br>Gardens: 0<br>Trees: 939<br>Greenstreets: 0<br>Chill Score: 7.24<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1523<br>311 Complaints: 216<br>Benches: 1<br>Gardens: 0<br>Trees: 939<br>Greenstreets: 0<br>Chill Score: 7.24<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -53196,7 +53196,7 @@ geo_json_6439c3c0c00869b2bd17b7a817decb03_add({
 
 geo_json_6439c3c0c00869b2bd17b7a817decb03.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1524<br>311 Complaints 117<br>Benches: 0<br>Gardens: 0<br>Trees: 531<br>Greenstreets: 2<br>Chill Score: 5.140000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1524<br>311 Complaints: 117<br>Benches: 0<br>Gardens: 0<br>Trees: 531<br>Greenstreets: 2<br>Chill Score: 5.140000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -53287,7 +53287,7 @@ geo_json_794370d4538bc2f7f3a261242b194aaa_add({
 
 geo_json_794370d4538bc2f7f3a261242b194aaa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1525<br>311 Complaints 64<br>Benches: 0<br>Gardens: 0<br>Trees: 371<br>Greenstreets: 1<br>Chill Score: 3.57<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1525<br>311 Complaints: 64<br>Benches: 0<br>Gardens: 0<br>Trees: 371<br>Greenstreets: 1<br>Chill Score: 3.57<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -53378,7 +53378,7 @@ geo_json_8853edeffcb2545645bb5158a24669ce_add({
 
 geo_json_8853edeffcb2545645bb5158a24669ce.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1526<br>311 Complaints 165<br>Benches: 1<br>Gardens: 0<br>Trees: 661<br>Greenstreets: 1<br>Chill Score: 5.470000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1526<br>311 Complaints: 165<br>Benches: 1<br>Gardens: 0<br>Trees: 661<br>Greenstreets: 1<br>Chill Score: 5.470000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -53469,7 +53469,7 @@ geo_json_86b9d3c5edcc0d6bb3ae97f0eb53dc58_add({
 
 geo_json_86b9d3c5edcc0d6bb3ae97f0eb53dc58.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1527<br>311 Complaints 122<br>Benches: 0<br>Gardens: 0<br>Trees: 560<br>Greenstreets: 11<br>Chill Score: 9.88<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1527<br>311 Complaints: 122<br>Benches: 0<br>Gardens: 0<br>Trees: 560<br>Greenstreets: 11<br>Chill Score: 9.88<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -53560,7 +53560,7 @@ geo_json_9c55032099794add6e1f448f877c54c3_add({
 
 geo_json_9c55032099794add6e1f448f877c54c3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1528<br>311 Complaints 220<br>Benches: 0<br>Gardens: 0<br>Trees: 648<br>Greenstreets: 4<br>Chill Score: 6.28<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1528<br>311 Complaints: 220<br>Benches: 0<br>Gardens: 0<br>Trees: 648<br>Greenstreets: 4<br>Chill Score: 6.28<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -53651,7 +53651,7 @@ geo_json_f9d352c441cb84535f32fd6b1e3ec5e9_add({
 
 geo_json_f9d352c441cb84535f32fd6b1e3ec5e9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1529<br>311 Complaints 104<br>Benches: 0<br>Gardens: 0<br>Trees: 629<br>Greenstreets: 8<br>Chill Score: 9.25<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1529<br>311 Complaints: 104<br>Benches: 0<br>Gardens: 0<br>Trees: 629<br>Greenstreets: 8<br>Chill Score: 9.25<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -53742,7 +53742,7 @@ geo_json_f32e6bbb49e465b1226a135dbf9025a1_add({
 
 geo_json_f32e6bbb49e465b1226a135dbf9025a1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1530<br>311 Complaints 44<br>Benches: 0<br>Gardens: 0<br>Trees: 154<br>Greenstreets: 0<br>Chill Score: 1.1<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1530<br>311 Complaints: 44<br>Benches: 0<br>Gardens: 0<br>Trees: 154<br>Greenstreets: 0<br>Chill Score: 1.1<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -53832,7 +53832,7 @@ geo_json_c955b232e38d65c5534a8ba306f76f44_add({
 
 geo_json_c955b232e38d65c5534a8ba306f76f44.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1559<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1559<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -53923,7 +53923,7 @@ geo_json_3a416da41fd5109d7dff3c458c28fe2d_add({
 
 geo_json_3a416da41fd5109d7dff3c458c28fe2d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1560<br>311 Complaints 193<br>Benches: 6<br>Gardens: 1<br>Trees: 727<br>Greenstreets: 3<br>Chill Score: 7.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1560<br>311 Complaints: 193<br>Benches: 6<br>Gardens: 1<br>Trees: 727<br>Greenstreets: 3<br>Chill Score: 7.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -54014,7 +54014,7 @@ geo_json_7045a62eb41947984c26180c40daf505_add({
 
 geo_json_7045a62eb41947984c26180c40daf505.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1561<br>311 Complaints 515<br>Benches: 11<br>Gardens: 0<br>Trees: 1309<br>Greenstreets: 0<br>Chill Score: 8.05<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1561<br>311 Complaints: 515<br>Benches: 11<br>Gardens: 0<br>Trees: 1309<br>Greenstreets: 0<br>Chill Score: 8.05<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -54105,7 +54105,7 @@ geo_json_0395b551469283571d21d69ab608acc0_add({
 
 geo_json_0395b551469283571d21d69ab608acc0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1562<br>311 Complaints 441<br>Benches: 16<br>Gardens: 1<br>Trees: 871<br>Greenstreets: 1<br>Chill Score: 5.460000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1562<br>311 Complaints: 441<br>Benches: 16<br>Gardens: 1<br>Trees: 871<br>Greenstreets: 1<br>Chill Score: 5.460000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -54196,7 +54196,7 @@ geo_json_f692bbf6a71126354933710e04cfb896_add({
 
 geo_json_f692bbf6a71126354933710e04cfb896.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1563<br>311 Complaints 354<br>Benches: 11<br>Gardens: 3<br>Trees: 1341<br>Greenstreets: 3<br>Chill Score: 12.98<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1563<br>311 Complaints: 354<br>Benches: 11<br>Gardens: 3<br>Trees: 1341<br>Greenstreets: 3<br>Chill Score: 12.98<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -54287,7 +54287,7 @@ geo_json_123192d9ccaba0b605d77b18427bd4d7_add({
 
 geo_json_123192d9ccaba0b605d77b18427bd4d7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1564<br>311 Complaints 478<br>Benches: 3<br>Gardens: 4<br>Trees: 1065<br>Greenstreets: 5<br>Chill Score: 10.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1564<br>311 Complaints: 478<br>Benches: 3<br>Gardens: 4<br>Trees: 1065<br>Greenstreets: 5<br>Chill Score: 10.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -54378,7 +54378,7 @@ geo_json_391d1688eca6953bb82da6d1999d417f_add({
 
 geo_json_391d1688eca6953bb82da6d1999d417f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1565<br>311 Complaints 691<br>Benches: 6<br>Gardens: 8<br>Trees: 788<br>Greenstreets: 1<br>Chill Score: 5.529999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1565<br>311 Complaints: 691<br>Benches: 6<br>Gardens: 8<br>Trees: 788<br>Greenstreets: 1<br>Chill Score: 5.529999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -54469,7 +54469,7 @@ geo_json_4bd4fde79321892b0088e28b4a9933e4_add({
 
 geo_json_4bd4fde79321892b0088e28b4a9933e4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1566<br>311 Complaints 637<br>df_air_quality_2: 5<brBenches: 1<br>Gardens: 7<br>Trees: 1001<br>Greenstreets: 0<br>mean_mcg_m3: 6.12<br>Chill Score: 7.1499999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1566<br>311 Complaints: 637<br>df_air_quality_2: 5<brBenches: 1<br>Gardens: 7<br>Trees: 1001<br>Greenstreets: 0<br>mean_mcg_m3: 6.12<br>Chill Score: 7.1499999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -54560,7 +54560,7 @@ geo_json_877c0fc8ab8b6a5ce30c47c7a45222b0_add({
 
 geo_json_877c0fc8ab8b6a5ce30c47c7a45222b0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1567<br>311 Complaints 443<br>Benches: 11<br>Gardens: 2<br>Trees: 972<br>Greenstreets: 0<br>Chill Score: 6.400000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1567<br>311 Complaints: 443<br>Benches: 11<br>Gardens: 2<br>Trees: 972<br>Greenstreets: 0<br>Chill Score: 6.400000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -54651,7 +54651,7 @@ geo_json_f7dec99056cb63f5207a5811e5c7d1c5_add({
 
 geo_json_f7dec99056cb63f5207a5811e5c7d1c5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1568<br>311 Complaints 547<br>Benches: 5<br>Gardens: 8<br>Trees: 747<br>Greenstreets: 1<br>Chill Score: 6.55<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1568<br>311 Complaints: 547<br>Benches: 5<br>Gardens: 8<br>Trees: 747<br>Greenstreets: 1<br>Chill Score: 6.55<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -54742,7 +54742,7 @@ geo_json_118b627e7b25e7f3d4c6fa4740cc919d_add({
 
 geo_json_118b627e7b25e7f3d4c6fa4740cc919d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1569<br>311 Complaints 562<br>Benches: 2<br>Gardens: 3<br>Trees: 906<br>Greenstreets: 0<br>Chill Score: 4.96<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1569<br>311 Complaints: 562<br>Benches: 2<br>Gardens: 3<br>Trees: 906<br>Greenstreets: 0<br>Chill Score: 4.96<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -54833,7 +54833,7 @@ geo_json_fa87c62ebe47322894014bec5468eaad_add({
 
 geo_json_fa87c62ebe47322894014bec5468eaad.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1570<br>311 Complaints 400<br>Benches: 0<br>Gardens: 1<br>Trees: 538<br>Greenstreets: 0<br>Chill Score: 1.88<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1570<br>311 Complaints: 400<br>Benches: 0<br>Gardens: 1<br>Trees: 538<br>Greenstreets: 0<br>Chill Score: 1.88<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -54924,7 +54924,7 @@ geo_json_92c8864d48fa7ab8d1d197edab548ee7_add({
 
 geo_json_92c8864d48fa7ab8d1d197edab548ee7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1571<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 2<br>Greenstreets: 0<br>Chill Score: 0.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1571<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 2<br>Greenstreets: 0<br>Chill Score: 0.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -55015,7 +55015,7 @@ geo_json_b9eea7f42f7f2f31571990afa3645b8e_add({
 
 geo_json_b9eea7f42f7f2f31571990afa3645b8e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1572<br>311 Complaints 22<br>Benches: 0<br>Gardens: 0<br>Trees: 118<br>Greenstreets: 0<br>Chill Score: 0.96<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1572<br>311 Complaints: 22<br>Benches: 0<br>Gardens: 0<br>Trees: 118<br>Greenstreets: 0<br>Chill Score: 0.96<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -55106,7 +55106,7 @@ geo_json_583434fbda2ef13839b3cff112a48e24_add({
 
 geo_json_583434fbda2ef13839b3cff112a48e24.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1573<br>311 Complaints 232<br>Benches: 1<br>Gardens: 1<br>Trees: 578<br>Greenstreets: 1<br>Chill Score: 4.470000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1573<br>311 Complaints: 232<br>Benches: 1<br>Gardens: 1<br>Trees: 578<br>Greenstreets: 1<br>Chill Score: 4.470000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -55197,7 +55197,7 @@ geo_json_9fdc38f43ea1731ee08f4da4bdc3520e_add({
 
 geo_json_9fdc38f43ea1731ee08f4da4bdc3520e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1574<br>311 Complaints 500<br>Benches: 0<br>Gardens: 0<br>Trees: 798<br>Greenstreets: 1<br>Chill Score: 3.4800000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1574<br>311 Complaints: 500<br>Benches: 0<br>Gardens: 0<br>Trees: 798<br>Greenstreets: 1<br>Chill Score: 3.4800000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -55288,7 +55288,7 @@ geo_json_0dd7f1b69bb542785c1d044091a4b296_add({
 
 geo_json_0dd7f1b69bb542785c1d044091a4b296.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1575<br>311 Complaints 388<br>Benches: 0<br>Gardens: 0<br>Trees: 776<br>Greenstreets: 2<br>Chill Score: 4.88<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1575<br>311 Complaints: 388<br>Benches: 0<br>Gardens: 0<br>Trees: 776<br>Greenstreets: 2<br>Chill Score: 4.88<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -55379,7 +55379,7 @@ geo_json_4274a516673678500ffaf601081ff3f5_add({
 
 geo_json_4274a516673678500ffaf601081ff3f5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1576<br>311 Complaints 364<br>Benches: 5<br>Gardens: 1<br>Trees: 689<br>Greenstreets: 2<br>Chill Score: 4.800000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1576<br>311 Complaints: 364<br>Benches: 5<br>Gardens: 1<br>Trees: 689<br>Greenstreets: 2<br>Chill Score: 4.800000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -55470,7 +55470,7 @@ geo_json_e10f819add2516dec0d7c4f096a9c6c7_add({
 
 geo_json_e10f819add2516dec0d7c4f096a9c6c7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1577<br>311 Complaints 398<br>Benches: 0<br>Gardens: 0<br>Trees: 590<br>Greenstreets: 1<br>Chill Score: 2.4200000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1577<br>311 Complaints: 398<br>Benches: 0<br>Gardens: 0<br>Trees: 590<br>Greenstreets: 1<br>Chill Score: 2.4200000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -55561,7 +55561,7 @@ geo_json_bbb4755ef3d14cb0c52259d87df95afc_add({
 
 geo_json_bbb4755ef3d14cb0c52259d87df95afc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1578<br>311 Complaints 527<br>Benches: 1<br>Gardens: 0<br>Trees: 536<br>Greenstreets: 0<br>Chill Score: 0.09999999999999964<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1578<br>311 Complaints: 527<br>Benches: 1<br>Gardens: 0<br>Trees: 536<br>Greenstreets: 0<br>Chill Score: 0.09999999999999964<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -55652,7 +55652,7 @@ geo_json_414be3d175d16663fd6a45eac36fe5d0_add({
 
 geo_json_414be3d175d16663fd6a45eac36fe5d0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1579<br>311 Complaints 436<br>Benches: 1<br>Gardens: 0<br>Trees: 556<br>Greenstreets: 0<br>Chill Score: 1.21<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1579<br>311 Complaints: 436<br>Benches: 1<br>Gardens: 0<br>Trees: 556<br>Greenstreets: 0<br>Chill Score: 1.21<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -55743,7 +55743,7 @@ geo_json_beb68964fc22d21d5dd7ba586331f026_add({
 
 geo_json_beb68964fc22d21d5dd7ba586331f026.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1580<br>311 Complaints 245<br>Benches: 0<br>Gardens: 1<br>Trees: 617<br>Greenstreets: 0<br>Chill Score: 4.22<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1580<br>311 Complaints: 245<br>Benches: 0<br>Gardens: 1<br>Trees: 617<br>Greenstreets: 0<br>Chill Score: 4.22<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -55834,7 +55834,7 @@ geo_json_8e9634b879a06ff2108ea915337f8695_add({
 
 geo_json_8e9634b879a06ff2108ea915337f8695.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1581<br>311 Complaints 284<br>Benches: 0<br>Gardens: 1<br>Trees: 988<br>Greenstreets: 2<br>Chill Score: 8.540000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1581<br>311 Complaints: 284<br>Benches: 0<br>Gardens: 1<br>Trees: 988<br>Greenstreets: 2<br>Chill Score: 8.540000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -55925,7 +55925,7 @@ geo_json_a4bbf4753ec46d579a8715945825e75c_add({
 
 geo_json_a4bbf4753ec46d579a8715945825e75c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1582<br>311 Complaints 198<br>Benches: 0<br>Gardens: 0<br>Trees: 788<br>Greenstreets: 0<br>Chill Score: 5.9<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1582<br>311 Complaints: 198<br>Benches: 0<br>Gardens: 0<br>Trees: 788<br>Greenstreets: 0<br>Chill Score: 5.9<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -56016,7 +56016,7 @@ geo_json_b8fbb037aa93e1645afb60432d0dec4b_add({
 
 geo_json_b8fbb037aa93e1645afb60432d0dec4b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1583<br>311 Complaints 220<br>Benches: 4<br>Gardens: 1<br>Trees: 790<br>Greenstreets: 3<br>Chill Score: 7.74<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1583<br>311 Complaints: 220<br>Benches: 4<br>Gardens: 1<br>Trees: 790<br>Greenstreets: 3<br>Chill Score: 7.74<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -56107,7 +56107,7 @@ geo_json_2eef3b756f363d507c3c3fdc268064cc_add({
 
 geo_json_2eef3b756f363d507c3c3fdc268064cc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1584<br>311 Complaints 119<br>Benches: 0<br>Gardens: 4<br>Trees: 370<br>Greenstreets: 2<br>Chill Score: 5.51<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1584<br>311 Complaints: 119<br>Benches: 0<br>Gardens: 4<br>Trees: 370<br>Greenstreets: 2<br>Chill Score: 5.51<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -56198,7 +56198,7 @@ geo_json_d7a0e43a0d4de319ad6092889e1cb2f5_add({
 
 geo_json_d7a0e43a0d4de319ad6092889e1cb2f5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1585<br>311 Complaints 212<br>Benches: 0<br>Gardens: 0<br>Trees: 539<br>Greenstreets: 1<br>Chill Score: 3.7699999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1585<br>311 Complaints: 212<br>Benches: 0<br>Gardens: 0<br>Trees: 539<br>Greenstreets: 1<br>Chill Score: 3.7699999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -56289,7 +56289,7 @@ geo_json_92fd5f5059c5c1af5892e4182d173561_add({
 
 geo_json_92fd5f5059c5c1af5892e4182d173561.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1586<br>311 Complaints 108<br>Benches: 0<br>Gardens: 0<br>Trees: 755<br>Greenstreets: 4<br>Chill Score: 8.469999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1586<br>311 Complaints: 108<br>Benches: 0<br>Gardens: 0<br>Trees: 755<br>Greenstreets: 4<br>Chill Score: 8.469999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -56380,7 +56380,7 @@ geo_json_a145b2ff3d4151673322a594da37f125_add({
 
 geo_json_a145b2ff3d4151673322a594da37f125.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1587<br>311 Complaints 59<br>Benches: 0<br>Gardens: 0<br>Trees: 281<br>Greenstreets: 2<br>Chill Score: 3.22<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1587<br>311 Complaints: 59<br>Benches: 0<br>Gardens: 0<br>Trees: 281<br>Greenstreets: 2<br>Chill Score: 3.22<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -56471,7 +56471,7 @@ geo_json_ee540bbbb3476c883c25ab145fd7a788_add({
 
 geo_json_ee540bbbb3476c883c25ab145fd7a788.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1588<br>311 Complaints 78<br>Benches: 0<br>Gardens: 0<br>Trees: 729<br>Greenstreets: 3<br>Chill Score: 8.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1588<br>311 Complaints: 78<br>Benches: 0<br>Gardens: 0<br>Trees: 729<br>Greenstreets: 3<br>Chill Score: 8.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -56562,7 +56562,7 @@ geo_json_e0cb61244630df7146643d86adddf513_add({
 
 geo_json_e0cb61244630df7146643d86adddf513.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1589<br>311 Complaints 26<br>Benches: 0<br>Gardens: 0<br>Trees: 300<br>Greenstreets: 0<br>Chill Score: 2.74<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1589<br>311 Complaints: 26<br>Benches: 0<br>Gardens: 0<br>Trees: 300<br>Greenstreets: 0<br>Chill Score: 2.74<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -56652,7 +56652,7 @@ geo_json_24b18962cc8428434a5c68b62d801225_add({
 
 geo_json_24b18962cc8428434a5c68b62d801225.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1617<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1617<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -56743,7 +56743,7 @@ geo_json_3b4779c5ec8c79b9dd60f6197a66611e_add({
 
 geo_json_3b4779c5ec8c79b9dd60f6197a66611e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1619<br>311 Complaints 98<br>Benches: 0<br>Gardens: 0<br>Trees: 393<br>Greenstreets: 1<br>Chill Score: 3.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1619<br>311 Complaints: 98<br>Benches: 0<br>Gardens: 0<br>Trees: 393<br>Greenstreets: 1<br>Chill Score: 3.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -56834,7 +56834,7 @@ geo_json_2e2be2e73bfe2814283ec48079857570_add({
 
 geo_json_2e2be2e73bfe2814283ec48079857570.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1620<br>311 Complaints 473<br>Benches: 6<br>Gardens: 0<br>Trees: 983<br>Greenstreets: 25<br>Chill Score: 17.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1620<br>311 Complaints: 473<br>Benches: 6<br>Gardens: 0<br>Trees: 983<br>Greenstreets: 25<br>Chill Score: 17.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -56925,7 +56925,7 @@ geo_json_b48c172d75e48f95e2fa43c71dab6e22_add({
 
 geo_json_b48c172d75e48f95e2fa43c71dab6e22.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1621<br>311 Complaints 319<br>df_air_quality_2: 5<brBenches: 2<br>Gardens: 1<br>Trees: 418<br>Greenstreets: 4<br>mean_mcg_m3: 6.6<br>Chill Score: 3.51<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1621<br>311 Complaints: 319<br>df_air_quality_2: 5<brBenches: 2<br>Gardens: 1<br>Trees: 418<br>Greenstreets: 4<br>mean_mcg_m3: 6.6<br>Chill Score: 3.51<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -57016,7 +57016,7 @@ geo_json_9e5f8b4a1d07f8c2b8a4d3e50ccf51fa_add({
 
 geo_json_9e5f8b4a1d07f8c2b8a4d3e50ccf51fa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1622<br>311 Complaints 297<br>Benches: 1<br>Gardens: 0<br>Trees: 719<br>Greenstreets: 3<br>Chill Score: 5.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1622<br>311 Complaints: 297<br>Benches: 1<br>Gardens: 0<br>Trees: 719<br>Greenstreets: 3<br>Chill Score: 5.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -57107,7 +57107,7 @@ geo_json_5d7c80ace4c17d0c8cd68a5e96cf0aec_add({
 
 geo_json_5d7c80ace4c17d0c8cd68a5e96cf0aec.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1623<br>311 Complaints 314<br>Benches: 6<br>Gardens: 1<br>Trees: 586<br>Greenstreets: 0<br>Chill Score: 3.2800000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1623<br>311 Complaints: 314<br>Benches: 6<br>Gardens: 1<br>Trees: 586<br>Greenstreets: 0<br>Chill Score: 3.2800000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -57198,7 +57198,7 @@ geo_json_e4a2070604e790f76df6825cfd123f10_add({
 
 geo_json_e4a2070604e790f76df6825cfd123f10.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1624<br>311 Complaints 444<br>Benches: 4<br>Gardens: 2<br>Trees: 571<br>Greenstreets: 0<br>Chill Score: 2.3099999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1624<br>311 Complaints: 444<br>Benches: 4<br>Gardens: 2<br>Trees: 571<br>Greenstreets: 0<br>Chill Score: 2.3099999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -57289,7 +57289,7 @@ geo_json_bbc8e110309b0f0f1b46ac2df0e69f97_add({
 
 geo_json_bbc8e110309b0f0f1b46ac2df0e69f97.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1625<br>311 Complaints 506<br>Benches: 4<br>Gardens: 8<br>Trees: 603<br>Greenstreets: 0<br>Chill Score: 5.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1625<br>311 Complaints: 506<br>Benches: 4<br>Gardens: 8<br>Trees: 603<br>Greenstreets: 0<br>Chill Score: 5.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -57380,7 +57380,7 @@ geo_json_6dcefe8b293af02d878c07af3d654631_add({
 
 geo_json_6dcefe8b293af02d878c07af3d654631.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1626<br>311 Complaints 654<br>Benches: 7<br>Gardens: 2<br>Trees: 781<br>Greenstreets: 3<br>Chill Score: 3.8400000000000007<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1626<br>311 Complaints: 654<br>Benches: 7<br>Gardens: 2<br>Trees: 781<br>Greenstreets: 3<br>Chill Score: 3.8400000000000007<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -57471,7 +57471,7 @@ geo_json_3c876b1b9ced13d6673ac201d0102b44_add({
 
 geo_json_3c876b1b9ced13d6673ac201d0102b44.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1627<br>311 Complaints 578<br>Benches: 2<br>Gardens: 3<br>Trees: 843<br>Greenstreets: 1<br>Chill Score: 4.669999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1627<br>311 Complaints: 578<br>Benches: 2<br>Gardens: 3<br>Trees: 843<br>Greenstreets: 1<br>Chill Score: 4.669999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -57562,7 +57562,7 @@ geo_json_a76e137f710b11366019155e333f219c_add({
 
 geo_json_a76e137f710b11366019155e333f219c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1628<br>311 Complaints 503<br>Benches: 3<br>Gardens: 2<br>Trees: 1021<br>Greenstreets: 1<br>Chill Score: 6.710000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1628<br>311 Complaints: 503<br>Benches: 3<br>Gardens: 2<br>Trees: 1021<br>Greenstreets: 1<br>Chill Score: 6.710000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -57653,7 +57653,7 @@ geo_json_5e79cd8ce790823e4b97f51cf2149d0e_add({
 
 geo_json_5e79cd8ce790823e4b97f51cf2149d0e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1629<br>311 Complaints 476<br>Benches: 0<br>Gardens: 0<br>Trees: 885<br>Greenstreets: 0<br>Chill Score: 4.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1629<br>311 Complaints: 476<br>Benches: 0<br>Gardens: 0<br>Trees: 885<br>Greenstreets: 0<br>Chill Score: 4.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -57744,7 +57744,7 @@ geo_json_a7bd8d43eecae62fea47e44e78c1cef8_add({
 
 geo_json_a7bd8d43eecae62fea47e44e78c1cef8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1630<br>311 Complaints 252<br>Benches: 0<br>Gardens: 0<br>Trees: 615<br>Greenstreets: 1<br>Chill Score: 4.130000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1630<br>311 Complaints: 252<br>Benches: 0<br>Gardens: 0<br>Trees: 615<br>Greenstreets: 1<br>Chill Score: 4.130000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -57835,7 +57835,7 @@ geo_json_19486eebbc8cd44a248c9ad658dd66b1_add({
 
 geo_json_19486eebbc8cd44a248c9ad658dd66b1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1631<br>311 Complaints 50<br>Benches: 0<br>Gardens: 0<br>Trees: 294<br>Greenstreets: 0<br>Chill Score: 2.44<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1631<br>311 Complaints: 50<br>Benches: 0<br>Gardens: 0<br>Trees: 294<br>Greenstreets: 0<br>Chill Score: 2.44<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -57926,7 +57926,7 @@ geo_json_2a615567e9c9772c08162714e8062869_add({
 
 geo_json_2a615567e9c9772c08162714e8062869.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1633<br>311 Complaints 187<br>Benches: 1<br>Gardens: 0<br>Trees: 311<br>Greenstreets: 1<br>Chill Score: 1.7499999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1633<br>311 Complaints: 187<br>Benches: 1<br>Gardens: 0<br>Trees: 311<br>Greenstreets: 1<br>Chill Score: 1.7499999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -58017,7 +58017,7 @@ geo_json_81a0df122d09d6357c78af9ef8992b44_add({
 
 geo_json_81a0df122d09d6357c78af9ef8992b44.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1634<br>311 Complaints 269<br>Benches: 2<br>Gardens: 0<br>Trees: 712<br>Greenstreets: 0<br>Chill Score: 4.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1634<br>311 Complaints: 269<br>Benches: 2<br>Gardens: 0<br>Trees: 712<br>Greenstreets: 0<br>Chill Score: 4.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -58108,7 +58108,7 @@ geo_json_de876535aeef9eb03380b32ee513841e_add({
 
 geo_json_de876535aeef9eb03380b32ee513841e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1635<br>311 Complaints 335<br>Benches: 4<br>Gardens: 0<br>Trees: 925<br>Greenstreets: 0<br>Chill Score: 5.9399999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1635<br>311 Complaints: 335<br>Benches: 4<br>Gardens: 0<br>Trees: 925<br>Greenstreets: 0<br>Chill Score: 5.9399999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -58199,7 +58199,7 @@ geo_json_c67c68e20cf7b1a0a566803d8df83173_add({
 
 geo_json_c67c68e20cf7b1a0a566803d8df83173.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1636<br>311 Complaints 308<br>Benches: 0<br>Gardens: 0<br>Trees: 741<br>Greenstreets: 0<br>Chill Score: 4.33<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1636<br>311 Complaints: 308<br>Benches: 0<br>Gardens: 0<br>Trees: 741<br>Greenstreets: 0<br>Chill Score: 4.33<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -58290,7 +58290,7 @@ geo_json_26544b76ca9da5b07f10d37f7d5769e4_add({
 
 geo_json_26544b76ca9da5b07f10d37f7d5769e4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1637<br>311 Complaints 371<br>Benches: 1<br>Gardens: 0<br>Trees: 904<br>Greenstreets: 0<br>Chill Score: 5.340000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1637<br>311 Complaints: 371<br>Benches: 1<br>Gardens: 0<br>Trees: 904<br>Greenstreets: 0<br>Chill Score: 5.340000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -58381,7 +58381,7 @@ geo_json_6b1ec89b208a07442ed7f9e00886dc19_add({
 
 geo_json_6b1ec89b208a07442ed7f9e00886dc19.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1638<br>311 Complaints 381<br>Benches: 4<br>Gardens: 0<br>Trees: 470<br>Greenstreets: 0<br>Chill Score: 0.9300000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1638<br>311 Complaints: 381<br>Benches: 4<br>Gardens: 0<br>Trees: 470<br>Greenstreets: 0<br>Chill Score: 0.9300000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -58472,7 +58472,7 @@ geo_json_d9d2968282055511caa5a0f6c11aaebb_add({
 
 geo_json_d9d2968282055511caa5a0f6c11aaebb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1639<br>311 Complaints 253<br>Benches: 0<br>Gardens: 0<br>Trees: 652<br>Greenstreets: 2<br>Chill Score: 4.99<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1639<br>311 Complaints: 253<br>Benches: 0<br>Gardens: 0<br>Trees: 652<br>Greenstreets: 2<br>Chill Score: 4.99<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -58563,7 +58563,7 @@ geo_json_1e95a24f4b328b08bff8acce56bec29a_add({
 
 geo_json_1e95a24f4b328b08bff8acce56bec29a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1640<br>311 Complaints 227<br>Benches: 1<br>Gardens: 1<br>Trees: 895<br>Greenstreets: 0<br>Chill Score: 7.190000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1640<br>311 Complaints: 227<br>Benches: 1<br>Gardens: 1<br>Trees: 895<br>Greenstreets: 0<br>Chill Score: 7.190000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -58654,7 +58654,7 @@ geo_json_8204531b10a8ea0fcc2f1d6aa065d54c_add({
 
 geo_json_8204531b10a8ea0fcc2f1d6aa065d54c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1641<br>311 Complaints 236<br>Benches: 4<br>Gardens: 3<br>Trees: 570<br>Greenstreets: 0<br>Chill Score: 4.880000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1641<br>311 Complaints: 236<br>Benches: 4<br>Gardens: 3<br>Trees: 570<br>Greenstreets: 0<br>Chill Score: 4.880000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -58745,7 +58745,7 @@ geo_json_fe81f4f24393533a23f1728033da8ce1_add({
 
 geo_json_fe81f4f24393533a23f1728033da8ce1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1642<br>311 Complaints 136<br>Benches: 3<br>Gardens: 0<br>Trees: 865<br>Greenstreets: 8<br>Chill Score: 11.32<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1642<br>311 Complaints: 136<br>Benches: 3<br>Gardens: 0<br>Trees: 865<br>Greenstreets: 8<br>Chill Score: 11.32<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -58836,7 +58836,7 @@ geo_json_0b21cb9a48bd28b426e4f2602afe5268_add({
 
 geo_json_0b21cb9a48bd28b426e4f2602afe5268.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1643<br>311 Complaints 106<br>Benches: 1<br>Gardens: 2<br>Trees: 746<br>Greenstreets: 0<br>Chill Score: 7.41<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1643<br>311 Complaints: 106<br>Benches: 1<br>Gardens: 2<br>Trees: 746<br>Greenstreets: 0<br>Chill Score: 7.41<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -58927,7 +58927,7 @@ geo_json_e005092184f7d7a0f4d857d5962524c7_add({
 
 geo_json_e005092184f7d7a0f4d857d5962524c7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1644<br>311 Complaints 175<br>Benches: 1<br>Gardens: 1<br>Trees: 639<br>Greenstreets: 0<br>Chill Score: 5.15<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1644<br>311 Complaints: 175<br>Benches: 1<br>Gardens: 1<br>Trees: 639<br>Greenstreets: 0<br>Chill Score: 5.15<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -59018,7 +59018,7 @@ geo_json_bf846afade2eb1d4729a8f86fc6a62bc_add({
 
 geo_json_bf846afade2eb1d4729a8f86fc6a62bc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1645<br>311 Complaints 192<br>Benches: 1<br>Gardens: 0<br>Trees: 457<br>Greenstreets: 0<br>Chill Score: 2.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1645<br>311 Complaints: 192<br>Benches: 1<br>Gardens: 0<br>Trees: 457<br>Greenstreets: 0<br>Chill Score: 2.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -59109,7 +59109,7 @@ geo_json_3511fc280bd0f5ddbb58e2961532adc3_add({
 
 geo_json_3511fc280bd0f5ddbb58e2961532adc3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1646<br>311 Complaints 180<br>Benches: 3<br>Gardens: 0<br>Trees: 664<br>Greenstreets: 11<br>Chill Score: 10.370000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1646<br>311 Complaints: 180<br>Benches: 3<br>Gardens: 0<br>Trees: 664<br>Greenstreets: 11<br>Chill Score: 10.370000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -59200,7 +59200,7 @@ geo_json_96bb44ccdee9399fe49117f197cbac71_add({
 
 geo_json_96bb44ccdee9399fe49117f197cbac71.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1647<br>311 Complaints 140<br>Benches: 1<br>Gardens: 0<br>Trees: 730<br>Greenstreets: 0<br>Chill Score: 5.91<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1647<br>311 Complaints: 140<br>Benches: 1<br>Gardens: 0<br>Trees: 730<br>Greenstreets: 0<br>Chill Score: 5.91<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -59291,7 +59291,7 @@ geo_json_0a3f39a2ffaccd5fc65448a388b412d7_add({
 
 geo_json_0a3f39a2ffaccd5fc65448a388b412d7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1648<br>311 Complaints 11<br>Benches: 1<br>Gardens: 0<br>Trees: 85<br>Greenstreets: 0<br>Chill Score: 0.75<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1648<br>311 Complaints: 11<br>Benches: 1<br>Gardens: 0<br>Trees: 85<br>Greenstreets: 0<br>Chill Score: 0.75<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -59382,7 +59382,7 @@ geo_json_974c8512099383710de059785c0a01fa_add({
 
 geo_json_974c8512099383710de059785c0a01fa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1676<br>311 Complaints 54<br>Benches: 0<br>Gardens: 0<br>Trees: 163<br>Greenstreets: 1<br>Chill Score: 1.59<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1676<br>311 Complaints: 54<br>Benches: 0<br>Gardens: 0<br>Trees: 163<br>Greenstreets: 1<br>Chill Score: 1.59<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -59473,7 +59473,7 @@ geo_json_56cfedfea215012a23db9992006a4d7b_add({
 
 geo_json_56cfedfea215012a23db9992006a4d7b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1677<br>311 Complaints 449<br>Benches: 10<br>Gardens: 0<br>Trees: 250<br>Greenstreets: 1<br>Chill Score: -1.3900000000000006<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1677<br>311 Complaints: 449<br>Benches: 10<br>Gardens: 0<br>Trees: 250<br>Greenstreets: 1<br>Chill Score: -1.3900000000000006<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -59564,7 +59564,7 @@ geo_json_46a55a444a1dc5f12dd6c1c694363f83_add({
 
 geo_json_46a55a444a1dc5f12dd6c1c694363f83.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1678<br>311 Complaints 43<br>Benches: 0<br>Gardens: 0<br>Trees: 21<br>Greenstreets: 0<br>Chill Score: -0.22<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1678<br>311 Complaints: 43<br>Benches: 0<br>Gardens: 0<br>Trees: 21<br>Greenstreets: 0<br>Chill Score: -0.22<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -59655,7 +59655,7 @@ geo_json_17fa283a2347fce5c09c2e67031a7212_add({
 
 geo_json_17fa283a2347fce5c09c2e67031a7212.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1679<br>311 Complaints 226<br>Benches: 1<br>Gardens: 1<br>Trees: 470<br>Greenstreets: 7<br>Chill Score: 6.449999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1679<br>311 Complaints: 226<br>Benches: 1<br>Gardens: 1<br>Trees: 470<br>Greenstreets: 7<br>Chill Score: 6.449999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -59746,7 +59746,7 @@ geo_json_72428961d1c4b991adc1a853d9c2c65f_add({
 
 geo_json_72428961d1c4b991adc1a853d9c2c65f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1680<br>311 Complaints 137<br>Benches: 1<br>Gardens: 1<br>Trees: 171<br>Greenstreets: 1<br>Chill Score: 1.3499999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1680<br>311 Complaints: 137<br>Benches: 1<br>Gardens: 1<br>Trees: 171<br>Greenstreets: 1<br>Chill Score: 1.3499999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -59837,7 +59837,7 @@ geo_json_d57373b7374f01820ffc224177e73ba8_add({
 
 geo_json_d57373b7374f01820ffc224177e73ba8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1681<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 12<br>Greenstreets: 0<br>Chill Score: 0.09999999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1681<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 12<br>Greenstreets: 0<br>Chill Score: 0.09999999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -59928,7 +59928,7 @@ geo_json_ac2ce4b15f14061df14a8a652e703787_add({
 
 geo_json_ac2ce4b15f14061df14a8a652e703787.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1682<br>311 Complaints 159<br>Benches: 1<br>Gardens: 0<br>Trees: 771<br>Greenstreets: 3<br>Chill Score: 7.63<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1682<br>311 Complaints: 159<br>Benches: 1<br>Gardens: 0<br>Trees: 771<br>Greenstreets: 3<br>Chill Score: 7.63<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -60019,7 +60019,7 @@ geo_json_f231aad9b397010b58ae65bdfdd4fbae_add({
 
 geo_json_f231aad9b397010b58ae65bdfdd4fbae.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1683<br>311 Complaints 227<br>Benches: 2<br>Gardens: 0<br>Trees: 1004<br>Greenstreets: 3<br>Chill Score: 9.290000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1683<br>311 Complaints: 227<br>Benches: 2<br>Gardens: 0<br>Trees: 1004<br>Greenstreets: 3<br>Chill Score: 9.290000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -60110,7 +60110,7 @@ geo_json_db4a6cf540da4e4acefaa7d0841866db_add({
 
 geo_json_db4a6cf540da4e4acefaa7d0841866db.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1684<br>311 Complaints 324<br>Benches: 11<br>Gardens: 5<br>Trees: 647<br>Greenstreets: 1<br>Chill Score: 6.34<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1684<br>311 Complaints: 324<br>Benches: 11<br>Gardens: 5<br>Trees: 647<br>Greenstreets: 1<br>Chill Score: 6.34<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -60201,7 +60201,7 @@ geo_json_717baad3504e733b3b2ba6a90a33b545_add({
 
 geo_json_717baad3504e733b3b2ba6a90a33b545.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1685<br>311 Complaints 374<br>Benches: 5<br>Gardens: 2<br>Trees: 693<br>Greenstreets: 1<br>Chill Score: 4.739999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1685<br>311 Complaints: 374<br>Benches: 5<br>Gardens: 2<br>Trees: 693<br>Greenstreets: 1<br>Chill Score: 4.739999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -60292,7 +60292,7 @@ geo_json_c4255b4d82a054cc558cc0714679c6a1_add({
 
 geo_json_c4255b4d82a054cc558cc0714679c6a1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1686<br>311 Complaints 682<br>Benches: 0<br>Gardens: 1<br>Trees: 1145<br>Greenstreets: 1<br>Chill Score: 5.630000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1686<br>311 Complaints: 682<br>Benches: 0<br>Gardens: 1<br>Trees: 1145<br>Greenstreets: 1<br>Chill Score: 5.630000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -60383,7 +60383,7 @@ geo_json_e2cab106634a78477da6606188ed64bf_add({
 
 geo_json_e2cab106634a78477da6606188ed64bf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1687<br>311 Complaints 523<br>Benches: 10<br>Gardens: 0<br>Trees: 1180<br>Greenstreets: 0<br>Chill Score: 6.67<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1687<br>311 Complaints: 523<br>Benches: 10<br>Gardens: 0<br>Trees: 1180<br>Greenstreets: 0<br>Chill Score: 6.67<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -60474,7 +60474,7 @@ geo_json_096b7e1089f60e6eb37f0b3c782f4c60_add({
 
 geo_json_096b7e1089f60e6eb37f0b3c782f4c60.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1688<br>311 Complaints 432<br>Benches: 2<br>Gardens: 0<br>Trees: 1521<br>Greenstreets: 1<br>Chill Score: 11.41<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1688<br>311 Complaints: 432<br>Benches: 2<br>Gardens: 0<br>Trees: 1521<br>Greenstreets: 1<br>Chill Score: 11.41<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -60565,7 +60565,7 @@ geo_json_961def67dd6c8533916a87b142199157_add({
 
 geo_json_961def67dd6c8533916a87b142199157.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1689<br>311 Complaints 452<br>Benches: 3<br>Gardens: 0<br>Trees: 1300<br>Greenstreets: 0<br>Chill Score: 8.51<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1689<br>311 Complaints: 452<br>Benches: 3<br>Gardens: 0<br>Trees: 1300<br>Greenstreets: 0<br>Chill Score: 8.51<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -60656,7 +60656,7 @@ geo_json_5b91641101f1f8805d1cea5add84197b_add({
 
 geo_json_5b91641101f1f8805d1cea5add84197b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1690<br>311 Complaints 227<br>Benches: 3<br>Gardens: 0<br>Trees: 1112<br>Greenstreets: 0<br>Chill Score: 8.88<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1690<br>311 Complaints: 227<br>Benches: 3<br>Gardens: 0<br>Trees: 1112<br>Greenstreets: 0<br>Chill Score: 8.88<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -60747,7 +60747,7 @@ geo_json_8716633bd49e687248a827fa779cbfd8_add({
 
 geo_json_8716633bd49e687248a827fa779cbfd8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1691<br>311 Complaints 164<br>Benches: 2<br>Gardens: 0<br>Trees: 745<br>Greenstreets: 2<br>Chill Score: 6.83<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1691<br>311 Complaints: 164<br>Benches: 2<br>Gardens: 0<br>Trees: 745<br>Greenstreets: 2<br>Chill Score: 6.83<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -60838,7 +60838,7 @@ geo_json_97d257996a1fa77495f0ae2abdc8bb42_add({
 
 geo_json_97d257996a1fa77495f0ae2abdc8bb42.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1692<br>311 Complaints 94<br>Benches: 0<br>Gardens: 0<br>Trees: 448<br>Greenstreets: 2<br>Chill Score: 4.540000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1692<br>311 Complaints: 94<br>Benches: 0<br>Gardens: 0<br>Trees: 448<br>Greenstreets: 2<br>Chill Score: 4.540000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -60929,7 +60929,7 @@ geo_json_bb5a3badfd1f81e1d5999e685d1b7500_add({
 
 geo_json_bb5a3badfd1f81e1d5999e685d1b7500.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1693<br>311 Complaints 95<br>Benches: 1<br>Gardens: 0<br>Trees: 483<br>Greenstreets: 11<br>Chill Score: 9.39<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1693<br>311 Complaints: 95<br>Benches: 1<br>Gardens: 0<br>Trees: 483<br>Greenstreets: 11<br>Chill Score: 9.39<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -61020,7 +61020,7 @@ geo_json_b95a30d26b8d043a2b14dc02dd9d4637_add({
 
 geo_json_b95a30d26b8d043a2b14dc02dd9d4637.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1694<br>311 Complaints 35<br>Benches: 0<br>Gardens: 0<br>Trees: 145<br>Greenstreets: 0<br>Chill Score: 1.0999999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1694<br>311 Complaints: 35<br>Benches: 0<br>Gardens: 0<br>Trees: 145<br>Greenstreets: 0<br>Chill Score: 1.0999999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -61111,7 +61111,7 @@ geo_json_f236dec45ba14b696ac96c54736163ba_add({
 
 geo_json_f236dec45ba14b696ac96c54736163ba.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1695<br>311 Complaints 169<br>Benches: 1<br>Gardens: 0<br>Trees: 841<br>Greenstreets: 1<br>Chill Score: 7.23<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1695<br>311 Complaints: 169<br>Benches: 1<br>Gardens: 0<br>Trees: 841<br>Greenstreets: 1<br>Chill Score: 7.23<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -61202,7 +61202,7 @@ geo_json_4912b5f805f1fc01c2955d52996d4138_add({
 
 geo_json_4912b5f805f1fc01c2955d52996d4138.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1696<br>311 Complaints 262<br>Benches: 6<br>Gardens: 0<br>Trees: 816<br>Greenstreets: 1<br>Chill Score: 6.1<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1696<br>311 Complaints: 262<br>Benches: 6<br>Gardens: 0<br>Trees: 816<br>Greenstreets: 1<br>Chill Score: 6.1<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -61293,7 +61293,7 @@ geo_json_7d5f8e052c7b57cf27327831d016dd8b_add({
 
 geo_json_7d5f8e052c7b57cf27327831d016dd8b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1697<br>311 Complaints 212<br>Benches: 2<br>Gardens: 0<br>Trees: 444<br>Greenstreets: 0<br>Chill Score: 2.3400000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1697<br>311 Complaints: 212<br>Benches: 2<br>Gardens: 0<br>Trees: 444<br>Greenstreets: 0<br>Chill Score: 2.3400000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -61384,7 +61384,7 @@ geo_json_d77b2eada72b99c63fae23fddccb9d74_add({
 
 geo_json_d77b2eada72b99c63fae23fddccb9d74.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1698<br>311 Complaints 301<br>Benches: 1<br>Gardens: 1<br>Trees: 629<br>Greenstreets: 1<br>Chill Score: 4.289999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1698<br>311 Complaints: 301<br>Benches: 1<br>Gardens: 1<br>Trees: 629<br>Greenstreets: 1<br>Chill Score: 4.289999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -61475,7 +61475,7 @@ geo_json_f59945d59043aa3b9a9a17684ff5bf1a_add({
 
 geo_json_f59945d59043aa3b9a9a17684ff5bf1a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1699<br>311 Complaints 174<br>Benches: 0<br>Gardens: 0<br>Trees: 483<br>Greenstreets: 1<br>Chill Score: 3.59<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1699<br>311 Complaints: 174<br>Benches: 0<br>Gardens: 0<br>Trees: 483<br>Greenstreets: 1<br>Chill Score: 3.59<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -61566,7 +61566,7 @@ geo_json_db0a1c1d6107094851d7c886baf43109_add({
 
 geo_json_db0a1c1d6107094851d7c886baf43109.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1700<br>311 Complaints 173<br>Benches: 1<br>Gardens: 1<br>Trees: 412<br>Greenstreets: 3<br>Chill Score: 4.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1700<br>311 Complaints: 173<br>Benches: 1<br>Gardens: 1<br>Trees: 412<br>Greenstreets: 3<br>Chill Score: 4.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -61657,7 +61657,7 @@ geo_json_2ea57a87fb3367b17e0fd2467168e6fc_add({
 
 geo_json_2ea57a87fb3367b17e0fd2467168e6fc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1701<br>311 Complaints 196<br>Benches: 0<br>Gardens: 2<br>Trees: 462<br>Greenstreets: 1<br>Chill Score: 4.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1701<br>311 Complaints: 196<br>Benches: 0<br>Gardens: 2<br>Trees: 462<br>Greenstreets: 1<br>Chill Score: 4.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -61748,7 +61748,7 @@ geo_json_d3897cc92cbeca80b04afbfa1a5adacd_add({
 
 geo_json_d3897cc92cbeca80b04afbfa1a5adacd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1702<br>311 Complaints 111<br>Benches: 0<br>Gardens: 0<br>Trees: 513<br>Greenstreets: 0<br>Chill Score: 4.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1702<br>311 Complaints: 111<br>Benches: 0<br>Gardens: 0<br>Trees: 513<br>Greenstreets: 0<br>Chill Score: 4.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -61839,7 +61839,7 @@ geo_json_fcbb1e762bc282e915eb4388a2ffcd7d_add({
 
 geo_json_fcbb1e762bc282e915eb4388a2ffcd7d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1703<br>311 Complaints 193<br>Benches: 1<br>Gardens: 0<br>Trees: 982<br>Greenstreets: 1<br>Chill Score: 8.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1703<br>311 Complaints: 193<br>Benches: 1<br>Gardens: 0<br>Trees: 982<br>Greenstreets: 1<br>Chill Score: 8.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -61930,7 +61930,7 @@ geo_json_1875ae10e7de8757cbde4ad6df6984c7_add({
 
 geo_json_1875ae10e7de8757cbde4ad6df6984c7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1704<br>311 Complaints 230<br>Benches: 1<br>Gardens: 0<br>Trees: 745<br>Greenstreets: 0<br>Chill Score: 5.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1704<br>311 Complaints: 230<br>Benches: 1<br>Gardens: 0<br>Trees: 745<br>Greenstreets: 0<br>Chill Score: 5.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -62021,7 +62021,7 @@ geo_json_c90e0655839eb787289fa907fa3ba76c_add({
 
 geo_json_c90e0655839eb787289fa907fa3ba76c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1705<br>311 Complaints 178<br>Benches: 0<br>Gardens: 0<br>Trees: 657<br>Greenstreets: 19<br>Chill Score: 14.29<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1705<br>311 Complaints: 178<br>Benches: 0<br>Gardens: 0<br>Trees: 657<br>Greenstreets: 19<br>Chill Score: 14.29<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -62112,7 +62112,7 @@ geo_json_3b4a3bbbef08558bb3e5a8a467d78501_add({
 
 geo_json_3b4a3bbbef08558bb3e5a8a467d78501.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1706<br>311 Complaints 133<br>df_air_quality_2: 2<brBenches: 0<br>Gardens: 0<br>Trees: 771<br>Greenstreets: 0<br>mean_mcg_m3: 5.4<br>Chill Score: 6.38<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1706<br>311 Complaints: 133<br>df_air_quality_2: 2<brBenches: 0<br>Gardens: 0<br>Trees: 771<br>Greenstreets: 0<br>mean_mcg_m3: 5.4<br>Chill Score: 6.38<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -62203,7 +62203,7 @@ geo_json_acc628adbbdc1da06b1174010a9513a7_add({
 
 geo_json_acc628adbbdc1da06b1174010a9513a7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1707<br>311 Complaints 18<br>Benches: 0<br>Gardens: 0<br>Trees: 107<br>Greenstreets: 1<br>Chill Score: 1.3900000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1707<br>311 Complaints: 18<br>Benches: 0<br>Gardens: 0<br>Trees: 107<br>Greenstreets: 1<br>Chill Score: 1.3900000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -62294,7 +62294,7 @@ geo_json_cd0d0bfb5d1ebfb5e8a7088323439dfb_add({
 
 geo_json_cd0d0bfb5d1ebfb5e8a7088323439dfb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1735<br>311 Complaints 93<br>Benches: 0<br>Gardens: 0<br>Trees: 374<br>Greenstreets: 0<br>Chill Score: 2.81<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1735<br>311 Complaints: 93<br>Benches: 0<br>Gardens: 0<br>Trees: 374<br>Greenstreets: 0<br>Chill Score: 2.81<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -62385,7 +62385,7 @@ geo_json_7512631a5a3ddf395d2d252b4251b2dc_add({
 
 geo_json_7512631a5a3ddf395d2d252b4251b2dc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1736<br>311 Complaints 691<br>Benches: 16<br>Gardens: 0<br>Trees: 137<br>Greenstreets: 3<br>Chill Score: -3.88<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1736<br>311 Complaints: 691<br>Benches: 16<br>Gardens: 0<br>Trees: 137<br>Greenstreets: 3<br>Chill Score: -3.88<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -62476,7 +62476,7 @@ geo_json_fba4d1a7a1c7ea7d57fd0a5102e7c62a_add({
 
 geo_json_fba4d1a7a1c7ea7d57fd0a5102e7c62a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1737<br>311 Complaints 353<br>Benches: 4<br>Gardens: 1<br>Trees: 369<br>Greenstreets: 15<br>Chill Score: 8.2<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1737<br>311 Complaints: 353<br>Benches: 4<br>Gardens: 1<br>Trees: 369<br>Greenstreets: 15<br>Chill Score: 8.2<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -62567,7 +62567,7 @@ geo_json_31e74e59d810938f2574bf38b88777aa_add({
 
 geo_json_31e74e59d810938f2574bf38b88777aa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1738<br>311 Complaints 279<br>Benches: 4<br>Gardens: 1<br>Trees: 432<br>Greenstreets: 8<br>Chill Score: 6.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1738<br>311 Complaints: 279<br>Benches: 4<br>Gardens: 1<br>Trees: 432<br>Greenstreets: 8<br>Chill Score: 6.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -62658,7 +62658,7 @@ geo_json_ffcb9c149f585fb5d5afe11fb25d58d8_add({
 
 geo_json_ffcb9c149f585fb5d5afe11fb25d58d8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1739<br>311 Complaints 118<br>Benches: 2<br>Gardens: 1<br>Trees: 194<br>Greenstreets: 4<br>Chill Score: 3.2800000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1739<br>311 Complaints: 118<br>Benches: 2<br>Gardens: 1<br>Trees: 194<br>Greenstreets: 4<br>Chill Score: 3.2800000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -62749,7 +62749,7 @@ geo_json_ec81e925aa09af3b7816d4b7b6abb258_add({
 
 geo_json_ec81e925aa09af3b7816d4b7b6abb258.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1740<br>311 Complaints 111<br>Benches: 0<br>Gardens: 0<br>Trees: 108<br>Greenstreets: 0<br>Chill Score: -0.030000000000000027<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1740<br>311 Complaints: 111<br>Benches: 0<br>Gardens: 0<br>Trees: 108<br>Greenstreets: 0<br>Chill Score: -0.030000000000000027<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -62840,7 +62840,7 @@ geo_json_7e2f3c0267839fe7392cb45ef4794954_add({
 
 geo_json_7e2f3c0267839fe7392cb45ef4794954.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1741<br>311 Complaints 692<br>Benches: 27<br>Gardens: 3<br>Trees: 995<br>Greenstreets: 1<br>Chill Score: 5.300000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1741<br>311 Complaints: 692<br>Benches: 27<br>Gardens: 3<br>Trees: 995<br>Greenstreets: 1<br>Chill Score: 5.300000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -62931,7 +62931,7 @@ geo_json_2c7d2e42a6f8ce65d527e8ca681b21a6_add({
 
 geo_json_2c7d2e42a6f8ce65d527e8ca681b21a6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1742<br>311 Complaints 890<br>Benches: 9<br>Gardens: 3<br>Trees: 947<br>Greenstreets: 4<br>Chill Score: 4.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1742<br>311 Complaints: 890<br>Benches: 9<br>Gardens: 3<br>Trees: 947<br>Greenstreets: 4<br>Chill Score: 4.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -63022,7 +63022,7 @@ geo_json_4933b969af6d30ec3ac8c56393a8f65b_add({
 
 geo_json_4933b969af6d30ec3ac8c56393a8f65b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1743<br>311 Complaints 508<br>Benches: 9<br>Gardens: 3<br>Trees: 909<br>Greenstreets: 0<br>Chill Score: 5.6<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1743<br>311 Complaints: 508<br>Benches: 9<br>Gardens: 3<br>Trees: 909<br>Greenstreets: 0<br>Chill Score: 5.6<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -63113,7 +63113,7 @@ geo_json_4a18210c553966f75474ea405e3b6299_add({
 
 geo_json_4a18210c553966f75474ea405e3b6299.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1744<br>311 Complaints 109<br>Benches: 0<br>Gardens: 0<br>Trees: 157<br>Greenstreets: 1<br>Chill Score: 0.98<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1744<br>311 Complaints: 109<br>Benches: 0<br>Gardens: 0<br>Trees: 157<br>Greenstreets: 1<br>Chill Score: 0.98<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -63204,7 +63204,7 @@ geo_json_c62a0dfb5a55d75fca1bffb4fd3f4530_add({
 
 geo_json_c62a0dfb5a55d75fca1bffb4fd3f4530.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1745<br>311 Complaints 222<br>Benches: 1<br>Gardens: 0<br>Trees: 266<br>Greenstreets: 0<br>Chill Score: 0.44999999999999973<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1745<br>311 Complaints: 222<br>Benches: 1<br>Gardens: 0<br>Trees: 266<br>Greenstreets: 0<br>Chill Score: 0.44999999999999973<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -63295,7 +63295,7 @@ geo_json_5589ae892a2a764027c4568c1d39ce36_add({
 
 geo_json_5589ae892a2a764027c4568c1d39ce36.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1746<br>311 Complaints 208<br>Benches: 2<br>Gardens: 1<br>Trees: 958<br>Greenstreets: 0<br>Chill Score: 8.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1746<br>311 Complaints: 208<br>Benches: 2<br>Gardens: 1<br>Trees: 958<br>Greenstreets: 0<br>Chill Score: 8.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -63386,7 +63386,7 @@ geo_json_6a5f56c9bf462e1f755496d410dfb3dd_add({
 
 geo_json_6a5f56c9bf462e1f755496d410dfb3dd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1747<br>311 Complaints 303<br>Benches: 2<br>Gardens: 0<br>Trees: 1143<br>Greenstreets: 1<br>Chill Score: 8.92<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1747<br>311 Complaints: 303<br>Benches: 2<br>Gardens: 0<br>Trees: 1143<br>Greenstreets: 1<br>Chill Score: 8.92<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -63477,7 +63477,7 @@ geo_json_8d79ad90f4f5b6621093f4aa4b2284aa_add({
 
 geo_json_8d79ad90f4f5b6621093f4aa4b2284aa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1748<br>311 Complaints 265<br>Benches: 4<br>Gardens: 0<br>Trees: 736<br>Greenstreets: 0<br>Chill Score: 4.75<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1748<br>311 Complaints: 265<br>Benches: 4<br>Gardens: 0<br>Trees: 736<br>Greenstreets: 0<br>Chill Score: 4.75<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -63568,7 +63568,7 @@ geo_json_611e30aaefad1b86adc0804c2bb583e5_add({
 
 geo_json_611e30aaefad1b86adc0804c2bb583e5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1749<br>311 Complaints 45<br>Benches: 0<br>Gardens: 0<br>Trees: 124<br>Greenstreets: 3<br>Chill Score: 2.29<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1749<br>311 Complaints: 45<br>Benches: 0<br>Gardens: 0<br>Trees: 124<br>Greenstreets: 3<br>Chill Score: 2.29<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -63659,7 +63659,7 @@ geo_json_226fab4196007e8ddb336553350cee3a_add({
 
 geo_json_226fab4196007e8ddb336553350cee3a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1750<br>311 Complaints 209<br>Benches: 1<br>Gardens: 0<br>Trees: 527<br>Greenstreets: 0<br>Chill Score: 3.1900000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1750<br>311 Complaints: 209<br>Benches: 1<br>Gardens: 0<br>Trees: 527<br>Greenstreets: 0<br>Chill Score: 3.1900000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -63750,7 +63750,7 @@ geo_json_0cd19f3e944166605f2dbf089c62d823_add({
 
 geo_json_0cd19f3e944166605f2dbf089c62d823.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1751<br>311 Complaints 97<br>Benches: 0<br>Gardens: 0<br>Trees: 483<br>Greenstreets: 1<br>Chill Score: 4.36<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1751<br>311 Complaints: 97<br>Benches: 0<br>Gardens: 0<br>Trees: 483<br>Greenstreets: 1<br>Chill Score: 4.36<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -63841,7 +63841,7 @@ geo_json_0ff0acc1262da250ec6de0450f12507d_add({
 
 geo_json_0ff0acc1262da250ec6de0450f12507d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1752<br>311 Complaints 148<br>Benches: 2<br>Gardens: 0<br>Trees: 558<br>Greenstreets: 3<br>Chill Score: 5.62<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1752<br>311 Complaints: 148<br>Benches: 2<br>Gardens: 0<br>Trees: 558<br>Greenstreets: 3<br>Chill Score: 5.62<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -63932,7 +63932,7 @@ geo_json_07f3d2c3b0b5241d30532ad1199022dc_add({
 
 geo_json_07f3d2c3b0b5241d30532ad1199022dc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1753<br>311 Complaints 138<br>Benches: 0<br>Gardens: 0<br>Trees: 795<br>Greenstreets: 0<br>Chill Score: 6.57<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1753<br>311 Complaints: 138<br>Benches: 0<br>Gardens: 0<br>Trees: 795<br>Greenstreets: 0<br>Chill Score: 6.57<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -64023,7 +64023,7 @@ geo_json_bafb44646146906c6e5a4560814d98fa_add({
 
 geo_json_bafb44646146906c6e5a4560814d98fa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1754<br>311 Complaints 123<br>Benches: 1<br>Gardens: 0<br>Trees: 377<br>Greenstreets: 1<br>Chill Score: 3.05<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1754<br>311 Complaints: 123<br>Benches: 1<br>Gardens: 0<br>Trees: 377<br>Greenstreets: 1<br>Chill Score: 3.05<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -64114,7 +64114,7 @@ geo_json_8a998ea8ebc4faece7b36f91b77bff11_add({
 
 geo_json_8a998ea8ebc4faece7b36f91b77bff11.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1755<br>311 Complaints 264<br>Benches: 3<br>Gardens: 0<br>Trees: 885<br>Greenstreets: 6<br>Chill Score: 9.239999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1755<br>311 Complaints: 264<br>Benches: 3<br>Gardens: 0<br>Trees: 885<br>Greenstreets: 6<br>Chill Score: 9.239999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -64205,7 +64205,7 @@ geo_json_4826b10293a717593c78e82b53aa744a_add({
 
 geo_json_4826b10293a717593c78e82b53aa744a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1756<br>311 Complaints 197<br>Benches: 1<br>Gardens: 0<br>Trees: 528<br>Greenstreets: 0<br>Chill Score: 3.3200000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1756<br>311 Complaints: 197<br>Benches: 1<br>Gardens: 0<br>Trees: 528<br>Greenstreets: 0<br>Chill Score: 3.3200000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -64296,7 +64296,7 @@ geo_json_88cfa7432301971d6ee59ecdc6dc3046_add({
 
 geo_json_88cfa7432301971d6ee59ecdc6dc3046.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1757<br>311 Complaints 193<br>Benches: 1<br>Gardens: 0<br>Trees: 808<br>Greenstreets: 0<br>Chill Score: 6.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1757<br>311 Complaints: 193<br>Benches: 1<br>Gardens: 0<br>Trees: 808<br>Greenstreets: 0<br>Chill Score: 6.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -64387,7 +64387,7 @@ geo_json_d4743684ef6bcc403f4caf334b2873fd_add({
 
 geo_json_d4743684ef6bcc403f4caf334b2873fd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1758<br>311 Complaints 199<br>Benches: 1<br>Gardens: 0<br>Trees: 771<br>Greenstreets: 0<br>Chill Score: 5.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1758<br>311 Complaints: 199<br>Benches: 1<br>Gardens: 0<br>Trees: 771<br>Greenstreets: 0<br>Chill Score: 5.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -64478,7 +64478,7 @@ geo_json_2349d68cbbe0a303e072becaf3023110_add({
 
 geo_json_2349d68cbbe0a303e072becaf3023110.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1759<br>311 Complaints 328<br>Benches: 0<br>Gardens: 0<br>Trees: 776<br>Greenstreets: 1<br>Chill Score: 4.9799999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1759<br>311 Complaints: 328<br>Benches: 0<br>Gardens: 0<br>Trees: 776<br>Greenstreets: 1<br>Chill Score: 4.9799999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -64569,7 +64569,7 @@ geo_json_c282b4a5f642088ea20f916383b51074_add({
 
 geo_json_c282b4a5f642088ea20f916383b51074.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1760<br>311 Complaints 222<br>Benches: 1<br>Gardens: 0<br>Trees: 684<br>Greenstreets: 0<br>Chill Score: 4.629999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1760<br>311 Complaints: 222<br>Benches: 1<br>Gardens: 0<br>Trees: 684<br>Greenstreets: 0<br>Chill Score: 4.629999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -64660,7 +64660,7 @@ geo_json_c56a93aa76e90cee75f11d3ecee2a0a3_add({
 
 geo_json_c56a93aa76e90cee75f11d3ecee2a0a3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1761<br>311 Complaints 198<br>Benches: 0<br>Gardens: 0<br>Trees: 420<br>Greenstreets: 1<br>Chill Score: 2.72<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1761<br>311 Complaints: 198<br>Benches: 0<br>Gardens: 0<br>Trees: 420<br>Greenstreets: 1<br>Chill Score: 2.72<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -64751,7 +64751,7 @@ geo_json_645be92badda2792d2329d7f9dc4763d_add({
 
 geo_json_645be92badda2792d2329d7f9dc4763d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1762<br>311 Complaints 211<br>Benches: 0<br>Gardens: 0<br>Trees: 870<br>Greenstreets: 0<br>Chill Score: 6.590000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1762<br>311 Complaints: 211<br>Benches: 0<br>Gardens: 0<br>Trees: 870<br>Greenstreets: 0<br>Chill Score: 6.590000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -64842,7 +64842,7 @@ geo_json_9c31d4b4117ec10817180115a9c0d82c_add({
 
 geo_json_9c31d4b4117ec10817180115a9c0d82c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1763<br>311 Complaints 147<br>Benches: 2<br>Gardens: 0<br>Trees: 815<br>Greenstreets: 0<br>Chill Score: 6.7<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1763<br>311 Complaints: 147<br>Benches: 2<br>Gardens: 0<br>Trees: 815<br>Greenstreets: 0<br>Chill Score: 6.7<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -64933,7 +64933,7 @@ geo_json_c65984e5ca8536d6b0f38dc376dd941d_add({
 
 geo_json_c65984e5ca8536d6b0f38dc376dd941d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1764<br>311 Complaints 124<br>Benches: 2<br>Gardens: 0<br>Trees: 616<br>Greenstreets: 2<br>Chill Score: 5.94<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1764<br>311 Complaints: 124<br>Benches: 2<br>Gardens: 0<br>Trees: 616<br>Greenstreets: 2<br>Chill Score: 5.94<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -65024,7 +65024,7 @@ geo_json_54e03a7d1eaaa56adefd346d8a7ff41b_add({
 
 geo_json_54e03a7d1eaaa56adefd346d8a7ff41b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1765<br>311 Complaints 136<br>Benches: 0<br>Gardens: 0<br>Trees: 423<br>Greenstreets: 0<br>Chill Score: 2.87<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1765<br>311 Complaints: 136<br>Benches: 0<br>Gardens: 0<br>Trees: 423<br>Greenstreets: 0<br>Chill Score: 2.87<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -65115,7 +65115,7 @@ geo_json_d307b4764feb66089cf240cb48fd82ae_add({
 
 geo_json_d307b4764feb66089cf240cb48fd82ae.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1766<br>311 Complaints 12<br>Benches: 0<br>Gardens: 0<br>Trees: 14<br>Greenstreets: 0<br>Chill Score: 0.020000000000000018<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1766<br>311 Complaints: 12<br>Benches: 0<br>Gardens: 0<br>Trees: 14<br>Greenstreets: 0<br>Chill Score: 0.020000000000000018<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -65206,7 +65206,7 @@ geo_json_b9764b73ea3654535a33646a250fd55f_add({
 
 geo_json_b9764b73ea3654535a33646a250fd55f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1794<br>311 Complaints 39<br>Benches: 0<br>Gardens: 0<br>Trees: 193<br>Greenstreets: 0<br>Chill Score: 1.54<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1794<br>311 Complaints: 39<br>Benches: 0<br>Gardens: 0<br>Trees: 193<br>Greenstreets: 0<br>Chill Score: 1.54<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -65297,7 +65297,7 @@ geo_json_d07e061071c1503be2934ac2b58165f1_add({
 
 geo_json_d07e061071c1503be2934ac2b58165f1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1795<br>311 Complaints 482<br>Benches: 10<br>Gardens: 0<br>Trees: 688<br>Greenstreets: 5<br>Chill Score: 4.659999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1795<br>311 Complaints: 482<br>Benches: 10<br>Gardens: 0<br>Trees: 688<br>Greenstreets: 5<br>Chill Score: 4.659999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -65388,7 +65388,7 @@ geo_json_0a53492cad56ee5e3f2cad6792fc3176_add({
 
 geo_json_0a53492cad56ee5e3f2cad6792fc3176.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1796<br>311 Complaints 719<br>Benches: 7<br>Gardens: 0<br>Trees: 292<br>Greenstreets: 2<br>Chill Score: -3.2<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1796<br>311 Complaints: 719<br>Benches: 7<br>Gardens: 0<br>Trees: 292<br>Greenstreets: 2<br>Chill Score: -3.2<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -65479,7 +65479,7 @@ geo_json_7d0b2292ce9f1bdc23f69e18cd0954fc_add({
 
 geo_json_7d0b2292ce9f1bdc23f69e18cd0954fc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1797<br>311 Complaints 976<br>Benches: 9<br>Gardens: 2<br>Trees: 748<br>Greenstreets: 17<br>Chill Score: 7.3100000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1797<br>311 Complaints: 976<br>Benches: 9<br>Gardens: 2<br>Trees: 748<br>Greenstreets: 17<br>Chill Score: 7.3100000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -65570,7 +65570,7 @@ geo_json_55c35629ca9d86624bef70430b776846_add({
 
 geo_json_55c35629ca9d86624bef70430b776846.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1798<br>311 Complaints 473<br>Benches: 3<br>Gardens: 3<br>Trees: 587<br>Greenstreets: 11<br>Chill Score: 8.17<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1798<br>311 Complaints: 473<br>Benches: 3<br>Gardens: 3<br>Trees: 587<br>Greenstreets: 11<br>Chill Score: 8.17<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -65661,7 +65661,7 @@ geo_json_6b35d792e2f7e77e00c40d69912727ab_add({
 
 geo_json_6b35d792e2f7e77e00c40d69912727ab.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1799<br>311 Complaints 14<br>Benches: 1<br>Gardens: 0<br>Trees: 33<br>Greenstreets: 2<br>Chill Score: 1.2<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1799<br>311 Complaints: 14<br>Benches: 1<br>Gardens: 0<br>Trees: 33<br>Greenstreets: 2<br>Chill Score: 1.2<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -65752,7 +65752,7 @@ geo_json_4d7175616b2f7f63a2e91f4df5f17d95_add({
 
 geo_json_4d7175616b2f7f63a2e91f4df5f17d95.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1800<br>311 Complaints 460<br>Benches: 1<br>Gardens: 2<br>Trees: 870<br>Greenstreets: 0<br>Chill Score: 5.11<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1800<br>311 Complaints: 460<br>Benches: 1<br>Gardens: 2<br>Trees: 870<br>Greenstreets: 0<br>Chill Score: 5.11<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -65843,7 +65843,7 @@ geo_json_89e4f98337d0c6d19f658ae1b7de3e9f_add({
 
 geo_json_89e4f98337d0c6d19f658ae1b7de3e9f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1801<br>311 Complaints 436<br>Benches: 4<br>Gardens: 2<br>Trees: 945<br>Greenstreets: 8<br>Chill Score: 10.13<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1801<br>311 Complaints: 436<br>Benches: 4<br>Gardens: 2<br>Trees: 945<br>Greenstreets: 8<br>Chill Score: 10.13<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -65934,7 +65934,7 @@ geo_json_aada380d57cbe93a1033260a9358f698_add({
 
 geo_json_aada380d57cbe93a1033260a9358f698.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1802<br>311 Complaints 458<br>Benches: 0<br>Gardens: 3<br>Trees: 871<br>Greenstreets: 9<br>Chill Score: 10.13<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1802<br>311 Complaints: 458<br>Benches: 0<br>Gardens: 3<br>Trees: 871<br>Greenstreets: 9<br>Chill Score: 10.13<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -66025,7 +66025,7 @@ geo_json_5dcec1174badb8d7648d55b0b1a5f8b0_add({
 
 geo_json_5dcec1174badb8d7648d55b0b1a5f8b0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1803<br>311 Complaints 205<br>Benches: 0<br>Gardens: 0<br>Trees: 115<br>Greenstreets: 2<br>Chill Score: 0.10000000000000031<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1803<br>311 Complaints: 205<br>Benches: 0<br>Gardens: 0<br>Trees: 115<br>Greenstreets: 2<br>Chill Score: 0.10000000000000031<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -66116,7 +66116,7 @@ geo_json_d14f3097d199eb5d41023753de7a0717_add({
 
 geo_json_d14f3097d199eb5d41023753de7a0717.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1804<br>311 Complaints 32<br>Benches: 0<br>Gardens: 0<br>Trees: 56<br>Greenstreets: 0<br>Chill Score: 0.24000000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1804<br>311 Complaints: 32<br>Benches: 0<br>Gardens: 0<br>Trees: 56<br>Greenstreets: 0<br>Chill Score: 0.24000000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -66207,7 +66207,7 @@ geo_json_a90f1d4ca06082260c1283a081150c3b_add({
 
 geo_json_a90f1d4ca06082260c1283a081150c3b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1805<br>311 Complaints 106<br>Benches: 1<br>Gardens: 0<br>Trees: 197<br>Greenstreets: 0<br>Chill Score: 0.9199999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1805<br>311 Complaints: 106<br>Benches: 1<br>Gardens: 0<br>Trees: 197<br>Greenstreets: 0<br>Chill Score: 0.9199999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -66298,7 +66298,7 @@ geo_json_4c5e67c64eaf2082e727ea7cf9659e1f_add({
 
 geo_json_4c5e67c64eaf2082e727ea7cf9659e1f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1806<br>311 Complaints 169<br>Benches: 2<br>Gardens: 0<br>Trees: 606<br>Greenstreets: 2<br>Chill Score: 5.390000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1806<br>311 Complaints: 169<br>Benches: 2<br>Gardens: 0<br>Trees: 606<br>Greenstreets: 2<br>Chill Score: 5.390000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -66389,7 +66389,7 @@ geo_json_bffee887f6e634a45a2b65f9ed2ee68b_add({
 
 geo_json_bffee887f6e634a45a2b65f9ed2ee68b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1807<br>311 Complaints 117<br>Benches: 0<br>Gardens: 0<br>Trees: 318<br>Greenstreets: 0<br>Chill Score: 2.0100000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1807<br>311 Complaints: 117<br>Benches: 0<br>Gardens: 0<br>Trees: 318<br>Greenstreets: 0<br>Chill Score: 2.0100000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -66480,7 +66480,7 @@ geo_json_363e05a6f08f1f6b84d5ff09fd141c54_add({
 
 geo_json_363e05a6f08f1f6b84d5ff09fd141c54.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1808<br>311 Complaints 162<br>Benches: 0<br>Gardens: 0<br>Trees: 696<br>Greenstreets: 0<br>Chill Score: 5.34<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1808<br>311 Complaints: 162<br>Benches: 0<br>Gardens: 0<br>Trees: 696<br>Greenstreets: 0<br>Chill Score: 5.34<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -66571,7 +66571,7 @@ geo_json_73811696c9dc0aa70756efb1d9e864fd_add({
 
 geo_json_73811696c9dc0aa70756efb1d9e864fd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1809<br>311 Complaints 181<br>Benches: 2<br>Gardens: 0<br>Trees: 1015<br>Greenstreets: 2<br>Chill Score: 9.36<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1809<br>311 Complaints: 181<br>Benches: 2<br>Gardens: 0<br>Trees: 1015<br>Greenstreets: 2<br>Chill Score: 9.36<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -66662,7 +66662,7 @@ geo_json_d46a1221be6b5f0fdee4c0cbbaa44cbb_add({
 
 geo_json_d46a1221be6b5f0fdee4c0cbbaa44cbb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1810<br>311 Complaints 39<br>Benches: 0<br>Gardens: 0<br>Trees: 353<br>Greenstreets: 0<br>Chill Score: 3.14<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1810<br>311 Complaints: 39<br>Benches: 0<br>Gardens: 0<br>Trees: 353<br>Greenstreets: 0<br>Chill Score: 3.14<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -66753,7 +66753,7 @@ geo_json_0795fdec9a29efd44354ba1cae00c3b7_add({
 
 geo_json_0795fdec9a29efd44354ba1cae00c3b7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1811<br>311 Complaints 198<br>Benches: 0<br>Gardens: 1<br>Trees: 1018<br>Greenstreets: 4<br>Chill Score: 10.7<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1811<br>311 Complaints: 198<br>Benches: 0<br>Gardens: 1<br>Trees: 1018<br>Greenstreets: 4<br>Chill Score: 10.7<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -66844,7 +66844,7 @@ geo_json_6bd0a5a0cf9fba3e6ba1abdaab97d44d_add({
 
 geo_json_6bd0a5a0cf9fba3e6ba1abdaab97d44d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1812<br>311 Complaints 129<br>Benches: 2<br>Gardens: 0<br>Trees: 977<br>Greenstreets: 0<br>Chill Score: 8.5<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1812<br>311 Complaints: 129<br>Benches: 2<br>Gardens: 0<br>Trees: 977<br>Greenstreets: 0<br>Chill Score: 8.5<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -66935,7 +66935,7 @@ geo_json_f3bfcd3fcc9d7dcfcd0e5a2a77a0dd7b_add({
 
 geo_json_f3bfcd3fcc9d7dcfcd0e5a2a77a0dd7b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1813<br>311 Complaints 201<br>Benches: 0<br>Gardens: 0<br>Trees: 577<br>Greenstreets: 0<br>Chill Score: 3.7600000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1813<br>311 Complaints: 201<br>Benches: 0<br>Gardens: 0<br>Trees: 577<br>Greenstreets: 0<br>Chill Score: 3.7600000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -67026,7 +67026,7 @@ geo_json_bae16a4721e79416bbe882bd1caf127c_add({
 
 geo_json_bae16a4721e79416bbe882bd1caf127c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1814<br>311 Complaints 60<br>Benches: 3<br>Gardens: 0<br>Trees: 353<br>Greenstreets: 16<br>Chill Score: 10.96<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1814<br>311 Complaints: 60<br>Benches: 3<br>Gardens: 0<br>Trees: 353<br>Greenstreets: 16<br>Chill Score: 10.96<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -67117,7 +67117,7 @@ geo_json_32af01c9891410894c256cef5954cb1f_add({
 
 geo_json_32af01c9891410894c256cef5954cb1f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1815<br>311 Complaints 204<br>Benches: 0<br>Gardens: 0<br>Trees: 861<br>Greenstreets: 7<br>Chill Score: 10.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1815<br>311 Complaints: 204<br>Benches: 0<br>Gardens: 0<br>Trees: 861<br>Greenstreets: 7<br>Chill Score: 10.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -67208,7 +67208,7 @@ geo_json_c0ada8214bde2e2bef53f1b4bae0fee6_add({
 
 geo_json_c0ada8214bde2e2bef53f1b4bae0fee6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1816<br>311 Complaints 135<br>Benches: 0<br>Gardens: 0<br>Trees: 651<br>Greenstreets: 1<br>Chill Score: 5.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1816<br>311 Complaints: 135<br>Benches: 0<br>Gardens: 0<br>Trees: 651<br>Greenstreets: 1<br>Chill Score: 5.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -67299,7 +67299,7 @@ geo_json_ac078f18f10d1f0cfab16b059369ccca_add({
 
 geo_json_ac078f18f10d1f0cfab16b059369ccca.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1817<br>311 Complaints 144<br>Benches: 0<br>Gardens: 0<br>Trees: 761<br>Greenstreets: 0<br>Chill Score: 6.17<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1817<br>311 Complaints: 144<br>Benches: 0<br>Gardens: 0<br>Trees: 761<br>Greenstreets: 0<br>Chill Score: 6.17<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -67390,7 +67390,7 @@ geo_json_1e08125893c8693031851619c51056b8_add({
 
 geo_json_1e08125893c8693031851619c51056b8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1818<br>311 Complaints 119<br>Benches: 0<br>Gardens: 0<br>Trees: 969<br>Greenstreets: 6<br>Chill Score: 11.5<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1818<br>311 Complaints: 119<br>Benches: 0<br>Gardens: 0<br>Trees: 969<br>Greenstreets: 6<br>Chill Score: 11.5<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -67481,7 +67481,7 @@ geo_json_afc7d38eb10ebf27c56e591e2ca6e9d6_add({
 
 geo_json_afc7d38eb10ebf27c56e591e2ca6e9d6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1819<br>311 Complaints 184<br>Benches: 3<br>Gardens: 0<br>Trees: 839<br>Greenstreets: 14<br>Chill Score: 13.58<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1819<br>311 Complaints: 184<br>Benches: 3<br>Gardens: 0<br>Trees: 839<br>Greenstreets: 14<br>Chill Score: 13.58<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -67572,7 +67572,7 @@ geo_json_6e496129f717b096086f173a90cd061a_add({
 
 geo_json_6e496129f717b096086f173a90cd061a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1820<br>311 Complaints 229<br>Benches: 0<br>Gardens: 0<br>Trees: 690<br>Greenstreets: 12<br>Chill Score: 10.61<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1820<br>311 Complaints: 229<br>Benches: 0<br>Gardens: 0<br>Trees: 690<br>Greenstreets: 12<br>Chill Score: 10.61<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -67663,7 +67663,7 @@ geo_json_359c795d836076a739df3c4a46e034d3_add({
 
 geo_json_359c795d836076a739df3c4a46e034d3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1821<br>311 Complaints 177<br>Benches: 1<br>Gardens: 0<br>Trees: 661<br>Greenstreets: 1<br>Chill Score: 5.3500000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1821<br>311 Complaints: 177<br>Benches: 1<br>Gardens: 0<br>Trees: 661<br>Greenstreets: 1<br>Chill Score: 5.3500000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -67754,7 +67754,7 @@ geo_json_8a3c848fb5de721e170d9cebbc202c78_add({
 
 geo_json_8a3c848fb5de721e170d9cebbc202c78.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1822<br>311 Complaints 223<br>Benches: 0<br>Gardens: 0<br>Trees: 812<br>Greenstreets: 0<br>Chill Score: 5.890000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1822<br>311 Complaints: 223<br>Benches: 0<br>Gardens: 0<br>Trees: 812<br>Greenstreets: 0<br>Chill Score: 5.890000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -67845,7 +67845,7 @@ geo_json_514e370188e30976b3a928535ce9ad82_add({
 
 geo_json_514e370188e30976b3a928535ce9ad82.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1823<br>311 Complaints 204<br>Benches: 0<br>Gardens: 0<br>Trees: 479<br>Greenstreets: 1<br>Chill Score: 3.25<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1823<br>311 Complaints: 204<br>Benches: 0<br>Gardens: 0<br>Trees: 479<br>Greenstreets: 1<br>Chill Score: 3.25<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -67936,7 +67936,7 @@ geo_json_02b16fcb4a5091407d802cc9b2a04bac_add({
 
 geo_json_02b16fcb4a5091407d802cc9b2a04bac.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1824<br>311 Complaints 119<br>Benches: 1<br>Gardens: 0<br>Trees: 539<br>Greenstreets: 0<br>Chill Score: 4.21<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1824<br>311 Complaints: 119<br>Benches: 1<br>Gardens: 0<br>Trees: 539<br>Greenstreets: 0<br>Chill Score: 4.21<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -68027,7 +68027,7 @@ geo_json_4045ff8c00e8b50e632e1b6bb9e069fc_add({
 
 geo_json_4045ff8c00e8b50e632e1b6bb9e069fc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1854<br>311 Complaints 307<br>Benches: 17<br>Gardens: 0<br>Trees: 662<br>Greenstreets: 3<br>Chill Score: 5.22<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1854<br>311 Complaints: 307<br>Benches: 17<br>Gardens: 0<br>Trees: 662<br>Greenstreets: 3<br>Chill Score: 5.22<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -68118,7 +68118,7 @@ geo_json_5423f32b61afe2cfcf3d6071a792f3e3_add({
 
 geo_json_5423f32b61afe2cfcf3d6071a792f3e3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1855<br>311 Complaints 814<br>Benches: 2<br>Gardens: 1<br>Trees: 747<br>Greenstreets: 15<br>Chill Score: 7.349999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1855<br>311 Complaints: 814<br>Benches: 2<br>Gardens: 1<br>Trees: 747<br>Greenstreets: 15<br>Chill Score: 7.349999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -68209,7 +68209,7 @@ geo_json_db741b6d2153d15a692b20b3bfffb65c_add({
 
 geo_json_db741b6d2153d15a692b20b3bfffb65c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1856<br>311 Complaints 925<br>Benches: 5<br>Gardens: 5<br>Trees: 952<br>Greenstreets: 11<br>Chill Score: 8.32<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1856<br>311 Complaints: 925<br>Benches: 5<br>Gardens: 5<br>Trees: 952<br>Greenstreets: 11<br>Chill Score: 8.32<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -68300,7 +68300,7 @@ geo_json_c6fcc6fc8c89ffcbbd43e001c2a0854f_add({
 
 geo_json_c6fcc6fc8c89ffcbbd43e001c2a0854f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1857<br>311 Complaints 1015<br>Benches: 5<br>Gardens: 33<br>Trees: 1171<br>Greenstreets: 2<br>Chill Score: 19.11<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1857<br>311 Complaints: 1015<br>Benches: 5<br>Gardens: 33<br>Trees: 1171<br>Greenstreets: 2<br>Chill Score: 19.11<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -68391,7 +68391,7 @@ geo_json_9d472577221edd36fdf2286b89d68718_add({
 
 geo_json_9d472577221edd36fdf2286b89d68718.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1858<br>311 Complaints 127<br>Benches: 1<br>Gardens: 0<br>Trees: 161<br>Greenstreets: 1<br>Chill Score: 0.8500000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1858<br>311 Complaints: 127<br>Benches: 1<br>Gardens: 0<br>Trees: 161<br>Greenstreets: 1<br>Chill Score: 0.8500000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -68482,7 +68482,7 @@ geo_json_47bd79fa0d0ebf9328173093e37b95aa_add({
 
 geo_json_47bd79fa0d0ebf9328173093e37b95aa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1859<br>311 Complaints 43<br>Benches: 0<br>Gardens: 1<br>Trees: 150<br>Greenstreets: 0<br>Chill Score: 1.57<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1859<br>311 Complaints: 43<br>Benches: 0<br>Gardens: 1<br>Trees: 150<br>Greenstreets: 0<br>Chill Score: 1.57<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -68573,7 +68573,7 @@ geo_json_3f68f23dc0d245fcd0fdbea9685d98d6_add({
 
 geo_json_3f68f23dc0d245fcd0fdbea9685d98d6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1860<br>311 Complaints 320<br>Benches: 1<br>Gardens: 0<br>Trees: 849<br>Greenstreets: 4<br>Chill Score: 7.3<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1860<br>311 Complaints: 320<br>Benches: 1<br>Gardens: 0<br>Trees: 849<br>Greenstreets: 4<br>Chill Score: 7.3<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -68664,7 +68664,7 @@ geo_json_d78efa5871447837a897c1d8b103cfe0_add({
 
 geo_json_d78efa5871447837a897c1d8b103cfe0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1861<br>311 Complaints 326<br>Benches: 0<br>Gardens: 0<br>Trees: 963<br>Greenstreets: 7<br>Chill Score: 9.870000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1861<br>311 Complaints: 326<br>Benches: 0<br>Gardens: 0<br>Trees: 963<br>Greenstreets: 7<br>Chill Score: 9.870000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -68755,7 +68755,7 @@ geo_json_554fb2d5df4fef103b3bfa329119a010_add({
 
 geo_json_554fb2d5df4fef103b3bfa329119a010.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1862<br>311 Complaints 60<br>Benches: 0<br>Gardens: 0<br>Trees: 175<br>Greenstreets: 0<br>Chill Score: 1.15<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1862<br>311 Complaints: 60<br>Benches: 0<br>Gardens: 0<br>Trees: 175<br>Greenstreets: 0<br>Chill Score: 1.15<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -68846,7 +68846,7 @@ geo_json_7c41d271c88a8729f4b3ad617e5247b2_add({
 
 geo_json_7c41d271c88a8729f4b3ad617e5247b2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1863<br>311 Complaints 7<br>Benches: 0<br>Gardens: 0<br>Trees: 51<br>Greenstreets: 0<br>Chill Score: 0.44<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1863<br>311 Complaints: 7<br>Benches: 0<br>Gardens: 0<br>Trees: 51<br>Greenstreets: 0<br>Chill Score: 0.44<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -68937,7 +68937,7 @@ geo_json_91235554eb0815bbaf3c2f4cca09ad4d_add({
 
 geo_json_91235554eb0815bbaf3c2f4cca09ad4d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1864<br>311 Complaints 71<br>Benches: 0<br>Gardens: 0<br>Trees: 124<br>Greenstreets: 0<br>Chill Score: 0.53<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1864<br>311 Complaints: 71<br>Benches: 0<br>Gardens: 0<br>Trees: 124<br>Greenstreets: 0<br>Chill Score: 0.53<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -69028,7 +69028,7 @@ geo_json_5f5066b5479ab63107ec60544a991ea0_add({
 
 geo_json_5f5066b5479ab63107ec60544a991ea0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1865<br>311 Complaints 174<br>Benches: 1<br>Gardens: 0<br>Trees: 763<br>Greenstreets: 7<br>Chill Score: 9.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1865<br>311 Complaints: 174<br>Benches: 1<br>Gardens: 0<br>Trees: 763<br>Greenstreets: 7<br>Chill Score: 9.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -69119,7 +69119,7 @@ geo_json_f277e546d5a2bf1eb7c4c79138f7c5d3_add({
 
 geo_json_f277e546d5a2bf1eb7c4c79138f7c5d3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1866<br>311 Complaints 188<br>Benches: 2<br>Gardens: 0<br>Trees: 620<br>Greenstreets: 3<br>Chill Score: 5.84<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1866<br>311 Complaints: 188<br>Benches: 2<br>Gardens: 0<br>Trees: 620<br>Greenstreets: 3<br>Chill Score: 5.84<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -69210,7 +69210,7 @@ geo_json_fd3a68f81747f5ea962329c36176cb44_add({
 
 geo_json_fd3a68f81747f5ea962329c36176cb44.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1867<br>311 Complaints 214<br>Benches: 0<br>Gardens: 0<br>Trees: 866<br>Greenstreets: 2<br>Chill Score: 7.52<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1867<br>311 Complaints: 214<br>Benches: 0<br>Gardens: 0<br>Trees: 866<br>Greenstreets: 2<br>Chill Score: 7.52<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -69301,7 +69301,7 @@ geo_json_16c24a56e67049992b5ffc0955ae26bf_add({
 
 geo_json_16c24a56e67049992b5ffc0955ae26bf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1868<br>311 Complaints 191<br>Benches: 0<br>Gardens: 0<br>Trees: 1028<br>Greenstreets: 0<br>Chill Score: 8.37<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1868<br>311 Complaints: 191<br>Benches: 0<br>Gardens: 0<br>Trees: 1028<br>Greenstreets: 0<br>Chill Score: 8.37<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -69392,7 +69392,7 @@ geo_json_746bff4e82da089a0465c18ef7f3e844_add({
 
 geo_json_746bff4e82da089a0465c18ef7f3e844.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1869<br>311 Complaints 183<br>Benches: 3<br>Gardens: 0<br>Trees: 947<br>Greenstreets: 0<br>Chill Score: 7.670000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1869<br>311 Complaints: 183<br>Benches: 3<br>Gardens: 0<br>Trees: 947<br>Greenstreets: 0<br>Chill Score: 7.670000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -69483,7 +69483,7 @@ geo_json_307b461cb2a280168ed9a3309b1de683_add({
 
 geo_json_307b461cb2a280168ed9a3309b1de683.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1870<br>311 Complaints 255<br>Benches: 0<br>Gardens: 0<br>Trees: 833<br>Greenstreets: 3<br>Chill Score: 7.279999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1870<br>311 Complaints: 255<br>Benches: 0<br>Gardens: 0<br>Trees: 833<br>Greenstreets: 3<br>Chill Score: 7.279999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -69574,7 +69574,7 @@ geo_json_995a0e952ef8a7b69060f8eaeed2bf04_add({
 
 geo_json_995a0e952ef8a7b69060f8eaeed2bf04.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1871<br>311 Complaints 330<br>df_air_quality_2: 4<brBenches: 10<br>Gardens: 0<br>Trees: 947<br>Greenstreets: 2<br>mean_mcg_m3: 6.475<br>Chill Score: 7.2700000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1871<br>311 Complaints: 330<br>df_air_quality_2: 4<brBenches: 10<br>Gardens: 0<br>Trees: 947<br>Greenstreets: 2<br>mean_mcg_m3: 6.475<br>Chill Score: 7.2700000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -69665,7 +69665,7 @@ geo_json_55618d82865fcfc2f44ae342553a5dbc_add({
 
 geo_json_55618d82865fcfc2f44ae342553a5dbc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1872<br>311 Complaints 114<br>Benches: 0<br>Gardens: 0<br>Trees: 721<br>Greenstreets: 0<br>Chill Score: 6.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1872<br>311 Complaints: 114<br>Benches: 0<br>Gardens: 0<br>Trees: 721<br>Greenstreets: 0<br>Chill Score: 6.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -69756,7 +69756,7 @@ geo_json_d6d2a72e84bc9fc2c45ba9d86013a333_add({
 
 geo_json_d6d2a72e84bc9fc2c45ba9d86013a333.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1873<br>311 Complaints 66<br>Benches: 0<br>Gardens: 0<br>Trees: 432<br>Greenstreets: 0<br>Chill Score: 3.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1873<br>311 Complaints: 66<br>Benches: 0<br>Gardens: 0<br>Trees: 432<br>Greenstreets: 0<br>Chill Score: 3.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -69847,7 +69847,7 @@ geo_json_807d53f534eb6af056f981c8433c951d_add({
 
 geo_json_807d53f534eb6af056f981c8433c951d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1874<br>311 Complaints 185<br>Benches: 0<br>Gardens: 0<br>Trees: 1104<br>Greenstreets: 3<br>Chill Score: 10.690000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1874<br>311 Complaints: 185<br>Benches: 0<br>Gardens: 0<br>Trees: 1104<br>Greenstreets: 3<br>Chill Score: 10.690000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -69938,7 +69938,7 @@ geo_json_e427569c27c8f08bcf46b2111aea615c_add({
 
 geo_json_e427569c27c8f08bcf46b2111aea615c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1875<br>311 Complaints 307<br>Benches: 0<br>Gardens: 0<br>Trees: 1215<br>Greenstreets: 2<br>Chill Score: 10.08<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1875<br>311 Complaints: 307<br>Benches: 0<br>Gardens: 0<br>Trees: 1215<br>Greenstreets: 2<br>Chill Score: 10.08<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -70029,7 +70029,7 @@ geo_json_4e5b5edc571d3865158d7af567bcd45b_add({
 
 geo_json_4e5b5edc571d3865158d7af567bcd45b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1876<br>311 Complaints 141<br>Benches: 2<br>Gardens: 0<br>Trees: 1004<br>Greenstreets: 1<br>Chill Score: 9.15<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1876<br>311 Complaints: 141<br>Benches: 2<br>Gardens: 0<br>Trees: 1004<br>Greenstreets: 1<br>Chill Score: 9.15<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -70120,7 +70120,7 @@ geo_json_cb43fb7a6f3ff816b7044dbfffe5ee01_add({
 
 geo_json_cb43fb7a6f3ff816b7044dbfffe5ee01.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1877<br>311 Complaints 86<br>Benches: 0<br>Gardens: 0<br>Trees: 581<br>Greenstreets: 1<br>Chill Score: 5.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1877<br>311 Complaints: 86<br>Benches: 0<br>Gardens: 0<br>Trees: 581<br>Greenstreets: 1<br>Chill Score: 5.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -70211,7 +70211,7 @@ geo_json_dce7373d04a4a74035b0bd78f4b22b5f_add({
 
 geo_json_dce7373d04a4a74035b0bd78f4b22b5f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1878<br>311 Complaints 88<br>Benches: 1<br>Gardens: 0<br>Trees: 729<br>Greenstreets: 5<br>Chill Score: 8.92<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1878<br>311 Complaints: 88<br>Benches: 1<br>Gardens: 0<br>Trees: 729<br>Greenstreets: 5<br>Chill Score: 8.92<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -70302,7 +70302,7 @@ geo_json_2e22dfd4ff9e53fcca2677c63693ca86_add({
 
 geo_json_2e22dfd4ff9e53fcca2677c63693ca86.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1879<br>311 Complaints 66<br>Benches: 0<br>Gardens: 0<br>Trees: 153<br>Greenstreets: 6<br>Chill Score: 3.87<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1879<br>311 Complaints: 66<br>Benches: 0<br>Gardens: 0<br>Trees: 153<br>Greenstreets: 6<br>Chill Score: 3.87<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -70393,7 +70393,7 @@ geo_json_3a62232df3dc4eb6f51dad9128bd7e75_add({
 
 geo_json_3a62232df3dc4eb6f51dad9128bd7e75.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1880<br>311 Complaints 215<br>Benches: 0<br>Gardens: 0<br>Trees: 466<br>Greenstreets: 1<br>Chill Score: 3.0100000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1880<br>311 Complaints: 215<br>Benches: 0<br>Gardens: 0<br>Trees: 466<br>Greenstreets: 1<br>Chill Score: 3.0100000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -70484,7 +70484,7 @@ geo_json_bd376899fed8efbee588ab39082863de_add({
 
 geo_json_bd376899fed8efbee588ab39082863de.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1881<br>311 Complaints 228<br>Benches: 0<br>Gardens: 0<br>Trees: 848<br>Greenstreets: 0<br>Chill Score: 6.2<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1881<br>311 Complaints: 228<br>Benches: 0<br>Gardens: 0<br>Trees: 848<br>Greenstreets: 0<br>Chill Score: 6.2<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -70575,7 +70575,7 @@ geo_json_40b7095d8fee117667899d9dc3f4c32f_add({
 
 geo_json_40b7095d8fee117667899d9dc3f4c32f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1882<br>311 Complaints 170<br>Benches: 0<br>Gardens: 0<br>Trees: 1139<br>Greenstreets: 0<br>Chill Score: 9.690000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1882<br>311 Complaints: 170<br>Benches: 0<br>Gardens: 0<br>Trees: 1139<br>Greenstreets: 0<br>Chill Score: 9.690000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -70666,7 +70666,7 @@ geo_json_7ed2f9ccd4e5ec5ba3be727aa412dde8_add({
 
 geo_json_7ed2f9ccd4e5ec5ba3be727aa412dde8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1883<br>311 Complaints 165<br>Benches: 1<br>Gardens: 0<br>Trees: 658<br>Greenstreets: 2<br>Chill Score: 5.9399999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1883<br>311 Complaints: 165<br>Benches: 1<br>Gardens: 0<br>Trees: 658<br>Greenstreets: 2<br>Chill Score: 5.9399999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -70757,7 +70757,7 @@ geo_json_b354f6573271eda1f2e3c6f22730c087_add({
 
 geo_json_b354f6573271eda1f2e3c6f22730c087.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1884<br>311 Complaints 44<br>Benches: 0<br>Gardens: 0<br>Trees: 144<br>Greenstreets: 8<br>Chill Score: 5.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1884<br>311 Complaints: 44<br>Benches: 0<br>Gardens: 0<br>Trees: 144<br>Greenstreets: 8<br>Chill Score: 5.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -70848,7 +70848,7 @@ geo_json_9e29fa86f28aada20c318ccd8d527edf_add({
 
 geo_json_9e29fa86f28aada20c318ccd8d527edf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1913<br>311 Complaints 377<br>Benches: 0<br>Gardens: 0<br>Trees: 964<br>Greenstreets: 1<br>Chill Score: 6.370000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1913<br>311 Complaints: 377<br>Benches: 0<br>Gardens: 0<br>Trees: 964<br>Greenstreets: 1<br>Chill Score: 6.370000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -70939,7 +70939,7 @@ geo_json_651f57a5a54993e263b5aa115b110cc1_add({
 
 geo_json_651f57a5a54993e263b5aa115b110cc1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1914<br>311 Complaints 787<br>Benches: 2<br>Gardens: 1<br>Trees: 1209<br>Greenstreets: 5<br>Chill Score: 7.239999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1914<br>311 Complaints: 787<br>Benches: 2<br>Gardens: 1<br>Trees: 1209<br>Greenstreets: 5<br>Chill Score: 7.239999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -71030,7 +71030,7 @@ geo_json_9894b079beb0a13879f6f93fc4894e85_add({
 
 geo_json_9894b079beb0a13879f6f93fc4894e85.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1915<br>311 Complaints 724<br>Benches: 9<br>Gardens: 0<br>Trees: 792<br>Greenstreets: 1<br>Chill Score: 1.2699999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1915<br>311 Complaints: 724<br>Benches: 9<br>Gardens: 0<br>Trees: 792<br>Greenstreets: 1<br>Chill Score: 1.2699999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -71121,7 +71121,7 @@ geo_json_2aef4022465d650b29eaadd36d6537a2_add({
 
 geo_json_2aef4022465d650b29eaadd36d6537a2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1916<br>311 Complaints 492<br>Benches: 8<br>Gardens: 6<br>Trees: 840<br>Greenstreets: 8<br>Chill Score: 10.56<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1916<br>311 Complaints: 492<br>Benches: 8<br>Gardens: 6<br>Trees: 840<br>Greenstreets: 8<br>Chill Score: 10.56<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -71212,7 +71212,7 @@ geo_json_6dad0d6d85bd27f86b596577fe4566f7_add({
 
 geo_json_6dad0d6d85bd27f86b596577fe4566f7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1917<br>311 Complaints 35<br>Benches: 1<br>Gardens: 0<br>Trees: 154<br>Greenstreets: 2<br>Chill Score: 2.2<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1917<br>311 Complaints: 35<br>Benches: 1<br>Gardens: 0<br>Trees: 154<br>Greenstreets: 2<br>Chill Score: 2.2<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -71303,7 +71303,7 @@ geo_json_e1532f374854d2c9ba76b2ae6179504f_add({
 
 geo_json_e1532f374854d2c9ba76b2ae6179504f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1918<br>311 Complaints 124<br>Benches: 0<br>Gardens: 1<br>Trees: 304<br>Greenstreets: 0<br>Chill Score: 2.3<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1918<br>311 Complaints: 124<br>Benches: 0<br>Gardens: 1<br>Trees: 304<br>Greenstreets: 0<br>Chill Score: 2.3<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -71394,7 +71394,7 @@ geo_json_15bcfb054339b8abf5b6d8e86ce6f92a_add({
 
 geo_json_15bcfb054339b8abf5b6d8e86ce6f92a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1919<br>311 Complaints 322<br>Benches: 1<br>Gardens: 0<br>Trees: 746<br>Greenstreets: 8<br>Chill Score: 8.25<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1919<br>311 Complaints: 322<br>Benches: 1<br>Gardens: 0<br>Trees: 746<br>Greenstreets: 8<br>Chill Score: 8.25<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -71485,7 +71485,7 @@ geo_json_9f7d95330d914394502e69b08225ec17_add({
 
 geo_json_9f7d95330d914394502e69b08225ec17.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1920<br>311 Complaints 32<br>Benches: 0<br>Gardens: 0<br>Trees: 154<br>Greenstreets: 0<br>Chill Score: 1.22<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1920<br>311 Complaints: 32<br>Benches: 0<br>Gardens: 0<br>Trees: 154<br>Greenstreets: 0<br>Chill Score: 1.22<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -71576,7 +71576,7 @@ geo_json_b892893f549fd0e06547e2696655750f_add({
 
 geo_json_b892893f549fd0e06547e2696655750f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1921<br>311 Complaints 31<br>Benches: 0<br>Gardens: 0<br>Trees: 24<br>Greenstreets: 1<br>Chill Score: 0.43<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1921<br>311 Complaints: 31<br>Benches: 0<br>Gardens: 0<br>Trees: 24<br>Greenstreets: 1<br>Chill Score: 0.43<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -71667,7 +71667,7 @@ geo_json_5b553a0ca9df1ca6af4e3a9a00eda3a7_add({
 
 geo_json_5b553a0ca9df1ca6af4e3a9a00eda3a7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1922<br>311 Complaints 70<br>Benches: 0<br>Gardens: 0<br>Trees: 134<br>Greenstreets: 0<br>Chill Score: 0.64<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1922<br>311 Complaints: 70<br>Benches: 0<br>Gardens: 0<br>Trees: 134<br>Greenstreets: 0<br>Chill Score: 0.64<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -71758,7 +71758,7 @@ geo_json_52214f067664f04114d9a25073196611_add({
 
 geo_json_52214f067664f04114d9a25073196611.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1923<br>311 Complaints 15<br>Benches: 0<br>Gardens: 0<br>Trees: 69<br>Greenstreets: 2<br>Chill Score: 1.54<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1923<br>311 Complaints: 15<br>Benches: 0<br>Gardens: 0<br>Trees: 69<br>Greenstreets: 2<br>Chill Score: 1.54<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -71849,7 +71849,7 @@ geo_json_09aa5b0d5296f62b1c09788590d77a67_add({
 
 geo_json_09aa5b0d5296f62b1c09788590d77a67.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1924<br>311 Complaints 90<br>Benches: 0<br>Gardens: 0<br>Trees: 390<br>Greenstreets: 2<br>Chill Score: 4.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1924<br>311 Complaints: 90<br>Benches: 0<br>Gardens: 0<br>Trees: 390<br>Greenstreets: 2<br>Chill Score: 4.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -71940,7 +71940,7 @@ geo_json_38d8e3984b6a72793645a8f80334bf45_add({
 
 geo_json_38d8e3984b6a72793645a8f80334bf45.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1925<br>311 Complaints 253<br>Benches: 0<br>Gardens: 0<br>Trees: 713<br>Greenstreets: 0<br>Chill Score: 4.6<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1925<br>311 Complaints: 253<br>Benches: 0<br>Gardens: 0<br>Trees: 713<br>Greenstreets: 0<br>Chill Score: 4.6<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -72031,7 +72031,7 @@ geo_json_320e3b67146a2ef746bf8b7cc98dc80d_add({
 
 geo_json_320e3b67146a2ef746bf8b7cc98dc80d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1926<br>311 Complaints 138<br>Benches: 1<br>Gardens: 0<br>Trees: 460<br>Greenstreets: 0<br>Chill Score: 3.2300000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1926<br>311 Complaints: 138<br>Benches: 1<br>Gardens: 0<br>Trees: 460<br>Greenstreets: 0<br>Chill Score: 3.2300000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -72122,7 +72122,7 @@ geo_json_0c80ef66a9219681350b83057b9522fa_add({
 
 geo_json_0c80ef66a9219681350b83057b9522fa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1927<br>311 Complaints 221<br>Benches: 7<br>Gardens: 0<br>Trees: 831<br>Greenstreets: 2<br>Chill Score: 7.17<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1927<br>311 Complaints: 221<br>Benches: 7<br>Gardens: 0<br>Trees: 831<br>Greenstreets: 2<br>Chill Score: 7.17<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -72213,7 +72213,7 @@ geo_json_89eabeb812f68e4eff0d321fb5930f16_add({
 
 geo_json_89eabeb812f68e4eff0d321fb5930f16.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1928<br>311 Complaints 242<br>Benches: 7<br>Gardens: 0<br>Trees: 642<br>Greenstreets: 6<br>Chill Score: 7.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1928<br>311 Complaints: 242<br>Benches: 7<br>Gardens: 0<br>Trees: 642<br>Greenstreets: 6<br>Chill Score: 7.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -72304,7 +72304,7 @@ geo_json_45b84ed1c5de01eafa01d1d4c43e4900_add({
 
 geo_json_45b84ed1c5de01eafa01d1d4c43e4900.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1929<br>311 Complaints 259<br>Benches: 1<br>Gardens: 0<br>Trees: 870<br>Greenstreets: 2<br>Chill Score: 7.120000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1929<br>311 Complaints: 259<br>Benches: 1<br>Gardens: 0<br>Trees: 870<br>Greenstreets: 2<br>Chill Score: 7.120000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -72395,7 +72395,7 @@ geo_json_ca7b50cea4c98b915047a31203018931_add({
 
 geo_json_ca7b50cea4c98b915047a31203018931.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1930<br>311 Complaints 200<br>Benches: 1<br>Gardens: 0<br>Trees: 972<br>Greenstreets: 0<br>Chill Score: 7.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1930<br>311 Complaints: 200<br>Benches: 1<br>Gardens: 0<br>Trees: 972<br>Greenstreets: 0<br>Chill Score: 7.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -72486,7 +72486,7 @@ geo_json_6d5b9de461cf03aa00ca32708e18270e_add({
 
 geo_json_6d5b9de461cf03aa00ca32708e18270e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1931<br>311 Complaints 35<br>Benches: 0<br>Gardens: 0<br>Trees: 116<br>Greenstreets: 0<br>Chill Score: 0.8099999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1931<br>311 Complaints: 35<br>Benches: 0<br>Gardens: 0<br>Trees: 116<br>Greenstreets: 0<br>Chill Score: 0.8099999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -72577,7 +72577,7 @@ geo_json_9fe59a25bae6d10b08c7736d611eb73e_add({
 
 geo_json_9fe59a25bae6d10b08c7736d611eb73e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1932<br>311 Complaints 170<br>Benches: 0<br>Gardens: 0<br>Trees: 586<br>Greenstreets: 2<br>Chill Score: 5.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1932<br>311 Complaints: 170<br>Benches: 0<br>Gardens: 0<br>Trees: 586<br>Greenstreets: 2<br>Chill Score: 5.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -72668,7 +72668,7 @@ geo_json_c74f2b584c1ac27d33fc9a5a322b27a3_add({
 
 geo_json_c74f2b584c1ac27d33fc9a5a322b27a3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1933<br>311 Complaints 197<br>Benches: 2<br>Gardens: 0<br>Trees: 1096<br>Greenstreets: 7<br>Chill Score: 12.510000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1933<br>311 Complaints: 197<br>Benches: 2<br>Gardens: 0<br>Trees: 1096<br>Greenstreets: 7<br>Chill Score: 12.510000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -72759,7 +72759,7 @@ geo_json_9381ff74d8416b11bed2fdc6d2346c81_add({
 
 geo_json_9381ff74d8416b11bed2fdc6d2346c81.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1934<br>311 Complaints 163<br>Benches: 1<br>Gardens: 0<br>Trees: 715<br>Greenstreets: 2<br>Chill Score: 6.53<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1934<br>311 Complaints: 163<br>Benches: 1<br>Gardens: 0<br>Trees: 715<br>Greenstreets: 2<br>Chill Score: 6.53<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -72850,7 +72850,7 @@ geo_json_6f58dc0a9d49aba04bfd820395d693a8_add({
 
 geo_json_6f58dc0a9d49aba04bfd820395d693a8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1935<br>311 Complaints 145<br>Benches: 0<br>Gardens: 0<br>Trees: 1328<br>Greenstreets: 0<br>Chill Score: 11.830000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1935<br>311 Complaints: 145<br>Benches: 0<br>Gardens: 0<br>Trees: 1328<br>Greenstreets: 0<br>Chill Score: 11.830000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -72941,7 +72941,7 @@ geo_json_2703410d9328db54cc644f479e17c7ad_add({
 
 geo_json_2703410d9328db54cc644f479e17c7ad.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1936<br>311 Complaints 165<br>Benches: 2<br>Gardens: 0<br>Trees: 731<br>Greenstreets: 16<br>Chill Score: 13.68<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1936<br>311 Complaints: 165<br>Benches: 2<br>Gardens: 0<br>Trees: 731<br>Greenstreets: 16<br>Chill Score: 13.68<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -73032,7 +73032,7 @@ geo_json_3fb3de42d5ad799155397ab30e42124d_add({
 
 geo_json_3fb3de42d5ad799155397ab30e42124d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1937<br>311 Complaints 159<br>Benches: 1<br>Gardens: 0<br>Trees: 1043<br>Greenstreets: 7<br>Chill Score: 12.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1937<br>311 Complaints: 159<br>Benches: 1<br>Gardens: 0<br>Trees: 1043<br>Greenstreets: 7<br>Chill Score: 12.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -73123,7 +73123,7 @@ geo_json_f3ba713da11d618295b6a6766530946a_add({
 
 geo_json_f3ba713da11d618295b6a6766530946a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1938<br>311 Complaints 41<br>Benches: 0<br>Gardens: 0<br>Trees: 352<br>Greenstreets: 13<br>Chill Score: 9.61<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1938<br>311 Complaints: 41<br>Benches: 0<br>Gardens: 0<br>Trees: 352<br>Greenstreets: 13<br>Chill Score: 9.61<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -73214,7 +73214,7 @@ geo_json_b27cd520a2decbedb899416a76f281e4_add({
 
 geo_json_b27cd520a2decbedb899416a76f281e4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1939<br>311 Complaints 52<br>Benches: 0<br>Gardens: 0<br>Trees: 452<br>Greenstreets: 1<br>Chill Score: 4.5<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1939<br>311 Complaints: 52<br>Benches: 0<br>Gardens: 0<br>Trees: 452<br>Greenstreets: 1<br>Chill Score: 4.5<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -73305,7 +73305,7 @@ geo_json_741218601b8d8104b8278d63e9dc17d7_add({
 
 geo_json_741218601b8d8104b8278d63e9dc17d7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1940<br>311 Complaints 53<br>Benches: 0<br>Gardens: 0<br>Trees: 811<br>Greenstreets: 2<br>Chill Score: 8.579999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1940<br>311 Complaints: 53<br>Benches: 0<br>Gardens: 0<br>Trees: 811<br>Greenstreets: 2<br>Chill Score: 8.579999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -73396,7 +73396,7 @@ geo_json_80253e001efe6caa89e6653f545701f4_add({
 
 geo_json_80253e001efe6caa89e6653f545701f4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1941<br>311 Complaints 128<br>Benches: 0<br>Gardens: 0<br>Trees: 916<br>Greenstreets: 0<br>Chill Score: 7.88<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1941<br>311 Complaints: 128<br>Benches: 0<br>Gardens: 0<br>Trees: 916<br>Greenstreets: 0<br>Chill Score: 7.88<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -73487,7 +73487,7 @@ geo_json_4dc5417f0d7f7ab556debc75f692b9d8_add({
 
 geo_json_4dc5417f0d7f7ab556debc75f692b9d8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1942<br>311 Complaints 147<br>Benches: 1<br>Gardens: 0<br>Trees: 1217<br>Greenstreets: 2<br>Chill Score: 11.71<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1942<br>311 Complaints: 147<br>Benches: 1<br>Gardens: 0<br>Trees: 1217<br>Greenstreets: 2<br>Chill Score: 11.71<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -73578,7 +73578,7 @@ geo_json_42e472553ede766145a304c97b329ed2_add({
 
 geo_json_42e472553ede766145a304c97b329ed2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1943<br>311 Complaints 143<br>Benches: 0<br>Gardens: 0<br>Trees: 1095<br>Greenstreets: 6<br>Chill Score: 12.520000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1943<br>311 Complaints: 143<br>Benches: 0<br>Gardens: 0<br>Trees: 1095<br>Greenstreets: 6<br>Chill Score: 12.520000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -73669,7 +73669,7 @@ geo_json_1e4a5ff5f2e772b1be6a056797fd972d_add({
 
 geo_json_1e4a5ff5f2e772b1be6a056797fd972d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1944<br>311 Complaints 115<br>Benches: 0<br>Gardens: 0<br>Trees: 979<br>Greenstreets: 11<br>Chill Score: 14.14<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1944<br>311 Complaints: 115<br>Benches: 0<br>Gardens: 0<br>Trees: 979<br>Greenstreets: 11<br>Chill Score: 14.14<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -73760,7 +73760,7 @@ geo_json_d27f84ba05d9789603314c4318268551_add({
 
 geo_json_d27f84ba05d9789603314c4318268551.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1945<br>311 Complaints 20<br>Benches: 0<br>Gardens: 0<br>Trees: 324<br>Greenstreets: 0<br>Chill Score: 3.04<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1945<br>311 Complaints: 20<br>Benches: 0<br>Gardens: 0<br>Trees: 324<br>Greenstreets: 0<br>Chill Score: 3.04<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -73851,7 +73851,7 @@ geo_json_0ace63178bb1d824d284f2ff1db1566d_add({
 
 geo_json_0ace63178bb1d824d284f2ff1db1566d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1972<br>311 Complaints 243<br>Benches: 1<br>Gardens: 0<br>Trees: 605<br>Greenstreets: 3<br>Chill Score: 5.129999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1972<br>311 Complaints: 243<br>Benches: 1<br>Gardens: 0<br>Trees: 605<br>Greenstreets: 3<br>Chill Score: 5.129999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -73942,7 +73942,7 @@ geo_json_e08160765d3a0e2f3c2ba1f73bb03d35_add({
 
 geo_json_e08160765d3a0e2f3c2ba1f73bb03d35.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1973<br>311 Complaints 616<br>Benches: 3<br>Gardens: 1<br>Trees: 987<br>Greenstreets: 17<br>Chill Score: 12.740000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1973<br>311 Complaints: 616<br>Benches: 3<br>Gardens: 1<br>Trees: 987<br>Greenstreets: 17<br>Chill Score: 12.740000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -74033,7 +74033,7 @@ geo_json_46d694dbe9889a846368ffe4373ebb8c_add({
 
 geo_json_46d694dbe9889a846368ffe4373ebb8c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1974<br>311 Complaints 586<br>Benches: 13<br>Gardens: 0<br>Trees: 598<br>Greenstreets: 12<br>Chill Score: 6.25<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1974<br>311 Complaints: 586<br>Benches: 13<br>Gardens: 0<br>Trees: 598<br>Greenstreets: 12<br>Chill Score: 6.25<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -74124,7 +74124,7 @@ geo_json_a14613f76450140fa06a71ec413e9c12_add({
 
 geo_json_a14613f76450140fa06a71ec413e9c12.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1975<br>311 Complaints 783<br>Benches: 6<br>Gardens: 0<br>Trees: 982<br>Greenstreets: 2<br>Chill Score: 3.05<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1975<br>311 Complaints: 783<br>Benches: 6<br>Gardens: 0<br>Trees: 982<br>Greenstreets: 2<br>Chill Score: 3.05<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -74215,7 +74215,7 @@ geo_json_8d046b37ea0f24e776208d4ccfbb941d_add({
 
 geo_json_8d046b37ea0f24e776208d4ccfbb941d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1976<br>311 Complaints 26<br>Benches: 1<br>Gardens: 0<br>Trees: 53<br>Greenstreets: 0<br>Chill Score: 0.28<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1976<br>311 Complaints: 26<br>Benches: 1<br>Gardens: 0<br>Trees: 53<br>Greenstreets: 0<br>Chill Score: 0.28<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -74306,7 +74306,7 @@ geo_json_93827cdd226b0b6b02d34683ea527119_add({
 
 geo_json_93827cdd226b0b6b02d34683ea527119.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1977<br>311 Complaints 34<br>Benches: 0<br>Gardens: 0<br>Trees: 58<br>Greenstreets: 0<br>Chill Score: 0.23999999999999994<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1977<br>311 Complaints: 34<br>Benches: 0<br>Gardens: 0<br>Trees: 58<br>Greenstreets: 0<br>Chill Score: 0.23999999999999994<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -74397,7 +74397,7 @@ geo_json_77b456ff37561a17d0f6326d19903d22_add({
 
 geo_json_77b456ff37561a17d0f6326d19903d22.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1978<br>311 Complaints 143<br>Benches: 2<br>Gardens: 0<br>Trees: 364<br>Greenstreets: 7<br>Chill Score: 5.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1978<br>311 Complaints: 143<br>Benches: 2<br>Gardens: 0<br>Trees: 364<br>Greenstreets: 7<br>Chill Score: 5.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -74488,7 +74488,7 @@ geo_json_e927e0e956cef335fe460a603c6fa755_add({
 
 geo_json_e927e0e956cef335fe460a603c6fa755.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1979<br>311 Complaints 39<br>Benches: 0<br>Gardens: 0<br>Trees: 43<br>Greenstreets: 2<br>Chill Score: 1.04<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1979<br>311 Complaints: 39<br>Benches: 0<br>Gardens: 0<br>Trees: 43<br>Greenstreets: 2<br>Chill Score: 1.04<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -74579,7 +74579,7 @@ geo_json_61cdd7a19584181f4c975374ae8bce8e_add({
 
 geo_json_61cdd7a19584181f4c975374ae8bce8e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1980<br>311 Complaints 74<br>Benches: 0<br>Gardens: 0<br>Trees: 182<br>Greenstreets: 2<br>Chill Score: 2.08<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1980<br>311 Complaints: 74<br>Benches: 0<br>Gardens: 0<br>Trees: 182<br>Greenstreets: 2<br>Chill Score: 2.08<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -74670,7 +74670,7 @@ geo_json_ef8c785597ef732c59df2a9b448de437_add({
 
 geo_json_ef8c785597ef732c59df2a9b448de437.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1981<br>311 Complaints 304<br>Benches: 3<br>Gardens: 0<br>Trees: 871<br>Greenstreets: 0<br>Chill Score: 5.700000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1981<br>311 Complaints: 304<br>Benches: 3<br>Gardens: 0<br>Trees: 871<br>Greenstreets: 0<br>Chill Score: 5.700000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -74761,7 +74761,7 @@ geo_json_231d8c70e460c42ccfb18202103361e3_add({
 
 geo_json_231d8c70e460c42ccfb18202103361e3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1982<br>311 Complaints 75<br>Benches: 1<br>Gardens: 0<br>Trees: 231<br>Greenstreets: 0<br>Chill Score: 1.57<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1982<br>311 Complaints: 75<br>Benches: 1<br>Gardens: 0<br>Trees: 231<br>Greenstreets: 0<br>Chill Score: 1.57<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -74852,7 +74852,7 @@ geo_json_783a144d3cdb5ac6fbfc5d3bdc19a487_add({
 
 geo_json_783a144d3cdb5ac6fbfc5d3bdc19a487.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1983<br>311 Complaints 193<br>Benches: 3<br>Gardens: 0<br>Trees: 886<br>Greenstreets: 0<br>Chill Score: 6.959999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1983<br>311 Complaints: 193<br>Benches: 3<br>Gardens: 0<br>Trees: 886<br>Greenstreets: 0<br>Chill Score: 6.959999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -74943,7 +74943,7 @@ geo_json_c8482bd4d8766f2b9700bd42fad113f1_add({
 
 geo_json_c8482bd4d8766f2b9700bd42fad113f1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1984<br>311 Complaints 171<br>Benches: 1<br>Gardens: 0<br>Trees: 626<br>Greenstreets: 4<br>Chill Score: 6.56<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1984<br>311 Complaints: 171<br>Benches: 1<br>Gardens: 0<br>Trees: 626<br>Greenstreets: 4<br>Chill Score: 6.56<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -75034,7 +75034,7 @@ geo_json_b4a853188321521b77e560203a9be281_add({
 
 geo_json_b4a853188321521b77e560203a9be281.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1985<br>311 Complaints 215<br>Benches: 3<br>Gardens: 0<br>Trees: 602<br>Greenstreets: 0<br>Chill Score: 3.9000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1985<br>311 Complaints: 215<br>Benches: 3<br>Gardens: 0<br>Trees: 602<br>Greenstreets: 0<br>Chill Score: 3.9000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -75125,7 +75125,7 @@ geo_json_7a98e9906ddfc4d807dd9c7f5ae7649b_add({
 
 geo_json_7a98e9906ddfc4d807dd9c7f5ae7649b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1986<br>311 Complaints 261<br>df_air_quality_2: 4<brBenches: 5<br>Gardens: 0<br>Trees: 787<br>Greenstreets: 2<br>mean_mcg_m3: 6.55<br>Chill Score: 6.3100000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1986<br>311 Complaints: 261<br>df_air_quality_2: 4<brBenches: 5<br>Gardens: 0<br>Trees: 787<br>Greenstreets: 2<br>mean_mcg_m3: 6.55<br>Chill Score: 6.3100000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -75216,7 +75216,7 @@ geo_json_6e4d729f3e83ea4e4083062ab92de37e_add({
 
 geo_json_6e4d729f3e83ea4e4083062ab92de37e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1987<br>311 Complaints 256<br>Benches: 3<br>Gardens: 0<br>Trees: 670<br>Greenstreets: 0<br>Chill Score: 4.17<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1987<br>311 Complaints: 256<br>Benches: 3<br>Gardens: 0<br>Trees: 670<br>Greenstreets: 0<br>Chill Score: 4.17<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -75307,7 +75307,7 @@ geo_json_e5e428eb2229f9211d259dbf96de48cf_add({
 
 geo_json_e5e428eb2229f9211d259dbf96de48cf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1988<br>311 Complaints 347<br>Benches: 0<br>Gardens: 3<br>Trees: 662<br>Greenstreets: 3<br>Chill Score: 6.15<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1988<br>311 Complaints: 347<br>Benches: 0<br>Gardens: 3<br>Trees: 662<br>Greenstreets: 3<br>Chill Score: 6.15<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -75398,7 +75398,7 @@ geo_json_ddaef99392249c06397cce03681b4d98_add({
 
 geo_json_ddaef99392249c06397cce03681b4d98.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1989<br>311 Complaints 141<br>Benches: 1<br>Gardens: 0<br>Trees: 323<br>Greenstreets: 6<br>Chill Score: 4.83<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1989<br>311 Complaints: 141<br>Benches: 1<br>Gardens: 0<br>Trees: 323<br>Greenstreets: 6<br>Chill Score: 4.83<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -75489,7 +75489,7 @@ geo_json_6755644213fba5e311885119cdd77022_add({
 
 geo_json_6755644213fba5e311885119cdd77022.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1990<br>311 Complaints 59<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.59<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1990<br>311 Complaints: 59<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.59<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -75580,7 +75580,7 @@ geo_json_3d286d86f6aa6ed0f73be7761d9a3615_add({
 
 geo_json_3d286d86f6aa6ed0f73be7761d9a3615.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1991<br>311 Complaints 109<br>Benches: 0<br>Gardens: 0<br>Trees: 500<br>Greenstreets: 8<br>Chill Score: 7.91<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1991<br>311 Complaints: 109<br>Benches: 0<br>Gardens: 0<br>Trees: 500<br>Greenstreets: 8<br>Chill Score: 7.91<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -75671,7 +75671,7 @@ geo_json_81aa9324fbb7e9c3ce8d5cb578ea0332_add({
 
 geo_json_81aa9324fbb7e9c3ce8d5cb578ea0332.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1992<br>311 Complaints 90<br>Benches: 0<br>Gardens: 0<br>Trees: 525<br>Greenstreets: 1<br>Chill Score: 4.85<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1992<br>311 Complaints: 90<br>Benches: 0<br>Gardens: 0<br>Trees: 525<br>Greenstreets: 1<br>Chill Score: 4.85<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -75762,7 +75762,7 @@ geo_json_20f54902d73e6af1af84289f175ed72c_add({
 
 geo_json_20f54902d73e6af1af84289f175ed72c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1993<br>311 Complaints 178<br>Benches: 0<br>Gardens: 0<br>Trees: 707<br>Greenstreets: 0<br>Chill Score: 5.29<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1993<br>311 Complaints: 178<br>Benches: 0<br>Gardens: 0<br>Trees: 707<br>Greenstreets: 0<br>Chill Score: 5.29<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -75853,7 +75853,7 @@ geo_json_526b6088f09df0f12328fa92a634027e_add({
 
 geo_json_526b6088f09df0f12328fa92a634027e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1994<br>311 Complaints 140<br>Benches: 0<br>Gardens: 0<br>Trees: 707<br>Greenstreets: 1<br>Chill Score: 6.17<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1994<br>311 Complaints: 140<br>Benches: 0<br>Gardens: 0<br>Trees: 707<br>Greenstreets: 1<br>Chill Score: 6.17<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -75944,7 +75944,7 @@ geo_json_34f051214cc4e9a5ad1de048f3a56b5a_add({
 
 geo_json_34f051214cc4e9a5ad1de048f3a56b5a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1995<br>311 Complaints 173<br>Benches: 0<br>Gardens: 0<br>Trees: 699<br>Greenstreets: 14<br>Chill Score: 12.26<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1995<br>311 Complaints: 173<br>Benches: 0<br>Gardens: 0<br>Trees: 699<br>Greenstreets: 14<br>Chill Score: 12.26<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -76035,7 +76035,7 @@ geo_json_21ba6ebaa4f9f77776118aa77c47e3d0_add({
 
 geo_json_21ba6ebaa4f9f77776118aa77c47e3d0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1996<br>311 Complaints 63<br>Benches: 1<br>Gardens: 0<br>Trees: 352<br>Greenstreets: 1<br>Chill Score: 3.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1996<br>311 Complaints: 63<br>Benches: 1<br>Gardens: 0<br>Trees: 352<br>Greenstreets: 1<br>Chill Score: 3.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -76126,7 +76126,7 @@ geo_json_fa4f75406fe7285d0eb93b9a9ce323a0_add({
 
 geo_json_fa4f75406fe7285d0eb93b9a9ce323a0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1997<br>311 Complaints 53<br>Benches: 0<br>Gardens: 0<br>Trees: 410<br>Greenstreets: 12<br>Chill Score: 9.57<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1997<br>311 Complaints: 53<br>Benches: 0<br>Gardens: 0<br>Trees: 410<br>Greenstreets: 12<br>Chill Score: 9.57<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -76217,7 +76217,7 @@ geo_json_18f35cad86044af5e8d2043642580485_add({
 
 geo_json_18f35cad86044af5e8d2043642580485.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1998<br>311 Complaints 53<br>Benches: 2<br>Gardens: 0<br>Trees: 443<br>Greenstreets: 0<br>Chill Score: 3.92<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1998<br>311 Complaints: 53<br>Benches: 2<br>Gardens: 0<br>Trees: 443<br>Greenstreets: 0<br>Chill Score: 3.92<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -76308,7 +76308,7 @@ geo_json_d06b3da7f8e6929c092db8f0822b3ece_add({
 
 geo_json_d06b3da7f8e6929c092db8f0822b3ece.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 1999<br>311 Complaints 87<br>Benches: 0<br>Gardens: 0<br>Trees: 818<br>Greenstreets: 3<br>Chill Score: 8.809999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 1999<br>311 Complaints: 87<br>Benches: 0<br>Gardens: 0<br>Trees: 818<br>Greenstreets: 3<br>Chill Score: 8.809999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -76399,7 +76399,7 @@ geo_json_854bce7f3cb506ec83d2d3b7f35412f0_add({
 
 geo_json_854bce7f3cb506ec83d2d3b7f35412f0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2000<br>311 Complaints 46<br>Benches: 0<br>Gardens: 0<br>Trees: 543<br>Greenstreets: 0<br>Chill Score: 4.97<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2000<br>311 Complaints: 46<br>Benches: 0<br>Gardens: 0<br>Trees: 543<br>Greenstreets: 0<br>Chill Score: 4.97<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -76490,7 +76490,7 @@ geo_json_7a19005cdf06c91a998b923608db3a56_add({
 
 geo_json_7a19005cdf06c91a998b923608db3a56.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2001<br>311 Complaints 50<br>Benches: 0<br>Gardens: 0<br>Trees: 426<br>Greenstreets: 1<br>Chill Score: 4.26<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2001<br>311 Complaints: 50<br>Benches: 0<br>Gardens: 0<br>Trees: 426<br>Greenstreets: 1<br>Chill Score: 4.26<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -76581,7 +76581,7 @@ geo_json_f8dd5061e5bae468e24ac25d289a6a4c_add({
 
 geo_json_f8dd5061e5bae468e24ac25d289a6a4c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2002<br>311 Complaints 109<br>Benches: 0<br>Gardens: 0<br>Trees: 784<br>Greenstreets: 3<br>Chill Score: 8.25<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2002<br>311 Complaints: 109<br>Benches: 0<br>Gardens: 0<br>Trees: 784<br>Greenstreets: 3<br>Chill Score: 8.25<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -76672,7 +76672,7 @@ geo_json_1b6da9e71a8e5a7fd55ee3c823f4ab1c_add({
 
 geo_json_1b6da9e71a8e5a7fd55ee3c823f4ab1c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2003<br>311 Complaints 153<br>Benches: 2<br>Gardens: 0<br>Trees: 1257<br>Greenstreets: 0<br>Chill Score: 11.06<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2003<br>311 Complaints: 153<br>Benches: 2<br>Gardens: 0<br>Trees: 1257<br>Greenstreets: 0<br>Chill Score: 11.06<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -76763,7 +76763,7 @@ geo_json_f9b3b19c28f6d558855c198ffd6f076b_add({
 
 geo_json_f9b3b19c28f6d558855c198ffd6f076b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2004<br>311 Complaints 60<br>Benches: 1<br>Gardens: 0<br>Trees: 1041<br>Greenstreets: 0<br>Chill Score: 9.82<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2004<br>311 Complaints: 60<br>Benches: 1<br>Gardens: 0<br>Trees: 1041<br>Greenstreets: 0<br>Chill Score: 9.82<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -76854,7 +76854,7 @@ geo_json_f5c74329b8a6146f52b9cda4f913835c_add({
 
 geo_json_f5c74329b8a6146f52b9cda4f913835c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2031<br>311 Complaints 97<br>Benches: 2<br>Gardens: 0<br>Trees: 344<br>Greenstreets: 0<br>Chill Score: 2.49<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2031<br>311 Complaints: 97<br>Benches: 2<br>Gardens: 0<br>Trees: 344<br>Greenstreets: 0<br>Chill Score: 2.49<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -76945,7 +76945,7 @@ geo_json_03891d06b52bb9cb35e5f01848630530_add({
 
 geo_json_03891d06b52bb9cb35e5f01848630530.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2032<br>311 Complaints 702<br>Benches: 6<br>Gardens: 0<br>Trees: 805<br>Greenstreets: 20<br>Chill Score: 11.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2032<br>311 Complaints: 702<br>Benches: 6<br>Gardens: 0<br>Trees: 805<br>Greenstreets: 20<br>Chill Score: 11.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -77036,7 +77036,7 @@ geo_json_9b1c035a54753834ffcebc6a2aff5b6c_add({
 
 geo_json_9b1c035a54753834ffcebc6a2aff5b6c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2033<br>311 Complaints 458<br>Benches: 4<br>Gardens: 0<br>Trees: 275<br>Greenstreets: 7<br>Chill Score: 1.71<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2033<br>311 Complaints: 458<br>Benches: 4<br>Gardens: 0<br>Trees: 275<br>Greenstreets: 7<br>Chill Score: 1.71<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -77127,7 +77127,7 @@ geo_json_f2eeb5f59f40eee5225998a475d939b2_add({
 
 geo_json_f2eeb5f59f40eee5225998a475d939b2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2034<br>311 Complaints 598<br>Benches: 7<br>Gardens: 0<br>Trees: 1005<br>Greenstreets: 5<br>Chill Score: 6.640000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2034<br>311 Complaints: 598<br>Benches: 7<br>Gardens: 0<br>Trees: 1005<br>Greenstreets: 5<br>Chill Score: 6.640000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -77218,7 +77218,7 @@ geo_json_ee64171dfb5b4e21681ed9a85cc7c656_add({
 
 geo_json_ee64171dfb5b4e21681ed9a85cc7c656.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2035<br>311 Complaints 297<br>Benches: 2<br>Gardens: 0<br>Trees: 601<br>Greenstreets: 1<br>Chill Score: 3.5599999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2035<br>311 Complaints: 297<br>Benches: 2<br>Gardens: 0<br>Trees: 601<br>Greenstreets: 1<br>Chill Score: 3.5599999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -77309,7 +77309,7 @@ geo_json_458df88da4b444baf94979026b9b08f6_add({
 
 geo_json_458df88da4b444baf94979026b9b08f6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2036<br>311 Complaints 35<br>Benches: 1<br>Gardens: 0<br>Trees: 103<br>Greenstreets: 0<br>Chill Score: 0.69<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2036<br>311 Complaints: 35<br>Benches: 1<br>Gardens: 0<br>Trees: 103<br>Greenstreets: 0<br>Chill Score: 0.69<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -77400,7 +77400,7 @@ geo_json_6172fbd3dcfc5a6428d0962a7fbbe6b8_add({
 
 geo_json_6172fbd3dcfc5a6428d0962a7fbbe6b8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2037<br>311 Complaints 239<br>Benches: 3<br>Gardens: 2<br>Trees: 669<br>Greenstreets: 19<br>Chill Score: 14.83<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2037<br>311 Complaints: 239<br>Benches: 3<br>Gardens: 2<br>Trees: 669<br>Greenstreets: 19<br>Chill Score: 14.83<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -77491,7 +77491,7 @@ geo_json_7727b6b1ab71fa1d4f952ce5f4e09328_add({
 
 geo_json_7727b6b1ab71fa1d4f952ce5f4e09328.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2038<br>311 Complaints 116<br>Benches: 3<br>Gardens: 2<br>Trees: 394<br>Greenstreets: 15<br>Chill Score: 11.31<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2038<br>311 Complaints: 116<br>Benches: 3<br>Gardens: 2<br>Trees: 394<br>Greenstreets: 15<br>Chill Score: 11.31<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -77582,7 +77582,7 @@ geo_json_eb96a1e5468fa2660c340a2eb8b99740_add({
 
 geo_json_eb96a1e5468fa2660c340a2eb8b99740.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2039<br>311 Complaints 162<br>Benches: 4<br>Gardens: 0<br>Trees: 316<br>Greenstreets: 7<br>Chill Score: 5.08<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2039<br>311 Complaints: 162<br>Benches: 4<br>Gardens: 0<br>Trees: 316<br>Greenstreets: 7<br>Chill Score: 5.08<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -77673,7 +77673,7 @@ geo_json_858037f24f74d44b48f1f66dcc243fa0_add({
 
 geo_json_858037f24f74d44b48f1f66dcc243fa0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2040<br>311 Complaints 287<br>Benches: 15<br>Gardens: 0<br>Trees: 700<br>Greenstreets: 0<br>Chill Score: 4.279999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2040<br>311 Complaints: 287<br>Benches: 15<br>Gardens: 0<br>Trees: 700<br>Greenstreets: 0<br>Chill Score: 4.279999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -77764,7 +77764,7 @@ geo_json_c2a9d72936bf3b12a1629197e278a69c_add({
 
 geo_json_c2a9d72936bf3b12a1629197e278a69c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2041<br>311 Complaints 382<br>Benches: 8<br>Gardens: 0<br>Trees: 1172<br>Greenstreets: 4<br>Chill Score: 9.98<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2041<br>311 Complaints: 382<br>Benches: 8<br>Gardens: 0<br>Trees: 1172<br>Greenstreets: 4<br>Chill Score: 9.98<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -77855,7 +77855,7 @@ geo_json_edef49b1d30498b3116b182b4b1397cc_add({
 
 geo_json_edef49b1d30498b3116b182b4b1397cc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2042<br>311 Complaints 252<br>Benches: 1<br>Gardens: 0<br>Trees: 870<br>Greenstreets: 2<br>Chill Score: 7.190000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2042<br>311 Complaints: 252<br>Benches: 1<br>Gardens: 0<br>Trees: 870<br>Greenstreets: 2<br>Chill Score: 7.190000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -77946,7 +77946,7 @@ geo_json_7142e79e0b31171efa67dfcc455ec3af_add({
 
 geo_json_7142e79e0b31171efa67dfcc455ec3af.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2043<br>311 Complaints 569<br>Benches: 8<br>Gardens: 0<br>Trees: 721<br>Greenstreets: 7<br>Chill Score: 5.1<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2043<br>311 Complaints: 569<br>Benches: 8<br>Gardens: 0<br>Trees: 721<br>Greenstreets: 7<br>Chill Score: 5.1<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -78037,7 +78037,7 @@ geo_json_532e452affcccd79290df4f6bbb0f55d_add({
 
 geo_json_532e452affcccd79290df4f6bbb0f55d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2044<br>311 Complaints 323<br>Benches: 14<br>Gardens: 0<br>Trees: 584<br>Greenstreets: 1<br>Chill Score: 3.25<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2044<br>311 Complaints: 323<br>Benches: 14<br>Gardens: 0<br>Trees: 584<br>Greenstreets: 1<br>Chill Score: 3.25<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -78128,7 +78128,7 @@ geo_json_891e661032a20663a0acd512b431b001_add({
 
 geo_json_891e661032a20663a0acd512b431b001.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2045<br>311 Complaints 429<br>Benches: 3<br>Gardens: 0<br>Trees: 853<br>Greenstreets: 1<br>Chill Score: 4.77<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2045<br>311 Complaints: 429<br>Benches: 3<br>Gardens: 0<br>Trees: 853<br>Greenstreets: 1<br>Chill Score: 4.77<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -78219,7 +78219,7 @@ geo_json_9d8a1191051f86c25353fdbfca57e5e5_add({
 
 geo_json_9d8a1191051f86c25353fdbfca57e5e5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2046<br>311 Complaints 340<br>Benches: 0<br>Gardens: 0<br>Trees: 810<br>Greenstreets: 3<br>Chill Score: 6.199999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2046<br>311 Complaints: 340<br>Benches: 0<br>Gardens: 0<br>Trees: 810<br>Greenstreets: 3<br>Chill Score: 6.199999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -78310,7 +78310,7 @@ geo_json_0505566d2fe8d73982762ba74fa5587f_add({
 
 geo_json_0505566d2fe8d73982762ba74fa5587f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2047<br>311 Complaints 343<br>Benches: 2<br>Gardens: 0<br>Trees: 709<br>Greenstreets: 9<br>Chill Score: 8.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2047<br>311 Complaints: 343<br>Benches: 2<br>Gardens: 0<br>Trees: 709<br>Greenstreets: 9<br>Chill Score: 8.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -78401,7 +78401,7 @@ geo_json_800148f19cc00dd5b464199761cd7917_add({
 
 geo_json_800148f19cc00dd5b464199761cd7917.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2048<br>311 Complaints 11<br>Benches: 0<br>Gardens: 0<br>Trees: 75<br>Greenstreets: 1<br>Chill Score: 1.1400000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2048<br>311 Complaints: 11<br>Benches: 0<br>Gardens: 0<br>Trees: 75<br>Greenstreets: 1<br>Chill Score: 1.1400000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -78492,7 +78492,7 @@ geo_json_d5af4536c1c0a0146524b48e0e38546e_add({
 
 geo_json_d5af4536c1c0a0146524b48e0e38546e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2049<br>311 Complaints 61<br>Benches: 0<br>Gardens: 0<br>Trees: 114<br>Greenstreets: 2<br>Chill Score: 1.5300000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2049<br>311 Complaints: 61<br>Benches: 0<br>Gardens: 0<br>Trees: 114<br>Greenstreets: 2<br>Chill Score: 1.5300000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -78583,7 +78583,7 @@ geo_json_daadf3872c7260bda53c881889db586f_add({
 
 geo_json_daadf3872c7260bda53c881889db586f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2050<br>311 Complaints 236<br>Benches: 0<br>Gardens: 0<br>Trees: 676<br>Greenstreets: 0<br>Chill Score: 4.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2050<br>311 Complaints: 236<br>Benches: 0<br>Gardens: 0<br>Trees: 676<br>Greenstreets: 0<br>Chill Score: 4.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -78674,7 +78674,7 @@ geo_json_5ca0ebdd1df6d99be4892efa7cdd4c0c_add({
 
 geo_json_5ca0ebdd1df6d99be4892efa7cdd4c0c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2051<br>311 Complaints 142<br>Benches: 0<br>Gardens: 1<br>Trees: 936<br>Greenstreets: 0<br>Chill Score: 8.44<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2051<br>311 Complaints: 142<br>Benches: 0<br>Gardens: 1<br>Trees: 936<br>Greenstreets: 0<br>Chill Score: 8.44<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -78765,7 +78765,7 @@ geo_json_1edea4b7a82102038a1dde76562005cf_add({
 
 geo_json_1edea4b7a82102038a1dde76562005cf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2052<br>311 Complaints 46<br>Benches: 0<br>Gardens: 0<br>Trees: 384<br>Greenstreets: 1<br>Chill Score: 3.88<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2052<br>311 Complaints: 46<br>Benches: 0<br>Gardens: 0<br>Trees: 384<br>Greenstreets: 1<br>Chill Score: 3.88<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -78856,7 +78856,7 @@ geo_json_5496d6a0aed749c79faded52b2e10662_add({
 
 geo_json_5496d6a0aed749c79faded52b2e10662.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2053<br>311 Complaints 10<br>Benches: 0<br>Gardens: 0<br>Trees: 328<br>Greenstreets: 14<br>Chill Score: 10.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2053<br>311 Complaints: 10<br>Benches: 0<br>Gardens: 0<br>Trees: 328<br>Greenstreets: 14<br>Chill Score: 10.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -78947,7 +78947,7 @@ geo_json_7ea27f7bd69d3543cf281d4a5a1bd46d_add({
 
 geo_json_7ea27f7bd69d3543cf281d4a5a1bd46d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2054<br>311 Complaints 129<br>Benches: 0<br>Gardens: 0<br>Trees: 1243<br>Greenstreets: 11<br>Chill Score: 16.64<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2054<br>311 Complaints: 129<br>Benches: 0<br>Gardens: 0<br>Trees: 1243<br>Greenstreets: 11<br>Chill Score: 16.64<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -79038,7 +79038,7 @@ geo_json_5d98efd8d8714c77a5dac5287e360c81_add({
 
 geo_json_5d98efd8d8714c77a5dac5287e360c81.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2055<br>311 Complaints 87<br>Benches: 0<br>Gardens: 0<br>Trees: 1000<br>Greenstreets: 14<br>Chill Score: 16.130000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2055<br>311 Complaints: 87<br>Benches: 0<br>Gardens: 0<br>Trees: 1000<br>Greenstreets: 14<br>Chill Score: 16.130000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -79129,7 +79129,7 @@ geo_json_07a0a78523c5dd341cb3f6dc7c73b946_add({
 
 geo_json_07a0a78523c5dd341cb3f6dc7c73b946.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2056<br>311 Complaints 63<br>Benches: 0<br>Gardens: 0<br>Trees: 528<br>Greenstreets: 3<br>Chill Score: 6.15<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2056<br>311 Complaints: 63<br>Benches: 0<br>Gardens: 0<br>Trees: 528<br>Greenstreets: 3<br>Chill Score: 6.15<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -79220,7 +79220,7 @@ geo_json_dcbd107f9a4c8c2c4378864720c87843_add({
 
 geo_json_dcbd107f9a4c8c2c4378864720c87843.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2057<br>311 Complaints 81<br>Benches: 0<br>Gardens: 0<br>Trees: 1026<br>Greenstreets: 1<br>Chill Score: 9.95<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2057<br>311 Complaints: 81<br>Benches: 0<br>Gardens: 0<br>Trees: 1026<br>Greenstreets: 1<br>Chill Score: 9.95<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -79311,7 +79311,7 @@ geo_json_cc56fccf70524d92527c2c8a281b0594_add({
 
 geo_json_cc56fccf70524d92527c2c8a281b0594.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2058<br>311 Complaints 52<br>Benches: 0<br>Gardens: 0<br>Trees: 554<br>Greenstreets: 0<br>Chill Score: 5.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2058<br>311 Complaints: 52<br>Benches: 0<br>Gardens: 0<br>Trees: 554<br>Greenstreets: 0<br>Chill Score: 5.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -79402,7 +79402,7 @@ geo_json_6e6e63f4e1173f62b55f3c7d52d38dc3_add({
 
 geo_json_6e6e63f4e1173f62b55f3c7d52d38dc3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2059<br>311 Complaints 12<br>Benches: 0<br>Gardens: 0<br>Trees: 125<br>Greenstreets: 0<br>Chill Score: 1.13<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2059<br>311 Complaints: 12<br>Benches: 0<br>Gardens: 0<br>Trees: 125<br>Greenstreets: 0<br>Chill Score: 1.13<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -79493,7 +79493,7 @@ geo_json_16d6e30812f68c95f9e1743f6bdbe5cf_add({
 
 geo_json_16d6e30812f68c95f9e1743f6bdbe5cf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2060<br>311 Complaints 14<br>Benches: 0<br>Gardens: 0<br>Trees: 93<br>Greenstreets: 0<br>Chill Score: 0.79<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2060<br>311 Complaints: 14<br>Benches: 0<br>Gardens: 0<br>Trees: 93<br>Greenstreets: 0<br>Chill Score: 0.79<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -79584,7 +79584,7 @@ geo_json_8e5569a969642ec34da3fcda8117af06_add({
 
 geo_json_8e5569a969642ec34da3fcda8117af06.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2061<br>311 Complaints 79<br>Benches: 1<br>Gardens: 0<br>Trees: 669<br>Greenstreets: 2<br>Chill Score: 6.91<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2061<br>311 Complaints: 79<br>Benches: 1<br>Gardens: 0<br>Trees: 669<br>Greenstreets: 2<br>Chill Score: 6.91<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -79675,7 +79675,7 @@ geo_json_c9c922295f1846d092fd33f9df99da17_add({
 
 geo_json_c9c922295f1846d092fd33f9df99da17.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2062<br>311 Complaints 168<br>Benches: 1<br>Gardens: 0<br>Trees: 1438<br>Greenstreets: 0<br>Chill Score: 12.71<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2062<br>311 Complaints: 168<br>Benches: 1<br>Gardens: 0<br>Trees: 1438<br>Greenstreets: 0<br>Chill Score: 12.71<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -79766,7 +79766,7 @@ geo_json_806f0e36d38514761d40d95dd63f7ac5_add({
 
 geo_json_806f0e36d38514761d40d95dd63f7ac5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2063<br>311 Complaints 77<br>Benches: 0<br>Gardens: 0<br>Trees: 1274<br>Greenstreets: 0<br>Chill Score: 11.97<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2063<br>311 Complaints: 77<br>Benches: 0<br>Gardens: 0<br>Trees: 1274<br>Greenstreets: 0<br>Chill Score: 11.97<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -79857,7 +79857,7 @@ geo_json_4d827da6ecbff0e5b209f384f5234f63_add({
 
 geo_json_4d827da6ecbff0e5b209f384f5234f63.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2090<br>311 Complaints 24<br>Benches: 0<br>Gardens: 0<br>Trees: 221<br>Greenstreets: 0<br>Chill Score: 1.97<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2090<br>311 Complaints: 24<br>Benches: 0<br>Gardens: 0<br>Trees: 221<br>Greenstreets: 0<br>Chill Score: 1.97<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -79948,7 +79948,7 @@ geo_json_057c9110e70e8322017f0e8d131a2bd1_add({
 
 geo_json_057c9110e70e8322017f0e8d131a2bd1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2091<br>311 Complaints 244<br>Benches: 0<br>Gardens: 0<br>Trees: 359<br>Greenstreets: 3<br>Chill Score: 2.65<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2091<br>311 Complaints: 244<br>Benches: 0<br>Gardens: 0<br>Trees: 359<br>Greenstreets: 3<br>Chill Score: 2.65<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -80039,7 +80039,7 @@ geo_json_a3e0c5f7fff1ce99a834da28124c1cc7_add({
 
 geo_json_a3e0c5f7fff1ce99a834da28124c1cc7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2092<br>311 Complaints 416<br>Benches: 0<br>Gardens: 0<br>Trees: 219<br>Greenstreets: 0<br>Chill Score: -1.9700000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2092<br>311 Complaints: 416<br>Benches: 0<br>Gardens: 0<br>Trees: 219<br>Greenstreets: 0<br>Chill Score: -1.9700000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -80130,7 +80130,7 @@ geo_json_1f27d903aebb3a9d4abfc9e46000a404_add({
 
 geo_json_1f27d903aebb3a9d4abfc9e46000a404.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2093<br>311 Complaints 371<br>Benches: 0<br>Gardens: 0<br>Trees: 206<br>Greenstreets: 0<br>Chill Score: -1.65<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2093<br>311 Complaints: 371<br>Benches: 0<br>Gardens: 0<br>Trees: 206<br>Greenstreets: 0<br>Chill Score: -1.65<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -80221,7 +80221,7 @@ geo_json_15c4e543e81d08fad6215df10d0385f5_add({
 
 geo_json_15c4e543e81d08fad6215df10d0385f5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2094<br>311 Complaints 431<br>Benches: 0<br>Gardens: 0<br>Trees: 829<br>Greenstreets: 1<br>Chill Score: 4.48<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2094<br>311 Complaints: 431<br>Benches: 0<br>Gardens: 0<br>Trees: 829<br>Greenstreets: 1<br>Chill Score: 4.48<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -80312,7 +80312,7 @@ geo_json_51a471eb98ac5d8ead51cf40acdb3eea_add({
 
 geo_json_51a471eb98ac5d8ead51cf40acdb3eea.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2095<br>311 Complaints 122<br>Benches: 0<br>Gardens: 0<br>Trees: 410<br>Greenstreets: 1<br>Chill Score: 3.38<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2095<br>311 Complaints: 122<br>Benches: 0<br>Gardens: 0<br>Trees: 410<br>Greenstreets: 1<br>Chill Score: 3.38<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -80403,7 +80403,7 @@ geo_json_19b48a664b6ba66eb9a48560be0618d7_add({
 
 geo_json_19b48a664b6ba66eb9a48560be0618d7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2096<br>311 Complaints 69<br>Benches: 0<br>Gardens: 0<br>Trees: 114<br>Greenstreets: 3<br>Chill Score: 1.9500000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2096<br>311 Complaints: 69<br>Benches: 0<br>Gardens: 0<br>Trees: 114<br>Greenstreets: 3<br>Chill Score: 1.9500000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -80494,7 +80494,7 @@ geo_json_7b7f3e9b0864a519feac003f2b145908_add({
 
 geo_json_7b7f3e9b0864a519feac003f2b145908.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2097<br>311 Complaints 207<br>Benches: 4<br>Gardens: 0<br>Trees: 495<br>Greenstreets: 7<br>Chill Score: 6.42<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2097<br>311 Complaints: 207<br>Benches: 4<br>Gardens: 0<br>Trees: 495<br>Greenstreets: 7<br>Chill Score: 6.42<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -80585,7 +80585,7 @@ geo_json_810923feda43ca8ecc7277f6c97bf4d3_add({
 
 geo_json_810923feda43ca8ecc7277f6c97bf4d3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2098<br>311 Complaints 258<br>Benches: 6<br>Gardens: 1<br>Trees: 483<br>Greenstreets: 2<br>Chill Score: 3.81<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2098<br>311 Complaints: 258<br>Benches: 6<br>Gardens: 1<br>Trees: 483<br>Greenstreets: 2<br>Chill Score: 3.81<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -80676,7 +80676,7 @@ geo_json_1b0c16f29da92599d5282fcd27d16abb_add({
 
 geo_json_1b0c16f29da92599d5282fcd27d16abb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2099<br>311 Complaints 236<br>Benches: 0<br>Gardens: 1<br>Trees: 501<br>Greenstreets: 1<br>Chill Score: 3.65<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2099<br>311 Complaints: 236<br>Benches: 0<br>Gardens: 1<br>Trees: 501<br>Greenstreets: 1<br>Chill Score: 3.65<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -80767,7 +80767,7 @@ geo_json_696f2961a3c25f8863228830381b02d3_add({
 
 geo_json_696f2961a3c25f8863228830381b02d3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2100<br>311 Complaints 146<br>Benches: 1<br>Gardens: 0<br>Trees: 398<br>Greenstreets: 2<br>Chill Score: 3.5300000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2100<br>311 Complaints: 146<br>Benches: 1<br>Gardens: 0<br>Trees: 398<br>Greenstreets: 2<br>Chill Score: 3.5300000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -80858,7 +80858,7 @@ geo_json_7ca6bb317c4d7e9febe37d44387c7a84_add({
 
 geo_json_7ca6bb317c4d7e9febe37d44387c7a84.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2101<br>311 Complaints 205<br>Benches: 0<br>Gardens: 0<br>Trees: 589<br>Greenstreets: 1<br>Chill Score: 4.34<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2101<br>311 Complaints: 205<br>Benches: 0<br>Gardens: 0<br>Trees: 589<br>Greenstreets: 1<br>Chill Score: 4.34<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -80949,7 +80949,7 @@ geo_json_c901a543d75e2e1f4c21ef0c3f07b1e2_add({
 
 geo_json_c901a543d75e2e1f4c21ef0c3f07b1e2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2102<br>311 Complaints 268<br>Benches: 2<br>Gardens: 0<br>Trees: 917<br>Greenstreets: 11<br>Chill Score: 12.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2102<br>311 Complaints: 268<br>Benches: 2<br>Gardens: 0<br>Trees: 917<br>Greenstreets: 11<br>Chill Score: 12.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -81040,7 +81040,7 @@ geo_json_65fdb432b52661809de7bd72b822d61d_add({
 
 geo_json_65fdb432b52661809de7bd72b822d61d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2103<br>311 Complaints 423<br>Benches: 26<br>Gardens: 0<br>Trees: 1265<br>Greenstreets: 11<br>Chill Score: 14.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2103<br>311 Complaints: 423<br>Benches: 26<br>Gardens: 0<br>Trees: 1265<br>Greenstreets: 11<br>Chill Score: 14.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -81131,7 +81131,7 @@ geo_json_1ad53dc7fef0dc312ef640b4c2f60d40_add({
 
 geo_json_1ad53dc7fef0dc312ef640b4c2f60d40.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2104<br>311 Complaints 426<br>Benches: 6<br>Gardens: 1<br>Trees: 1206<br>Greenstreets: 9<br>Chill Score: 12.86<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2104<br>311 Complaints: 426<br>Benches: 6<br>Gardens: 1<br>Trees: 1206<br>Greenstreets: 9<br>Chill Score: 12.86<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -81222,7 +81222,7 @@ geo_json_5984f8fd62638faabd47a5f55790d4ec_add({
 
 geo_json_5984f8fd62638faabd47a5f55790d4ec.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2105<br>311 Complaints 472<br>Benches: 24<br>Gardens: 0<br>Trees: 938<br>Greenstreets: 2<br>Chill Score: 5.900000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2105<br>311 Complaints: 472<br>Benches: 24<br>Gardens: 0<br>Trees: 938<br>Greenstreets: 2<br>Chill Score: 5.900000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -81313,7 +81313,7 @@ geo_json_e83c96d98b0b29763939b676ee0e2445_add({
 
 geo_json_e83c96d98b0b29763939b676ee0e2445.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2106<br>311 Complaints 317<br>Benches: 3<br>Gardens: 0<br>Trees: 718<br>Greenstreets: 2<br>Chill Score: 5.039999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2106<br>311 Complaints: 317<br>Benches: 3<br>Gardens: 0<br>Trees: 718<br>Greenstreets: 2<br>Chill Score: 5.039999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -81404,7 +81404,7 @@ geo_json_fa5fa867392cf016a4991d95366d5ec9_add({
 
 geo_json_fa5fa867392cf016a4991d95366d5ec9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2107<br>311 Complaints 16<br>Benches: 0<br>Gardens: 0<br>Trees: 36<br>Greenstreets: 7<br>Chill Score: 3.7<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2107<br>311 Complaints: 16<br>Benches: 0<br>Gardens: 0<br>Trees: 36<br>Greenstreets: 7<br>Chill Score: 3.7<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -81495,7 +81495,7 @@ geo_json_4f9d2aab8e11965b1f09ec57079e0ee8_add({
 
 geo_json_4f9d2aab8e11965b1f09ec57079e0ee8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2108<br>311 Complaints 43<br>Benches: 0<br>Gardens: 0<br>Trees: 84<br>Greenstreets: 0<br>Chill Score: 0.41<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2108<br>311 Complaints: 43<br>Benches: 0<br>Gardens: 0<br>Trees: 84<br>Greenstreets: 0<br>Chill Score: 0.41<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -81586,7 +81586,7 @@ geo_json_e437e4d8c0d61ddf1d90f55e9f679b8d_add({
 
 geo_json_e437e4d8c0d61ddf1d90f55e9f679b8d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2109<br>311 Complaints 236<br>Benches: 6<br>Gardens: 0<br>Trees: 529<br>Greenstreets: 0<br>Chill Score: 2.99<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2109<br>311 Complaints: 236<br>Benches: 6<br>Gardens: 0<br>Trees: 529<br>Greenstreets: 0<br>Chill Score: 2.99<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -81677,7 +81677,7 @@ geo_json_bbf2e378d4b6b1c2a63a9c4ce5a33cf7_add({
 
 geo_json_bbf2e378d4b6b1c2a63a9c4ce5a33cf7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2110<br>311 Complaints 163<br>Benches: 4<br>Gardens: 0<br>Trees: 656<br>Greenstreets: 0<br>Chill Score: 4.970000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2110<br>311 Complaints: 163<br>Benches: 4<br>Gardens: 0<br>Trees: 656<br>Greenstreets: 0<br>Chill Score: 4.970000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -81768,7 +81768,7 @@ geo_json_431ad80955331f9a1705d341683c4d01_add({
 
 geo_json_431ad80955331f9a1705d341683c4d01.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2111<br>311 Complaints 117<br>Benches: 0<br>Gardens: 0<br>Trees: 836<br>Greenstreets: 2<br>Chill Score: 8.19<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2111<br>311 Complaints: 117<br>Benches: 0<br>Gardens: 0<br>Trees: 836<br>Greenstreets: 2<br>Chill Score: 8.19<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -81859,7 +81859,7 @@ geo_json_8fddcbf1fdba05cb1a621c3708b6f96c_add({
 
 geo_json_8fddcbf1fdba05cb1a621c3708b6f96c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2112<br>311 Complaints 88<br>Benches: 0<br>Gardens: 0<br>Trees: 520<br>Greenstreets: 4<br>Chill Score: 6.32<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2112<br>311 Complaints: 88<br>Benches: 0<br>Gardens: 0<br>Trees: 520<br>Greenstreets: 4<br>Chill Score: 6.32<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -81950,7 +81950,7 @@ geo_json_b012f037a0b6935f0e9d6566e94557c1_add({
 
 geo_json_b012f037a0b6935f0e9d6566e94557c1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2113<br>311 Complaints 177<br>Benches: 0<br>Gardens: 0<br>Trees: 1060<br>Greenstreets: 7<br>Chill Score: 12.33<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2113<br>311 Complaints: 177<br>Benches: 0<br>Gardens: 0<br>Trees: 1060<br>Greenstreets: 7<br>Chill Score: 12.33<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -82041,7 +82041,7 @@ geo_json_4b7b5c1eb94c2541124ea67ad60dec6f_add({
 
 geo_json_4b7b5c1eb94c2541124ea67ad60dec6f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2114<br>311 Complaints 133<br>Benches: 1<br>Gardens: 0<br>Trees: 973<br>Greenstreets: 8<br>Chill Score: 12.41<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2114<br>311 Complaints: 133<br>Benches: 1<br>Gardens: 0<br>Trees: 973<br>Greenstreets: 8<br>Chill Score: 12.41<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -82132,7 +82132,7 @@ geo_json_6a9309fd832ed155e0c652c9099afd1a_add({
 
 geo_json_6a9309fd832ed155e0c652c9099afd1a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2115<br>311 Complaints 146<br>Benches: 0<br>Gardens: 0<br>Trees: 811<br>Greenstreets: 1<br>Chill Score: 7.1499999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2115<br>311 Complaints: 146<br>Benches: 0<br>Gardens: 0<br>Trees: 811<br>Greenstreets: 1<br>Chill Score: 7.1499999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -82223,7 +82223,7 @@ geo_json_6a160a67829e1a3d2d647c506506ecb0_add({
 
 geo_json_6a160a67829e1a3d2d647c506506ecb0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2116<br>311 Complaints 92<br>Benches: 0<br>Gardens: 0<br>Trees: 772<br>Greenstreets: 1<br>Chill Score: 7.3<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2116<br>311 Complaints: 92<br>Benches: 0<br>Gardens: 0<br>Trees: 772<br>Greenstreets: 1<br>Chill Score: 7.3<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -82314,7 +82314,7 @@ geo_json_078fb709f6cf900789ee6902e69cf990_add({
 
 geo_json_078fb709f6cf900789ee6902e69cf990.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2117<br>311 Complaints 97<br>Benches: 3<br>Gardens: 0<br>Trees: 854<br>Greenstreets: 0<br>Chill Score: 7.600000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2117<br>311 Complaints: 97<br>Benches: 3<br>Gardens: 0<br>Trees: 854<br>Greenstreets: 0<br>Chill Score: 7.600000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -82405,7 +82405,7 @@ geo_json_f30353923be1c062c1ef75b152430e2f_add({
 
 geo_json_f30353923be1c062c1ef75b152430e2f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2118<br>311 Complaints 90<br>Benches: 0<br>Gardens: 0<br>Trees: 306<br>Greenstreets: 3<br>Chill Score: 3.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2118<br>311 Complaints: 90<br>Benches: 0<br>Gardens: 0<br>Trees: 306<br>Greenstreets: 3<br>Chill Score: 3.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -82496,7 +82496,7 @@ geo_json_cd0215899895f5d7e837da772d7bd583_add({
 
 geo_json_cd0215899895f5d7e837da772d7bd583.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2119<br>311 Complaints 32<br>Benches: 0<br>Gardens: 0<br>Trees: 212<br>Greenstreets: 2<br>Chill Score: 2.8<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2119<br>311 Complaints: 32<br>Benches: 0<br>Gardens: 0<br>Trees: 212<br>Greenstreets: 2<br>Chill Score: 2.8<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -82587,7 +82587,7 @@ geo_json_8930b5735df8c6de76bfe4be15d638fe_add({
 
 geo_json_8930b5735df8c6de76bfe4be15d638fe.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2120<br>311 Complaints 35<br>Benches: 0<br>Gardens: 0<br>Trees: 504<br>Greenstreets: 2<br>Chill Score: 5.69<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2120<br>311 Complaints: 35<br>Benches: 0<br>Gardens: 0<br>Trees: 504<br>Greenstreets: 2<br>Chill Score: 5.69<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -82678,7 +82678,7 @@ geo_json_a25b3fc2f7045aa59ee1a77368de278a_add({
 
 geo_json_a25b3fc2f7045aa59ee1a77368de278a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2121<br>311 Complaints 66<br>Benches: 0<br>Gardens: 0<br>Trees: 657<br>Greenstreets: 0<br>Chill Score: 5.91<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2121<br>311 Complaints: 66<br>Benches: 0<br>Gardens: 0<br>Trees: 657<br>Greenstreets: 0<br>Chill Score: 5.91<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -82769,7 +82769,7 @@ geo_json_296e4b318c0eee997a4ba687a874470f_add({
 
 geo_json_296e4b318c0eee997a4ba687a874470f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2122<br>311 Complaints 71<br>Benches: 1<br>Gardens: 0<br>Trees: 843<br>Greenstreets: 6<br>Chill Score: 10.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2122<br>311 Complaints: 71<br>Benches: 1<br>Gardens: 0<br>Trees: 843<br>Greenstreets: 6<br>Chill Score: 10.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -82860,7 +82860,7 @@ geo_json_e5e4767959d6d8958fc4a82e1270e9a0_add({
 
 geo_json_e5e4767959d6d8958fc4a82e1270e9a0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2149<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 2<br>Greenstreets: 0<br>Chill Score: 0.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2149<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 2<br>Greenstreets: 0<br>Chill Score: 0.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -82951,7 +82951,7 @@ geo_json_1bc43b1de93efa6151e13358cbec972f_add({
 
 geo_json_1bc43b1de93efa6151e13358cbec972f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2150<br>311 Complaints 240<br>Benches: 2<br>Gardens: 0<br>Trees: 355<br>Greenstreets: 0<br>Chill Score: 1.1700000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2150<br>311 Complaints: 240<br>Benches: 2<br>Gardens: 0<br>Trees: 355<br>Greenstreets: 0<br>Chill Score: 1.1700000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -83042,7 +83042,7 @@ geo_json_03dc8fdf13caba47450775e232bde4e6_add({
 
 geo_json_03dc8fdf13caba47450775e232bde4e6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2151<br>311 Complaints 779<br>Benches: 3<br>Gardens: 1<br>Trees: 903<br>Greenstreets: 0<br>Chill Score: 1.7699999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2151<br>311 Complaints: 779<br>Benches: 3<br>Gardens: 1<br>Trees: 903<br>Greenstreets: 0<br>Chill Score: 1.7699999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -83133,7 +83133,7 @@ geo_json_7c9e90d50a139b9fc435c14a3f720dce_add({
 
 geo_json_7c9e90d50a139b9fc435c14a3f720dce.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2152<br>311 Complaints 475<br>Benches: 0<br>Gardens: 0<br>Trees: 425<br>Greenstreets: 15<br>Chill Score: 7.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2152<br>311 Complaints: 475<br>Benches: 0<br>Gardens: 0<br>Trees: 425<br>Greenstreets: 15<br>Chill Score: 7.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -83224,7 +83224,7 @@ geo_json_cdf3ef0a0ce7cc099ac42b0a457a4467_add({
 
 geo_json_cdf3ef0a0ce7cc099ac42b0a457a4467.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2153<br>311 Complaints 421<br>Benches: 1<br>Gardens: 0<br>Trees: 676<br>Greenstreets: 0<br>Chill Score: 2.5599999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2153<br>311 Complaints: 421<br>Benches: 1<br>Gardens: 0<br>Trees: 676<br>Greenstreets: 0<br>Chill Score: 2.5599999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -83315,7 +83315,7 @@ geo_json_301683c47ce9a9672a164b0887621077_add({
 
 geo_json_301683c47ce9a9672a164b0887621077.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2154<br>311 Complaints 360<br>Benches: 11<br>Gardens: 0<br>Trees: 1090<br>Greenstreets: 6<br>Chill Score: 10.41<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2154<br>311 Complaints: 360<br>Benches: 11<br>Gardens: 0<br>Trees: 1090<br>Greenstreets: 6<br>Chill Score: 10.41<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -83406,7 +83406,7 @@ geo_json_874e69f813a8c430d2f04241e659ae01_add({
 
 geo_json_874e69f813a8c430d2f04241e659ae01.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2155<br>311 Complaints 14<br>Benches: 1<br>Gardens: 0<br>Trees: 28<br>Greenstreets: 0<br>Chill Score: 0.15000000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2155<br>311 Complaints: 14<br>Benches: 1<br>Gardens: 0<br>Trees: 28<br>Greenstreets: 0<br>Chill Score: 0.15000000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -83497,7 +83497,7 @@ geo_json_1d3da8ebe361007ce1b28c8dfbe899df_add({
 
 geo_json_1d3da8ebe361007ce1b28c8dfbe899df.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2156<br>311 Complaints 154<br>Benches: 1<br>Gardens: 0<br>Trees: 203<br>Greenstreets: 1<br>Chill Score: 1.0000000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2156<br>311 Complaints: 154<br>Benches: 1<br>Gardens: 0<br>Trees: 203<br>Greenstreets: 1<br>Chill Score: 1.0000000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -83588,7 +83588,7 @@ geo_json_98a422bd43b20ec37d932594b3c32963_add({
 
 geo_json_98a422bd43b20ec37d932594b3c32963.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2157<br>311 Complaints 242<br>Benches: 0<br>Gardens: 0<br>Trees: 562<br>Greenstreets: 0<br>Chill Score: 3.2<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2157<br>311 Complaints: 242<br>Benches: 0<br>Gardens: 0<br>Trees: 562<br>Greenstreets: 0<br>Chill Score: 3.2<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -83679,7 +83679,7 @@ geo_json_a975fadd4436db96bd7a0a2cdb17dca0_add({
 
 geo_json_a975fadd4436db96bd7a0a2cdb17dca0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2158<br>311 Complaints 314<br>Benches: 9<br>Gardens: 0<br>Trees: 713<br>Greenstreets: 0<br>Chill Score: 4.08<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2158<br>311 Complaints: 314<br>Benches: 9<br>Gardens: 0<br>Trees: 713<br>Greenstreets: 0<br>Chill Score: 4.08<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -83770,7 +83770,7 @@ geo_json_3fb012dff71a66b8addedac64f4070d0_add({
 
 geo_json_3fb012dff71a66b8addedac64f4070d0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2159<br>311 Complaints 386<br>Benches: 3<br>Gardens: 0<br>Trees: 974<br>Greenstreets: 0<br>Chill Score: 5.91<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2159<br>311 Complaints: 386<br>Benches: 3<br>Gardens: 0<br>Trees: 974<br>Greenstreets: 0<br>Chill Score: 5.91<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -83861,7 +83861,7 @@ geo_json_14eb7cc1f440003fa2ee1d14f68029ea_add({
 
 geo_json_14eb7cc1f440003fa2ee1d14f68029ea.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2160<br>311 Complaints 140<br>Benches: 3<br>Gardens: 0<br>Trees: 401<br>Greenstreets: 1<br>Chill Score: 3.1399999999999997<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2160<br>311 Complaints: 140<br>Benches: 3<br>Gardens: 0<br>Trees: 401<br>Greenstreets: 1<br>Chill Score: 3.1399999999999997<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -83952,7 +83952,7 @@ geo_json_3d905bed72d8bb5fe18b144928ba92ba_add({
 
 geo_json_3d905bed72d8bb5fe18b144928ba92ba.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2161<br>311 Complaints 223<br>Benches: 0<br>Gardens: 0<br>Trees: 829<br>Greenstreets: 0<br>Chill Score: 6.0600000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2161<br>311 Complaints: 223<br>Benches: 0<br>Gardens: 0<br>Trees: 829<br>Greenstreets: 0<br>Chill Score: 6.0600000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -84043,7 +84043,7 @@ geo_json_3f69e1626ee5304265ac240a2654f241_add({
 
 geo_json_3f69e1626ee5304265ac240a2654f241.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2162<br>311 Complaints 277<br>Benches: 0<br>Gardens: 0<br>Trees: 1088<br>Greenstreets: 0<br>Chill Score: 8.110000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2162<br>311 Complaints: 277<br>Benches: 0<br>Gardens: 0<br>Trees: 1088<br>Greenstreets: 0<br>Chill Score: 8.110000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -84134,7 +84134,7 @@ geo_json_789710239de2f3bbfe6ec47b9419140c_add({
 
 geo_json_789710239de2f3bbfe6ec47b9419140c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2163<br>311 Complaints 265<br>Benches: 1<br>Gardens: 0<br>Trees: 956<br>Greenstreets: 4<br>Chill Score: 8.92<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2163<br>311 Complaints: 265<br>Benches: 1<br>Gardens: 0<br>Trees: 956<br>Greenstreets: 4<br>Chill Score: 8.92<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -84225,7 +84225,7 @@ geo_json_a40179d577b3633b4e6055ac10873d77_add({
 
 geo_json_a40179d577b3633b4e6055ac10873d77.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2164<br>311 Complaints 296<br>Benches: 1<br>Gardens: 0<br>Trees: 741<br>Greenstreets: 6<br>Chill Score: 7.46<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2164<br>311 Complaints: 296<br>Benches: 1<br>Gardens: 0<br>Trees: 741<br>Greenstreets: 6<br>Chill Score: 7.46<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -84316,7 +84316,7 @@ geo_json_8e250741393be003bd183bbc03304885_add({
 
 geo_json_8e250741393be003bd183bbc03304885.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2165<br>311 Complaints 299<br>Benches: 1<br>Gardens: 1<br>Trees: 338<br>Greenstreets: 1<br>Chill Score: 1.3999999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2165<br>311 Complaints: 299<br>Benches: 1<br>Gardens: 1<br>Trees: 338<br>Greenstreets: 1<br>Chill Score: 1.3999999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -84407,7 +84407,7 @@ geo_json_de72f3e0a03ade4adb70e623a184eede_add({
 
 geo_json_de72f3e0a03ade4adb70e623a184eede.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2166<br>311 Complaints 35<br>Benches: 0<br>Gardens: 0<br>Trees: 62<br>Greenstreets: 7<br>Chill Score: 3.77<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2166<br>311 Complaints: 35<br>Benches: 0<br>Gardens: 0<br>Trees: 62<br>Greenstreets: 7<br>Chill Score: 3.77<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -84498,7 +84498,7 @@ geo_json_b1abbfde94aafd60ce95f42d705d91a8_add({
 
 geo_json_b1abbfde94aafd60ce95f42d705d91a8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2167<br>311 Complaints 99<br>Benches: 0<br>Gardens: 0<br>Trees: 184<br>Greenstreets: 1<br>Chill Score: 1.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2167<br>311 Complaints: 99<br>Benches: 0<br>Gardens: 0<br>Trees: 184<br>Greenstreets: 1<br>Chill Score: 1.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -84589,7 +84589,7 @@ geo_json_7201420c4fc8ef4bc95081f57c22dddb_add({
 
 geo_json_7201420c4fc8ef4bc95081f57c22dddb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2168<br>311 Complaints 403<br>Benches: 6<br>Gardens: 0<br>Trees: 604<br>Greenstreets: 3<br>Chill Score: 3.57<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2168<br>311 Complaints: 403<br>Benches: 6<br>Gardens: 0<br>Trees: 604<br>Greenstreets: 3<br>Chill Score: 3.57<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -84680,7 +84680,7 @@ geo_json_ac37ba1ebf2c648b1eabb5db861c7776_add({
 
 geo_json_ac37ba1ebf2c648b1eabb5db861c7776.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2169<br>311 Complaints 222<br>Benches: 1<br>Gardens: 0<br>Trees: 852<br>Greenstreets: 0<br>Chill Score: 6.309999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2169<br>311 Complaints: 222<br>Benches: 1<br>Gardens: 0<br>Trees: 852<br>Greenstreets: 0<br>Chill Score: 6.309999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -84771,7 +84771,7 @@ geo_json_5e3491d28fc60b0bad927474633c4916_add({
 
 geo_json_5e3491d28fc60b0bad927474633c4916.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2170<br>311 Complaints 216<br>Benches: 0<br>Gardens: 0<br>Trees: 741<br>Greenstreets: 0<br>Chill Score: 5.25<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2170<br>311 Complaints: 216<br>Benches: 0<br>Gardens: 0<br>Trees: 741<br>Greenstreets: 0<br>Chill Score: 5.25<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -84862,7 +84862,7 @@ geo_json_fac688f7d3720d4d084d8fdc66a2e439_add({
 
 geo_json_fac688f7d3720d4d084d8fdc66a2e439.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2171<br>311 Complaints 158<br>Benches: 1<br>Gardens: 0<br>Trees: 728<br>Greenstreets: 3<br>Chill Score: 7.21<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2171<br>311 Complaints: 158<br>Benches: 1<br>Gardens: 0<br>Trees: 728<br>Greenstreets: 3<br>Chill Score: 7.21<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -84953,7 +84953,7 @@ geo_json_f62360d57697fefae2f12b1b9919edb0_add({
 
 geo_json_f62360d57697fefae2f12b1b9919edb0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2172<br>311 Complaints 137<br>Benches: 0<br>Gardens: 0<br>Trees: 862<br>Greenstreets: 1<br>Chill Score: 7.750000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2172<br>311 Complaints: 137<br>Benches: 0<br>Gardens: 0<br>Trees: 862<br>Greenstreets: 1<br>Chill Score: 7.750000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -85044,7 +85044,7 @@ geo_json_dc2cf77f8675e0f58b044c89de999aa2_add({
 
 geo_json_dc2cf77f8675e0f58b044c89de999aa2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2173<br>311 Complaints 125<br>Benches: 1<br>Gardens: 0<br>Trees: 1002<br>Greenstreets: 11<br>Chill Score: 14.28<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2173<br>311 Complaints: 125<br>Benches: 1<br>Gardens: 0<br>Trees: 1002<br>Greenstreets: 11<br>Chill Score: 14.28<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -85135,7 +85135,7 @@ geo_json_7fe11520a22c8894ec834c605b978559_add({
 
 geo_json_7fe11520a22c8894ec834c605b978559.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2174<br>311 Complaints 232<br>Benches: 8<br>Gardens: 0<br>Trees: 1146<br>Greenstreets: 2<br>Chill Score: 10.22<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2174<br>311 Complaints: 232<br>Benches: 8<br>Gardens: 0<br>Trees: 1146<br>Greenstreets: 2<br>Chill Score: 10.22<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -85226,7 +85226,7 @@ geo_json_8ce11c603b3a7d04c71f00097c2d8754_add({
 
 geo_json_8ce11c603b3a7d04c71f00097c2d8754.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2175<br>311 Complaints 86<br>Benches: 0<br>Gardens: 0<br>Trees: 761<br>Greenstreets: 0<br>Chill Score: 6.75<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2175<br>311 Complaints: 86<br>Benches: 0<br>Gardens: 0<br>Trees: 761<br>Greenstreets: 0<br>Chill Score: 6.75<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -85317,7 +85317,7 @@ geo_json_8c55201cc797a89266f20d2421019c20_add({
 
 geo_json_8c55201cc797a89266f20d2421019c20.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2176<br>311 Complaints 27<br>Benches: 0<br>Gardens: 0<br>Trees: 392<br>Greenstreets: 1<br>Chill Score: 4.15<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2176<br>311 Complaints: 27<br>Benches: 0<br>Gardens: 0<br>Trees: 392<br>Greenstreets: 1<br>Chill Score: 4.15<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -85408,7 +85408,7 @@ geo_json_493b85f7949795450e27ab296f769398_add({
 
 geo_json_493b85f7949795450e27ab296f769398.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2177<br>311 Complaints 100<br>Benches: 1<br>Gardens: 0<br>Trees: 531<br>Greenstreets: 0<br>Chill Score: 4.32<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2177<br>311 Complaints: 100<br>Benches: 1<br>Gardens: 0<br>Trees: 531<br>Greenstreets: 0<br>Chill Score: 4.32<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -85499,7 +85499,7 @@ geo_json_fdbbda18c75b4a41de76cc5c4ae0f4d9_add({
 
 geo_json_fdbbda18c75b4a41de76cc5c4ae0f4d9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2178<br>311 Complaints 124<br>Benches: 1<br>Gardens: 0<br>Trees: 746<br>Greenstreets: 1<br>Chill Score: 6.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2178<br>311 Complaints: 124<br>Benches: 1<br>Gardens: 0<br>Trees: 746<br>Greenstreets: 1<br>Chill Score: 6.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -85590,7 +85590,7 @@ geo_json_aa4673f808f6bd1e8ffffb29e40bcc4b_add({
 
 geo_json_aa4673f808f6bd1e8ffffb29e40bcc4b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2179<br>311 Complaints 125<br>Benches: 1<br>Gardens: 0<br>Trees: 614<br>Greenstreets: 0<br>Chill Score: 4.9<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2179<br>311 Complaints: 125<br>Benches: 1<br>Gardens: 0<br>Trees: 614<br>Greenstreets: 0<br>Chill Score: 4.9<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -85681,7 +85681,7 @@ geo_json_4294cb69149da5574c29d7c4667db97c_add({
 
 geo_json_4294cb69149da5574c29d7c4667db97c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2180<br>311 Complaints 12<br>Benches: 0<br>Gardens: 0<br>Trees: 165<br>Greenstreets: 0<br>Chill Score: 1.5300000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2180<br>311 Complaints: 12<br>Benches: 0<br>Gardens: 0<br>Trees: 165<br>Greenstreets: 0<br>Chill Score: 1.5300000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -85772,7 +85772,7 @@ geo_json_8414acf01181191a28d6705e72926179_add({
 
 geo_json_8414acf01181191a28d6705e72926179.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2209<br>311 Complaints 34<br>Benches: 0<br>Gardens: 0<br>Trees: 91<br>Greenstreets: 0<br>Chill Score: 0.5700000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2209<br>311 Complaints: 34<br>Benches: 0<br>Gardens: 0<br>Trees: 91<br>Greenstreets: 0<br>Chill Score: 0.5700000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -85863,7 +85863,7 @@ geo_json_533ebb25dda3276e8f9a925e9d9d3fb4_add({
 
 geo_json_533ebb25dda3276e8f9a925e9d9d3fb4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2210<br>311 Complaints 397<br>Benches: 3<br>Gardens: 2<br>Trees: 899<br>Greenstreets: 0<br>Chill Score: 6.05<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2210<br>311 Complaints: 397<br>Benches: 3<br>Gardens: 2<br>Trees: 899<br>Greenstreets: 0<br>Chill Score: 6.05<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -85954,7 +85954,7 @@ geo_json_45604001edeffd46bc75df9f188f61a5_add({
 
 geo_json_45604001edeffd46bc75df9f188f61a5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2211<br>311 Complaints 530<br>Benches: 1<br>Gardens: 0<br>Trees: 438<br>Greenstreets: 10<br>Chill Score: 4.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2211<br>311 Complaints: 530<br>Benches: 1<br>Gardens: 0<br>Trees: 438<br>Greenstreets: 10<br>Chill Score: 4.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -86045,7 +86045,7 @@ geo_json_81f6387c20a23159fc7b467c1139ec1d_add({
 
 geo_json_81f6387c20a23159fc7b467c1139ec1d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2212<br>311 Complaints 182<br>Benches: 0<br>Gardens: 0<br>Trees: 727<br>Greenstreets: 0<br>Chill Score: 5.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2212<br>311 Complaints: 182<br>Benches: 0<br>Gardens: 0<br>Trees: 727<br>Greenstreets: 0<br>Chill Score: 5.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -86136,7 +86136,7 @@ geo_json_00ada41e5c5d3805d8ffed7ceabd6178_add({
 
 geo_json_00ada41e5c5d3805d8ffed7ceabd6178.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2213<br>311 Complaints 348<br>Benches: 15<br>Gardens: 0<br>Trees: 1427<br>Greenstreets: 2<br>Chill Score: 11.94<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2213<br>311 Complaints: 348<br>Benches: 15<br>Gardens: 0<br>Trees: 1427<br>Greenstreets: 2<br>Chill Score: 11.94<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -86227,7 +86227,7 @@ geo_json_6aff3474e427e4e63063cd072c0274c0_add({
 
 geo_json_6aff3474e427e4e63063cd072c0274c0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2214<br>311 Complaints 320<br>df_air_quality_2: 4<brBenches: 5<br>Gardens: 0<br>Trees: 770<br>Greenstreets: 0<br>mean_mcg_m3: 6.0<br>Chill Score: 4.55<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2214<br>311 Complaints: 320<br>df_air_quality_2: 4<brBenches: 5<br>Gardens: 0<br>Trees: 770<br>Greenstreets: 0<br>mean_mcg_m3: 6.0<br>Chill Score: 4.55<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -86318,7 +86318,7 @@ geo_json_ef868698fa11908769d7cf6dd4174ec8_add({
 
 geo_json_ef868698fa11908769d7cf6dd4174ec8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2215<br>311 Complaints 41<br>Benches: 0<br>Gardens: 0<br>Trees: 57<br>Greenstreets: 0<br>Chill Score: 0.16000000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2215<br>311 Complaints: 41<br>Benches: 0<br>Gardens: 0<br>Trees: 57<br>Greenstreets: 0<br>Chill Score: 0.16000000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -86409,7 +86409,7 @@ geo_json_299515fbafeff62598654f4db69404fb_add({
 
 geo_json_299515fbafeff62598654f4db69404fb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2216<br>311 Complaints 256<br>Benches: 2<br>Gardens: 0<br>Trees: 572<br>Greenstreets: 1<br>Chill Score: 3.6799999999999997<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2216<br>311 Complaints: 256<br>Benches: 2<br>Gardens: 0<br>Trees: 572<br>Greenstreets: 1<br>Chill Score: 3.6799999999999997<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -86500,7 +86500,7 @@ geo_json_90ccb2f2a90bca9641153c754650c8df_add({
 
 geo_json_90ccb2f2a90bca9641153c754650c8df.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2217<br>311 Complaints 326<br>Benches: 7<br>Gardens: 0<br>Trees: 708<br>Greenstreets: 0<br>Chill Score: 3.8899999999999997<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2217<br>311 Complaints: 326<br>Benches: 7<br>Gardens: 0<br>Trees: 708<br>Greenstreets: 0<br>Chill Score: 3.8899999999999997<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -86591,7 +86591,7 @@ geo_json_7168a50a7bf252a2dea6ac24e5271add_add({
 
 geo_json_7168a50a7bf252a2dea6ac24e5271add.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2218<br>311 Complaints 357<br>Benches: 3<br>Gardens: 0<br>Trees: 738<br>Greenstreets: 0<br>Chill Score: 3.8399999999999994<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2218<br>311 Complaints: 357<br>Benches: 3<br>Gardens: 0<br>Trees: 738<br>Greenstreets: 0<br>Chill Score: 3.8399999999999994<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -86682,7 +86682,7 @@ geo_json_a59da0a12aa780058a82877626f01b6a_add({
 
 geo_json_a59da0a12aa780058a82877626f01b6a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2219<br>311 Complaints 167<br>Benches: 0<br>Gardens: 0<br>Trees: 546<br>Greenstreets: 0<br>Chill Score: 3.79<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2219<br>311 Complaints: 167<br>Benches: 0<br>Gardens: 0<br>Trees: 546<br>Greenstreets: 0<br>Chill Score: 3.79<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -86773,7 +86773,7 @@ geo_json_37630ef6e81d26f4d9fe35a983df4b20_add({
 
 geo_json_37630ef6e81d26f4d9fe35a983df4b20.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2220<br>311 Complaints 171<br>Benches: 0<br>Gardens: 0<br>Trees: 718<br>Greenstreets: 3<br>Chill Score: 6.97<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2220<br>311 Complaints: 171<br>Benches: 0<br>Gardens: 0<br>Trees: 718<br>Greenstreets: 3<br>Chill Score: 6.97<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -86864,7 +86864,7 @@ geo_json_cc7c8a42f2052ba198e6a9fe75e90246_add({
 
 geo_json_cc7c8a42f2052ba198e6a9fe75e90246.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2221<br>311 Complaints 98<br>Benches: 1<br>Gardens: 0<br>Trees: 509<br>Greenstreets: 14<br>Chill Score: 11.120000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2221<br>311 Complaints: 98<br>Benches: 1<br>Gardens: 0<br>Trees: 509<br>Greenstreets: 14<br>Chill Score: 11.120000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -86955,7 +86955,7 @@ geo_json_7221b9a1bca1ba605a3397f0cd856a63_add({
 
 geo_json_7221b9a1bca1ba605a3397f0cd856a63.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2222<br>311 Complaints 234<br>Benches: 1<br>Gardens: 0<br>Trees: 833<br>Greenstreets: 12<br>Chill Score: 12.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2222<br>311 Complaints: 234<br>Benches: 1<br>Gardens: 0<br>Trees: 833<br>Greenstreets: 12<br>Chill Score: 12.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -87046,7 +87046,7 @@ geo_json_fa7997639ef9ca95916977b4a6f5ec8a_add({
 
 geo_json_fa7997639ef9ca95916977b4a6f5ec8a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2223<br>311 Complaints 103<br>Benches: 0<br>Gardens: 1<br>Trees: 397<br>Greenstreets: 9<br>Chill Score: 7.94<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2223<br>311 Complaints: 103<br>Benches: 0<br>Gardens: 1<br>Trees: 397<br>Greenstreets: 9<br>Chill Score: 7.94<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -87137,7 +87137,7 @@ geo_json_c23603b9291419a4b6ee567b66a17b29_add({
 
 geo_json_c23603b9291419a4b6ee567b66a17b29.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2225<br>311 Complaints 5<br>Benches: 0<br>Gardens: 0<br>Trees: 80<br>Greenstreets: 0<br>Chill Score: 0.75<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2225<br>311 Complaints: 5<br>Benches: 0<br>Gardens: 0<br>Trees: 80<br>Greenstreets: 0<br>Chill Score: 0.75<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -87228,7 +87228,7 @@ geo_json_1994ac90017d587e6cc42c53d57a8898_add({
 
 geo_json_1994ac90017d587e6cc42c53d57a8898.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2226<br>311 Complaints 54<br>Benches: 0<br>Gardens: 0<br>Trees: 115<br>Greenstreets: 0<br>Chill Score: 0.6100000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2226<br>311 Complaints: 54<br>Benches: 0<br>Gardens: 0<br>Trees: 115<br>Greenstreets: 0<br>Chill Score: 0.6100000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -87319,7 +87319,7 @@ geo_json_6252a72ddddf46b1a928f3ac2a6cd569_add({
 
 geo_json_6252a72ddddf46b1a928f3ac2a6cd569.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2227<br>311 Complaints 195<br>Benches: 2<br>Gardens: 0<br>Trees: 765<br>Greenstreets: 1<br>Chill Score: 6.220000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2227<br>311 Complaints: 195<br>Benches: 2<br>Gardens: 0<br>Trees: 765<br>Greenstreets: 1<br>Chill Score: 6.220000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -87410,7 +87410,7 @@ geo_json_4d84f98057ffaf5d5f1067e6d98b2225_add({
 
 geo_json_4d84f98057ffaf5d5f1067e6d98b2225.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2228<br>311 Complaints 151<br>Benches: 0<br>Gardens: 0<br>Trees: 782<br>Greenstreets: 0<br>Chill Score: 6.3100000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2228<br>311 Complaints: 151<br>Benches: 0<br>Gardens: 0<br>Trees: 782<br>Greenstreets: 0<br>Chill Score: 6.3100000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -87501,7 +87501,7 @@ geo_json_69c505d0ea5176ac5c32cce23ccdb80d_add({
 
 geo_json_69c505d0ea5176ac5c32cce23ccdb80d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2229<br>311 Complaints 131<br>Benches: 2<br>Gardens: 0<br>Trees: 1010<br>Greenstreets: 1<br>Chill Score: 9.309999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2229<br>311 Complaints: 131<br>Benches: 2<br>Gardens: 0<br>Trees: 1010<br>Greenstreets: 1<br>Chill Score: 9.309999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -87592,7 +87592,7 @@ geo_json_b0dd86ca273bf3214ee42ab309c4bc45_add({
 
 geo_json_b0dd86ca273bf3214ee42ab309c4bc45.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2230<br>311 Complaints 129<br>Benches: 0<br>Gardens: 0<br>Trees: 1056<br>Greenstreets: 0<br>Chill Score: 9.27<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2230<br>311 Complaints: 129<br>Benches: 0<br>Gardens: 0<br>Trees: 1056<br>Greenstreets: 0<br>Chill Score: 9.27<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -87683,7 +87683,7 @@ geo_json_f40fce25788fc5640ebea421a305d9cf_add({
 
 geo_json_f40fce25788fc5640ebea421a305d9cf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2231<br>311 Complaints 206<br>Benches: 1<br>Gardens: 0<br>Trees: 953<br>Greenstreets: 5<br>Chill Score: 9.979999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2231<br>311 Complaints: 206<br>Benches: 1<br>Gardens: 0<br>Trees: 953<br>Greenstreets: 5<br>Chill Score: 9.979999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -87774,7 +87774,7 @@ geo_json_3eab2f59a01fdd6a2658ed9b193a6076_add({
 
 geo_json_3eab2f59a01fdd6a2658ed9b193a6076.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2232<br>311 Complaints 119<br>Benches: 0<br>Gardens: 0<br>Trees: 1069<br>Greenstreets: 0<br>Chill Score: 9.5<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2232<br>311 Complaints: 119<br>Benches: 0<br>Gardens: 0<br>Trees: 1069<br>Greenstreets: 0<br>Chill Score: 9.5<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -87865,7 +87865,7 @@ geo_json_4cda0f672e9fbcc7292f4454ce02f278_add({
 
 geo_json_4cda0f672e9fbcc7292f4454ce02f278.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2233<br>311 Complaints 184<br>Benches: 10<br>Gardens: 0<br>Trees: 1004<br>Greenstreets: 0<br>Chill Score: 8.3<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2233<br>311 Complaints: 184<br>Benches: 10<br>Gardens: 0<br>Trees: 1004<br>Greenstreets: 0<br>Chill Score: 8.3<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -87956,7 +87956,7 @@ geo_json_cdb2deb0eee9fceff6abd1a42b2a73e6_add({
 
 geo_json_cdb2deb0eee9fceff6abd1a42b2a73e6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2234<br>311 Complaints 118<br>Benches: 0<br>Gardens: 0<br>Trees: 428<br>Greenstreets: 1<br>Chill Score: 3.6000000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2234<br>311 Complaints: 118<br>Benches: 0<br>Gardens: 0<br>Trees: 428<br>Greenstreets: 1<br>Chill Score: 3.6000000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -88047,7 +88047,7 @@ geo_json_954cfcd91d133471cc1d7ab4c7195d6d_add({
 
 geo_json_954cfcd91d133471cc1d7ab4c7195d6d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2235<br>311 Complaints 23<br>Benches: 3<br>Gardens: 0<br>Trees: 295<br>Greenstreets: 4<br>Chill Score: 4.75<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2235<br>311 Complaints: 23<br>Benches: 3<br>Gardens: 0<br>Trees: 295<br>Greenstreets: 4<br>Chill Score: 4.75<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -88138,7 +88138,7 @@ geo_json_4a83ad6be54baf17df2940722ccf5b6f_add({
 
 geo_json_4a83ad6be54baf17df2940722ccf5b6f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2236<br>311 Complaints 115<br>Benches: 2<br>Gardens: 0<br>Trees: 817<br>Greenstreets: 9<br>Chill Score: 11.54<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2236<br>311 Complaints: 115<br>Benches: 2<br>Gardens: 0<br>Trees: 817<br>Greenstreets: 9<br>Chill Score: 11.54<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -88229,7 +88229,7 @@ geo_json_32047a01054db9f2667fa79bfa54ddae_add({
 
 geo_json_32047a01054db9f2667fa79bfa54ddae.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2237<br>311 Complaints 117<br>Benches: 0<br>Gardens: 0<br>Trees: 921<br>Greenstreets: 4<br>Chill Score: 10.040000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2237<br>311 Complaints: 117<br>Benches: 0<br>Gardens: 0<br>Trees: 921<br>Greenstreets: 4<br>Chill Score: 10.040000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -88320,7 +88320,7 @@ geo_json_2a0c353010049e572be03e903297985b_add({
 
 geo_json_2a0c353010049e572be03e903297985b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2238<br>311 Complaints 93<br>Benches: 0<br>Gardens: 0<br>Trees: 346<br>Greenstreets: 1<br>Chill Score: 3.03<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2238<br>311 Complaints: 93<br>Benches: 0<br>Gardens: 0<br>Trees: 346<br>Greenstreets: 1<br>Chill Score: 3.03<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -88411,7 +88411,7 @@ geo_json_ea71bcc2849ad033349e2794b78b6457_add({
 
 geo_json_ea71bcc2849ad033349e2794b78b6457.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2239<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 6<br>Greenstreets: 0<br>Chill Score: 0.06<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2239<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 6<br>Greenstreets: 0<br>Chill Score: 0.06<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -88502,7 +88502,7 @@ geo_json_25f76a95ad08f0b7d2fa7b250d082a3a_add({
 
 geo_json_25f76a95ad08f0b7d2fa7b250d082a3a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2269<br>311 Complaints 188<br>Benches: 2<br>Gardens: 0<br>Trees: 394<br>Greenstreets: 0<br>Chill Score: 2.08<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2269<br>311 Complaints: 188<br>Benches: 2<br>Gardens: 0<br>Trees: 394<br>Greenstreets: 0<br>Chill Score: 2.08<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -88593,7 +88593,7 @@ geo_json_87f2ac0e46473351dad5a3600dcf2a3d_add({
 
 geo_json_87f2ac0e46473351dad5a3600dcf2a3d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2270<br>311 Complaints 1304<br>Benches: 12<br>Gardens: 0<br>Trees: 1124<br>Greenstreets: 5<br>Chill Score: 0.8199999999999985<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2270<br>311 Complaints: 1304<br>Benches: 12<br>Gardens: 0<br>Trees: 1124<br>Greenstreets: 5<br>Chill Score: 0.8199999999999985<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -88684,7 +88684,7 @@ geo_json_48ee13e6d3565f672d59046656a6942e_add({
 
 geo_json_48ee13e6d3565f672d59046656a6942e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2271<br>311 Complaints 49<br>Benches: 0<br>Gardens: 0<br>Trees: 119<br>Greenstreets: 0<br>Chill Score: 0.7<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2271<br>311 Complaints: 49<br>Benches: 0<br>Gardens: 0<br>Trees: 119<br>Greenstreets: 0<br>Chill Score: 0.7<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -88775,7 +88775,7 @@ geo_json_2f79a45c87a01d55a7038a8efc0c81e3_add({
 
 geo_json_2f79a45c87a01d55a7038a8efc0c81e3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2272<br>311 Complaints 464<br>Benches: 2<br>Gardens: 0<br>Trees: 1371<br>Greenstreets: 0<br>Chill Score: 9.09<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2272<br>311 Complaints: 464<br>Benches: 2<br>Gardens: 0<br>Trees: 1371<br>Greenstreets: 0<br>Chill Score: 9.09<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -88866,7 +88866,7 @@ geo_json_a953d55b3f6485262da3dd4a11db14cb_add({
 
 geo_json_a953d55b3f6485262da3dd4a11db14cb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2273<br>311 Complaints 634<br>Benches: 10<br>Gardens: 0<br>Trees: 1283<br>Greenstreets: 0<br>Chill Score: 6.59<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2273<br>311 Complaints: 634<br>Benches: 10<br>Gardens: 0<br>Trees: 1283<br>Greenstreets: 0<br>Chill Score: 6.59<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -88957,7 +88957,7 @@ geo_json_fea13c914b0ca55dc0d041b682167f29_add({
 
 geo_json_fea13c914b0ca55dc0d041b682167f29.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2274<br>311 Complaints 72<br>Benches: 0<br>Gardens: 0<br>Trees: 403<br>Greenstreets: 1<br>Chill Score: 3.8100000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2274<br>311 Complaints: 72<br>Benches: 0<br>Gardens: 0<br>Trees: 403<br>Greenstreets: 1<br>Chill Score: 3.8100000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -89048,7 +89048,7 @@ geo_json_4cbf68d5e2fad98564a3a99ad01ac7cc_add({
 
 geo_json_4cbf68d5e2fad98564a3a99ad01ac7cc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2275<br>311 Complaints 274<br>Benches: 1<br>Gardens: 1<br>Trees: 297<br>Greenstreets: 1<br>Chill Score: 1.2399999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2275<br>311 Complaints: 274<br>Benches: 1<br>Gardens: 1<br>Trees: 297<br>Greenstreets: 1<br>Chill Score: 1.2399999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -89139,7 +89139,7 @@ geo_json_49d756f9d40d2b1c6bcaba5b381d3dc8_add({
 
 geo_json_49d756f9d40d2b1c6bcaba5b381d3dc8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2276<br>311 Complaints 222<br>Benches: 0<br>Gardens: 0<br>Trees: 791<br>Greenstreets: 4<br>Chill Score: 7.6899999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2276<br>311 Complaints: 222<br>Benches: 0<br>Gardens: 0<br>Trees: 791<br>Greenstreets: 4<br>Chill Score: 7.6899999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -89230,7 +89230,7 @@ geo_json_216ab834b697ea0703951fd13a0a7d40_add({
 
 geo_json_216ab834b697ea0703951fd13a0a7d40.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2277<br>311 Complaints 365<br>Benches: 13<br>Gardens: 0<br>Trees: 775<br>Greenstreets: 1<br>Chill Score: 4.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2277<br>311 Complaints: 365<br>Benches: 13<br>Gardens: 0<br>Trees: 775<br>Greenstreets: 1<br>Chill Score: 4.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -89321,7 +89321,7 @@ geo_json_bd9a041806c146fb81053c853ce1fc6c_add({
 
 geo_json_bd9a041806c146fb81053c853ce1fc6c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2278<br>311 Complaints 180<br>Benches: 2<br>Gardens: 0<br>Trees: 1031<br>Greenstreets: 0<br>Chill Score: 8.530000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2278<br>311 Complaints: 180<br>Benches: 2<br>Gardens: 0<br>Trees: 1031<br>Greenstreets: 0<br>Chill Score: 8.530000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -89412,7 +89412,7 @@ geo_json_06a753da0f912cb78f9c8f64b38036df_add({
 
 geo_json_06a753da0f912cb78f9c8f64b38036df.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2279<br>311 Complaints 82<br>Benches: 0<br>Gardens: 0<br>Trees: 560<br>Greenstreets: 3<br>Chill Score: 6.28<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2279<br>311 Complaints: 82<br>Benches: 0<br>Gardens: 0<br>Trees: 560<br>Greenstreets: 3<br>Chill Score: 6.28<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -89503,7 +89503,7 @@ geo_json_2b18fbf405385592a16f468d57833c67_add({
 
 geo_json_2b18fbf405385592a16f468d57833c67.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2280<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 81<br>Greenstreets: 5<br>Chill Score: 3.2800000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2280<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 81<br>Greenstreets: 5<br>Chill Score: 3.2800000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -89594,7 +89594,7 @@ geo_json_79ed3695e1656507df92519c65c91b58_add({
 
 geo_json_79ed3695e1656507df92519c65c91b58.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2281<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 30<br>Greenstreets: 0<br>Chill Score: 0.29<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2281<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 30<br>Greenstreets: 0<br>Chill Score: 0.29<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -89685,7 +89685,7 @@ geo_json_9e56da7ac10ddd5d584a3da07c087616_add({
 
 geo_json_9e56da7ac10ddd5d584a3da07c087616.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2284<br>311 Complaints 74<br>Benches: 0<br>Gardens: 0<br>Trees: 496<br>Greenstreets: 6<br>Chill Score: 7.22<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2284<br>311 Complaints: 74<br>Benches: 0<br>Gardens: 0<br>Trees: 496<br>Greenstreets: 6<br>Chill Score: 7.22<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -89776,7 +89776,7 @@ geo_json_8907e641dcc3f81a68f6b3f55dc111ef_add({
 
 geo_json_8907e641dcc3f81a68f6b3f55dc111ef.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2285<br>311 Complaints 32<br>Benches: 0<br>Gardens: 0<br>Trees: 345<br>Greenstreets: 0<br>Chill Score: 3.1300000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2285<br>311 Complaints: 32<br>Benches: 0<br>Gardens: 0<br>Trees: 345<br>Greenstreets: 0<br>Chill Score: 3.1300000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -89867,7 +89867,7 @@ geo_json_a73ae6545dee9f29e5da6e958c1f4cd9_add({
 
 geo_json_a73ae6545dee9f29e5da6e958c1f4cd9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2286<br>311 Complaints 97<br>Benches: 0<br>Gardens: 0<br>Trees: 591<br>Greenstreets: 2<br>Chill Score: 5.94<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2286<br>311 Complaints: 97<br>Benches: 0<br>Gardens: 0<br>Trees: 591<br>Greenstreets: 2<br>Chill Score: 5.94<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -89958,7 +89958,7 @@ geo_json_ecee5060b361de67fc606957e7e5ac74_add({
 
 geo_json_ecee5060b361de67fc606957e7e5ac74.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2287<br>311 Complaints 161<br>Benches: 0<br>Gardens: 0<br>Trees: 938<br>Greenstreets: 5<br>Chill Score: 10.27<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2287<br>311 Complaints: 161<br>Benches: 0<br>Gardens: 0<br>Trees: 938<br>Greenstreets: 5<br>Chill Score: 10.27<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -90049,7 +90049,7 @@ geo_json_95996c144a880f0988787d9d720a5e59_add({
 
 geo_json_95996c144a880f0988787d9d720a5e59.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2288<br>311 Complaints 104<br>Benches: 0<br>Gardens: 0<br>Trees: 1158<br>Greenstreets: 1<br>Chill Score: 11.04<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2288<br>311 Complaints: 104<br>Benches: 0<br>Gardens: 0<br>Trees: 1158<br>Greenstreets: 1<br>Chill Score: 11.04<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -90140,7 +90140,7 @@ geo_json_8d71fd344ae5ceca9e252d3f98c1ae07_add({
 
 geo_json_8d71fd344ae5ceca9e252d3f98c1ae07.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2289<br>311 Complaints 126<br>Benches: 0<br>Gardens: 0<br>Trees: 953<br>Greenstreets: 6<br>Chill Score: 11.27<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2289<br>311 Complaints: 126<br>Benches: 0<br>Gardens: 0<br>Trees: 953<br>Greenstreets: 6<br>Chill Score: 11.27<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -90231,7 +90231,7 @@ geo_json_3bc59b2538871053a0c561d077c22c83_add({
 
 geo_json_3bc59b2538871053a0c561d077c22c83.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2290<br>311 Complaints 118<br>Benches: 1<br>Gardens: 0<br>Trees: 999<br>Greenstreets: 2<br>Chill Score: 9.82<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2290<br>311 Complaints: 118<br>Benches: 1<br>Gardens: 0<br>Trees: 999<br>Greenstreets: 2<br>Chill Score: 9.82<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -90322,7 +90322,7 @@ geo_json_7ea55a4c552b52056fb1ce09f27a80a2_add({
 
 geo_json_7ea55a4c552b52056fb1ce09f27a80a2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2291<br>311 Complaints 106<br>Benches: 3<br>Gardens: 0<br>Trees: 857<br>Greenstreets: 0<br>Chill Score: 7.54<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2291<br>311 Complaints: 106<br>Benches: 3<br>Gardens: 0<br>Trees: 857<br>Greenstreets: 0<br>Chill Score: 7.54<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -90413,7 +90413,7 @@ geo_json_175784bfccb3c81ca1c22c6f39288f5c_add({
 
 geo_json_175784bfccb3c81ca1c22c6f39288f5c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2292<br>311 Complaints 59<br>Benches: 0<br>Gardens: 0<br>Trees: 374<br>Greenstreets: 0<br>Chill Score: 3.1500000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2292<br>311 Complaints: 59<br>Benches: 0<br>Gardens: 0<br>Trees: 374<br>Greenstreets: 0<br>Chill Score: 3.1500000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -90504,7 +90504,7 @@ geo_json_c264c5050a05853ab28cc4f699897cce_add({
 
 geo_json_c264c5050a05853ab28cc4f699897cce.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2293<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 17<br>Greenstreets: 0<br>Chill Score: 0.14<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2293<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 17<br>Greenstreets: 0<br>Chill Score: 0.14<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -90595,7 +90595,7 @@ geo_json_8a2155672834818a7aaa3b4218ffbf77_add({
 
 geo_json_8a2155672834818a7aaa3b4218ffbf77.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2294<br>311 Complaints 84<br>Benches: 0<br>Gardens: 0<br>Trees: 870<br>Greenstreets: 1<br>Chill Score: 8.360000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2294<br>311 Complaints: 84<br>Benches: 0<br>Gardens: 0<br>Trees: 870<br>Greenstreets: 1<br>Chill Score: 8.360000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -90686,7 +90686,7 @@ geo_json_f1202bc79c4d2e9e1f14dde87466ecf0_add({
 
 geo_json_f1202bc79c4d2e9e1f14dde87466ecf0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2295<br>311 Complaints 76<br>Benches: 0<br>Gardens: 0<br>Trees: 670<br>Greenstreets: 0<br>Chill Score: 5.94<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2295<br>311 Complaints: 76<br>Benches: 0<br>Gardens: 0<br>Trees: 670<br>Greenstreets: 0<br>Chill Score: 5.94<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -90777,7 +90777,7 @@ geo_json_2d9cec3e89d44d3b4b0d58367c8b361c_add({
 
 geo_json_2d9cec3e89d44d3b4b0d58367c8b361c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2296<br>311 Complaints 71<br>Benches: 0<br>Gardens: 1<br>Trees: 264<br>Greenstreets: 0<br>Chill Score: 2.43<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2296<br>311 Complaints: 71<br>Benches: 0<br>Gardens: 1<br>Trees: 264<br>Greenstreets: 0<br>Chill Score: 2.43<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -90868,7 +90868,7 @@ geo_json_bd40fcfa9df0b6889b6abd8586d4d3e5_add({
 
 geo_json_bd40fcfa9df0b6889b6abd8586d4d3e5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2328<br>311 Complaints 14<br>Benches: 0<br>Gardens: 0<br>Trees: 75<br>Greenstreets: 0<br>Chill Score: 0.61<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2328<br>311 Complaints: 14<br>Benches: 0<br>Gardens: 0<br>Trees: 75<br>Greenstreets: 0<br>Chill Score: 0.61<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -90959,7 +90959,7 @@ geo_json_f74dfda850dbfded333dc48ceff15a2c_add({
 
 geo_json_f74dfda850dbfded333dc48ceff15a2c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2329<br>311 Complaints 1214<br>Benches: 10<br>Gardens: 0<br>Trees: 1319<br>Greenstreets: 2<br>Chill Score: 2.1499999999999986<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2329<br>311 Complaints: 1214<br>Benches: 10<br>Gardens: 0<br>Trees: 1319<br>Greenstreets: 2<br>Chill Score: 2.1499999999999986<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -91050,7 +91050,7 @@ geo_json_3afb8b3ddc0e997c7281aecc49b5be5d_add({
 
 geo_json_3afb8b3ddc0e997c7281aecc49b5be5d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2330<br>311 Complaints 243<br>Benches: 6<br>Gardens: 0<br>Trees: 552<br>Greenstreets: 0<br>Chill Score: 3.1500000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2330<br>311 Complaints: 243<br>Benches: 6<br>Gardens: 0<br>Trees: 552<br>Greenstreets: 0<br>Chill Score: 3.1500000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -91141,7 +91141,7 @@ geo_json_c4e0aae80dcd1caa4b9528d27a81f778_add({
 
 geo_json_c4e0aae80dcd1caa4b9528d27a81f778.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2331<br>311 Complaints 240<br>Benches: 2<br>Gardens: 0<br>Trees: 683<br>Greenstreets: 0<br>Chill Score: 4.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2331<br>311 Complaints: 240<br>Benches: 2<br>Gardens: 0<br>Trees: 683<br>Greenstreets: 0<br>Chill Score: 4.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -91232,7 +91232,7 @@ geo_json_78c128675878919b94fe1972c5a5344f_add({
 
 geo_json_78c128675878919b94fe1972c5a5344f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2332<br>311 Complaints 642<br>Benches: 19<br>Gardens: 0<br>Trees: 1325<br>Greenstreets: 0<br>Chill Score: 7.0200000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2332<br>311 Complaints: 642<br>Benches: 19<br>Gardens: 0<br>Trees: 1325<br>Greenstreets: 0<br>Chill Score: 7.0200000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -91323,7 +91323,7 @@ geo_json_b2383ee885457728a72c96f5179ff69c_add({
 
 geo_json_b2383ee885457728a72c96f5179ff69c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2333<br>311 Complaints 88<br>Benches: 1<br>Gardens: 0<br>Trees: 343<br>Greenstreets: 13<br>Chill Score: 9.06<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2333<br>311 Complaints: 88<br>Benches: 1<br>Gardens: 0<br>Trees: 343<br>Greenstreets: 13<br>Chill Score: 9.06<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -91414,7 +91414,7 @@ geo_json_bc13d577da95b644ab70dfb31c4c82bb_add({
 
 geo_json_bc13d577da95b644ab70dfb31c4c82bb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2334<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 2<br>Chill Score: 0.99<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2334<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 2<br>Chill Score: 0.99<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -91505,7 +91505,7 @@ geo_json_a46332973466935ed403322da389b7c3_add({
 
 geo_json_a46332973466935ed403322da389b7c3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2335<br>311 Complaints 30<br>Benches: 0<br>Gardens: 0<br>Trees: 177<br>Greenstreets: 0<br>Chill Score: 1.47<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2335<br>311 Complaints: 30<br>Benches: 0<br>Gardens: 0<br>Trees: 177<br>Greenstreets: 0<br>Chill Score: 1.47<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -91596,7 +91596,7 @@ geo_json_79ac1ff521310cdbb4e6c25f98bea8a0_add({
 
 geo_json_79ac1ff521310cdbb4e6c25f98bea8a0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2336<br>311 Complaints 155<br>Benches: 2<br>Gardens: 0<br>Trees: 810<br>Greenstreets: 0<br>Chill Score: 6.569999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2336<br>311 Complaints: 155<br>Benches: 2<br>Gardens: 0<br>Trees: 810<br>Greenstreets: 0<br>Chill Score: 6.569999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -91687,7 +91687,7 @@ geo_json_48e01ac03c2ec8d565a91edde86ac54a_add({
 
 geo_json_48e01ac03c2ec8d565a91edde86ac54a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2337<br>311 Complaints 17<br>Benches: 0<br>Gardens: 0<br>Trees: 157<br>Greenstreets: 0<br>Chill Score: 1.4000000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2337<br>311 Complaints: 17<br>Benches: 0<br>Gardens: 0<br>Trees: 157<br>Greenstreets: 0<br>Chill Score: 1.4000000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -91778,7 +91778,7 @@ geo_json_e66b823589759bd74f4add4bea9cccca_add({
 
 geo_json_e66b823589759bd74f4add4bea9cccca.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2338<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 60<br>Greenstreets: 0<br>Chill Score: 0.57<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2338<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 60<br>Greenstreets: 0<br>Chill Score: 0.57<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -91869,7 +91869,7 @@ geo_json_dc8f4a917caca924419c98125090886d_add({
 
 geo_json_dc8f4a917caca924419c98125090886d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2342<br>311 Complaints 24<br>Benches: 0<br>Gardens: 0<br>Trees: 85<br>Greenstreets: 0<br>Chill Score: 0.61<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2342<br>311 Complaints: 24<br>Benches: 0<br>Gardens: 0<br>Trees: 85<br>Greenstreets: 0<br>Chill Score: 0.61<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -91960,7 +91960,7 @@ geo_json_3ba2cf53a9309f8eb620c819c90017d1_add({
 
 geo_json_3ba2cf53a9309f8eb620c819c90017d1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2343<br>311 Complaints 302<br>Benches: 2<br>Gardens: 0<br>Trees: 642<br>Greenstreets: 0<br>Chill Score: 3.42<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2343<br>311 Complaints: 302<br>Benches: 2<br>Gardens: 0<br>Trees: 642<br>Greenstreets: 0<br>Chill Score: 3.42<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -92051,7 +92051,7 @@ geo_json_0c74e1f97d7bbda11361243809e458f6_add({
 
 geo_json_0c74e1f97d7bbda11361243809e458f6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2344<br>311 Complaints 63<br>Benches: 0<br>Gardens: 0<br>Trees: 204<br>Greenstreets: 0<br>Chill Score: 1.4100000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2344<br>311 Complaints: 63<br>Benches: 0<br>Gardens: 0<br>Trees: 204<br>Greenstreets: 0<br>Chill Score: 1.4100000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -92142,7 +92142,7 @@ geo_json_03079f6c23f84e76fa1cd4639b8e9d9a_add({
 
 geo_json_03079f6c23f84e76fa1cd4639b8e9d9a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2345<br>311 Complaints 55<br>Benches: 0<br>Gardens: 0<br>Trees: 318<br>Greenstreets: 0<br>Chill Score: 2.63<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2345<br>311 Complaints: 55<br>Benches: 0<br>Gardens: 0<br>Trees: 318<br>Greenstreets: 0<br>Chill Score: 2.63<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -92233,7 +92233,7 @@ geo_json_5a4b26f2b8929ead02d82384b95b82f9_add({
 
 geo_json_5a4b26f2b8929ead02d82384b95b82f9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2346<br>311 Complaints 155<br>Benches: 0<br>Gardens: 0<br>Trees: 687<br>Greenstreets: 0<br>Chill Score: 5.32<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2346<br>311 Complaints: 155<br>Benches: 0<br>Gardens: 0<br>Trees: 687<br>Greenstreets: 0<br>Chill Score: 5.32<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -92324,7 +92324,7 @@ geo_json_f22c9c735cc95d268dac86466327b0d7_add({
 
 geo_json_f22c9c735cc95d268dac86466327b0d7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2347<br>311 Complaints 154<br>Benches: 0<br>Gardens: 0<br>Trees: 892<br>Greenstreets: 6<br>Chill Score: 10.379999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2347<br>311 Complaints: 154<br>Benches: 0<br>Gardens: 0<br>Trees: 892<br>Greenstreets: 6<br>Chill Score: 10.379999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -92415,7 +92415,7 @@ geo_json_6a98287d7129ddad38b7acfa33247bb8_add({
 
 geo_json_6a98287d7129ddad38b7acfa33247bb8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2348<br>311 Complaints 97<br>Benches: 0<br>Gardens: 0<br>Trees: 1071<br>Greenstreets: 5<br>Chill Score: 12.24<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2348<br>311 Complaints: 97<br>Benches: 0<br>Gardens: 0<br>Trees: 1071<br>Greenstreets: 5<br>Chill Score: 12.24<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -92506,7 +92506,7 @@ geo_json_f9bd469f932544c0ae61d3a5459fad93_add({
 
 geo_json_f9bd469f932544c0ae61d3a5459fad93.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2349<br>311 Complaints 51<br>Benches: 0<br>Gardens: 0<br>Trees: 336<br>Greenstreets: 2<br>Chill Score: 3.8499999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2349<br>311 Complaints: 51<br>Benches: 0<br>Gardens: 0<br>Trees: 336<br>Greenstreets: 2<br>Chill Score: 3.8499999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -92597,7 +92597,7 @@ geo_json_18c35473b86493f9d8a69d3652da3f27_add({
 
 geo_json_18c35473b86493f9d8a69d3652da3f27.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2350<br>311 Complaints 92<br>Benches: 0<br>Gardens: 0<br>Trees: 409<br>Greenstreets: 0<br>Chill Score: 3.17<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2350<br>311 Complaints: 92<br>Benches: 0<br>Gardens: 0<br>Trees: 409<br>Greenstreets: 0<br>Chill Score: 3.17<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -92688,7 +92688,7 @@ geo_json_0fb52fd3f5b232158873ae7e004de3c2_add({
 
 geo_json_0fb52fd3f5b232158873ae7e004de3c2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2351<br>311 Complaints 11<br>Benches: 0<br>Gardens: 0<br>Trees: 67<br>Greenstreets: 0<br>Chill Score: 0.56<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2351<br>311 Complaints: 11<br>Benches: 0<br>Gardens: 0<br>Trees: 67<br>Greenstreets: 0<br>Chill Score: 0.56<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -92779,7 +92779,7 @@ geo_json_52161fcb2060e49e80a628998b11d861_add({
 
 geo_json_52161fcb2060e49e80a628998b11d861.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2353<br>311 Complaints 34<br>Benches: 0<br>Gardens: 0<br>Trees: 578<br>Greenstreets: 0<br>Chill Score: 5.44<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2353<br>311 Complaints: 34<br>Benches: 0<br>Gardens: 0<br>Trees: 578<br>Greenstreets: 0<br>Chill Score: 5.44<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -92870,7 +92870,7 @@ geo_json_0ffcb8151f62ba3c4df8e84efdf3833d_add({
 
 geo_json_0ffcb8151f62ba3c4df8e84efdf3833d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2354<br>311 Complaints 4<br>Benches: 0<br>Gardens: 0<br>Trees: 37<br>Greenstreets: 0<br>Chill Score: 0.33<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2354<br>311 Complaints: 4<br>Benches: 0<br>Gardens: 0<br>Trees: 37<br>Greenstreets: 0<br>Chill Score: 0.33<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -92961,7 +92961,7 @@ geo_json_a7d28bf811c82e4ccb16a3d3f2788dbf_add({
 
 geo_json_a7d28bf811c82e4ccb16a3d3f2788dbf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2388<br>311 Complaints 391<br>df_air_quality_2: 4<brBenches: 4<br>Gardens: 1<br>Trees: 829<br>Greenstreets: 0<br>mean_mcg_m3: 6.1<br>Chill Score: 4.920000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2388<br>311 Complaints: 391<br>df_air_quality_2: 4<brBenches: 4<br>Gardens: 1<br>Trees: 829<br>Greenstreets: 0<br>mean_mcg_m3: 6.1<br>Chill Score: 4.920000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -93052,7 +93052,7 @@ geo_json_7e1f31b00b8661e44712f9080cf7f0c1_add({
 
 geo_json_7e1f31b00b8661e44712f9080cf7f0c1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2389<br>311 Complaints 616<br>Benches: 15<br>Gardens: 3<br>Trees: 1423<br>Greenstreets: 0<br>Chill Score: 9.72<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2389<br>311 Complaints: 616<br>Benches: 15<br>Gardens: 3<br>Trees: 1423<br>Greenstreets: 0<br>Chill Score: 9.72<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -93143,7 +93143,7 @@ geo_json_4a279f46068ffa6006fda1fe2a49a93a_add({
 
 geo_json_4a279f46068ffa6006fda1fe2a49a93a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2390<br>311 Complaints 44<br>Benches: 0<br>Gardens: 0<br>Trees: 103<br>Greenstreets: 0<br>Chill Score: 0.5900000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2390<br>311 Complaints: 44<br>Benches: 0<br>Gardens: 0<br>Trees: 103<br>Greenstreets: 0<br>Chill Score: 0.5900000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -93234,7 +93234,7 @@ geo_json_6194767e1b9ac8db384f864aeb28df12_add({
 
 geo_json_6194767e1b9ac8db384f864aeb28df12.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2391<br>311 Complaints 601<br>Benches: 2<br>Gardens: 3<br>Trees: 923<br>Greenstreets: 2<br>Chill Score: 5.74<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2391<br>311 Complaints: 601<br>Benches: 2<br>Gardens: 3<br>Trees: 923<br>Greenstreets: 2<br>Chill Score: 5.74<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -93325,7 +93325,7 @@ geo_json_9a14e20647b2aad58b7351e0c258a5ed_add({
 
 geo_json_9a14e20647b2aad58b7351e0c258a5ed.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2392<br>311 Complaints 384<br>Benches: 12<br>Gardens: 3<br>Trees: 610<br>Greenstreets: 1<br>Chill Score: 4.380000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2392<br>311 Complaints: 384<br>Benches: 12<br>Gardens: 3<br>Trees: 610<br>Greenstreets: 1<br>Chill Score: 4.380000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -93416,7 +93416,7 @@ geo_json_63721c673c2ed6fbb7dd86e74df60eed_add({
 
 geo_json_63721c673c2ed6fbb7dd86e74df60eed.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2393<br>311 Complaints 12<br>Benches: 0<br>Gardens: 0<br>Trees: 30<br>Greenstreets: 2<br>Chill Score: 1.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2393<br>311 Complaints: 12<br>Benches: 0<br>Gardens: 0<br>Trees: 30<br>Greenstreets: 2<br>Chill Score: 1.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -93506,7 +93506,7 @@ geo_json_f7e955d090d4dd7fd88d49464cc087da_add({
 
 geo_json_f7e955d090d4dd7fd88d49464cc087da.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2394<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 1<br>Chill Score: 0.5<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2394<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 1<br>Chill Score: 0.5<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -93597,7 +93597,7 @@ geo_json_d8a4a7bfaa039d6e41b3564d4f488786_add({
 
 geo_json_d8a4a7bfaa039d6e41b3564d4f488786.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2395<br>311 Complaints 4<br>Benches: 0<br>Gardens: 0<br>Trees: 5<br>Greenstreets: 0<br>Chill Score: 0.010000000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2395<br>311 Complaints: 4<br>Benches: 0<br>Gardens: 0<br>Trees: 5<br>Greenstreets: 0<br>Chill Score: 0.010000000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -93688,7 +93688,7 @@ geo_json_b4d00724501cf6ff8ec3de518ffcbe0a_add({
 
 geo_json_b4d00724501cf6ff8ec3de518ffcbe0a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2401<br>311 Complaints 47<br>Benches: 0<br>Gardens: 0<br>Trees: 106<br>Greenstreets: 0<br>Chill Score: 0.5900000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2401<br>311 Complaints: 47<br>Benches: 0<br>Gardens: 0<br>Trees: 106<br>Greenstreets: 0<br>Chill Score: 0.5900000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -93779,7 +93779,7 @@ geo_json_f57eda952b9cdf08b8eff248f1509587_add({
 
 geo_json_f57eda952b9cdf08b8eff248f1509587.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2402<br>311 Complaints 250<br>Benches: 2<br>Gardens: 0<br>Trees: 984<br>Greenstreets: 0<br>Chill Score: 7.359999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2402<br>311 Complaints: 250<br>Benches: 2<br>Gardens: 0<br>Trees: 984<br>Greenstreets: 0<br>Chill Score: 7.359999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -93870,7 +93870,7 @@ geo_json_127699489609213e8faa1e7c63acdf40_add({
 
 geo_json_127699489609213e8faa1e7c63acdf40.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2403<br>311 Complaints 133<br>Benches: 1<br>Gardens: 0<br>Trees: 446<br>Greenstreets: 0<br>Chill Score: 3.1399999999999997<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2403<br>311 Complaints: 133<br>Benches: 1<br>Gardens: 0<br>Trees: 446<br>Greenstreets: 0<br>Chill Score: 3.1399999999999997<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -93961,7 +93961,7 @@ geo_json_884540414fcd9fc6d37effa06d50a6d4_add({
 
 geo_json_884540414fcd9fc6d37effa06d50a6d4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2404<br>311 Complaints 114<br>Benches: 0<br>Gardens: 0<br>Trees: 841<br>Greenstreets: 0<br>Chill Score: 7.27<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2404<br>311 Complaints: 114<br>Benches: 0<br>Gardens: 0<br>Trees: 841<br>Greenstreets: 0<br>Chill Score: 7.27<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -94052,7 +94052,7 @@ geo_json_bbea1018920901a9bfcd8a30df90c2d1_add({
 
 geo_json_bbea1018920901a9bfcd8a30df90c2d1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2405<br>311 Complaints 182<br>Benches: 2<br>Gardens: 0<br>Trees: 851<br>Greenstreets: 3<br>Chill Score: 8.21<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2405<br>311 Complaints: 182<br>Benches: 2<br>Gardens: 0<br>Trees: 851<br>Greenstreets: 3<br>Chill Score: 8.21<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -94143,7 +94143,7 @@ geo_json_5a6aa106b409d09b15f4acdb0c91b100_add({
 
 geo_json_5a6aa106b409d09b15f4acdb0c91b100.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2406<br>311 Complaints 100<br>Benches: 0<br>Gardens: 0<br>Trees: 768<br>Greenstreets: 2<br>Chill Score: 7.68<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2406<br>311 Complaints: 100<br>Benches: 0<br>Gardens: 0<br>Trees: 768<br>Greenstreets: 2<br>Chill Score: 7.68<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -94234,7 +94234,7 @@ geo_json_f18923d362640631a8ba35b76a192326_add({
 
 geo_json_f18923d362640631a8ba35b76a192326.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2407<br>311 Complaints 88<br>Benches: 0<br>Gardens: 0<br>Trees: 939<br>Greenstreets: 1<br>Chill Score: 9.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2407<br>311 Complaints: 88<br>Benches: 0<br>Gardens: 0<br>Trees: 939<br>Greenstreets: 1<br>Chill Score: 9.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -94325,7 +94325,7 @@ geo_json_f5ad5f1e59ed98012e987dc7f6adca8c_add({
 
 geo_json_f5ad5f1e59ed98012e987dc7f6adca8c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2408<br>311 Complaints 6<br>Benches: 0<br>Gardens: 0<br>Trees: 102<br>Greenstreets: 0<br>Chill Score: 0.96<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2408<br>311 Complaints: 6<br>Benches: 0<br>Gardens: 0<br>Trees: 102<br>Greenstreets: 0<br>Chill Score: 0.96<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -94416,7 +94416,7 @@ geo_json_bade4fde3f1473af53c04c121104fc2b_add({
 
 geo_json_bade4fde3f1473af53c04c121104fc2b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2409<br>311 Complaints 49<br>Benches: 0<br>Gardens: 0<br>Trees: 360<br>Greenstreets: 2<br>Chill Score: 4.11<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2409<br>311 Complaints: 49<br>Benches: 0<br>Gardens: 0<br>Trees: 360<br>Greenstreets: 2<br>Chill Score: 4.11<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -94507,7 +94507,7 @@ geo_json_9b8c13b90a1eef878f30fe4fef4ae7f4_add({
 
 geo_json_9b8c13b90a1eef878f30fe4fef4ae7f4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2447<br>311 Complaints 10<br>Benches: 0<br>Gardens: 0<br>Trees: 96<br>Greenstreets: 1<br>Chill Score: 1.3599999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2447<br>311 Complaints: 10<br>Benches: 0<br>Gardens: 0<br>Trees: 96<br>Greenstreets: 1<br>Chill Score: 1.3599999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -94598,7 +94598,7 @@ geo_json_fb3b4db664df876a1ca937b01bdb39f3_add({
 
 geo_json_fb3b4db664df876a1ca937b01bdb39f3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2448<br>311 Complaints 550<br>Benches: 15<br>Gardens: 0<br>Trees: 1172<br>Greenstreets: 2<br>Chill Score: 7.370000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2448<br>311 Complaints: 550<br>Benches: 15<br>Gardens: 0<br>Trees: 1172<br>Greenstreets: 2<br>Chill Score: 7.370000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -94689,7 +94689,7 @@ geo_json_582e956306420cf8e87908967ef98c1e_add({
 
 geo_json_582e956306420cf8e87908967ef98c1e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2449<br>311 Complaints 396<br>Benches: 5<br>Gardens: 3<br>Trees: 672<br>Greenstreets: 0<br>Chill Score: 4.31<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2449<br>311 Complaints: 396<br>Benches: 5<br>Gardens: 3<br>Trees: 672<br>Greenstreets: 0<br>Chill Score: 4.31<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -94780,7 +94780,7 @@ geo_json_771496af47ec907bdc712c7c99958e9d_add({
 
 geo_json_771496af47ec907bdc712c7c99958e9d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2450<br>311 Complaints 363<br>Benches: 10<br>Gardens: 2<br>Trees: 709<br>Greenstreets: 8<br>Chill Score: 8.56<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2450<br>311 Complaints: 363<br>Benches: 10<br>Gardens: 2<br>Trees: 709<br>Greenstreets: 8<br>Chill Score: 8.56<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -94871,7 +94871,7 @@ geo_json_6534bcad98e15fe23457e1beb6d5d13b_add({
 
 geo_json_6534bcad98e15fe23457e1beb6d5d13b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2451<br>311 Complaints 481<br>Benches: 14<br>Gardens: 14<br>Trees: 752<br>Greenstreets: 0<br>Chill Score: 9.85<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2451<br>311 Complaints: 481<br>Benches: 14<br>Gardens: 14<br>Trees: 752<br>Greenstreets: 0<br>Chill Score: 9.85<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -94962,7 +94962,7 @@ geo_json_cd1769863a3147aca3dee828673851c0_add({
 
 geo_json_cd1769863a3147aca3dee828673851c0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2452<br>311 Complaints 350<br>Benches: 11<br>Gardens: 7<br>Trees: 611<br>Greenstreets: 3<br>Chill Score: 7.720000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2452<br>311 Complaints: 350<br>Benches: 11<br>Gardens: 7<br>Trees: 611<br>Greenstreets: 3<br>Chill Score: 7.720000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -95053,7 +95053,7 @@ geo_json_a72caa0d5cca4fe426487db3adfda6e4_add({
 
 geo_json_a72caa0d5cca4fe426487db3adfda6e4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2453<br>311 Complaints 12<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 5<br>Chill Score: 2.38<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2453<br>311 Complaints: 12<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 5<br>Chill Score: 2.38<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -95144,7 +95144,7 @@ geo_json_f45ad9d66e89b9c84b949b671460a746_add({
 
 geo_json_f45ad9d66e89b9c84b949b671460a746.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2454<br>311 Complaints 5<br>Benches: 0<br>Gardens: 0<br>Trees: 18<br>Greenstreets: 0<br>Chill Score: 0.13<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2454<br>311 Complaints: 5<br>Benches: 0<br>Gardens: 0<br>Trees: 18<br>Greenstreets: 0<br>Chill Score: 0.13<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -95234,7 +95234,7 @@ geo_json_7c35dff8c48aee3824f306cce39fb065_add({
 
 geo_json_7c35dff8c48aee3824f306cce39fb065.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2460<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2460<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -95325,7 +95325,7 @@ geo_json_552f692e2db56f5ccba4a61df57165d6_add({
 
 geo_json_552f692e2db56f5ccba4a61df57165d6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2461<br>311 Complaints 75<br>Benches: 0<br>Gardens: 0<br>Trees: 254<br>Greenstreets: 1<br>Chill Score: 2.29<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2461<br>311 Complaints: 75<br>Benches: 0<br>Gardens: 0<br>Trees: 254<br>Greenstreets: 1<br>Chill Score: 2.29<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -95416,7 +95416,7 @@ geo_json_61dd3fe671a1d0b8326461a2d180b112_add({
 
 geo_json_61dd3fe671a1d0b8326461a2d180b112.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2462<br>311 Complaints 5<br>Benches: 0<br>Gardens: 0<br>Trees: 60<br>Greenstreets: 0<br>Chill Score: 0.5499999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2462<br>311 Complaints: 5<br>Benches: 0<br>Gardens: 0<br>Trees: 60<br>Greenstreets: 0<br>Chill Score: 0.5499999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -95507,7 +95507,7 @@ geo_json_1da7c103a5d96670763b1c833baabc84_add({
 
 geo_json_1da7c103a5d96670763b1c833baabc84.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2463<br>311 Complaints 51<br>Benches: 0<br>Gardens: 0<br>Trees: 351<br>Greenstreets: 0<br>Chill Score: 3.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2463<br>311 Complaints: 51<br>Benches: 0<br>Gardens: 0<br>Trees: 351<br>Greenstreets: 0<br>Chill Score: 3.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -95598,7 +95598,7 @@ geo_json_2456d321535401c07c4d5d2d4527db62_add({
 
 geo_json_2456d321535401c07c4d5d2d4527db62.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2464<br>311 Complaints 103<br>Benches: 0<br>Gardens: 0<br>Trees: 838<br>Greenstreets: 1<br>Chill Score: 7.8500000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2464<br>311 Complaints: 103<br>Benches: 0<br>Gardens: 0<br>Trees: 838<br>Greenstreets: 1<br>Chill Score: 7.8500000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -95689,7 +95689,7 @@ geo_json_2e571aad2da2a98d198ebe7c1ab17672_add({
 
 geo_json_2e571aad2da2a98d198ebe7c1ab17672.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2465<br>311 Complaints 76<br>Benches: 0<br>Gardens: 0<br>Trees: 557<br>Greenstreets: 0<br>Chill Score: 4.8100000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2465<br>311 Complaints: 76<br>Benches: 0<br>Gardens: 0<br>Trees: 557<br>Greenstreets: 0<br>Chill Score: 4.8100000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -95780,7 +95780,7 @@ geo_json_da1790e782a8300d963512c9da168030_add({
 
 geo_json_da1790e782a8300d963512c9da168030.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2466<br>311 Complaints 38<br>Benches: 0<br>Gardens: 0<br>Trees: 323<br>Greenstreets: 1<br>Chill Score: 3.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2466<br>311 Complaints: 38<br>Benches: 0<br>Gardens: 0<br>Trees: 323<br>Greenstreets: 1<br>Chill Score: 3.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -95871,7 +95871,7 @@ geo_json_294a2dda2f2c7751eab20b44a380151a_add({
 
 geo_json_294a2dda2f2c7751eab20b44a380151a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2507<br>311 Complaints 325<br>Benches: 1<br>Gardens: 0<br>Trees: 844<br>Greenstreets: 9<br>Chill Score: 9.7<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2507<br>311 Complaints: 325<br>Benches: 1<br>Gardens: 0<br>Trees: 844<br>Greenstreets: 9<br>Chill Score: 9.7<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -95962,7 +95962,7 @@ geo_json_46365f260459fe060dad179840975e78_add({
 
 geo_json_46365f260459fe060dad179840975e78.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2508<br>311 Complaints 576<br>Benches: 3<br>Gardens: 4<br>Trees: 1019<br>Greenstreets: 5<br>Chill Score: 8.96<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2508<br>311 Complaints: 576<br>Benches: 3<br>Gardens: 4<br>Trees: 1019<br>Greenstreets: 5<br>Chill Score: 8.96<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -96053,7 +96053,7 @@ geo_json_ed9381b88cca4f3ced53b4face31b097_add({
 
 geo_json_ed9381b88cca4f3ced53b4face31b097.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2509<br>311 Complaints 925<br>Benches: 10<br>Gardens: 6<br>Trees: 1333<br>Greenstreets: 20<br>Chill Score: 17.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2509<br>311 Complaints: 925<br>Benches: 10<br>Gardens: 6<br>Trees: 1333<br>Greenstreets: 20<br>Chill Score: 17.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -96144,7 +96144,7 @@ geo_json_2a53a3dcd9d73419687ff590c3a7f5d5_add({
 
 geo_json_2a53a3dcd9d73419687ff590c3a7f5d5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2510<br>311 Complaints 636<br>Benches: 8<br>Gardens: 5<br>Trees: 1088<br>Greenstreets: 1<br>Chill Score: 7.6000000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2510<br>311 Complaints: 636<br>Benches: 8<br>Gardens: 5<br>Trees: 1088<br>Greenstreets: 1<br>Chill Score: 7.6000000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -96235,7 +96235,7 @@ geo_json_33ad00cfa5404b9e80503f2430f54d8c_add({
 
 geo_json_33ad00cfa5404b9e80503f2430f54d8c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2511<br>311 Complaints 105<br>Benches: 4<br>Gardens: 1<br>Trees: 414<br>Greenstreets: 5<br>Chill Score: 6.13<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2511<br>311 Complaints: 105<br>Benches: 4<br>Gardens: 1<br>Trees: 414<br>Greenstreets: 5<br>Chill Score: 6.13<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -96326,7 +96326,7 @@ geo_json_7fd0dc60cb02d76b39ff408c95124859_add({
 
 geo_json_7fd0dc60cb02d76b39ff408c95124859.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2512<br>311 Complaints 123<br>Benches: 5<br>Gardens: 1<br>Trees: 267<br>Greenstreets: 1<br>Chill Score: 2.49<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2512<br>311 Complaints: 123<br>Benches: 5<br>Gardens: 1<br>Trees: 267<br>Greenstreets: 1<br>Chill Score: 2.49<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -96417,7 +96417,7 @@ geo_json_a30dd6b4f003182b1be93c97bce6cdcb_add({
 
 geo_json_a30dd6b4f003182b1be93c97bce6cdcb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2513<br>311 Complaints 119<br>Benches: 0<br>Gardens: 3<br>Trees: 448<br>Greenstreets: 2<br>Chill Score: 5.790000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2513<br>311 Complaints: 119<br>Benches: 0<br>Gardens: 3<br>Trees: 448<br>Greenstreets: 2<br>Chill Score: 5.790000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -96508,7 +96508,7 @@ geo_json_cc68220b4d390a43dced93c3cb57f742_add({
 
 geo_json_cc68220b4d390a43dced93c3cb57f742.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2514<br>311 Complaints 6<br>Benches: 0<br>Gardens: 0<br>Trees: 63<br>Greenstreets: 1<br>Chill Score: 1.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2514<br>311 Complaints: 6<br>Benches: 0<br>Gardens: 0<br>Trees: 63<br>Greenstreets: 1<br>Chill Score: 1.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -96598,7 +96598,7 @@ geo_json_6ddc802570293d878c8e3c5d7036d9ea_add({
 
 geo_json_6ddc802570293d878c8e3c5d7036d9ea.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2515<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2515<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -96689,7 +96689,7 @@ geo_json_5082ecedabc4f4f095afe974f70db222_add({
 
 geo_json_5082ecedabc4f4f095afe974f70db222.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2516<br>311 Complaints 20<br>Benches: 0<br>Gardens: 0<br>Trees: 241<br>Greenstreets: 0<br>Chill Score: 2.21<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2516<br>311 Complaints: 20<br>Benches: 0<br>Gardens: 0<br>Trees: 241<br>Greenstreets: 0<br>Chill Score: 2.21<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -96780,7 +96780,7 @@ geo_json_3b2ce7381c2781de0319f0c80282c5f5_add({
 
 geo_json_3b2ce7381c2781de0319f0c80282c5f5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2517<br>311 Complaints 5<br>Benches: 0<br>Gardens: 0<br>Trees: 104<br>Greenstreets: 4<br>Chill Score: 2.99<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2517<br>311 Complaints: 5<br>Benches: 0<br>Gardens: 0<br>Trees: 104<br>Greenstreets: 4<br>Chill Score: 2.99<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -96871,7 +96871,7 @@ geo_json_d63d32564276dd8d9103194bcc059159_add({
 
 geo_json_d63d32564276dd8d9103194bcc059159.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2519<br>311 Complaints 15<br>Benches: 0<br>Gardens: 0<br>Trees: 22<br>Greenstreets: 0<br>Chill Score: 0.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2519<br>311 Complaints: 15<br>Benches: 0<br>Gardens: 0<br>Trees: 22<br>Greenstreets: 0<br>Chill Score: 0.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -96962,7 +96962,7 @@ geo_json_28e1c27b7e71ce0581419bcc7b50da97_add({
 
 geo_json_28e1c27b7e71ce0581419bcc7b50da97.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2520<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 14<br>Greenstreets: 0<br>Chill Score: 0.14<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2520<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 14<br>Greenstreets: 0<br>Chill Score: 0.14<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -97053,7 +97053,7 @@ geo_json_07661ef37cacfecb3d380f1be8bbe80d_add({
 
 geo_json_07661ef37cacfecb3d380f1be8bbe80d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2523<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 18<br>Greenstreets: 0<br>Chill Score: 0.16999999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2523<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 18<br>Greenstreets: 0<br>Chill Score: 0.16999999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -97143,7 +97143,7 @@ geo_json_519ff7ebf552c286d0693daed8021984_add({
 
 geo_json_519ff7ebf552c286d0693daed8021984.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2526<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2526<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -97234,7 +97234,7 @@ geo_json_acb2fe31c1c6c0eba7c3dad9d0201f2d_add({
 
 geo_json_acb2fe31c1c6c0eba7c3dad9d0201f2d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2566<br>311 Complaints 16<br>Benches: 0<br>Gardens: 0<br>Trees: 67<br>Greenstreets: 2<br>Chill Score: 1.51<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2566<br>311 Complaints: 16<br>Benches: 0<br>Gardens: 0<br>Trees: 67<br>Greenstreets: 2<br>Chill Score: 1.51<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -97325,7 +97325,7 @@ geo_json_dbb80eb65e45f706cbef9df8c8ac1008_add({
 
 geo_json_dbb80eb65e45f706cbef9df8c8ac1008.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2567<br>311 Complaints 280<br>Benches: 5<br>Gardens: 2<br>Trees: 771<br>Greenstreets: 9<br>Chill Score: 10.459999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2567<br>311 Complaints: 280<br>Benches: 5<br>Gardens: 2<br>Trees: 771<br>Greenstreets: 9<br>Chill Score: 10.459999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -97416,7 +97416,7 @@ geo_json_7f2727569fcff6ef0808cc3f34426e88_add({
 
 geo_json_7f2727569fcff6ef0808cc3f34426e88.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2568<br>311 Complaints 721<br>Benches: 6<br>Gardens: 5<br>Trees: 848<br>Greenstreets: 9<br>Chill Score: 8.33<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2568<br>311 Complaints: 721<br>Benches: 6<br>Gardens: 5<br>Trees: 848<br>Greenstreets: 9<br>Chill Score: 8.33<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -97507,7 +97507,7 @@ geo_json_f595af0c4bf2a0085165196df1ca9902_add({
 
 geo_json_f595af0c4bf2a0085165196df1ca9902.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2569<br>311 Complaints 674<br>df_air_quality_2: 4<brBenches: 8<br>Gardens: 13<br>Trees: 1148<br>Greenstreets: 6<br>mean_mcg_m3: 5.825<br>Chill Score: 14.32<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2569<br>311 Complaints: 674<br>df_air_quality_2: 4<brBenches: 8<br>Gardens: 13<br>Trees: 1148<br>Greenstreets: 6<br>mean_mcg_m3: 5.825<br>Chill Score: 14.32<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -97598,7 +97598,7 @@ geo_json_c00bac61848e1141e5610b546322bd18_add({
 
 geo_json_c00bac61848e1141e5610b546322bd18.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2570<br>311 Complaints 128<br>Benches: 3<br>Gardens: 2<br>Trees: 323<br>Greenstreets: 6<br>Chill Score: 5.98<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2570<br>311 Complaints: 128<br>Benches: 3<br>Gardens: 2<br>Trees: 323<br>Greenstreets: 6<br>Chill Score: 5.98<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -97689,7 +97689,7 @@ geo_json_102eb20b9f9f9eaf848bb662d57e0f97_add({
 
 geo_json_102eb20b9f9f9eaf848bb662d57e0f97.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2571<br>311 Complaints 274<br>Benches: 11<br>Gardens: 3<br>Trees: 661<br>Greenstreets: 2<br>Chill Score: 6.48<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2571<br>311 Complaints: 274<br>Benches: 11<br>Gardens: 3<br>Trees: 661<br>Greenstreets: 2<br>Chill Score: 6.48<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -97780,7 +97780,7 @@ geo_json_1d0af4e2a8f71c8fd17e95c9537c3edb_add({
 
 geo_json_1d0af4e2a8f71c8fd17e95c9537c3edb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2572<br>311 Complaints 301<br>df_air_quality_2: 5<brBenches: 4<br>Gardens: 1<br>Trees: 665<br>Greenstreets: 0<br>mean_mcg_m3: 6.279999999999999<br>Chill Score: 4.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2572<br>311 Complaints: 301<br>df_air_quality_2: 5<brBenches: 4<br>Gardens: 1<br>Trees: 665<br>Greenstreets: 0<br>mean_mcg_m3: 6.279999999999999<br>Chill Score: 4.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -97871,7 +97871,7 @@ geo_json_f0155b6d21e019552d1dd3825fc70211_add({
 
 geo_json_f0155b6d21e019552d1dd3825fc70211.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2573<br>311 Complaints 124<br>Benches: 2<br>Gardens: 1<br>Trees: 505<br>Greenstreets: 3<br>Chill Score: 5.83<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2573<br>311 Complaints: 124<br>Benches: 2<br>Gardens: 1<br>Trees: 505<br>Greenstreets: 3<br>Chill Score: 5.83<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -97962,7 +97962,7 @@ geo_json_18b7948eb5be6b6f5fb4171d93ad6eb1_add({
 
 geo_json_18b7948eb5be6b6f5fb4171d93ad6eb1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2574<br>311 Complaints 43<br>Benches: 0<br>Gardens: 0<br>Trees: 429<br>Greenstreets: 3<br>Chill Score: 5.359999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2574<br>311 Complaints: 43<br>Benches: 0<br>Gardens: 0<br>Trees: 429<br>Greenstreets: 3<br>Chill Score: 5.359999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -98053,7 +98053,7 @@ geo_json_23ae88259c3bc640fc0ce11415528688_add({
 
 geo_json_23ae88259c3bc640fc0ce11415528688.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2575<br>311 Complaints 161<br>Benches: 1<br>Gardens: 0<br>Trees: 782<br>Greenstreets: 5<br>Chill Score: 8.72<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2575<br>311 Complaints: 161<br>Benches: 1<br>Gardens: 0<br>Trees: 782<br>Greenstreets: 5<br>Chill Score: 8.72<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -98144,7 +98144,7 @@ geo_json_c971807bf90f3e7e9b497c7c5992f3d4_add({
 
 geo_json_c971807bf90f3e7e9b497c7c5992f3d4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2576<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 92<br>Greenstreets: 0<br>Chill Score: 0.91<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2576<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 92<br>Greenstreets: 0<br>Chill Score: 0.91<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -98235,7 +98235,7 @@ geo_json_50523fccd3437716afa410be93d32455_add({
 
 geo_json_50523fccd3437716afa410be93d32455.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2577<br>311 Complaints 40<br>Benches: 0<br>Gardens: 0<br>Trees: 81<br>Greenstreets: 0<br>Chill Score: 0.41000000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2577<br>311 Complaints: 40<br>Benches: 0<br>Gardens: 0<br>Trees: 81<br>Greenstreets: 0<br>Chill Score: 0.41000000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -98326,7 +98326,7 @@ geo_json_58e9f5c58418f755a64eb3a2792b24d3_add({
 
 geo_json_58e9f5c58418f755a64eb3a2792b24d3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2578<br>311 Complaints 178<br>Benches: 1<br>Gardens: 1<br>Trees: 466<br>Greenstreets: 4<br>Chill Score: 5.390000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2578<br>311 Complaints: 178<br>Benches: 1<br>Gardens: 1<br>Trees: 466<br>Greenstreets: 4<br>Chill Score: 5.390000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -98417,7 +98417,7 @@ geo_json_91d9463de14f0ac38ba106244df0c6f0_add({
 
 geo_json_91d9463de14f0ac38ba106244df0c6f0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2579<br>311 Complaints 21<br>Benches: 0<br>Gardens: 1<br>Trees: 167<br>Greenstreets: 1<br>Chill Score: 2.46<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2579<br>311 Complaints: 21<br>Benches: 0<br>Gardens: 1<br>Trees: 167<br>Greenstreets: 1<br>Chill Score: 2.46<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -98508,7 +98508,7 @@ geo_json_9ddddfd4470987a9367f6a201ce0d373_add({
 
 geo_json_9ddddfd4470987a9367f6a201ce0d373.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2581<br>311 Complaints 32<br>Benches: 0<br>Gardens: 0<br>Trees: 172<br>Greenstreets: 0<br>Chill Score: 1.4<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2581<br>311 Complaints: 32<br>Benches: 0<br>Gardens: 0<br>Trees: 172<br>Greenstreets: 0<br>Chill Score: 1.4<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -98599,7 +98599,7 @@ geo_json_bbb34b7e4436b5eed93bdf08ac6c692c_add({
 
 geo_json_bbb34b7e4436b5eed93bdf08ac6c692c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2582<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 20<br>Greenstreets: 0<br>Chill Score: 0.19<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2582<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 20<br>Greenstreets: 0<br>Chill Score: 0.19<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -98690,7 +98690,7 @@ geo_json_58062c2c8feb7c295ebdc3c3f2b38516_add({
 
 geo_json_58062c2c8feb7c295ebdc3c3f2b38516.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2583<br>311 Complaints 17<br>Benches: 0<br>Gardens: 0<br>Trees: 17<br>Greenstreets: 0<br>Chill Score: 0.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2583<br>311 Complaints: 17<br>Benches: 0<br>Gardens: 0<br>Trees: 17<br>Greenstreets: 0<br>Chill Score: 0.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -98781,7 +98781,7 @@ geo_json_64b378ea972e8fe8c9b7d0a5598cff81_add({
 
 geo_json_64b378ea972e8fe8c9b7d0a5598cff81.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2584<br>311 Complaints 9<br>Benches: 0<br>Gardens: 0<br>Trees: 2<br>Greenstreets: 0<br>Chill Score: -0.06999999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2584<br>311 Complaints: 9<br>Benches: 0<br>Gardens: 0<br>Trees: 2<br>Greenstreets: 0<br>Chill Score: -0.06999999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -98872,7 +98872,7 @@ geo_json_84b24cd914b64db257191a1e6748cf91_add({
 
 geo_json_84b24cd914b64db257191a1e6748cf91.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2626<br>311 Complaints 247<br>Benches: 1<br>Gardens: 0<br>Trees: 165<br>Greenstreets: 6<br>Chill Score: 2.1899999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2626<br>311 Complaints: 247<br>Benches: 1<br>Gardens: 0<br>Trees: 165<br>Greenstreets: 6<br>Chill Score: 2.1899999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -98963,7 +98963,7 @@ geo_json_4b32e7cc948d7e0452e5f270cbc1d4b0_add({
 
 geo_json_4b32e7cc948d7e0452e5f270cbc1d4b0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2627<br>311 Complaints 606<br>df_air_quality_2: 4<brBenches: 4<br>Gardens: 0<br>Trees: 848<br>Greenstreets: 2<br>mean_mcg_m3: 5.95<br>Chill Score: 3.46<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2627<br>311 Complaints: 606<br>df_air_quality_2: 4<brBenches: 4<br>Gardens: 0<br>Trees: 848<br>Greenstreets: 2<br>mean_mcg_m3: 5.95<br>Chill Score: 3.46<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -99054,7 +99054,7 @@ geo_json_482e1a0542a712000f2f7097422ed277_add({
 
 geo_json_482e1a0542a712000f2f7097422ed277.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2628<br>311 Complaints 811<br>Benches: 7<br>Gardens: 1<br>Trees: 1162<br>Greenstreets: 13<br>Chill Score: 10.580000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2628<br>311 Complaints: 811<br>Benches: 7<br>Gardens: 1<br>Trees: 1162<br>Greenstreets: 13<br>Chill Score: 10.580000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -99145,7 +99145,7 @@ geo_json_c45d396835269c8b59ee12c97c35a39c_add({
 
 geo_json_c45d396835269c8b59ee12c97c35a39c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2629<br>311 Complaints 135<br>Benches: 3<br>Gardens: 0<br>Trees: 467<br>Greenstreets: 2<br>Chill Score: 4.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2629<br>311 Complaints: 135<br>Benches: 3<br>Gardens: 0<br>Trees: 467<br>Greenstreets: 2<br>Chill Score: 4.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -99236,7 +99236,7 @@ geo_json_7b73431eddf80567c0bc053193097b3a_add({
 
 geo_json_7b73431eddf80567c0bc053193097b3a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2630<br>311 Complaints 168<br>Benches: 6<br>Gardens: 3<br>Trees: 528<br>Greenstreets: 3<br>Chill Score: 6.66<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2630<br>311 Complaints: 168<br>Benches: 6<br>Gardens: 3<br>Trees: 528<br>Greenstreets: 3<br>Chill Score: 6.66<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -99327,7 +99327,7 @@ geo_json_450c7319db8bf7aa517cc2b64f4ed615_add({
 
 geo_json_450c7319db8bf7aa517cc2b64f4ed615.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2631<br>311 Complaints 278<br>Benches: 4<br>Gardens: 9<br>Trees: 793<br>Greenstreets: 1<br>Chill Score: 10.190000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2631<br>311 Complaints: 278<br>Benches: 4<br>Gardens: 9<br>Trees: 793<br>Greenstreets: 1<br>Chill Score: 10.190000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -99418,7 +99418,7 @@ geo_json_95cb7cfac508a2100305e55f6273afc9_add({
 
 geo_json_95cb7cfac508a2100305e55f6273afc9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2632<br>311 Complaints 296<br>Benches: 8<br>Gardens: 4<br>Trees: 1133<br>Greenstreets: 0<br>Chill Score: 10.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2632<br>311 Complaints: 296<br>Benches: 8<br>Gardens: 4<br>Trees: 1133<br>Greenstreets: 0<br>Chill Score: 10.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -99509,7 +99509,7 @@ geo_json_2b3965de80622bbda5d06c77576b99df_add({
 
 geo_json_2b3965de80622bbda5d06c77576b99df.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2633<br>311 Complaints 278<br>Benches: 6<br>Gardens: 1<br>Trees: 811<br>Greenstreets: 1<br>Chill Score: 6.389999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2633<br>311 Complaints: 278<br>Benches: 6<br>Gardens: 1<br>Trees: 811<br>Greenstreets: 1<br>Chill Score: 6.389999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -99600,7 +99600,7 @@ geo_json_8186ce7f3d9965fab9b8e665479b0d8e_add({
 
 geo_json_8186ce7f3d9965fab9b8e665479b0d8e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2634<br>311 Complaints 174<br>Benches: 6<br>Gardens: 1<br>Trees: 828<br>Greenstreets: 3<br>Chill Score: 8.6<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2634<br>311 Complaints: 174<br>Benches: 6<br>Gardens: 1<br>Trees: 828<br>Greenstreets: 3<br>Chill Score: 8.6<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -99691,7 +99691,7 @@ geo_json_e2ad0322fc1db3170c99b9a23e0baab7_add({
 
 geo_json_e2ad0322fc1db3170c99b9a23e0baab7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2635<br>311 Complaints 58<br>Benches: 0<br>Gardens: 0<br>Trees: 207<br>Greenstreets: 0<br>Chill Score: 1.4899999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2635<br>311 Complaints: 58<br>Benches: 0<br>Gardens: 0<br>Trees: 207<br>Greenstreets: 0<br>Chill Score: 1.4899999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -99782,7 +99782,7 @@ geo_json_f9931acbb7a9a31f349c5cf8c0360c57_add({
 
 geo_json_f9931acbb7a9a31f349c5cf8c0360c57.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2636<br>311 Complaints 245<br>Benches: 3<br>Gardens: 0<br>Trees: 709<br>Greenstreets: 6<br>Chill Score: 7.67<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2636<br>311 Complaints: 245<br>Benches: 3<br>Gardens: 0<br>Trees: 709<br>Greenstreets: 6<br>Chill Score: 7.67<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -99873,7 +99873,7 @@ geo_json_19b04cc9a4959e7a543db45caf6e3801_add({
 
 geo_json_19b04cc9a4959e7a543db45caf6e3801.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2637<br>311 Complaints 106<br>Benches: 5<br>Gardens: 0<br>Trees: 563<br>Greenstreets: 2<br>Chill Score: 5.62<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2637<br>311 Complaints: 106<br>Benches: 5<br>Gardens: 0<br>Trees: 563<br>Greenstreets: 2<br>Chill Score: 5.62<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -99964,7 +99964,7 @@ geo_json_0c9e4c6bef79b5e3041c6e79367bb409_add({
 
 geo_json_0c9e4c6bef79b5e3041c6e79367bb409.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2638<br>311 Complaints 117<br>Benches: 2<br>Gardens: 2<br>Trees: 369<br>Greenstreets: 1<br>Chill Score: 4.04<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2638<br>311 Complaints: 117<br>Benches: 2<br>Gardens: 2<br>Trees: 369<br>Greenstreets: 1<br>Chill Score: 4.04<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -100055,7 +100055,7 @@ geo_json_c8246afcae90ddf5b2277feab4e95795_add({
 
 geo_json_c8246afcae90ddf5b2277feab4e95795.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2639<br>311 Complaints 12<br>Benches: 0<br>Gardens: 0<br>Trees: 30<br>Greenstreets: 0<br>Chill Score: 0.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2639<br>311 Complaints: 12<br>Benches: 0<br>Gardens: 0<br>Trees: 30<br>Greenstreets: 0<br>Chill Score: 0.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -100146,7 +100146,7 @@ geo_json_48a2787b2f38ccbd5a324a26fb589aff_add({
 
 geo_json_48a2787b2f38ccbd5a324a26fb589aff.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2640<br>311 Complaints 107<br>Benches: 0<br>Gardens: 0<br>Trees: 392<br>Greenstreets: 0<br>Chill Score: 2.8499999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2640<br>311 Complaints: 107<br>Benches: 0<br>Gardens: 0<br>Trees: 392<br>Greenstreets: 0<br>Chill Score: 2.8499999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -100237,7 +100237,7 @@ geo_json_1e37a72874958fd21b0f49391c75b5d6_add({
 
 geo_json_1e37a72874958fd21b0f49391c75b5d6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2641<br>311 Complaints 153<br>Benches: 0<br>Gardens: 0<br>Trees: 972<br>Greenstreets: 1<br>Chill Score: 8.690000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2641<br>311 Complaints: 153<br>Benches: 0<br>Gardens: 0<br>Trees: 972<br>Greenstreets: 1<br>Chill Score: 8.690000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -100328,7 +100328,7 @@ geo_json_f8d36b3c6412878745587a3149e25c41_add({
 
 geo_json_f8d36b3c6412878745587a3149e25c41.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2642<br>311 Complaints 115<br>Benches: 2<br>Gardens: 0<br>Trees: 300<br>Greenstreets: 3<br>Chill Score: 3.37<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2642<br>311 Complaints: 115<br>Benches: 2<br>Gardens: 0<br>Trees: 300<br>Greenstreets: 3<br>Chill Score: 3.37<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -100419,7 +100419,7 @@ geo_json_d665fc3292cd31050c3b45df3a23f5da_add({
 
 geo_json_d665fc3292cd31050c3b45df3a23f5da.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2643<br>311 Complaints 15<br>Benches: 0<br>Gardens: 0<br>Trees: 78<br>Greenstreets: 0<br>Chill Score: 0.63<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2643<br>311 Complaints: 15<br>Benches: 0<br>Gardens: 0<br>Trees: 78<br>Greenstreets: 0<br>Chill Score: 0.63<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -100510,7 +100510,7 @@ geo_json_e18a73c34d77464df003ae9f1e9bae79_add({
 
 geo_json_e18a73c34d77464df003ae9f1e9bae79.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2685<br>311 Complaints 4<br>Benches: 0<br>Gardens: 0<br>Trees: 6<br>Greenstreets: 1<br>Chill Score: 0.52<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2685<br>311 Complaints: 4<br>Benches: 0<br>Gardens: 0<br>Trees: 6<br>Greenstreets: 1<br>Chill Score: 0.52<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -100601,7 +100601,7 @@ geo_json_ec9f9ffdee9c9b36c167ed56b5ad09bd_add({
 
 geo_json_ec9f9ffdee9c9b36c167ed56b5ad09bd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2686<br>311 Complaints 1260<br>Benches: 10<br>Gardens: 6<br>Trees: 1249<br>Greenstreets: 10<br>Chill Score: 7.99<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2686<br>311 Complaints: 1260<br>Benches: 10<br>Gardens: 6<br>Trees: 1249<br>Greenstreets: 10<br>Chill Score: 7.99<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -100692,7 +100692,7 @@ geo_json_77cab078d4eb0cb0c7a7b494e75e8ac7_add({
 
 geo_json_77cab078d4eb0cb0c7a7b494e75e8ac7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2687<br>311 Complaints 966<br>Benches: 4<br>Gardens: 8<br>Trees: 1166<br>Greenstreets: 9<br>Chill Score: 10.54<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2687<br>311 Complaints: 966<br>Benches: 4<br>Gardens: 8<br>Trees: 1166<br>Greenstreets: 9<br>Chill Score: 10.54<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -100783,7 +100783,7 @@ geo_json_4ae3654191a033386663c567ffa70897_add({
 
 geo_json_4ae3654191a033386663c567ffa70897.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2688<br>311 Complaints 42<br>Benches: 4<br>Gardens: 0<br>Trees: 244<br>Greenstreets: 5<br>Chill Score: 4.5600000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2688<br>311 Complaints: 42<br>Benches: 4<br>Gardens: 0<br>Trees: 244<br>Greenstreets: 5<br>Chill Score: 4.5600000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -100874,7 +100874,7 @@ geo_json_482ee0e21ca221a641bbcd23f53752d1_add({
 
 geo_json_482ee0e21ca221a641bbcd23f53752d1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2689<br>311 Complaints 447<br>Benches: 7<br>Gardens: 1<br>Trees: 796<br>Greenstreets: 1<br>Chill Score: 4.5600000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2689<br>311 Complaints: 447<br>Benches: 7<br>Gardens: 1<br>Trees: 796<br>Greenstreets: 1<br>Chill Score: 4.5600000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -100965,7 +100965,7 @@ geo_json_b4b4bf7af07dcbb327b27724ddcee5f4_add({
 
 geo_json_b4b4bf7af07dcbb327b27724ddcee5f4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2690<br>311 Complaints 290<br>Benches: 6<br>Gardens: 9<br>Trees: 920<br>Greenstreets: 10<br>Chill Score: 15.860000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2690<br>311 Complaints: 290<br>Benches: 6<br>Gardens: 9<br>Trees: 920<br>Greenstreets: 10<br>Chill Score: 15.860000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -101056,7 +101056,7 @@ geo_json_fc950cf8e9cf2947fdd8a0f26358c822_add({
 
 geo_json_fc950cf8e9cf2947fdd8a0f26358c822.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2691<br>311 Complaints 276<br>Benches: 4<br>Gardens: 4<br>Trees: 920<br>Greenstreets: 3<br>Chill Score: 9.98<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2691<br>311 Complaints: 276<br>Benches: 4<br>Gardens: 4<br>Trees: 920<br>Greenstreets: 3<br>Chill Score: 9.98<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -101147,7 +101147,7 @@ geo_json_2a0f32b0e7ce280c2f32f2fdf05d1695_add({
 
 geo_json_2a0f32b0e7ce280c2f32f2fdf05d1695.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2692<br>311 Complaints 299<br>Benches: 2<br>Gardens: 4<br>Trees: 1134<br>Greenstreets: 4<br>Chill Score: 12.37<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2692<br>311 Complaints: 299<br>Benches: 2<br>Gardens: 4<br>Trees: 1134<br>Greenstreets: 4<br>Chill Score: 12.37<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -101238,7 +101238,7 @@ geo_json_79faca0efba6f0abdc0ebe0c52b72bfb_add({
 
 geo_json_79faca0efba6f0abdc0ebe0c52b72bfb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2693<br>311 Complaints 246<br>Benches: 0<br>Gardens: 0<br>Trees: 512<br>Greenstreets: 1<br>Chill Score: 3.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2693<br>311 Complaints: 246<br>Benches: 0<br>Gardens: 0<br>Trees: 512<br>Greenstreets: 1<br>Chill Score: 3.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -101329,7 +101329,7 @@ geo_json_9ea22e841f5b4b4b17cafcddec145f6b_add({
 
 geo_json_9ea22e841f5b4b4b17cafcddec145f6b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2694<br>311 Complaints 417<br>Benches: 1<br>Gardens: 1<br>Trees: 689<br>Greenstreets: 1<br>Chill Score: 3.7300000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2694<br>311 Complaints: 417<br>Benches: 1<br>Gardens: 1<br>Trees: 689<br>Greenstreets: 1<br>Chill Score: 3.7300000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -101420,7 +101420,7 @@ geo_json_36dc7f9172cc004892b36bd93769bae0_add({
 
 geo_json_36dc7f9172cc004892b36bd93769bae0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2695<br>311 Complaints 167<br>Benches: 1<br>Gardens: 0<br>Trees: 517<br>Greenstreets: 5<br>Chill Score: 6.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2695<br>311 Complaints: 167<br>Benches: 1<br>Gardens: 0<br>Trees: 517<br>Greenstreets: 5<br>Chill Score: 6.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -101511,7 +101511,7 @@ geo_json_ab18dd442c19b5096054678deb277a09_add({
 
 geo_json_ab18dd442c19b5096054678deb277a09.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2696<br>311 Complaints 180<br>Benches: 3<br>Gardens: 0<br>Trees: 850<br>Greenstreets: 0<br>Chill Score: 6.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2696<br>311 Complaints: 180<br>Benches: 3<br>Gardens: 0<br>Trees: 850<br>Greenstreets: 0<br>Chill Score: 6.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -101602,7 +101602,7 @@ geo_json_328a748727ef56d4076adb794b7cc13f_add({
 
 geo_json_328a748727ef56d4076adb794b7cc13f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2697<br>311 Complaints 269<br>Benches: 0<br>Gardens: 0<br>Trees: 763<br>Greenstreets: 0<br>Chill Score: 4.9399999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2697<br>311 Complaints: 269<br>Benches: 0<br>Gardens: 0<br>Trees: 763<br>Greenstreets: 0<br>Chill Score: 4.9399999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -101693,7 +101693,7 @@ geo_json_9eb389ef85e2cd0db331bd7db3910510_add({
 
 geo_json_9eb389ef85e2cd0db331bd7db3910510.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2698<br>311 Complaints 16<br>Benches: 0<br>Gardens: 0<br>Trees: 154<br>Greenstreets: 1<br>Chill Score: 1.8800000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2698<br>311 Complaints: 16<br>Benches: 0<br>Gardens: 0<br>Trees: 154<br>Greenstreets: 1<br>Chill Score: 1.8800000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -101784,7 +101784,7 @@ geo_json_2f9eccaec48147ac3d18797e4dc454b0_add({
 
 geo_json_2f9eccaec48147ac3d18797e4dc454b0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2699<br>311 Complaints 125<br>Benches: 0<br>Gardens: 0<br>Trees: 441<br>Greenstreets: 4<br>Chill Score: 5.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2699<br>311 Complaints: 125<br>Benches: 0<br>Gardens: 0<br>Trees: 441<br>Greenstreets: 4<br>Chill Score: 5.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -101875,7 +101875,7 @@ geo_json_379094a34cb9f4f0bf6923d853f7d640_add({
 
 geo_json_379094a34cb9f4f0bf6923d853f7d640.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2700<br>311 Complaints 147<br>Benches: 3<br>Gardens: 0<br>Trees: 474<br>Greenstreets: 3<br>Chill Score: 4.800000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2700<br>311 Complaints: 147<br>Benches: 3<br>Gardens: 0<br>Trees: 474<br>Greenstreets: 3<br>Chill Score: 4.800000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -101966,7 +101966,7 @@ geo_json_9fdffb950ff0c40ea335b0f05c89e72a_add({
 
 geo_json_9fdffb950ff0c40ea335b0f05c89e72a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2701<br>311 Complaints 29<br>Benches: 0<br>Gardens: 0<br>Trees: 11<br>Greenstreets: 0<br>Chill Score: -0.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2701<br>311 Complaints: 29<br>Benches: 0<br>Gardens: 0<br>Trees: 11<br>Greenstreets: 0<br>Chill Score: -0.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -102057,7 +102057,7 @@ geo_json_07cbd02f51aaf8fdd35ce3789093b982_add({
 
 geo_json_07cbd02f51aaf8fdd35ce3789093b982.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2745<br>311 Complaints 353<br>Benches: 1<br>Gardens: 0<br>Trees: 426<br>Greenstreets: 2<br>Chill Score: 1.7399999999999993<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2745<br>311 Complaints: 353<br>Benches: 1<br>Gardens: 0<br>Trees: 426<br>Greenstreets: 2<br>Chill Score: 1.7399999999999993<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -102148,7 +102148,7 @@ geo_json_b0f164b319272a9936ec006b1b56c4e8_add({
 
 geo_json_b0f164b319272a9936ec006b1b56c4e8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2746<br>311 Complaints 741<br>Benches: 13<br>Gardens: 4<br>Trees: 788<br>Greenstreets: 6<br>Chill Score: 5.6<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2746<br>311 Complaints: 741<br>Benches: 13<br>Gardens: 4<br>Trees: 788<br>Greenstreets: 6<br>Chill Score: 5.6<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -102239,7 +102239,7 @@ geo_json_3a7952f29b075af2f128b600a54f5ca1_add({
 
 geo_json_3a7952f29b075af2f128b600a54f5ca1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2747<br>311 Complaints 335<br>Benches: 1<br>Gardens: 5<br>Trees: 542<br>Greenstreets: 12<br>Chill Score: 10.58<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2747<br>311 Complaints: 335<br>Benches: 1<br>Gardens: 5<br>Trees: 542<br>Greenstreets: 12<br>Chill Score: 10.58<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -102330,7 +102330,7 @@ geo_json_810cf4d14e16b6de0bee4d083750a4dd_add({
 
 geo_json_810cf4d14e16b6de0bee4d083750a4dd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2748<br>311 Complaints 543<br>Benches: 6<br>Gardens: 1<br>Trees: 1061<br>Greenstreets: 16<br>Chill Score: 13.739999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2748<br>311 Complaints: 543<br>Benches: 6<br>Gardens: 1<br>Trees: 1061<br>Greenstreets: 16<br>Chill Score: 13.739999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -102421,7 +102421,7 @@ geo_json_53adad453f09de847bd2ed44e6dd553a_add({
 
 geo_json_53adad453f09de847bd2ed44e6dd553a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2749<br>311 Complaints 645<br>Benches: 13<br>Gardens: 4<br>Trees: 1075<br>Greenstreets: 5<br>Chill Score: 8.93<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2749<br>311 Complaints: 645<br>Benches: 13<br>Gardens: 4<br>Trees: 1075<br>Greenstreets: 5<br>Chill Score: 8.93<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -102512,7 +102512,7 @@ geo_json_ecacc81d98478a5e9603e8dadd3b51e1_add({
 
 geo_json_ecacc81d98478a5e9603e8dadd3b51e1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2750<br>311 Complaints 337<br>Benches: 4<br>Gardens: 3<br>Trees: 753<br>Greenstreets: 2<br>Chill Score: 6.7<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2750<br>311 Complaints: 337<br>Benches: 4<br>Gardens: 3<br>Trees: 753<br>Greenstreets: 2<br>Chill Score: 6.7<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -102603,7 +102603,7 @@ geo_json_8f6c1554cbbcf061592c824fbce532d3_add({
 
 geo_json_8f6c1554cbbcf061592c824fbce532d3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2751<br>311 Complaints 316<br>Benches: 9<br>Gardens: 4<br>Trees: 1071<br>Greenstreets: 6<br>Chill Score: 12.64<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2751<br>311 Complaints: 316<br>Benches: 9<br>Gardens: 4<br>Trees: 1071<br>Greenstreets: 6<br>Chill Score: 12.64<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -102694,7 +102694,7 @@ geo_json_76cb070ac240bc4c11ec7845b2ddffbd_add({
 
 geo_json_76cb070ac240bc4c11ec7845b2ddffbd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2752<br>311 Complaints 360<br>Benches: 2<br>Gardens: 1<br>Trees: 589<br>Greenstreets: 1<br>Chill Score: 3.3099999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2752<br>311 Complaints: 360<br>Benches: 2<br>Gardens: 1<br>Trees: 589<br>Greenstreets: 1<br>Chill Score: 3.3099999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -102785,7 +102785,7 @@ geo_json_1852d224bb847ae635a5fbba3463403d_add({
 
 geo_json_1852d224bb847ae635a5fbba3463403d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2753<br>311 Complaints 309<br>Benches: 4<br>Gardens: 0<br>Trees: 683<br>Greenstreets: 3<br>Chill Score: 5.28<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2753<br>311 Complaints: 309<br>Benches: 4<br>Gardens: 0<br>Trees: 683<br>Greenstreets: 3<br>Chill Score: 5.28<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -102876,7 +102876,7 @@ geo_json_ba074a40a8801fafd2f3575c214301e6_add({
 
 geo_json_ba074a40a8801fafd2f3575c214301e6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2754<br>311 Complaints 516<br>Benches: 1<br>Gardens: 0<br>Trees: 869<br>Greenstreets: 6<br>Chill Score: 6.539999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2754<br>311 Complaints: 516<br>Benches: 1<br>Gardens: 0<br>Trees: 869<br>Greenstreets: 6<br>Chill Score: 6.539999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -102967,7 +102967,7 @@ geo_json_519ed4789fc694f50ad19b05ab171f8e_add({
 
 geo_json_519ed4789fc694f50ad19b05ab171f8e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2755<br>311 Complaints 271<br>Benches: 0<br>Gardens: 0<br>Trees: 798<br>Greenstreets: 3<br>Chill Score: 6.7700000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2755<br>311 Complaints: 271<br>Benches: 0<br>Gardens: 0<br>Trees: 798<br>Greenstreets: 3<br>Chill Score: 6.7700000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -103058,7 +103058,7 @@ geo_json_df9905784139b016e8e05712ee25f02c_add({
 
 geo_json_df9905784139b016e8e05712ee25f02c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2756<br>311 Complaints 182<br>Benches: 0<br>Gardens: 0<br>Trees: 601<br>Greenstreets: 3<br>Chill Score: 5.6899999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2756<br>311 Complaints: 182<br>Benches: 0<br>Gardens: 0<br>Trees: 601<br>Greenstreets: 3<br>Chill Score: 5.6899999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -103149,7 +103149,7 @@ geo_json_46cbf3fd8d8b9de04f377f6506c536c8_add({
 
 geo_json_46cbf3fd8d8b9de04f377f6506c536c8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2757<br>311 Complaints 33<br>Benches: 0<br>Gardens: 0<br>Trees: 79<br>Greenstreets: 1<br>Chill Score: 0.96<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2757<br>311 Complaints: 33<br>Benches: 0<br>Gardens: 0<br>Trees: 79<br>Greenstreets: 1<br>Chill Score: 0.96<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -103240,7 +103240,7 @@ geo_json_9f418e0c8493eeba860f4ab6c353a137_add({
 
 geo_json_9f418e0c8493eeba860f4ab6c353a137.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2758<br>311 Complaints 197<br>Benches: 3<br>Gardens: 0<br>Trees: 615<br>Greenstreets: 3<br>Chill Score: 5.710000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2758<br>311 Complaints: 197<br>Benches: 3<br>Gardens: 0<br>Trees: 615<br>Greenstreets: 3<br>Chill Score: 5.710000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -103331,7 +103331,7 @@ geo_json_fdd1d8a4dce8a43e7188ca97daef73bf_add({
 
 geo_json_fdd1d8a4dce8a43e7188ca97daef73bf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2759<br>311 Complaints 120<br>Benches: 0<br>Gardens: 0<br>Trees: 460<br>Greenstreets: 1<br>Chill Score: 3.9000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2759<br>311 Complaints: 120<br>Benches: 0<br>Gardens: 0<br>Trees: 460<br>Greenstreets: 1<br>Chill Score: 3.9000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -103422,7 +103422,7 @@ geo_json_98f79e7eb66d47bfc027f4ecd9be9bcd_add({
 
 geo_json_98f79e7eb66d47bfc027f4ecd9be9bcd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2804<br>311 Complaints 56<br>Benches: 0<br>Gardens: 0<br>Trees: 53<br>Greenstreets: 1<br>Chill Score: 0.47<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2804<br>311 Complaints: 56<br>Benches: 0<br>Gardens: 0<br>Trees: 53<br>Greenstreets: 1<br>Chill Score: 0.47<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -103513,7 +103513,7 @@ geo_json_7ae0c37cf241863ba82aa0f65608f68c_add({
 
 geo_json_7ae0c37cf241863ba82aa0f65608f68c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2805<br>311 Complaints 931<br>Benches: 5<br>Gardens: 0<br>Trees: 1002<br>Greenstreets: 5<br>Chill Score: 3.26<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2805<br>311 Complaints: 931<br>Benches: 5<br>Gardens: 0<br>Trees: 1002<br>Greenstreets: 5<br>Chill Score: 3.26<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -103604,7 +103604,7 @@ geo_json_34d365583e860287215503cffbf5e799_add({
 
 geo_json_34d365583e860287215503cffbf5e799.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2806<br>311 Complaints 150<br>Benches: 0<br>Gardens: 0<br>Trees: 293<br>Greenstreets: 2<br>Chill Score: 2.43<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2806<br>311 Complaints: 150<br>Benches: 0<br>Gardens: 0<br>Trees: 293<br>Greenstreets: 2<br>Chill Score: 2.43<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -103695,7 +103695,7 @@ geo_json_039ed00bd20bffcccc6d85099a0c1b74_add({
 
 geo_json_039ed00bd20bffcccc6d85099a0c1b74.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2807<br>311 Complaints 334<br>Benches: 3<br>Gardens: 1<br>Trees: 1032<br>Greenstreets: 13<br>Chill Score: 14.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2807<br>311 Complaints: 334<br>Benches: 3<br>Gardens: 1<br>Trees: 1032<br>Greenstreets: 13<br>Chill Score: 14.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -103786,7 +103786,7 @@ geo_json_c33df5592f0e9e0c7d7c94712600759a_add({
 
 geo_json_c33df5592f0e9e0c7d7c94712600759a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2808<br>311 Complaints 558<br>Benches: 3<br>Gardens: 2<br>Trees: 913<br>Greenstreets: 14<br>Chill Score: 11.580000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2808<br>311 Complaints: 558<br>Benches: 3<br>Gardens: 2<br>Trees: 913<br>Greenstreets: 14<br>Chill Score: 11.580000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -103877,7 +103877,7 @@ geo_json_34d2c45280d3e474ed0a2bad4794b1ac_add({
 
 geo_json_34d2c45280d3e474ed0a2bad4794b1ac.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2809<br>311 Complaints 255<br>Benches: 1<br>Gardens: 2<br>Trees: 696<br>Greenstreets: 5<br>Chill Score: 7.92<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2809<br>311 Complaints: 255<br>Benches: 1<br>Gardens: 2<br>Trees: 696<br>Greenstreets: 5<br>Chill Score: 7.92<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -103968,7 +103968,7 @@ geo_json_ab0551df7287e04b1379085c12f5d153_add({
 
 geo_json_ab0551df7287e04b1379085c12f5d153.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2810<br>311 Complaints 252<br>Benches: 0<br>Gardens: 0<br>Trees: 434<br>Greenstreets: 2<br>Chill Score: 2.82<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2810<br>311 Complaints: 252<br>Benches: 0<br>Gardens: 0<br>Trees: 434<br>Greenstreets: 2<br>Chill Score: 2.82<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -104059,7 +104059,7 @@ geo_json_9de475feb4eccf9a1825763e2b8e36fd_add({
 
 geo_json_9de475feb4eccf9a1825763e2b8e36fd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2811<br>311 Complaints 196<br>Benches: 5<br>Gardens: 3<br>Trees: 609<br>Greenstreets: 5<br>Chill Score: 8.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2811<br>311 Complaints: 196<br>Benches: 5<br>Gardens: 3<br>Trees: 609<br>Greenstreets: 5<br>Chill Score: 8.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -104150,7 +104150,7 @@ geo_json_bc31e21d924a56552215463b5b02ec1f_add({
 
 geo_json_bc31e21d924a56552215463b5b02ec1f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2812<br>311 Complaints 241<br>Benches: 1<br>Gardens: 1<br>Trees: 394<br>Greenstreets: 3<br>Chill Score: 3.5399999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2812<br>311 Complaints: 241<br>Benches: 1<br>Gardens: 1<br>Trees: 394<br>Greenstreets: 3<br>Chill Score: 3.5399999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -104241,7 +104241,7 @@ geo_json_a41feb1e020725b8b65e8c924a89d14a_add({
 
 geo_json_a41feb1e020725b8b65e8c924a89d14a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2813<br>311 Complaints 338<br>Benches: 0<br>Gardens: 0<br>Trees: 813<br>Greenstreets: 2<br>Chill Score: 5.750000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2813<br>311 Complaints: 338<br>Benches: 0<br>Gardens: 0<br>Trees: 813<br>Greenstreets: 2<br>Chill Score: 5.750000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -104332,7 +104332,7 @@ geo_json_5e9014fcada2f52227805fbf6fec242a_add({
 
 geo_json_5e9014fcada2f52227805fbf6fec242a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2814<br>311 Complaints 207<br>Benches: 4<br>Gardens: 1<br>Trees: 615<br>Greenstreets: 1<br>Chill Score: 5.120000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2814<br>311 Complaints: 207<br>Benches: 4<br>Gardens: 1<br>Trees: 615<br>Greenstreets: 1<br>Chill Score: 5.120000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -104423,7 +104423,7 @@ geo_json_2580a3c487ea3a91b323455058986c89_add({
 
 geo_json_2580a3c487ea3a91b323455058986c89.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2815<br>311 Complaints 307<br>Benches: 4<br>Gardens: 0<br>Trees: 906<br>Greenstreets: 6<br>Chill Score: 9.030000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2815<br>311 Complaints: 307<br>Benches: 4<br>Gardens: 0<br>Trees: 906<br>Greenstreets: 6<br>Chill Score: 9.030000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -104514,7 +104514,7 @@ geo_json_7a359c2bcd3cbce85429d58c17e34205_add({
 
 geo_json_7a359c2bcd3cbce85429d58c17e34205.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2816<br>311 Complaints 165<br>Benches: 1<br>Gardens: 0<br>Trees: 510<br>Greenstreets: 3<br>Chill Score: 4.960000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2816<br>311 Complaints: 165<br>Benches: 1<br>Gardens: 0<br>Trees: 510<br>Greenstreets: 3<br>Chill Score: 4.960000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -104605,7 +104605,7 @@ geo_json_591697136eae4001d1328006ea3476b1_add({
 
 geo_json_591697136eae4001d1328006ea3476b1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2817<br>311 Complaints 175<br>Benches: 0<br>Gardens: 0<br>Trees: 678<br>Greenstreets: 3<br>Chill Score: 6.53<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2817<br>311 Complaints: 175<br>Benches: 0<br>Gardens: 0<br>Trees: 678<br>Greenstreets: 3<br>Chill Score: 6.53<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -104696,7 +104696,7 @@ geo_json_4388d2493b91fe321d20acf5891760d8_add({
 
 geo_json_4388d2493b91fe321d20acf5891760d8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2818<br>311 Complaints 75<br>Benches: 0<br>Gardens: 0<br>Trees: 306<br>Greenstreets: 0<br>Chill Score: 2.31<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2818<br>311 Complaints: 75<br>Benches: 0<br>Gardens: 0<br>Trees: 306<br>Greenstreets: 0<br>Chill Score: 2.31<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -104787,7 +104787,7 @@ geo_json_80ca93cb766a643619f05f0fa16d54af_add({
 
 geo_json_80ca93cb766a643619f05f0fa16d54af.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2821<br>311 Complaints 49<br>Benches: 0<br>Gardens: 0<br>Trees: 188<br>Greenstreets: 0<br>Chill Score: 1.3900000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2821<br>311 Complaints: 49<br>Benches: 0<br>Gardens: 0<br>Trees: 188<br>Greenstreets: 0<br>Chill Score: 1.3900000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -104878,7 +104878,7 @@ geo_json_d09033ab1ac987d6d0145e9d29aefbe9_add({
 
 geo_json_d09033ab1ac987d6d0145e9d29aefbe9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2822<br>311 Complaints 21<br>Benches: 0<br>Gardens: 0<br>Trees: 31<br>Greenstreets: 1<br>Chill Score: 0.6<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2822<br>311 Complaints: 21<br>Benches: 0<br>Gardens: 0<br>Trees: 31<br>Greenstreets: 1<br>Chill Score: 0.6<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -104969,7 +104969,7 @@ geo_json_a2b47a08ae7c2b278de67910c1e4dfd0_add({
 
 geo_json_a2b47a08ae7c2b278de67910c1e4dfd0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2864<br>311 Complaints 714<br>Benches: 19<br>Gardens: 1<br>Trees: 710<br>Greenstreets: 3<br>Chill Score: 2.1500000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2864<br>311 Complaints: 714<br>Benches: 19<br>Gardens: 1<br>Trees: 710<br>Greenstreets: 3<br>Chill Score: 2.1500000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -105060,7 +105060,7 @@ geo_json_17348183cf9584430e47df87440356a2_add({
 
 geo_json_17348183cf9584430e47df87440356a2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2865<br>311 Complaints 498<br>Benches: 13<br>Gardens: 0<br>Trees: 708<br>Greenstreets: 0<br>Chill Score: 2.2299999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2865<br>311 Complaints: 498<br>Benches: 13<br>Gardens: 0<br>Trees: 708<br>Greenstreets: 0<br>Chill Score: 2.2299999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -105151,7 +105151,7 @@ geo_json_c27f6b92e322a09ba2f26fdd856d90aa_add({
 
 geo_json_c27f6b92e322a09ba2f26fdd856d90aa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2866<br>311 Complaints 238<br>Benches: 6<br>Gardens: 0<br>Trees: 609<br>Greenstreets: 10<br>Chill Score: 8.77<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2866<br>311 Complaints: 238<br>Benches: 6<br>Gardens: 0<br>Trees: 609<br>Greenstreets: 10<br>Chill Score: 8.77<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -105242,7 +105242,7 @@ geo_json_535944b2421d8e72ca80e7e625329f5f_add({
 
 geo_json_535944b2421d8e72ca80e7e625329f5f.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2867<br>311 Complaints 428<br>Benches: 6<br>Gardens: 3<br>Trees: 965<br>Greenstreets: 3<br>Chill Score: 8.43<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2867<br>311 Complaints: 428<br>Benches: 6<br>Gardens: 3<br>Trees: 965<br>Greenstreets: 3<br>Chill Score: 8.43<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -105333,7 +105333,7 @@ geo_json_c900c47cc498fb1d38f684100fc658a3_add({
 
 geo_json_c900c47cc498fb1d38f684100fc658a3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2868<br>311 Complaints 362<br>Benches: 6<br>Gardens: 0<br>Trees: 797<br>Greenstreets: 5<br>Chill Score: 6.91<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2868<br>311 Complaints: 362<br>Benches: 6<br>Gardens: 0<br>Trees: 797<br>Greenstreets: 5<br>Chill Score: 6.91<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -105424,7 +105424,7 @@ geo_json_3103a862720cb89999ec6ef9028604f2_add({
 
 geo_json_3103a862720cb89999ec6ef9028604f2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2869<br>311 Complaints 314<br>Benches: 3<br>Gardens: 3<br>Trees: 858<br>Greenstreets: 1<br>Chill Score: 7.47<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2869<br>311 Complaints: 314<br>Benches: 3<br>Gardens: 3<br>Trees: 858<br>Greenstreets: 1<br>Chill Score: 7.47<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -105515,7 +105515,7 @@ geo_json_b3697c0e9f5bd027fd45304180abd10d_add({
 
 geo_json_b3697c0e9f5bd027fd45304180abd10d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2870<br>311 Complaints 310<br>Benches: 4<br>Gardens: 8<br>Trees: 905<br>Greenstreets: 3<br>Chill Score: 11.49<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2870<br>311 Complaints: 310<br>Benches: 4<br>Gardens: 8<br>Trees: 905<br>Greenstreets: 3<br>Chill Score: 11.49<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -105606,7 +105606,7 @@ geo_json_712592a2b080dce4c9fd6ac30043cd93_add({
 
 geo_json_712592a2b080dce4c9fd6ac30043cd93.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2871<br>311 Complaints 35<br>Benches: 0<br>Gardens: 0<br>Trees: 68<br>Greenstreets: 4<br>Chill Score: 2.33<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2871<br>311 Complaints: 35<br>Benches: 0<br>Gardens: 0<br>Trees: 68<br>Greenstreets: 4<br>Chill Score: 2.33<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -105697,7 +105697,7 @@ geo_json_a0db5c8250025f546ab9035d5a225599_add({
 
 geo_json_a0db5c8250025f546ab9035d5a225599.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2872<br>311 Complaints 322<br>Benches: 0<br>Gardens: 0<br>Trees: 769<br>Greenstreets: 3<br>Chill Score: 5.970000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2872<br>311 Complaints: 322<br>Benches: 0<br>Gardens: 0<br>Trees: 769<br>Greenstreets: 3<br>Chill Score: 5.970000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -105788,7 +105788,7 @@ geo_json_197dfafa3092f74f12815472449c69e1_add({
 
 geo_json_197dfafa3092f74f12815472449c69e1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2873<br>311 Complaints 329<br>Benches: 3<br>Gardens: 0<br>Trees: 1033<br>Greenstreets: 3<br>Chill Score: 8.57<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2873<br>311 Complaints: 329<br>Benches: 3<br>Gardens: 0<br>Trees: 1033<br>Greenstreets: 3<br>Chill Score: 8.57<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -105879,7 +105879,7 @@ geo_json_df143b6e3bdbcb1a96c20a95dd7b4081_add({
 
 geo_json_df143b6e3bdbcb1a96c20a95dd7b4081.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2874<br>311 Complaints 165<br>Benches: 2<br>Gardens: 0<br>Trees: 669<br>Greenstreets: 1<br>Chill Score: 5.5600000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2874<br>311 Complaints: 165<br>Benches: 2<br>Gardens: 0<br>Trees: 669<br>Greenstreets: 1<br>Chill Score: 5.5600000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -105970,7 +105970,7 @@ geo_json_664d75bfd20b0b9b69476b7e3a6c90c6_add({
 
 geo_json_664d75bfd20b0b9b69476b7e3a6c90c6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2875<br>311 Complaints 209<br>Benches: 1<br>Gardens: 0<br>Trees: 467<br>Greenstreets: 4<br>Chill Score: 4.59<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2875<br>311 Complaints: 209<br>Benches: 1<br>Gardens: 0<br>Trees: 467<br>Greenstreets: 4<br>Chill Score: 4.59<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -106061,7 +106061,7 @@ geo_json_ff08e4d0e6f3dc82b28783a8a367e8de_add({
 
 geo_json_ff08e4d0e6f3dc82b28783a8a367e8de.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2876<br>311 Complaints 276<br>Benches: 2<br>Gardens: 0<br>Trees: 572<br>Greenstreets: 2<br>Chill Score: 3.9799999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2876<br>311 Complaints: 276<br>Benches: 2<br>Gardens: 0<br>Trees: 572<br>Greenstreets: 2<br>Chill Score: 3.9799999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -106152,7 +106152,7 @@ geo_json_ba2ca81ffc9c34adcb8cf3e70827f352_add({
 
 geo_json_ba2ca81ffc9c34adcb8cf3e70827f352.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2877<br>311 Complaints 76<br>Benches: 0<br>Gardens: 0<br>Trees: 309<br>Greenstreets: 0<br>Chill Score: 2.33<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2877<br>311 Complaints: 76<br>Benches: 0<br>Gardens: 0<br>Trees: 309<br>Greenstreets: 0<br>Chill Score: 2.33<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -106243,7 +106243,7 @@ geo_json_2f05cbee73c550e9bc1c6d176f6fe5e5_add({
 
 geo_json_2f05cbee73c550e9bc1c6d176f6fe5e5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2880<br>311 Complaints 244<br>Benches: 0<br>Gardens: 0<br>Trees: 470<br>Greenstreets: 1<br>Chill Score: 2.7600000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2880<br>311 Complaints: 244<br>Benches: 0<br>Gardens: 0<br>Trees: 470<br>Greenstreets: 1<br>Chill Score: 2.7600000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -106334,7 +106334,7 @@ geo_json_319213f0b0618876745f48c32d682593_add({
 
 geo_json_319213f0b0618876745f48c32d682593.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2923<br>311 Complaints 157<br>Benches: 2<br>Gardens: 0<br>Trees: 336<br>Greenstreets: 4<br>Chill Score: 3.8099999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2923<br>311 Complaints: 157<br>Benches: 2<br>Gardens: 0<br>Trees: 336<br>Greenstreets: 4<br>Chill Score: 3.8099999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -106425,7 +106425,7 @@ geo_json_5b4ac6e50a2eb28bf45bb4d14c13f491_add({
 
 geo_json_5b4ac6e50a2eb28bf45bb4d14c13f491.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2924<br>311 Complaints 1103<br>Benches: 4<br>Gardens: 0<br>Trees: 1184<br>Greenstreets: 1<br>Chill Score: 1.3499999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2924<br>311 Complaints: 1103<br>Benches: 4<br>Gardens: 0<br>Trees: 1184<br>Greenstreets: 1<br>Chill Score: 1.3499999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -106516,7 +106516,7 @@ geo_json_66ba118114999d6731308fe5924d0946_add({
 
 geo_json_66ba118114999d6731308fe5924d0946.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2925<br>311 Complaints 80<br>Benches: 1<br>Gardens: 0<br>Trees: 174<br>Greenstreets: 1<br>Chill Score: 1.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2925<br>311 Complaints: 80<br>Benches: 1<br>Gardens: 0<br>Trees: 174<br>Greenstreets: 1<br>Chill Score: 1.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -106607,7 +106607,7 @@ geo_json_34006825897b4863b9c103e5618dcc23_add({
 
 geo_json_34006825897b4863b9c103e5618dcc23.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2926<br>311 Complaints 292<br>Benches: 3<br>Gardens: 2<br>Trees: 874<br>Greenstreets: 3<br>Chill Score: 8.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2926<br>311 Complaints: 292<br>Benches: 3<br>Gardens: 2<br>Trees: 874<br>Greenstreets: 3<br>Chill Score: 8.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -106698,7 +106698,7 @@ geo_json_5e533f9bd578a3a871f271c455a5f3ac_add({
 
 geo_json_5e533f9bd578a3a871f271c455a5f3ac.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2927<br>311 Complaints 540<br>Benches: 2<br>Gardens: 4<br>Trees: 1107<br>Greenstreets: 2<br>Chill Score: 8.69<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2927<br>311 Complaints: 540<br>Benches: 2<br>Gardens: 4<br>Trees: 1107<br>Greenstreets: 2<br>Chill Score: 8.69<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -106789,7 +106789,7 @@ geo_json_a79ba1e42573a4c8b7304147f6c4417d_add({
 
 geo_json_a79ba1e42573a4c8b7304147f6c4417d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2928<br>311 Complaints 439<br>Benches: 0<br>Gardens: 2<br>Trees: 1007<br>Greenstreets: 21<br>Chill Score: 17.18<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2928<br>311 Complaints: 439<br>Benches: 0<br>Gardens: 2<br>Trees: 1007<br>Greenstreets: 21<br>Chill Score: 17.18<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -106880,7 +106880,7 @@ geo_json_0b9b7cb3d8fe9d5bd690e2b4127cd450_add({
 
 geo_json_0b9b7cb3d8fe9d5bd690e2b4127cd450.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2929<br>311 Complaints 360<br>Benches: 0<br>Gardens: 1<br>Trees: 854<br>Greenstreets: 3<br>Chill Score: 6.940000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2929<br>311 Complaints: 360<br>Benches: 0<br>Gardens: 1<br>Trees: 854<br>Greenstreets: 3<br>Chill Score: 6.940000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -106971,7 +106971,7 @@ geo_json_cec34c3b267c362717403b6f088abcd7_add({
 
 geo_json_cec34c3b267c362717403b6f088abcd7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2930<br>311 Complaints 50<br>Benches: 0<br>Gardens: 0<br>Trees: 91<br>Greenstreets: 2<br>Chill Score: 1.4100000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2930<br>311 Complaints: 50<br>Benches: 0<br>Gardens: 0<br>Trees: 91<br>Greenstreets: 2<br>Chill Score: 1.4100000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -107062,7 +107062,7 @@ geo_json_6fe249cd39a4617eae78d91054394f35_add({
 
 geo_json_6fe249cd39a4617eae78d91054394f35.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2931<br>311 Complaints 469<br>Benches: 3<br>Gardens: 0<br>Trees: 998<br>Greenstreets: 3<br>Chill Score: 6.82<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2931<br>311 Complaints: 469<br>Benches: 3<br>Gardens: 0<br>Trees: 998<br>Greenstreets: 3<br>Chill Score: 6.82<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -107153,7 +107153,7 @@ geo_json_e2906185e755d8175f6a38024d486657_add({
 
 geo_json_e2906185e755d8175f6a38024d486657.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2932<br>311 Complaints 237<br>df_air_quality_2: 4<brBenches: 1<br>Gardens: 0<br>Trees: 906<br>Greenstreets: 5<br>mean_mcg_m3: 5.85<br>Chill Score: 9.2<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2932<br>311 Complaints: 237<br>df_air_quality_2: 4<brBenches: 1<br>Gardens: 0<br>Trees: 906<br>Greenstreets: 5<br>mean_mcg_m3: 5.85<br>Chill Score: 9.2<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -107244,7 +107244,7 @@ geo_json_73f38aecef48979ace4d2b4cc7a01504_add({
 
 geo_json_73f38aecef48979ace4d2b4cc7a01504.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2933<br>311 Complaints 118<br>Benches: 1<br>Gardens: 0<br>Trees: 363<br>Greenstreets: 0<br>Chill Score: 2.46<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2933<br>311 Complaints: 118<br>Benches: 1<br>Gardens: 0<br>Trees: 363<br>Greenstreets: 0<br>Chill Score: 2.46<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -107335,7 +107335,7 @@ geo_json_528d9929781843ad5dc522c5e0af9961_add({
 
 geo_json_528d9929781843ad5dc522c5e0af9961.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2934<br>311 Complaints 61<br>Benches: 0<br>Gardens: 0<br>Trees: 205<br>Greenstreets: 3<br>Chill Score: 2.94<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2934<br>311 Complaints: 61<br>Benches: 0<br>Gardens: 0<br>Trees: 205<br>Greenstreets: 3<br>Chill Score: 2.94<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -107426,7 +107426,7 @@ geo_json_721d6926d2192bf5f9c2986f8dde6ba8_add({
 
 geo_json_721d6926d2192bf5f9c2986f8dde6ba8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2935<br>311 Complaints 90<br>Benches: 4<br>Gardens: 0<br>Trees: 174<br>Greenstreets: 11<br>Chill Score: 6.38<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2935<br>311 Complaints: 90<br>Benches: 4<br>Gardens: 0<br>Trees: 174<br>Greenstreets: 11<br>Chill Score: 6.38<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -107516,7 +107516,7 @@ geo_json_d03ef1ae413c2873f2953056ef652566_add({
 
 geo_json_d03ef1ae413c2873f2953056ef652566.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2938<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2938<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -107607,7 +107607,7 @@ geo_json_ec62059983105b11ca11311082208a56_add({
 
 geo_json_ec62059983105b11ca11311082208a56.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2939<br>311 Complaints 108<br>Benches: 0<br>Gardens: 0<br>Trees: 338<br>Greenstreets: 0<br>Chill Score: 2.3<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2939<br>311 Complaints: 108<br>Benches: 0<br>Gardens: 0<br>Trees: 338<br>Greenstreets: 0<br>Chill Score: 2.3<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -107698,7 +107698,7 @@ geo_json_ec016253c2108fbaff9e4a2080869923_add({
 
 geo_json_ec016253c2108fbaff9e4a2080869923.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2982<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 4<br>Greenstreets: 0<br>Chill Score: 0.04<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2982<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 4<br>Greenstreets: 0<br>Chill Score: 0.04<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -107789,7 +107789,7 @@ geo_json_527cc28cf39db0d91f3a875bd7b2b9a9_add({
 
 geo_json_527cc28cf39db0d91f3a875bd7b2b9a9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2983<br>311 Complaints 972<br>Benches: 5<br>Gardens: 0<br>Trees: 563<br>Greenstreets: 6<br>Chill Score: -1.04<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2983<br>311 Complaints: 972<br>Benches: 5<br>Gardens: 0<br>Trees: 563<br>Greenstreets: 6<br>Chill Score: -1.04<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -107880,7 +107880,7 @@ geo_json_d525deb7cd39ff37c7a3c14868c919fb_add({
 
 geo_json_d525deb7cd39ff37c7a3c14868c919fb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2984<br>311 Complaints 631<br>Benches: 4<br>Gardens: 0<br>Trees: 572<br>Greenstreets: 5<br>Chill Score: 1.9499999999999993<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2984<br>311 Complaints: 631<br>Benches: 4<br>Gardens: 0<br>Trees: 572<br>Greenstreets: 5<br>Chill Score: 1.9499999999999993<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -107971,7 +107971,7 @@ geo_json_aa4467900cabef40fa03a34db2d179d9_add({
 
 geo_json_aa4467900cabef40fa03a34db2d179d9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2985<br>311 Complaints 217<br>Benches: 1<br>Gardens: 0<br>Trees: 322<br>Greenstreets: 2<br>Chill Score: 2.06<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2985<br>311 Complaints: 217<br>Benches: 1<br>Gardens: 0<br>Trees: 322<br>Greenstreets: 2<br>Chill Score: 2.06<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -108062,7 +108062,7 @@ geo_json_f17e57520c5cae279a52c8ad54606f39_add({
 
 geo_json_f17e57520c5cae279a52c8ad54606f39.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2986<br>311 Complaints 873<br>Benches: 8<br>Gardens: 2<br>Trees: 1030<br>Greenstreets: 1<br>Chill Score: 3.1500000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2986<br>311 Complaints: 873<br>Benches: 8<br>Gardens: 2<br>Trees: 1030<br>Greenstreets: 1<br>Chill Score: 3.1500000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -108153,7 +108153,7 @@ geo_json_279674adf256def89d61676ee2f52268_add({
 
 geo_json_279674adf256def89d61676ee2f52268.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2987<br>311 Complaints 418<br>Benches: 15<br>Gardens: 1<br>Trees: 726<br>Greenstreets: 3<br>Chill Score: 5.23<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2987<br>311 Complaints: 418<br>Benches: 15<br>Gardens: 1<br>Trees: 726<br>Greenstreets: 3<br>Chill Score: 5.23<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -108244,7 +108244,7 @@ geo_json_4cb38a2b821d17ea12446bc549467e7a_add({
 
 geo_json_4cb38a2b821d17ea12446bc549467e7a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2988<br>311 Complaints 36<br>Benches: 0<br>Gardens: 0<br>Trees: 241<br>Greenstreets: 0<br>Chill Score: 2.0500000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2988<br>311 Complaints: 36<br>Benches: 0<br>Gardens: 0<br>Trees: 241<br>Greenstreets: 0<br>Chill Score: 2.0500000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -108335,7 +108335,7 @@ geo_json_417ed9b69d234e6386553ceab5489211_add({
 
 geo_json_417ed9b69d234e6386553ceab5489211.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2989<br>311 Complaints 50<br>Benches: 0<br>Gardens: 0<br>Trees: 185<br>Greenstreets: 0<br>Chill Score: 1.35<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2989<br>311 Complaints: 50<br>Benches: 0<br>Gardens: 0<br>Trees: 185<br>Greenstreets: 0<br>Chill Score: 1.35<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -108426,7 +108426,7 @@ geo_json_1606eea5439f576e9bc1ecce840c88ea_add({
 
 geo_json_1606eea5439f576e9bc1ecce840c88ea.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2990<br>311 Complaints 272<br>Benches: 4<br>Gardens: 0<br>Trees: 658<br>Greenstreets: 0<br>Chill Score: 3.9<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2990<br>311 Complaints: 272<br>Benches: 4<br>Gardens: 0<br>Trees: 658<br>Greenstreets: 0<br>Chill Score: 3.9<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -108517,7 +108517,7 @@ geo_json_f593580572f8d39d58622f58453c3a4a_add({
 
 geo_json_f593580572f8d39d58622f58453c3a4a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2991<br>311 Complaints 194<br>Benches: 1<br>Gardens: 0<br>Trees: 763<br>Greenstreets: 7<br>Chill Score: 9.2<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2991<br>311 Complaints: 194<br>Benches: 1<br>Gardens: 0<br>Trees: 763<br>Greenstreets: 7<br>Chill Score: 9.2<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -108608,7 +108608,7 @@ geo_json_caed2e3dcc450c066550249f839dc1cd_add({
 
 geo_json_caed2e3dcc450c066550249f839dc1cd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2992<br>311 Complaints 242<br>Benches: 3<br>Gardens: 0<br>Trees: 820<br>Greenstreets: 0<br>Chill Score: 5.809999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2992<br>311 Complaints: 242<br>Benches: 3<br>Gardens: 0<br>Trees: 820<br>Greenstreets: 0<br>Chill Score: 5.809999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -108699,7 +108699,7 @@ geo_json_a6e960377264db9d75e6d306699098fb_add({
 
 geo_json_a6e960377264db9d75e6d306699098fb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2993<br>311 Complaints 139<br>Benches: 0<br>Gardens: 0<br>Trees: 965<br>Greenstreets: 1<br>Chill Score: 8.76<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2993<br>311 Complaints: 139<br>Benches: 0<br>Gardens: 0<br>Trees: 965<br>Greenstreets: 1<br>Chill Score: 8.76<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -108790,7 +108790,7 @@ geo_json_3e3ea6d7bbcbabaaed7da8e58951d9cc_add({
 
 geo_json_3e3ea6d7bbcbabaaed7da8e58951d9cc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2994<br>311 Complaints 24<br>Benches: 0<br>Gardens: 0<br>Trees: 281<br>Greenstreets: 0<br>Chill Score: 2.5700000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2994<br>311 Complaints: 24<br>Benches: 0<br>Gardens: 0<br>Trees: 281<br>Greenstreets: 0<br>Chill Score: 2.5700000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -108881,7 +108881,7 @@ geo_json_dcf634d41ae3969c8eb785e2fc6ee9dc_add({
 
 geo_json_dcf634d41ae3969c8eb785e2fc6ee9dc.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2995<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 11<br>Greenstreets: 2<br>Chill Score: 1.1<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2995<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 11<br>Greenstreets: 2<br>Chill Score: 1.1<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -108971,7 +108971,7 @@ geo_json_96c394078c5dc4e37577585575993bcb_add({
 
 geo_json_96c394078c5dc4e37577585575993bcb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2997<br>311 Complaints 5<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.05<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2997<br>311 Complaints: 5<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.05<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -109062,7 +109062,7 @@ geo_json_f0088c93905ca5decf930fff1cb38ce4_add({
 
 geo_json_f0088c93905ca5decf930fff1cb38ce4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 2998<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 24<br>Greenstreets: 0<br>Chill Score: 0.22999999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 2998<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 24<br>Greenstreets: 0<br>Chill Score: 0.22999999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -109153,7 +109153,7 @@ geo_json_e634ca29681e05c00ca705f8cc80294d_add({
 
 geo_json_e634ca29681e05c00ca705f8cc80294d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3042<br>311 Complaints 123<br>Benches: 4<br>Gardens: 1<br>Trees: 184<br>Greenstreets: 0<br>Chill Score: 1.1500000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3042<br>311 Complaints: 123<br>Benches: 4<br>Gardens: 1<br>Trees: 184<br>Greenstreets: 0<br>Chill Score: 1.1500000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -109244,7 +109244,7 @@ geo_json_74b678e9b6cf12bbade0056652ca9f81_add({
 
 geo_json_74b678e9b6cf12bbade0056652ca9f81.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3043<br>311 Complaints 627<br>Benches: 7<br>Gardens: 0<br>Trees: 693<br>Greenstreets: 1<br>Chill Score: 1.2299999999999995<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3043<br>311 Complaints: 627<br>Benches: 7<br>Gardens: 0<br>Trees: 693<br>Greenstreets: 1<br>Chill Score: 1.2299999999999995<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -109335,7 +109335,7 @@ geo_json_d750c7dc4946fd39f7cc6915e3361b4a_add({
 
 geo_json_d750c7dc4946fd39f7cc6915e3361b4a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3044<br>311 Complaints 82<br>Benches: 0<br>Gardens: 0<br>Trees: 237<br>Greenstreets: 4<br>Chill Score: 3.55<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3044<br>311 Complaints: 82<br>Benches: 0<br>Gardens: 0<br>Trees: 237<br>Greenstreets: 4<br>Chill Score: 3.55<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -109426,7 +109426,7 @@ geo_json_aa22c2f028a1081eec79ac71e1ae405b_add({
 
 geo_json_aa22c2f028a1081eec79ac71e1ae405b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3045<br>311 Complaints 405<br>Benches: 3<br>Gardens: 0<br>Trees: 766<br>Greenstreets: 2<br>Chill Score: 4.640000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3045<br>311 Complaints: 405<br>Benches: 3<br>Gardens: 0<br>Trees: 766<br>Greenstreets: 2<br>Chill Score: 4.640000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -109517,7 +109517,7 @@ geo_json_33d940d6e5f47b9ab60dbde3ead30f37_add({
 
 geo_json_33d940d6e5f47b9ab60dbde3ead30f37.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3046<br>311 Complaints 609<br>Benches: 1<br>Gardens: 0<br>Trees: 772<br>Greenstreets: 9<br>Chill Score: 6.14<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3046<br>311 Complaints: 609<br>Benches: 1<br>Gardens: 0<br>Trees: 772<br>Greenstreets: 9<br>Chill Score: 6.14<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -109608,7 +109608,7 @@ geo_json_e6eb1438b7df412ec1bdcff19f82a12a_add({
 
 geo_json_e6eb1438b7df412ec1bdcff19f82a12a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3047<br>311 Complaints 321<br>Benches: 3<br>Gardens: 1<br>Trees: 720<br>Greenstreets: 5<br>Chill Score: 7.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3047<br>311 Complaints: 321<br>Benches: 3<br>Gardens: 1<br>Trees: 720<br>Greenstreets: 5<br>Chill Score: 7.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -109699,7 +109699,7 @@ geo_json_09a2aa6b79ae029358798a78bbc96ec2_add({
 
 geo_json_09a2aa6b79ae029358798a78bbc96ec2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3048<br>311 Complaints 95<br>Benches: 3<br>Gardens: 0<br>Trees: 242<br>Greenstreets: 0<br>Chill Score: 1.5<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3048<br>311 Complaints: 95<br>Benches: 3<br>Gardens: 0<br>Trees: 242<br>Greenstreets: 0<br>Chill Score: 1.5<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -109790,7 +109790,7 @@ geo_json_8fe994b46ce788e18b6e33b5500f91dd_add({
 
 geo_json_8fe994b46ce788e18b6e33b5500f91dd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3049<br>311 Complaints 521<br>Benches: 1<br>Gardens: 0<br>Trees: 756<br>Greenstreets: 3<br>Chill Score: 3.8600000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3049<br>311 Complaints: 521<br>Benches: 1<br>Gardens: 0<br>Trees: 756<br>Greenstreets: 3<br>Chill Score: 3.8600000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -109881,7 +109881,7 @@ geo_json_298f33fed172052cc07c785d38e9c7f9_add({
 
 geo_json_298f33fed172052cc07c785d38e9c7f9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3050<br>311 Complaints 240<br>Benches: 0<br>Gardens: 0<br>Trees: 674<br>Greenstreets: 3<br>Chill Score: 5.84<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3050<br>311 Complaints: 240<br>Benches: 0<br>Gardens: 0<br>Trees: 674<br>Greenstreets: 3<br>Chill Score: 5.84<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -109972,7 +109972,7 @@ geo_json_6c6ec9fdb899935effcb61824affe157_add({
 
 geo_json_6c6ec9fdb899935effcb61824affe157.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3051<br>311 Complaints 270<br>Benches: 1<br>Gardens: 0<br>Trees: 666<br>Greenstreets: 12<br>Chill Score: 9.969999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3051<br>311 Complaints: 270<br>Benches: 1<br>Gardens: 0<br>Trees: 666<br>Greenstreets: 12<br>Chill Score: 9.969999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -110063,7 +110063,7 @@ geo_json_9e0bc39eaed939930381c0701ce7589d_add({
 
 geo_json_9e0bc39eaed939930381c0701ce7589d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3052<br>311 Complaints 171<br>Benches: 0<br>Gardens: 0<br>Trees: 577<br>Greenstreets: 4<br>Chill Score: 6.0600000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3052<br>311 Complaints: 171<br>Benches: 0<br>Gardens: 0<br>Trees: 577<br>Greenstreets: 4<br>Chill Score: 6.0600000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -110154,7 +110154,7 @@ geo_json_4512a1add965e3d1f8dbc082796c9714_add({
 
 geo_json_4512a1add965e3d1f8dbc082796c9714.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3053<br>311 Complaints 57<br>Benches: 2<br>Gardens: 0<br>Trees: 312<br>Greenstreets: 4<br>Chill Score: 4.57<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3053<br>311 Complaints: 57<br>Benches: 2<br>Gardens: 0<br>Trees: 312<br>Greenstreets: 4<br>Chill Score: 4.57<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -110245,7 +110245,7 @@ geo_json_e82d70a74df22fbe742cd659e29ef8e5_add({
 
 geo_json_e82d70a74df22fbe742cd659e29ef8e5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3054<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3054<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -110336,7 +110336,7 @@ geo_json_4ba5c27288fc7b6f10b5d5e1ceba4057_add({
 
 geo_json_4ba5c27288fc7b6f10b5d5e1ceba4057.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3055<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 1<br>Chill Score: 0.49<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3055<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 1<br>Chill Score: 0.49<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -110427,7 +110427,7 @@ geo_json_5f3d8569ee1d455d65cfde55becdcaf9_add({
 
 geo_json_5f3d8569ee1d455d65cfde55becdcaf9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3056<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 5<br>Chill Score: 2.5<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3056<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 5<br>Chill Score: 2.5<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -110518,7 +110518,7 @@ geo_json_408488b5d0e08d801d1398f400cb76bf_add({
 
 geo_json_408488b5d0e08d801d1398f400cb76bf.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3102<br>311 Complaints 105<br>Benches: 0<br>Gardens: 0<br>Trees: 98<br>Greenstreets: 3<br>Chill Score: 1.43<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3102<br>311 Complaints: 105<br>Benches: 0<br>Gardens: 0<br>Trees: 98<br>Greenstreets: 3<br>Chill Score: 1.43<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -110609,7 +110609,7 @@ geo_json_522a98c749eb1cba8ea3bc5459e0f5bd_add({
 
 geo_json_522a98c749eb1cba8ea3bc5459e0f5bd.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3103<br>311 Complaints 237<br>Benches: 3<br>Gardens: 0<br>Trees: 385<br>Greenstreets: 1<br>Chill Score: 2.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3103<br>311 Complaints: 237<br>Benches: 3<br>Gardens: 0<br>Trees: 385<br>Greenstreets: 1<br>Chill Score: 2.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -110700,7 +110700,7 @@ geo_json_9c0be19f437001735ea3c879c7758e58_add({
 
 geo_json_9c0be19f437001735ea3c879c7758e58.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3104<br>311 Complaints 300<br>Benches: 4<br>Gardens: 1<br>Trees: 684<br>Greenstreets: 6<br>Chill Score: 7.38<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3104<br>311 Complaints: 300<br>Benches: 4<br>Gardens: 1<br>Trees: 684<br>Greenstreets: 6<br>Chill Score: 7.38<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -110791,7 +110791,7 @@ geo_json_7875ee55871152e9afcd56a26de4d82a_add({
 
 geo_json_7875ee55871152e9afcd56a26de4d82a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3105<br>311 Complaints 51<br>Benches: 0<br>Gardens: 0<br>Trees: 245<br>Greenstreets: 0<br>Chill Score: 1.9400000000000002<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3105<br>311 Complaints: 51<br>Benches: 0<br>Gardens: 0<br>Trees: 245<br>Greenstreets: 0<br>Chill Score: 1.9400000000000002<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -110882,7 +110882,7 @@ geo_json_8adcc900458bc572e035f3621fed3d05_add({
 
 geo_json_8adcc900458bc572e035f3621fed3d05.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3106<br>311 Complaints 398<br>Benches: 6<br>Gardens: 1<br>Trees: 900<br>Greenstreets: 9<br>Chill Score: 10.08<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3106<br>311 Complaints: 398<br>Benches: 6<br>Gardens: 1<br>Trees: 900<br>Greenstreets: 9<br>Chill Score: 10.08<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -110973,7 +110973,7 @@ geo_json_bc0612bf0f4b943c2ad073e5372774fa_add({
 
 geo_json_bc0612bf0f4b943c2ad073e5372774fa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3107<br>311 Complaints 526<br>Benches: 8<br>Gardens: 0<br>Trees: 576<br>Greenstreets: 2<br>Chill Score: 1.58<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3107<br>311 Complaints: 526<br>Benches: 8<br>Gardens: 0<br>Trees: 576<br>Greenstreets: 2<br>Chill Score: 1.58<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -111064,7 +111064,7 @@ geo_json_fe6438388c5deb5166c7ec7a54f267a3_add({
 
 geo_json_fe6438388c5deb5166c7ec7a54f267a3.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3108<br>311 Complaints 215<br>Benches: 1<br>Gardens: 1<br>Trees: 520<br>Greenstreets: 3<br>Chill Score: 5.0600000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3108<br>311 Complaints: 215<br>Benches: 1<br>Gardens: 1<br>Trees: 520<br>Greenstreets: 3<br>Chill Score: 5.0600000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -111155,7 +111155,7 @@ geo_json_16b4a81de752ac67b0c3a9770e0baf06_add({
 
 geo_json_16b4a81de752ac67b0c3a9770e0baf06.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3109<br>311 Complaints 179<br>Benches: 1<br>Gardens: 0<br>Trees: 761<br>Greenstreets: 2<br>Chill Score: 6.83<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3109<br>311 Complaints: 179<br>Benches: 1<br>Gardens: 0<br>Trees: 761<br>Greenstreets: 2<br>Chill Score: 6.83<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -111246,7 +111246,7 @@ geo_json_87b7fe2d157229c56545181b4e966cf7_add({
 
 geo_json_87b7fe2d157229c56545181b4e966cf7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3110<br>311 Complaints 249<br>Benches: 1<br>Gardens: 0<br>Trees: 532<br>Greenstreets: 0<br>Chill Score: 2.84<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3110<br>311 Complaints: 249<br>Benches: 1<br>Gardens: 0<br>Trees: 532<br>Greenstreets: 0<br>Chill Score: 2.84<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -111337,7 +111337,7 @@ geo_json_41b3e5721febb09777991cda05b94cce_add({
 
 geo_json_41b3e5721febb09777991cda05b94cce.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3111<br>311 Complaints 94<br>Benches: 2<br>Gardens: 0<br>Trees: 516<br>Greenstreets: 4<br>Chill Score: 6.24<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3111<br>311 Complaints: 94<br>Benches: 2<br>Gardens: 0<br>Trees: 516<br>Greenstreets: 4<br>Chill Score: 6.24<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -111428,7 +111428,7 @@ geo_json_3e69006162e73f388e5ed6e501345fbb_add({
 
 geo_json_3e69006162e73f388e5ed6e501345fbb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3112<br>311 Complaints 50<br>Benches: 1<br>Gardens: 0<br>Trees: 484<br>Greenstreets: 17<br>Chill Score: 12.85<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3112<br>311 Complaints: 50<br>Benches: 1<br>Gardens: 0<br>Trees: 484<br>Greenstreets: 17<br>Chill Score: 12.85<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -111519,7 +111519,7 @@ geo_json_cb6ae85c40032cb8aed569a6d207bfc2_add({
 
 geo_json_cb6ae85c40032cb8aed569a6d207bfc2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3161<br>311 Complaints 53<br>Benches: 0<br>Gardens: 1<br>Trees: 132<br>Greenstreets: 1<br>Chill Score: 1.79<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3161<br>311 Complaints: 53<br>Benches: 0<br>Gardens: 1<br>Trees: 132<br>Greenstreets: 1<br>Chill Score: 1.79<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -111610,7 +111610,7 @@ geo_json_e635a4ccb73cac9ec3f3750c6cca2e10_add({
 
 geo_json_e635a4ccb73cac9ec3f3750c6cca2e10.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3162<br>311 Complaints 235<br>Benches: 9<br>Gardens: 0<br>Trees: 783<br>Greenstreets: 7<br>Chill Score: 9.07<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3162<br>311 Complaints: 235<br>Benches: 9<br>Gardens: 0<br>Trees: 783<br>Greenstreets: 7<br>Chill Score: 9.07<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -111701,7 +111701,7 @@ geo_json_4624c4b7261438d47096537f60582039_add({
 
 geo_json_4624c4b7261438d47096537f60582039.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3163<br>311 Complaints 260<br>Benches: 5<br>Gardens: 0<br>Trees: 901<br>Greenstreets: 7<br>Chill Score: 9.959999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3163<br>311 Complaints: 260<br>Benches: 5<br>Gardens: 0<br>Trees: 901<br>Greenstreets: 7<br>Chill Score: 9.959999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -111792,7 +111792,7 @@ geo_json_791d7f77f49a4a2f050777c4f922645e_add({
 
 geo_json_791d7f77f49a4a2f050777c4f922645e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3164<br>311 Complaints 149<br>Benches: 2<br>Gardens: 0<br>Trees: 598<br>Greenstreets: 6<br>Chill Score: 7.510000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3164<br>311 Complaints: 149<br>Benches: 2<br>Gardens: 0<br>Trees: 598<br>Greenstreets: 6<br>Chill Score: 7.510000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -111883,7 +111883,7 @@ geo_json_0dfc9d1c3bc6f981f60978f0f794e867_add({
 
 geo_json_0dfc9d1c3bc6f981f60978f0f794e867.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3165<br>311 Complaints 314<br>Benches: 6<br>Gardens: 0<br>Trees: 475<br>Greenstreets: 7<br>Chill Score: 5.17<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3165<br>311 Complaints: 314<br>Benches: 6<br>Gardens: 0<br>Trees: 475<br>Greenstreets: 7<br>Chill Score: 5.17<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -111974,7 +111974,7 @@ geo_json_6285d97c01c25852f407bda2cb1d1108_add({
 
 geo_json_6285d97c01c25852f407bda2cb1d1108.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3166<br>311 Complaints 353<br>Benches: 0<br>Gardens: 0<br>Trees: 223<br>Greenstreets: 0<br>Chill Score: -1.3000000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3166<br>311 Complaints: 353<br>Benches: 0<br>Gardens: 0<br>Trees: 223<br>Greenstreets: 0<br>Chill Score: -1.3000000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -112065,7 +112065,7 @@ geo_json_babd240bb70eceeb967b94f05506e7f6_add({
 
 geo_json_babd240bb70eceeb967b94f05506e7f6.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3167<br>311 Complaints 212<br>Benches: 0<br>Gardens: 0<br>Trees: 412<br>Greenstreets: 2<br>Chill Score: 3.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3167<br>311 Complaints: 212<br>Benches: 0<br>Gardens: 0<br>Trees: 412<br>Greenstreets: 2<br>Chill Score: 3.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -112156,7 +112156,7 @@ geo_json_7aba225d3ef586fd9b8e751b6cde4c58_add({
 
 geo_json_7aba225d3ef586fd9b8e751b6cde4c58.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3168<br>311 Complaints 201<br>df_air_quality_2: 4<brBenches: 0<br>Gardens: 0<br>Trees: 599<br>Greenstreets: 0<br>mean_mcg_m3: 5.9<br>Chill Score: 3.98<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3168<br>311 Complaints: 201<br>df_air_quality_2: 4<brBenches: 0<br>Gardens: 0<br>Trees: 599<br>Greenstreets: 0<br>mean_mcg_m3: 5.9<br>Chill Score: 3.98<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -112247,7 +112247,7 @@ geo_json_2840f946dd9db57a039482d81ea5e9c9_add({
 
 geo_json_2840f946dd9db57a039482d81ea5e9c9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3169<br>311 Complaints 163<br>Benches: 1<br>Gardens: 1<br>Trees: 615<br>Greenstreets: 4<br>Chill Score: 7.03<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3169<br>311 Complaints: 163<br>Benches: 1<br>Gardens: 1<br>Trees: 615<br>Greenstreets: 4<br>Chill Score: 7.03<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -112338,7 +112338,7 @@ geo_json_5e543ba4899b94e895a115bb5be43a7c_add({
 
 geo_json_5e543ba4899b94e895a115bb5be43a7c.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3170<br>311 Complaints 144<br>Benches: 1<br>Gardens: 0<br>Trees: 458<br>Greenstreets: 2<br>Chill Score: 4.15<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3170<br>311 Complaints: 144<br>Benches: 1<br>Gardens: 0<br>Trees: 458<br>Greenstreets: 2<br>Chill Score: 4.15<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -112429,7 +112429,7 @@ geo_json_82d08932dcbdb560561c763725ebd373_add({
 
 geo_json_82d08932dcbdb560561c763725ebd373.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3171<br>311 Complaints 127<br>Benches: 1<br>Gardens: 1<br>Trees: 216<br>Greenstreets: 7<br>Chill Score: 4.9<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3171<br>311 Complaints: 127<br>Benches: 1<br>Gardens: 1<br>Trees: 216<br>Greenstreets: 7<br>Chill Score: 4.9<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -112519,7 +112519,7 @@ geo_json_7d4a91d61d6f02e9e10fe2674cc135d5_add({
 
 geo_json_7d4a91d61d6f02e9e10fe2674cc135d5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3172<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3172<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -112610,7 +112610,7 @@ geo_json_2bbdb6f05079f4f3d5cfc883ec51a927_add({
 
 geo_json_2bbdb6f05079f4f3d5cfc883ec51a927.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3174<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 11<br>Greenstreets: 0<br>Chill Score: 0.11<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3174<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 11<br>Greenstreets: 0<br>Chill Score: 0.11<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -112701,7 +112701,7 @@ geo_json_00bc0606bcdbbcc7b1f6c9ebdf739830_add({
 
 geo_json_00bc0606bcdbbcc7b1f6c9ebdf739830.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3220<br>311 Complaints 6<br>Benches: 0<br>Gardens: 0<br>Trees: 7<br>Greenstreets: 0<br>Chill Score: 0.010000000000000009<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3220<br>311 Complaints: 6<br>Benches: 0<br>Gardens: 0<br>Trees: 7<br>Greenstreets: 0<br>Chill Score: 0.010000000000000009<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -112792,7 +112792,7 @@ geo_json_36c056a9ad49eb6e8831f1d35b479608_add({
 
 geo_json_36c056a9ad49eb6e8831f1d35b479608.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3221<br>311 Complaints 132<br>Benches: 0<br>Gardens: 0<br>Trees: 354<br>Greenstreets: 2<br>Chill Score: 3.2199999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3221<br>311 Complaints: 132<br>Benches: 0<br>Gardens: 0<br>Trees: 354<br>Greenstreets: 2<br>Chill Score: 3.2199999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -112883,7 +112883,7 @@ geo_json_528f8598b9ed356ff7d95a6ef7e37566_add({
 
 geo_json_528f8598b9ed356ff7d95a6ef7e37566.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3222<br>311 Complaints 85<br>Benches: 0<br>Gardens: 0<br>Trees: 252<br>Greenstreets: 8<br>Chill Score: 5.67<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3222<br>311 Complaints: 85<br>Benches: 0<br>Gardens: 0<br>Trees: 252<br>Greenstreets: 8<br>Chill Score: 5.67<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -112974,7 +112974,7 @@ geo_json_96d3d5b851625b3b541a905656f02af1_add({
 
 geo_json_96d3d5b851625b3b541a905656f02af1.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3223<br>311 Complaints 20<br>Benches: 0<br>Gardens: 0<br>Trees: 20<br>Greenstreets: 0<br>Chill Score: 0.0<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3223<br>311 Complaints: 20<br>Benches: 0<br>Gardens: 0<br>Trees: 20<br>Greenstreets: 0<br>Chill Score: 0.0<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -113065,7 +113065,7 @@ geo_json_f2f68d5a61bcea4eeaaa3fbeb598c66e_add({
 
 geo_json_f2f68d5a61bcea4eeaaa3fbeb598c66e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3224<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 35<br>Greenstreets: 0<br>Chill Score: 0.35000000000000003<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3224<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 35<br>Greenstreets: 0<br>Chill Score: 0.35000000000000003<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -113156,7 +113156,7 @@ geo_json_718fede7297415187ee5d8329a360505_add({
 
 geo_json_718fede7297415187ee5d8329a360505.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3225<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 5<br>Greenstreets: 3<br>Chill Score: 1.52<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3225<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 5<br>Greenstreets: 3<br>Chill Score: 1.52<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -113247,7 +113247,7 @@ geo_json_05bd97f46f62fddce7c86b7df19862d5_add({
 
 geo_json_05bd97f46f62fddce7c86b7df19862d5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3226<br>311 Complaints 218<br>Benches: 1<br>Gardens: 0<br>Trees: 394<br>Greenstreets: 1<br>Chill Score: 2.2699999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3226<br>311 Complaints: 218<br>Benches: 1<br>Gardens: 0<br>Trees: 394<br>Greenstreets: 1<br>Chill Score: 2.2699999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -113338,7 +113338,7 @@ geo_json_06a3796b35a5a35a82452f4c84b3cbb7_add({
 
 geo_json_06a3796b35a5a35a82452f4c84b3cbb7.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3227<br>311 Complaints 278<br>Benches: 1<br>Gardens: 0<br>Trees: 668<br>Greenstreets: 2<br>Chill Score: 4.909999999999999<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3227<br>311 Complaints: 278<br>Benches: 1<br>Gardens: 0<br>Trees: 668<br>Greenstreets: 2<br>Chill Score: 4.909999999999999<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -113429,7 +113429,7 @@ geo_json_46436545455ccff4a9c8fa3011a585d9_add({
 
 geo_json_46436545455ccff4a9c8fa3011a585d9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3228<br>311 Complaints 267<br>Benches: 1<br>Gardens: 0<br>Trees: 693<br>Greenstreets: 1<br>Chill Score: 4.77<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3228<br>311 Complaints: 267<br>Benches: 1<br>Gardens: 0<br>Trees: 693<br>Greenstreets: 1<br>Chill Score: 4.77<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -113520,7 +113520,7 @@ geo_json_ed4c8e08232c86488dc02d54b93fad2b_add({
 
 geo_json_ed4c8e08232c86488dc02d54b93fad2b.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3229<br>311 Complaints 144<br>Benches: 1<br>Gardens: 0<br>Trees: 486<br>Greenstreets: 1<br>Chill Score: 3.9300000000000006<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3229<br>311 Complaints: 144<br>Benches: 1<br>Gardens: 0<br>Trees: 486<br>Greenstreets: 1<br>Chill Score: 3.9300000000000006<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -113611,7 +113611,7 @@ geo_json_32759eea04464687404d1f0be4f4a649_add({
 
 geo_json_32759eea04464687404d1f0be4f4a649.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3230<br>311 Complaints 46<br>Benches: 0<br>Gardens: 0<br>Trees: 40<br>Greenstreets: 1<br>Chill Score: 0.44<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3230<br>311 Complaints: 46<br>Benches: 0<br>Gardens: 0<br>Trees: 40<br>Greenstreets: 1<br>Chill Score: 0.44<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -113702,7 +113702,7 @@ geo_json_a39c14766380f7b5e2d37d6bab202dc2_add({
 
 geo_json_a39c14766380f7b5e2d37d6bab202dc2.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3231<br>311 Complaints 29<br>Benches: 0<br>Gardens: 0<br>Trees: 145<br>Greenstreets: 0<br>Chill Score: 1.16<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3231<br>311 Complaints: 29<br>Benches: 0<br>Gardens: 0<br>Trees: 145<br>Greenstreets: 0<br>Chill Score: 1.16<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -113792,7 +113792,7 @@ geo_json_1b97cabffdbb6fc0d420714050802aa9_add({
 
 geo_json_1b97cabffdbb6fc0d420714050802aa9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3232<br>311 Complaints 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3232<br>311 Complaints: 1<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.01<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -113883,7 +113883,7 @@ geo_json_f2cc875598947208fe1175aa93b0478d_add({
 
 geo_json_f2cc875598947208fe1175aa93b0478d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3280<br>311 Complaints 34<br>Benches: 0<br>Gardens: 0<br>Trees: 48<br>Greenstreets: 0<br>Chill Score: 0.13999999999999996<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3280<br>311 Complaints: 34<br>Benches: 0<br>Gardens: 0<br>Trees: 48<br>Greenstreets: 0<br>Chill Score: 0.13999999999999996<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -113974,7 +113974,7 @@ geo_json_d508060f95bd157e1d3e833cb706d410_add({
 
 geo_json_d508060f95bd157e1d3e833cb706d410.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3281<br>311 Complaints 40<br>Benches: 0<br>Gardens: 0<br>Trees: 263<br>Greenstreets: 5<br>Chill Score: 4.73<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3281<br>311 Complaints: 40<br>Benches: 0<br>Gardens: 0<br>Trees: 263<br>Greenstreets: 5<br>Chill Score: 4.73<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -114065,7 +114065,7 @@ geo_json_91f310ba778767a97b5ea60411421716_add({
 
 geo_json_91f310ba778767a97b5ea60411421716.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3282<br>311 Complaints 18<br>Benches: 4<br>Gardens: 0<br>Trees: 44<br>Greenstreets: 0<br>Chill Score: 0.30000000000000004<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3282<br>311 Complaints: 18<br>Benches: 4<br>Gardens: 0<br>Trees: 44<br>Greenstreets: 0<br>Chill Score: 0.30000000000000004<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -114155,7 +114155,7 @@ geo_json_e9ede09592dc7c9a4ee09c3b2e9c8ad0_add({
 
 geo_json_e9ede09592dc7c9a4ee09c3b2e9c8ad0.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3283<br>311 Complaints 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.02<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3283<br>311 Complaints: 2<br>Benches: 0<br>Gardens: 0<br>Trees: 0<br>Greenstreets: 0<br>Chill Score: -0.02<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -114246,7 +114246,7 @@ geo_json_1150ace713cc7eb08abc06a20575c61d_add({
 
 geo_json_1150ace713cc7eb08abc06a20575c61d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3284<br>311 Complaints 81<br>Benches: 0<br>Gardens: 0<br>Trees: 496<br>Greenstreets: 2<br>Chill Score: 5.15<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3284<br>311 Complaints: 81<br>Benches: 0<br>Gardens: 0<br>Trees: 496<br>Greenstreets: 2<br>Chill Score: 5.15<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -114337,7 +114337,7 @@ geo_json_157b299f5a4dc152a5bccd005bd608aa_add({
 
 geo_json_157b299f5a4dc152a5bccd005bd608aa.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3285<br>311 Complaints 183<br>Benches: 0<br>Gardens: 0<br>Trees: 564<br>Greenstreets: 1<br>Chill Score: 4.31<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3285<br>311 Complaints: 183<br>Benches: 0<br>Gardens: 0<br>Trees: 564<br>Greenstreets: 1<br>Chill Score: 4.31<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -114428,7 +114428,7 @@ geo_json_daa3ef2ec41bff52800a0d77370eb6d9_add({
 
 geo_json_daa3ef2ec41bff52800a0d77370eb6d9.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3286<br>311 Complaints 297<br>Benches: 0<br>Gardens: 1<br>Trees: 619<br>Greenstreets: 0<br>Chill Score: 3.72<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3286<br>311 Complaints: 297<br>Benches: 0<br>Gardens: 1<br>Trees: 619<br>Greenstreets: 0<br>Chill Score: 3.72<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -114519,7 +114519,7 @@ geo_json_53186fa1c730e1a18ff71786e2be3f81_add({
 
 geo_json_53186fa1c730e1a18ff71786e2be3f81.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3287<br>311 Complaints 233<br>Benches: 0<br>Gardens: 0<br>Trees: 798<br>Greenstreets: 0<br>Chill Score: 5.65<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3287<br>311 Complaints: 233<br>Benches: 0<br>Gardens: 0<br>Trees: 798<br>Greenstreets: 0<br>Chill Score: 5.65<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -114610,7 +114610,7 @@ geo_json_c9e531c38d356666034e95a7b234ca3e_add({
 
 geo_json_c9e531c38d356666034e95a7b234ca3e.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3288<br>311 Complaints 9<br>Benches: 0<br>Gardens: 0<br>Trees: 52<br>Greenstreets: 0<br>Chill Score: 0.43000000000000005<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3288<br>311 Complaints: 9<br>Benches: 0<br>Gardens: 0<br>Trees: 52<br>Greenstreets: 0<br>Chill Score: 0.43000000000000005<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -114701,7 +114701,7 @@ geo_json_401998f5c4e16b99df08523b50e0dff5_add({
 
 geo_json_401998f5c4e16b99df08523b50e0dff5.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3339<br>311 Complaints 37<br>Benches: 0<br>Gardens: 0<br>Trees: 24<br>Greenstreets: 0<br>Chill Score: -0.13<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3339<br>311 Complaints: 37<br>Benches: 0<br>Gardens: 0<br>Trees: 24<br>Greenstreets: 0<br>Chill Score: -0.13<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -114792,7 +114792,7 @@ geo_json_d621a5bcbc4cf7ab1e5c5ea4e8895bf8_add({
 
 geo_json_d621a5bcbc4cf7ab1e5c5ea4e8895bf8.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3340<br>311 Complaints 148<br>Benches: 3<br>Gardens: 0<br>Trees: 690<br>Greenstreets: 0<br>Chill Score: 5.45<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3340<br>311 Complaints: 148<br>Benches: 3<br>Gardens: 0<br>Trees: 690<br>Greenstreets: 0<br>Chill Score: 5.45<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -114883,7 +114883,7 @@ geo_json_2716aea43f7f2f08c8604af9a204cc0d_add({
 
 geo_json_2716aea43f7f2f08c8604af9a204cc0d.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3341<br>311 Complaints 19<br>Benches: 0<br>Gardens: 0<br>Trees: 82<br>Greenstreets: 1<br>Chill Score: 1.1300000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3341<br>311 Complaints: 19<br>Benches: 0<br>Gardens: 0<br>Trees: 82<br>Greenstreets: 1<br>Chill Score: 1.1300000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -114974,7 +114974,7 @@ geo_json_f1c745dfdd3e79971f462f8ce3d034bb_add({
 
 geo_json_f1c745dfdd3e79971f462f8ce3d034bb.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3343<br>311 Complaints 0<br>Benches: 0<br>Gardens: 0<br>Trees: 14<br>Greenstreets: 0<br>Chill Score: 0.14<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3343<br>311 Complaints: 0<br>Benches: 0<br>Gardens: 0<br>Trees: 14<br>Greenstreets: 0<br>Chill Score: 0.14<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -115065,7 +115065,7 @@ geo_json_746cfd8721983aa7f4a01977c9557f49_add({
 
 geo_json_746cfd8721983aa7f4a01977c9557f49.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3344<br>311 Complaints 7<br>Benches: 0<br>Gardens: 0<br>Trees: 89<br>Greenstreets: 1<br>Chill Score: 1.32<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3344<br>311 Complaints: 7<br>Benches: 0<br>Gardens: 0<br>Trees: 89<br>Greenstreets: 1<br>Chill Score: 1.32<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -115156,7 +115156,7 @@ geo_json_a19b1f870f4215a663496a40df8bcf16_add({
 
 geo_json_a19b1f870f4215a663496a40df8bcf16.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3345<br>311 Complaints 160<br>Benches: 0<br>Gardens: 1<br>Trees: 223<br>Greenstreets: 1<br>Chill Score: 1.63<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3345<br>311 Complaints: 160<br>Benches: 0<br>Gardens: 1<br>Trees: 223<br>Greenstreets: 1<br>Chill Score: 1.63<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -115247,7 +115247,7 @@ geo_json_8841bc567863f4b4bcaaa814c8401707_add({
 
 geo_json_8841bc567863f4b4bcaaa814c8401707.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3346<br>311 Complaints 115<br>Benches: 0<br>Gardens: 0<br>Trees: 267<br>Greenstreets: 0<br>Chill Score: 1.5199999999999998<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3346<br>311 Complaints: 115<br>Benches: 0<br>Gardens: 0<br>Trees: 267<br>Greenstreets: 0<br>Chill Score: 1.5199999999999998<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -115338,7 +115338,7 @@ geo_json_3d13396f30ae376cfba3f0215b942aa4_add({
 
 geo_json_3d13396f30ae376cfba3f0215b942aa4.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3398<br>311 Complaints 3<br>Benches: 0<br>Gardens: 0<br>Trees: 7<br>Greenstreets: 0<br>Chill Score: 0.04000000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3398<br>311 Complaints: 3<br>Benches: 0<br>Gardens: 0<br>Trees: 7<br>Greenstreets: 0<br>Chill Score: 0.04000000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -115429,7 +115429,7 @@ geo_json_e1a452f70d55b54430788634f8d294db_add({
 
 geo_json_e1a452f70d55b54430788634f8d294db.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3399<br>311 Complaints 46<br>Benches: 0<br>Gardens: 0<br>Trees: 265<br>Greenstreets: 0<br>Chill Score: 2.19<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3399<br>311 Complaints: 46<br>Benches: 0<br>Gardens: 0<br>Trees: 265<br>Greenstreets: 0<br>Chill Score: 2.19<br></div>
                  </div>`,
   { sticky: true }
 );
@@ -115520,7 +115520,7 @@ geo_json_b18a0c277052c8280a801425db7fdc0a_add({
 
 geo_json_b18a0c277052c8280a801425db7fdc0a.bindTooltip(
   `<div>
-                     <div style="font-family: monospace;">Grid ID: 3400<br>311 Complaints 16<br>Benches: 0<br>Gardens: 0<br>Trees: 20<br>Greenstreets: 0<br>Chill Score: 0.04000000000000001<br></div>
+                     <div style="font-family: monospace;">Grid ID: 3400<br>311 Complaints: 16<br>Benches: 0<br>Gardens: 0<br>Trees: 20<br>Greenstreets: 0<br>Chill Score: 0.04000000000000001<br></div>
                  </div>`,
   { sticky: true }
 );
